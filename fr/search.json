@@ -1,0 +1,177 @@
+[
+  {
+    "objectID": "publications/build_failure_prediction_icse2024.html",
+    "href": "publications/build_failure_prediction_icse2024.html",
+    "title": "Prédiction des Échecs de Construction par Apprentissage Automatique",
+    "section": "",
+    "text": "Cet article présente une approche novatrice pour prédire les échecs de construction de logiciels en utilisant des techniques d’apprentissage automatique. Notre modèle peut identifier les échecs de construction potentiels avant qu’ils ne se produisent, permettant aux équipes de développement de prendre des mesures préventives."
+  },
+  {
+    "objectID": "publications/build_failure_prediction_icse2024.html#résumé",
+    "href": "publications/build_failure_prediction_icse2024.html#résumé",
+    "title": "Prédiction des Échecs de Construction par Apprentissage Automatique",
+    "section": "",
+    "text": "Cet article présente une approche novatrice pour prédire les échecs de construction de logiciels en utilisant des techniques d’apprentissage automatique. Notre modèle peut identifier les échecs de construction potentiels avant qu’ils ne se produisent, permettant aux équipes de développement de prendre des mesures préventives."
+  },
+  {
+    "objectID": "publications/build_failure_prediction_icse2024.html#contributions-principales",
+    "href": "publications/build_failure_prediction_icse2024.html#contributions-principales",
+    "title": "Prédiction des Échecs de Construction par Apprentissage Automatique",
+    "section": "Contributions Principales",
+    "text": "Contributions Principales\n\nDéveloppement d’un modèle prédictif pour les échecs de construction\nAnalyse approfondie des modèles d’échec dans les systèmes CI\nÉvaluation empirique sur des projets logiciels open source\nOutil open source pour la prédiction des échecs"
+  },
+  {
+    "objectID": "projects/build_failure_prediction.html",
+    "href": "projects/build_failure_prediction.html",
+    "title": "Analyse Prédictive pour Systèmes de Construction",
+    "section": "",
+    "text": "Ce projet se concentre sur le développement de techniques avancées d’apprentissage automatique pour prédire les échecs dans les processus de construction de logiciels. Notre objectif est d’aider les équipes de développement à identifier les problèmes potentiels avant qu’ils ne surviennent, améliorant ainsi l’efficacité du processus de développement."
+  },
+  {
+    "objectID": "projects/build_failure_prediction.html#description-du-projet",
+    "href": "projects/build_failure_prediction.html#description-du-projet",
+    "title": "Analyse Prédictive pour Systèmes de Construction",
+    "section": "",
+    "text": "Ce projet se concentre sur le développement de techniques avancées d’apprentissage automatique pour prédire les échecs dans les processus de construction de logiciels. Notre objectif est d’aider les équipes de développement à identifier les problèmes potentiels avant qu’ils ne surviennent, améliorant ainsi l’efficacité du processus de développement."
+  },
+  {
+    "objectID": "projects/build_failure_prediction.html#objectifs",
+    "href": "projects/build_failure_prediction.html#objectifs",
+    "title": "Analyse Prédictive pour Systèmes de Construction",
+    "section": "Objectifs",
+    "text": "Objectifs\n\nDévelopper des modèles prédictifs précis pour les échecs de construction\nRéduire le temps perdu en échecs de construction\nAméliorer l’efficacité des pipelines CI/CD\nCréer des outils pratiques pour les équipes de développement"
+  },
+  {
+    "objectID": "projects/build_failure_prediction.html#état-actuel",
+    "href": "projects/build_failure_prediction.html#état-actuel",
+    "title": "Analyse Prédictive pour Systèmes de Construction",
+    "section": "État Actuel",
+    "text": "État Actuel\nLe projet a produit des résultats prometteurs, avec un modèle atteignant une précision de 85% dans la prédiction des échecs de construction. Nous travaillons actuellement à améliorer l’interprétabilité du modèle et à développer une interface plus conviviale."
+  },
+  {
+    "objectID": "projects/build_failure_prediction.html#publications-associées",
+    "href": "projects/build_failure_prediction.html#publications-associées",
+    "title": "Analyse Prédictive pour Systèmes de Construction",
+    "section": "Publications Associées",
+    "text": "Publications Associées\n\n“Prédiction des Échecs de Construction par Apprentissage Automatique” (ICSE 2024)\n“Analyse des Modèles d’Échec dans les Systèmes CI” (FSE 2023)"
+  },
+  {
+    "objectID": "news/best_paper_icse.html",
+    "href": "news/best_paper_icse.html",
+    "title": "Prix du Meilleur Article à ICSE 2024",
+    "section": "",
+    "text": "Nous sommes ravis d’annoncer que notre article “Build Failure Prediction Using Machine Learning” a reçu le prix du meilleur article à la International Conference on Software Engineering (ICSE) 2024.\nCette reconnaissance souligne l’importance de notre travail sur la prédiction des échecs de construction logicielle utilisant des techniques d’apprentissage automatique."
+  },
+  {
+    "objectID": "members/current/shanemcintosh.html",
+    "href": "members/current/shanemcintosh.html",
+    "title": "Shane McIntosh",
+    "section": "",
+    "text": "Shane McIntosh est professeur principal dans le groupe de recherche. Ses intérêts de recherche comprennent:\n\nSystèmes de construction de logiciels\nIntégration continue\nAnalyse empirique des logiciels"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Groupe de Recherche",
+    "section": "",
+    "text": "Notre Groupe de Recherche à XXXXXXX\n\n\n\n\n\nNous sommes un groupe de recherche dynamique qui se concentre sur l’avancement du domaine du génie logiciel grâce à la recherche innovante et aux applications pratiques. Notre équipe combine une expertise en développement logiciel, en études empiriques et en apprentissage automatique pour relever les défis des pratiques modernes de développement logiciel. Nous collaborons avec des partenaires industriels et des institutions académiques du monde entier pour mener des recherches percutantes qui façonnent l’avenir du génie logiciel.\n\n\n\n\n\n\n\n\n\n\n\n\nNotre équipe a reçu le prix du meilleur article à ICSE 2024\n\n\n\n\n\n15 janv. 2024\n\n\n\n\n\n\nAucun article correspondant"
+  },
+  {
+    "objectID": "index.html#à-propos-de-nous",
+    "href": "index.html#à-propos-de-nous",
+    "title": "Groupe de Recherche",
+    "section": "",
+    "text": "Nous sommes un groupe de recherche dynamique qui se concentre sur l’avancement du domaine du génie logiciel grâce à la recherche innovante et aux applications pratiques. Notre équipe combine une expertise en développement logiciel, en études empiriques et en apprentissage automatique pour relever les défis des pratiques modernes de développement logiciel. Nous collaborons avec des partenaires industriels et des institutions académiques du monde entier pour mener des recherches percutantes qui façonnent l’avenir du génie logiciel."
+  },
+  {
+    "objectID": "index.html#dernières-nouvelles",
+    "href": "index.html#dernières-nouvelles",
+    "title": "Groupe de Recherche",
+    "section": "",
+    "text": "Notre équipe a reçu le prix du meilleur article à ICSE 2024\n\n\n\n\n\n15 janv. 2024\n\n\n\n\n\n\nAucun article correspondant"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Groupe de Recherche",
+    "section": "",
+    "text": "Notre groupe de recherche est situé à l’Université Catholique de Temuco.\n\n\n\n\n\n\n\nUniversidad Católica de Temuco\nCampus San Francisco\nManuel Montt 56\nTemuco, Chili\n\n\n\nL’université est située au centre de Temuco et est accessible via :\n\nLes lignes de bus publics desservant le centre-ville de Temuco\nÀ distance de marche de la Plaza de Armas\nServices de taxi et de covoiturage\nPistes cyclables à travers le centre de Temuco"
+  },
+  {
+    "objectID": "contact.html#notre-localisation",
+    "href": "contact.html#notre-localisation",
+    "title": "Groupe de Recherche",
+    "section": "",
+    "text": "Notre groupe de recherche est situé à l’Université Catholique de Temuco.\n\n\n\n\n\n\n\nUniversidad Católica de Temuco\nCampus San Francisco\nManuel Montt 56\nTemuco, Chili\n\n\n\nL’université est située au centre de Temuco et est accessible via :\n\nLes lignes de bus publics desservant le centre-ville de Temuco\nÀ distance de marche de la Plaza de Armas\nServices de taxi et de covoiturage\nPistes cyclables à travers le centre de Temuco"
+  },
+  {
+    "objectID": "members.html",
+    "href": "members.html",
+    "title": "Membres",
+    "section": "",
+    "text": "Professeur Principal\n\n\n\n\nAucun article correspondant"
+  },
+  {
+    "objectID": "members.html#membres-actuels",
+    "href": "members.html#membres-actuels",
+    "title": "Membres",
+    "section": "",
+    "text": "Professeur Principal\n\n\n\n\nAucun article correspondant"
+  },
+  {
+    "objectID": "members.html#anciens-membres",
+    "href": "members.html#anciens-membres",
+    "title": "Membres",
+    "section": "Anciens Membres",
+    "text": "Anciens Membres\n\n\n\n\n\nAucun article correspondant"
+  },
+  {
+    "objectID": "members/former/mariagonzalez.html",
+    "href": "members/former/mariagonzalez.html",
+    "title": "María González",
+    "section": "",
+    "text": "María González était doctorante dans notre groupe de recherche de 2018 à 2023. Ses recherches se sont concentrées sur l’optimisation des systèmes d’intégration continue et l’analyse des modèles d’échec dans les constructions logicielles."
+  },
+  {
+    "objectID": "members/former/mariagonzalez.html#contributions-principales",
+    "href": "members/former/mariagonzalez.html#contributions-principales",
+    "title": "María González",
+    "section": "Contributions Principales",
+    "text": "Contributions Principales\n\nDéveloppement de techniques avancées pour la prédiction des échecs en CI\nAnalyse empirique des systèmes de construction dans les projets open source\nImplémentation d’outils pour l’optimisation des pipelines CI/CD"
+  },
+  {
+    "objectID": "members/former/mariagonzalez.html#poste-actuel",
+    "href": "members/former/mariagonzalez.html#poste-actuel",
+    "title": "María González",
+    "section": "Poste Actuel",
+    "text": "Poste Actuel\nMaría travaille maintenant comme Chercheuse Senior chez Software Engineering Labs, où elle poursuit ses recherches sur les systèmes d’intégration continue et DevOps."
+  },
+  {
+    "objectID": "members/former/mariagonzalez.html#publications-notables",
+    "href": "members/former/mariagonzalez.html#publications-notables",
+    "title": "María González",
+    "section": "Publications Notables",
+    "text": "Publications Notables\n\n“Prédiction des Échecs de Construction par Apprentissage Automatique” (ICSE 2024)\n“Analyse des Modèles d’Échec dans les Systèmes CI” (FSE 2023)"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projets de Recherche",
+    "section": "",
+    "text": "Trier par\n       Ordre par défaut\n         \n          Catégories\n        \n     \n  \n\n\n\n\nAnalyse Prédictive pour Systèmes de Construction\n\n\nTeam Members: Shane McIntosh, Toshiki Hirao, Emma Wilson\n\n\nStatus: Actif\n\n\nGitHub: Repository\n\n\nResearch Areas: Systèmes de Construction, Apprentissage Automatique\n\n\n\n\nAucun article correspondant"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Liste des Publications",
+    "section": "",
+    "text": "Trier par\n       Ordre par défaut\n         \n          Catégories\n        \n     \n  \n\n\n\n\nPrédiction des Échecs de Construction par Apprentissage Automatique\n\n\nAuthors: Shane McIntosh, Maria González, David Kim\n\n\nVenue: International Conference on Software Engineering (ICSE)\n\n\nPreprint: PDF\n\n\nRelated Tags: Intégration Continue,Apprentissage Automatique\n\n\n\n\nAucun article correspondant"
+  }
+]

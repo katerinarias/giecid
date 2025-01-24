@@ -1,0 +1,310 @@
+[
+  {
+    "objectID": "publications/build_failure_prediction_icse2024.html",
+    "href": "publications/build_failure_prediction_icse2024.html",
+    "title": "Predicting Build Failures in Modern Software Systems",
+    "section": "",
+    "text": "Authors: Toshiki Hirao, Farshad Kazemi\nVenue: ICSE 2024\nRelated Tags: ICSE, 2024\nPre-print: PDF\nAbstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua…\nBibTeX:\n@article{example,\n  title = Predicting Build Failures in Modern Software Systems,\n  author = Toshiki Hirao and Farshad Kazemi,\n  journal = ICSE 2024,\n  year = build breakage,\n}"
+  },
+  {
+    "objectID": "projects/security_vulnerability_detection.html",
+    "href": "projects/security_vulnerability_detection.html",
+    "title": "Automated Security Vulnerability Detection",
+    "section": "",
+    "text": "Team Members: Shane McIntosh, Lisa Chen, Robert Taylor\nStatus: Active\nResearch Areas: Software Security, Program Analysis\nGitHub: Repository\nProject Overview: This project develops automated techniques for detecting security vulnerabilities in software systems. We combine static analysis, dynamic testing, and machine learning to identify potential security issues early in the development process.\nKey Objectives: - Develop hybrid analysis techniques for vulnerability detection - Create pattern recognition models for security anti-patterns - Build automated security testing frameworks - Generate detailed vulnerability reports with remediation steps\nCurrent Progress: - Implemented initial vulnerability detection engine - Created database of common security patterns - Developed automated test generation for security scenarios - Testing integration with development workflows"
+  },
+  {
+    "objectID": "projects/ml_static_analysis.html",
+    "href": "projects/ml_static_analysis.html",
+    "title": "Machine Learning Enhanced Static Analysis",
+    "section": "",
+    "text": "Team Members: Shane McIntosh, Michael Zhang, David Lee\nStatus: Active\nResearch Areas: Program Analysis, Machine Learning\nGitHub: Repository\nProject Overview: This project explores the integration of machine learning techniques with static analysis tools to improve bug detection accuracy and reduce false positives. We’re developing novel approaches that combine traditional static analysis with learned patterns from codebases.\nKey Objectives: - Develop ML models to learn from historical bug patterns - Enhance static analyzers with ML-based pattern recognition - Reduce false positive rates in static analysis - Create hybrid analysis techniques combining static and ML approaches\nCurrent Progress: - Built dataset of verified bug reports and fixes - Implemented initial ML model for pattern recognition - Integrated with existing static analysis tools - Conducting preliminary accuracy evaluations"
+  },
+  {
+    "objectID": "projects/dependency_management.html",
+    "href": "projects/dependency_management.html",
+    "title": "Intelligent Dependency Management System",
+    "section": "",
+    "text": "Team Members: Shane McIntosh, Alex Kumar, Sophie Martin\nStatus: Completed\nResearch Areas: Software Evolution, Program Analysis\nGitHub: Repository\nProject Overview: This project developed an intelligent system for managing software dependencies, focusing on security, compatibility, and performance implications. We created tools to analyze dependency graphs and recommend optimal update strategies.\nKey Achievements: - Built automated dependency analysis engine - Developed compatibility prediction models - Created intelligent update scheduling system - Implemented security vulnerability tracking\nImpact: - Reduced dependency-related bugs by 60% - Automated 80% of dependency updates - Decreased security vulnerabilities by 45% - Tools integrated into major package managers"
+  },
+  {
+    "objectID": "projects/code_evolution_analysis.html",
+    "href": "projects/code_evolution_analysis.html",
+    "title": "Software Evolution Pattern Analysis",
+    "section": "",
+    "text": "Team Members: Shane McIntosh, Rachel Kim, Marco Silva\nStatus: Active\nResearch Areas: Software Evolution, Machine Learning\nGitHub: Repository\nProject Overview: This project investigates patterns in software evolution to predict future maintenance needs and guide refactoring decisions. We analyze historical code changes to understand how software systems evolve and identify patterns that indicate potential maintenance issues.\nKey Objectives: - Develop models for predicting code decay - Identify patterns of problematic code evolution - Create automated refactoring recommendations - Build visualization tools for evolution patterns\nCurrent Progress: - Created evolution pattern detection system - Implemented initial prediction models - Developed interactive visualization prototype - Analyzing large-scale repository dataset"
+  },
+  {
+    "objectID": "projects/automated_ci_testing.html",
+    "href": "projects/automated_ci_testing.html",
+    "title": "Automated Testing in Continuous Integration Pipelines",
+    "section": "",
+    "text": "Team Members: Shane McIntosh, Sarah Chen\nStatus: Active\nResearch Areas: Software Testing, Continuous Integration\nGitHub: Repository\nProject Overview: This project investigates novel approaches to improve automated testing in CI pipelines. We focus on developing intelligent test selection and prioritization strategies that can reduce build times while maintaining test effectiveness.\nKey Objectives: - Develop machine learning models for test selection - Create adaptive test prioritization algorithms - Reduce CI pipeline execution time - Maintain or improve test coverage and effectiveness\nCurrent Progress: - Completed initial data collection from open-source projects - Implemented prototype test selection algorithm - Evaluating performance on real-world CI pipelines - Preparing experimental framework for comparative analysis"
+  },
+  {
+    "objectID": "news/workshop_organization.html",
+    "href": "news/workshop_organization.html",
+    "title": "Organizing International Workshop on CI/CD Intelligence",
+    "section": "",
+    "text": "Our research group will be organizing the 1st International Workshop on CI/CD Intelligence (CI-Intel 2024) at FSE 2024. This workshop aims to bring together researchers and practitioners working on applying AI/ML techniques to improve continuous integration and delivery processes. Call for papers will be announced soon."
+  },
+  {
+    "objectID": "news/student_award.html",
+    "href": "news/student_award.html",
+    "title": "Graduate Student Wins Distinguished Paper Award at FSE 2023",
+    "section": "",
+    "text": "Raj Patel, a PhD student in our research group, has received the Distinguished Paper Award at FSE 2023 for his work on “Machine Learning-Based Static Analysis for Security Vulnerability Detection.” The paper introduces innovative techniques that combine traditional static analysis with deep learning to improve the accuracy of security vulnerability detection in source code."
+  },
+  {
+    "objectID": "news/phd_defense_success.html",
+    "href": "news/phd_defense_success.html",
+    "title": "Successful PhD Defense: Advancing Software Testing Techniques",
+    "section": "",
+    "text": "We’re proud to announce that our team member Sarah Chen has successfully defended her PhD thesis on “Advanced Mutation Testing Strategies for Modern Software Systems.” Her research introduces novel approaches to mutation testing that significantly improve both efficiency and effectiveness in detecting software defects."
+  },
+  {
+    "objectID": "news/new_paper_acceptance.html",
+    "href": "news/new_paper_acceptance.html",
+    "title": "New Paper Accepted at ICSE 2024",
+    "section": "",
+    "text": "We are excited to announce that our paper “Predicting Build Failures Using Machine Learning Techniques” has been accepted at ICSE 2024. This work represents a significant advancement in our understanding of continuous integration systems and how we can make them more efficient.\nThe paper will be presented at the conference in April 2024 in Lisbon, Portugal."
+  },
+  {
+    "objectID": "news/keynote_ase.html",
+    "href": "news/keynote_ase.html",
+    "title": "Professor McIntosh Delivers Keynote at ASE 2023",
+    "section": "",
+    "text": "Professor Shane McIntosh delivered a keynote speech at the 38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023). His talk, titled “The Future of Automated Build Systems,” highlighted emerging trends in build automation and presented our group’s latest findings on build optimization techniques."
+  },
+  {
+    "objectID": "news/industry_partnership.html",
+    "href": "news/industry_partnership.html",
+    "title": "New Industry Partnership with Microsoft Research",
+    "section": "",
+    "text": "Our research group has established a strategic partnership with Microsoft Research to investigate scalable approaches for dependency management in large-scale software systems. This collaboration includes funding for two PhD students and will provide unique access to real-world data from Microsoft’s vast software ecosystem."
+  },
+  {
+    "objectID": "members/former/yukiliu.html",
+    "href": "members/former/yukiliu.html",
+    "title": "Yuki Liu",
+    "section": "",
+    "text": "Yuki Liu\n\n\n\n\nContact Information:\n\nCurrent Position: Security Researcher at CyberSec Institute\nEmail: yuki.liu@example.com\nResearch Interests: Security Vulnerability Detection, Flaky Test Analysis, Test Suite Evolution\n\nAbout me:\nMy PhD research focused on improving software security and testing practices, with particular emphasis on automated vulnerability detection and addressing flaky tests. I developed novel approaches for analyzing test suite evolution and identifying security vulnerabilities in software systems. Currently, as a Security Researcher at CyberSec Institute, I continue to advance the field of software security through research and development of automated vulnerability detection techniques.\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "members/former/mariagonzalez.html",
+    "href": "members/former/mariagonzalez.html",
+    "title": "Maria Gonzalez",
+    "section": "",
+    "text": "Maria Gonzalez\n\n\n\n\nContact Information:\n\nCurrent Position: Senior Software Engineer at DevOps Solutions\nEmail: maria.gonzalez@example.com\nResearch Interests: Dependency Management, Build System Optimization, Software Evolution\n\nAbout me:\nMy PhD research focused on improving build systems and dependency management in large-scale software projects. I developed innovative approaches to optimize build processes and manage complex dependency networks in evolving software systems. Now, as a Senior Software Engineer at DevOps Solutions, I apply my research expertise to solve real-world challenges in software development and deployment pipelines.\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "members/former/alexwilson.html",
+    "href": "members/former/alexwilson.html",
+    "title": "Alex Wilson",
+    "section": "",
+    "text": "Alex Wilson\n\n\n\n\nContact Information:\n\nCurrent Position: Research Engineer at Software Analytics Lab\nEmail: alex.wilson@example.com\nResearch Interests: Code Evolution Analysis, Software Metrics, Knowledge Loss Prevention\n\nAbout me:\nDuring my MSc studies, I focused on understanding how software systems evolve over time and developing methods to preserve critical development knowledge. My research contributed to better understanding of code evolution patterns and ways to prevent knowledge loss in software teams. Now, as a Research Engineer at Software Analytics Lab, I continue to work on developing tools and metrics that help teams better understand and manage their software systems.\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "members/current/rajpatel.html",
+    "href": "members/current/rajpatel.html",
+    "title": "Raj Patel",
+    "section": "",
+    "text": "Raj Patel\n\n\n\n\nContact Information:\n\nEmail: raj.patel@example.com\n\nAffiliation: Research Group\nResearch Interests: Code Review Analytics, Developer Productivity Metrics, Knowledge Management\n\nAbout me:\nI am an MSc student focusing on improving software development processes through data-driven insights. My research explores how to enhance code review practices and measure developer productivity effectively. I am particularly interested in understanding how knowledge flows through development teams and creating tools that can help capture and share this knowledge more efficiently.\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "members/current/faizankhan.html",
+    "href": "members/current/faizankhan.html",
+    "title": "Faizan Khan",
+    "section": "",
+    "text": "Faizan Khan\n\n\n\n\nContact Information:\n\nEmail: faizan.khan@example.com\n\nAffiliation: Research Group\nResearch Interests: Continuous Integration, Static Analysis, Software Quality\n\nAbout me:\nI am a PhD student researching ways to improve software quality through advanced continuous integration practices and static analysis techniques. My work focuses on developing and enhancing tools that help development teams catch potential issues early in the development cycle. I am particularly interested in creating more efficient and accurate static analysis methods that can be seamlessly integrated into CI pipelines.\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "members/current/davidkim.html",
+    "href": "members/current/davidkim.html",
+    "title": "David Kim",
+    "section": "",
+    "text": "David Kim\n\n\n\n\nContact Information:\n\nEmail: david.kim@example.com\n\nAffiliation: Research Group\nResearch Interests: Machine Learning for Static Analysis, Code Quality Prediction, Security Vulnerability Detection\n\nAbout me:\nI am a PhD student focusing on the intersection of machine learning and software engineering. My research explores innovative applications of ML techniques to enhance static code analysis, predict code quality metrics, and detect potential security vulnerabilities in software systems. Through my work, I aim to develop more accurate and efficient automated tools for software quality assurance.\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Research Group",
+    "section": "",
+    "text": "Our Research Group at XXXXXXX\n\n\n\n\n\nWe are a dynamic research group focused on advancing the field of software engineering through innovative research and practical applications. Our team combines expertise in software development, empirical studies, and machine learning to tackle challenging problems in modern software development practices. We collaborate with industry partners and academic institutions worldwide to drive impactful research that shapes the future of software engineering.\n\n\n\n\n\n\n\n\n\n\n\n\nExciting new partnership with MIT’s Software Engineering Lab focusing on automated testing and verification techniques.\n\n\n\n\n\nMar 15, 2024\n\n\n#\n\n\n\n\n\n\n\n\n\n\n\nOur research on build failure prediction using machine learning receives top recognition at ICSE 2024.\n\n\n\n\n\nFeb 28, 2024\n\n\n#\n\n\n\n\n\n\n\n\n\n\n\nSarah Chen successfully defends her PhD thesis on advanced mutation testing strategies for modern software systems.\n\n\n\n\n\nFeb 10, 2024\n\n\n#\n\n\n\n\n\n\n\n\n\n\n\nOur research group has been awarded a significant grant to study software testing practices in large-scale systems.\n\n\n\n\n\nFeb 1, 2024\n\n\n\n\n\n\n\n\n\n\n\nFirst International Workshop on CI/CD Intelligence to be held at FSE 2024, focusing on AI/ML applications in CI/CD.\n\n\n\n\n\nJan 25, 2024\n\n\n#\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#about-us",
+    "href": "index.html#about-us",
+    "title": "Research Group",
+    "section": "",
+    "text": "We are a dynamic research group focused on advancing the field of software engineering through innovative research and practical applications. Our team combines expertise in software development, empirical studies, and machine learning to tackle challenging problems in modern software development practices. We collaborate with industry partners and academic institutions worldwide to drive impactful research that shapes the future of software engineering."
+  },
+  {
+    "objectID": "index.html#latest-news",
+    "href": "index.html#latest-news",
+    "title": "Research Group",
+    "section": "",
+    "text": "Exciting new partnership with MIT’s Software Engineering Lab focusing on automated testing and verification techniques.\n\n\n\n\n\nMar 15, 2024\n\n\n#\n\n\n\n\n\n\n\n\n\n\n\nOur research on build failure prediction using machine learning receives top recognition at ICSE 2024.\n\n\n\n\n\nFeb 28, 2024\n\n\n#\n\n\n\n\n\n\n\n\n\n\n\nSarah Chen successfully defends her PhD thesis on advanced mutation testing strategies for modern software systems.\n\n\n\n\n\nFeb 10, 2024\n\n\n#\n\n\n\n\n\n\n\n\n\n\n\nOur research group has been awarded a significant grant to study software testing practices in large-scale systems.\n\n\n\n\n\nFeb 1, 2024\n\n\n\n\n\n\n\n\n\n\n\nFirst International Workshop on CI/CD Intelligence to be held at FSE 2024, focusing on AI/ML applications in CI/CD.\n\n\n\n\n\nJan 25, 2024\n\n\n#\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Educación en Contextos Diversos e Indígenas",
+    "section": "",
+    "text": "Our research group is located at Universidad Católica de Temuco.\n\n\n\n\n\n\n\nUniversidad Católica de Temuco\nCampus San Francisco\nManuel Montt 56\nTemuco, Chile\n\n\n\nThe university is centrally located in Temuco and is accessible via:\n\nPublic bus routes serving downtown Temuco\nWalking distance from Plaza de Armas\nTaxi and ride-sharing services\nBicycle routes through central Temuco"
+  },
+  {
+    "objectID": "contact.html#our-location",
+    "href": "contact.html#our-location",
+    "title": "Educación en Contextos Diversos e Indígenas",
+    "section": "",
+    "text": "Our research group is located at Universidad Católica de Temuco.\n\n\n\n\n\n\n\nUniversidad Católica de Temuco\nCampus San Francisco\nManuel Montt 56\nTemuco, Chile\n\n\n\nThe university is centrally located in Temuco and is accessible via:\n\nPublic bus routes serving downtown Temuco\nWalking distance from Plaza de Armas\nTaxi and ride-sharing services\nBicycle routes through central Temuco"
+  },
+  {
+    "objectID": "members.html",
+    "href": "members.html",
+    "title": "Members",
+    "section": "",
+    "text": "PhD Student\n\n\n\n  \n\n\nPhD Candidate\n\n\n\n  \n\n\nPhD Student\n\n\n\n  \n\n\nPhD Candidate\n\n\n\n  \n\n\nMSc Student\n\n\n\n  \n\n\nProfessor\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "members.html#current-members",
+    "href": "members.html#current-members",
+    "title": "Members",
+    "section": "",
+    "text": "PhD Student\n\n\n\n  \n\n\nPhD Candidate\n\n\n\n  \n\n\nPhD Student\n\n\n\n  \n\n\nPhD Candidate\n\n\n\n  \n\n\nMSc Student\n\n\n\n  \n\n\nProfessor\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "members.html#former-members",
+    "href": "members.html#former-members",
+    "title": "Members",
+    "section": "Former Members",
+    "text": "Former Members\n\n\n\n\n  \n\nAlex Wilson\n\n\nFormer MSc Student\n\n\n\n  \n\nFilipe R. Cogo\n\n\nFormer PhD Student\n\n\n\n  \n\nMaria Gonzalez\n\n\nFormer PhD Student\n\n\n\n  \n\nSarah Chen\n\n\nFormer MSc Student\n\n\n\n  \n\nYuki Liu\n\n\nFormer PhD Student\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "members/current/emilythomas.html",
+    "href": "members/current/emilythomas.html",
+    "title": "Emily Thomas",
+    "section": "",
+    "text": "Emily Thomas\n\n\n\n\nContact Information:\n\nEmail: emily.thomas@example.com\n\nAffiliation: Research Group\nResearch Interests: Build Failure Prediction, Mutation Testing, Automated CI Testing\n\nAbout me:\nI am a PhD candidate specializing in continuous integration and software testing. My research focuses on developing predictive models for build failures, improving mutation testing techniques, and enhancing automated testing in CI pipelines. I am passionate about helping development teams identify and prevent integration issues early in the development process, ultimately improving software quality and team productivity.\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "members/current/maximelamothe.html",
+    "href": "members/current/maximelamothe.html",
+    "title": "Maxime Lamothe",
+    "section": "",
+    "text": "Maxime Lamothe\n\n\n\n\nContact Information:\n\nEmail: maxime.lamothe@example.com\n\nAffiliation: Research Group\nResearch Interests: Software Evolution, Static Analysis Tools, CI/CD Pipeline Optimization\n\nAbout me:\nI am a PhD candidate studying the evolution of software systems and how to optimize development workflows. My research combines static analysis techniques with CI/CD pipeline optimization to better understand and improve how software systems evolve over time. I am particularly interested in developing tools and methodologies that can help teams maintain and evolve their software more efficiently while preserving code quality.\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "members/current/shanemcintosh.html",
+    "href": "members/current/shanemcintosh.html",
+    "title": "Shane McIntosh",
+    "section": "",
+    "text": "Shane McIntosh\n\n\n\n\nContact Information:\n\nEmail: member@example.com\n\nAffiliation: Research Group\n\nAbout me:\nI am a Professor specializing in software engineering research. My research interests focus on software build systems, software quality assurance, and mining software repositories. I work on developing techniques and tools to help software teams build and maintain high-quality software systems more effectively.\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "members/former/filipecogo.html",
+    "href": "members/former/filipecogo.html",
+    "title": "Filipe R. Cogo",
+    "section": "",
+    "text": "Filipe R. Cogo\n\n\n\n\nContact Information:\n\nCurrent Position: Research Scientist at Tech Corp\nEmail: filipe.cogo@example.com\nResearch Interests: Software Logging, Code Coverage Analysis, Software Testing\n\nAbout me:\nDuring my PhD research, I specialized in improving software quality through advanced logging and testing techniques. My work focused on developing more accurate code coverage analysis methods and enhancing software logging practices. Currently, as a Research Scientist at Tech Corp, I continue to advance the field of software testing and analysis, working on innovative solutions to help teams better understand and verify their software systems.\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "members/former/sarahchen.html",
+    "href": "members/former/sarahchen.html",
+    "title": "Sarah Chen",
+    "section": "",
+    "text": "Sarah Chen\n\n\n\n\nContact Information:\n\nCurrent Position: Software Engineer at Cloud Solutions Inc.\nEmail: sarah.chen@example.com\nResearch Interests: Build System Performance, Developer Productivity, Software Metrics\n\nAbout me:\nDuring my MSc studies, I researched ways to improve build system performance and measure developer productivity through meaningful software metrics. My work contributed to understanding how build system optimizations impact developer workflows and productivity. Now at Cloud Solutions Inc., I leverage this research background to implement efficient build pipelines and productivity tracking systems that help development teams work more effectively.\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "news/best_paper_icse.html",
+    "href": "news/best_paper_icse.html",
+    "title": "Best Paper Award at ICSE 2024",
+    "section": "",
+    "text": "Our paper “Predictive Models for Build Failure Detection” has received the Best Paper Award at ICSE 2024. This work presents novel machine learning approaches for early detection of build failures in continuous integration pipelines, potentially saving significant development time and resources."
+  },
+  {
+    "objectID": "news/journal_publication.html",
+    "href": "news/journal_publication.html",
+    "title": "Major Publication in IEEE Transactions on Software Engineering",
+    "section": "",
+    "text": "Our research on “Automated Detection of Resource Waste in Continuous Integration Environments” has been accepted for publication in IEEE Transactions on Software Engineering (TSE). This work presents novel techniques for identifying and eliminating computational resource waste in CI/CD pipelines, potentially leading to significant cost savings for software organizations."
+  },
+  {
+    "objectID": "news/new_grant_awarded.html",
+    "href": "news/new_grant_awarded.html",
+    "title": "Research Group Awarded Major Grant",
+    "section": "",
+    "text": "We are pleased to announce that our research group has received a major grant to study software testing practices in large-scale systems. This funding will support our ongoing work in improving software quality and reliability.\nThe project will begin in March 2024 and will involve collaboration with several industry partners."
+  },
+  {
+    "objectID": "news/nsf_grant_awarded.html",
+    "href": "news/nsf_grant_awarded.html",
+    "title": "NSF Grant Awarded for AI-Powered Code Review Research",
+    "section": "",
+    "text": "Our research group has been awarded a substantial NSF grant to investigate AI-powered code review processes. The three-year project will focus on developing intelligent systems that can automatically identify potential bugs, security vulnerabilities, and maintenance issues in code changes, while providing actionable feedback to developers."
+  },
+  {
+    "objectID": "news/research_collaboration_mit.html",
+    "href": "news/research_collaboration_mit.html",
+    "title": "New Research Collaboration with MIT",
+    "section": "",
+    "text": "Our research group has established a new collaboration with MIT’s Software Engineering Lab. This partnership will focus on developing advanced techniques for automated software testing and verification. The joint project aims to combine our expertise in CI/CD systems with MIT’s work in formal methods."
+  },
+  {
+    "objectID": "news/tool_release.html",
+    "href": "news/tool_release.html",
+    "title": "Release of BuildGuard: AI-Powered Build Failure Prevention Tool",
+    "section": "",
+    "text": "We’re excited to announce the release of BuildGuard, an open-source tool that leverages machine learning to predict and prevent build failures before they occur. The tool integrates with popular CI platforms and has shown to reduce build failures by up to 40% in our initial deployments. Check out the tool on our GitHub repository."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Research Projects",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Categories\n        \n     \n  \n\n\n\n\nAdvanced Mutation Testing Framework\n\n\nTeam Members: Shane McIntosh, Nina Patel, Thomas Anderson\n\n\nStatus: Active\n\n\nGitHub: Repository\n\n\nResearch Areas: Software Testing, Program Analysis\n\n\n\n\nAutomated Security Vulnerability Detection\n\n\nTeam Members: Shane McIntosh, Lisa Chen, Robert Taylor\n\n\nStatus: Active\n\n\nGitHub: Repository\n\n\nResearch Areas: Software Security, Program Analysis\n\n\n\n\nAutomated Testing in Continuous Integration Pipelines\n\n\nTeam Members: Shane McIntosh, Sarah Chen\n\n\nStatus: Active\n\n\nGitHub: Repository\n\n\nResearch Areas: Software Testing, Continuous Integration\n\n\n\n\nCode Review Analytics Platform\n\n\nTeam Members: Shane McIntosh, James Wilson, Maria Garcia\n\n\nStatus: Completed\n\n\nGitHub: Repository\n\n\nResearch Areas: Software Evolution, Machine Learning\n\n\n\n\nDeveloper Productivity Analytics Platform\n\n\nTeam Members: Shane McIntosh, Julia Chen, Carlos Rodriguez\n\n\nStatus: Active\n\n\nGitHub: Repository\n\n\nResearch Areas: Software Evolution, Software Metrics\n\n\n\n\nIntelligent Dependency Management System\n\n\nTeam Members: Shane McIntosh, Alex Kumar, Sophie Martin\n\n\nStatus: Completed\n\n\nGitHub: Repository\n\n\nResearch Areas: Software Evolution, Program Analysis\n\n\n\n\nMachine Learning Enhanced Static Analysis\n\n\nTeam Members: Shane McIntosh, Michael Zhang, David Lee\n\n\nStatus: Active\n\n\nGitHub: Repository\n\n\nResearch Areas: Program Analysis, Machine Learning\n\n\n\n\nPredictive Analytics for Build Systems\n\n\nTeam Members: Shane McIntosh, Toshiki Hirao, Emma Wilson\n\n\nStatus: Active\n\n\nGitHub: Repository\n\n\nResearch Areas: Build Systems, Machine Learning\n\n\n\n\nSoftware Evolution Pattern Analysis\n\n\nTeam Members: Shane McIntosh, Rachel Kim, Marco Silva\n\n\nStatus: Active\n\n\nGitHub: Repository\n\n\nResearch Areas: Software Evolution, Machine Learning\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/build_failure_prediction.html",
+    "href": "projects/build_failure_prediction.html",
+    "title": "Predictive Analytics for Build Systems",
+    "section": "",
+    "text": "Team Members: Shane McIntosh, Toshiki Hirao, Emma Wilson\nStatus: Active\nResearch Areas: Build Systems, Machine Learning\nGitHub: Repository\nProject Overview: This project develops predictive models to identify potential build failures before they occur. By analyzing historical build data, code changes, and system configurations, we aim to provide early warnings and suggestions to prevent build breakages.\nKey Objectives: - Create predictive models for build failure detection - Identify key indicators of build instability - Develop real-time monitoring and alert systems - Generate actionable recommendations for developers\nCurrent Progress: - Collected extensive build history data - Developed initial prediction models - Created prototype monitoring system - Testing integration with CI/CD pipelines"
+  },
+  {
+    "objectID": "projects/code_review_analytics.html",
+    "href": "projects/code_review_analytics.html",
+    "title": "Code Review Analytics Platform",
+    "section": "",
+    "text": "Team Members: Shane McIntosh, James Wilson, Maria Garcia\nStatus: Completed\nResearch Areas: Software Evolution, Machine Learning\nGitHub: Repository\nProject Overview: This project developed an analytics platform for understanding code review practices and their impact on software quality. We analyzed historical code review data to identify patterns that lead to effective reviews and better code quality.\nKey Achievements: - Created ML models to predict review outcomes - Identified key factors in successful code reviews - Developed automated review assignment system - Published findings in top software engineering venues\nImpact: - Platform adopted by multiple open-source projects - Reduced review response times by 40% - Improved code quality metrics by 25% - Generated insights for improving review processes"
+  },
+  {
+    "objectID": "projects/developer_productivity_metrics.html",
+    "href": "projects/developer_productivity_metrics.html",
+    "title": "Developer Productivity Analytics Platform",
+    "section": "",
+    "text": "Team Members: Shane McIntosh, Julia Chen, Carlos Rodriguez\nStatus: Active\nResearch Areas: Software Evolution, Software Metrics\nGitHub: Repository\nProject Overview: This project develops a comprehensive platform for measuring and analyzing developer productivity metrics. We’re creating novel approaches to understand and improve developer workflows while considering both quantitative and qualitative aspects of software development.\nKey Objectives: - Define meaningful productivity metrics - Create automated data collection tools - Develop insight generation algorithms - Build real-time monitoring dashboard\nCurrent Progress: - Implemented core metrics collection system - Developed initial analytics dashboard - Created workflow analysis tools - Testing with partner development teams"
+  },
+  {
+    "objectID": "projects/mutation_testing_framework.html",
+    "href": "projects/mutation_testing_framework.html",
+    "title": "Advanced Mutation Testing Framework",
+    "section": "",
+    "text": "Team Members: Shane McIntosh, Nina Patel, Thomas Anderson\nStatus: Active\nResearch Areas: Software Testing, Program Analysis\nGitHub: Repository\nProject Overview: This project develops an advanced mutation testing framework that intelligently generates and selects mutations to evaluate test suite effectiveness. We’re creating novel mutation operators and selection strategies to make mutation testing more efficient and practical.\nKey Objectives: - Design context-aware mutation operators - Develop intelligent mutation selection algorithms - Create performance optimization techniques - Build IDE integration for real-time feedback\nCurrent Progress: - Implemented core mutation engine - Developed initial set of smart operators - Created preliminary selection algorithm - Testing on large-scale projects"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "List of Publications",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Categories\n        \n     \n  \n\n\n\n\nPredicting Build Failures in Modern Software Systems\n\n\nAuthors: Toshiki Hirao,Farshad Kazemi\n\n\nVenue: ICSE 2024\n\n\nPreprint: PDF\n\n\nRelated Tags: ICSE,2024,Software Quality\n\n\n\n\nNo matching items"
+  }
+]

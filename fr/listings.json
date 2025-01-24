@@ -1,0 +1,26 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/news/best_paper_icse.html"
+    ]
+  },
+  {
+    "listing": "/members.html",
+    "items": [
+      "/members/current/shanemcintosh.html"
+    ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/build_failure_prediction.html"
+    ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": [
+      "/publications/build_failure_prediction_icse2024.html"
+    ]
+  }
+]

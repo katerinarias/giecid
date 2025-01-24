@@ -1,0 +1,99 @@
+[
+  {
+    "listing": "/members/former/yukiliu.html",
+    "items": []
+  },
+  {
+    "listing": "/members/former/mariagonzalez.html",
+    "items": []
+  },
+  {
+    "listing": "/members/former/alexwilson.html",
+    "items": []
+  },
+  {
+    "listing": "/members/current/rajpatel.html",
+    "items": []
+  },
+  {
+    "listing": "/members/current/faizankhan.html",
+    "items": []
+  },
+  {
+    "listing": "/members/current/davidkim.html",
+    "items": []
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/news/research_collaboration_mit.html",
+      "/news/best_paper_icse.html",
+      "/news/phd_defense_success.html",
+      "/news/new_grant_awarded.html",
+      "/news/workshop_organization.html",
+      "/news/new_paper_acceptance.html",
+      "/news/nsf_grant_awarded.html",
+      "/news/keynote_ase.html",
+      "/news/tool_release.html",
+      "/news/industry_partnership.html",
+      "/news/journal_publication.html",
+      "/news/student_award.html"
+    ]
+  },
+  {
+    "listing": "/members.html",
+    "items": [
+      "/members/current/davidkim.html",
+      "/members/current/emilythomas.html",
+      "/members/current/faizankhan.html",
+      "/members/current/maximelamothe.html",
+      "/members/current/rajpatel.html",
+      "/members/current/shanemcintosh.html",
+      "/members/former/alexwilson.html",
+      "/members/former/filipecogo.html",
+      "/members/former/mariagonzalez.html",
+      "/members/former/sarahchen.html",
+      "/members/former/yukiliu.html"
+    ]
+  },
+  {
+    "listing": "/members/current/emilythomas.html",
+    "items": []
+  },
+  {
+    "listing": "/members/current/maximelamothe.html",
+    "items": []
+  },
+  {
+    "listing": "/members/current/shanemcintosh.html",
+    "items": []
+  },
+  {
+    "listing": "/members/former/filipecogo.html",
+    "items": []
+  },
+  {
+    "listing": "/members/former/sarahchen.html",
+    "items": []
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/mutation_testing_framework.html",
+      "/projects/security_vulnerability_detection.html",
+      "/projects/automated_ci_testing.html",
+      "/projects/code_review_analytics.html",
+      "/projects/developer_productivity_metrics.html",
+      "/projects/dependency_management.html",
+      "/projects/ml_static_analysis.html",
+      "/projects/build_failure_prediction.html",
+      "/projects/code_evolution_analysis.html"
+    ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": [
+      "/publications/build_failure_prediction_icse2024.html"
+    ]
+  }
+]
