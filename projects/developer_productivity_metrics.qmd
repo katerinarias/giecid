@@ -1,0 +1,27 @@
+---
+name: "Plataforma de Análisis de Productividad del Desarrollador"
+title: "Plataforma de Análisis de Productividad del Desarrollador"
+members: ["Shane McIntosh", "Julia Chen", "Carlos Rodriguez"]
+status: "Activo"
+categories: ["Active", "Software Evolution", "Software Metrics"]
+github: "https://github.com/research-group/dev-analytics"
+---
+**Miembros del Equipo**: [{{< meta members.1 >}}](../members/current/shanemcintosh.qmd), {{< meta members.2 >}}, {{< meta members.3 >}}  
+**Estado**: {{< meta status >}}  
+**Áreas de Investigación**: [{{< meta categories.2 >}}](../projects.qmd#category=Software+Evolution), [{{< meta categories.3 >}}](../projects.qmd#category=Software+Metrics)  
+**GitHub**: [Repositorio]({{< meta github >}})
+
+**Descripción General del Proyecto**: 
+Este proyecto desarrolla una plataforma integral para medir y analizar métricas de productividad del desarrollador. Estamos creando enfoques novedosos para comprender y mejorar los flujos de trabajo del desarrollador, considerando tanto aspectos cuantitativos como cualitativos del desarrollo de software.
+
+**Objetivos Clave**:
+- Definir métricas significativas de productividad
+- Crear herramientas automatizadas de recolección de datos
+- Desarrollar algoritmos de generación de insights
+- Construir panel de monitoreo en tiempo real
+
+**Progreso Actual**:
+- Sistema central de recolección de métricas implementado
+- Panel inicial de análisis desarrollado
+- Herramientas de análisis de flujo de trabajo creadas
+- Pruebas con equipos de desarrollo asociados

@@ -1,0 +1,15 @@
+<ul class="list member-grid">
+  <% for (const item of items) { %>
+    <li type="1" <%= metadataAttrs(item) %> style="width: 250px; list-style: none; text-align: center;">
+      <% if (item.image) { %>
+        <a href="<%- item.path %>">
+          <img src="<%- item.image %>" alt="<%- item.title %>" class="member-image">
+        </a>
+      <% } %>
+      <h3 style="margin-bottom: 0.2rem;"><a href="<%- item.path %>" style="display: block;"><%- item.title %></a></h3>
+      <% if (item.subtitle) { %>
+        <div class="listing-subtitle" style="margin-bottom: 0.5rem;"><%- item.subtitle %></div>
+      <% } %>
+    </li>
+  <% } %>
+</ul>

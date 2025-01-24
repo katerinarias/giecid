@@ -1,0 +1,35 @@
+---
+---
+
+## Notre Localisation
+
+Notre groupe de recherche est situé à l'Université Catholique de Temuco.
+
+<iframe 
+    width="600" 
+    height="450" 
+    frameborder="0" 
+    scrolling="no" 
+    marginheight="0" 
+    marginwidth="0" 
+    src="https://www.openstreetmap.org/export/embed.html?bbox=-72.602050%2C-38.737942%2C-72.602050%2C-38.737942&amp;layer=mapnik&amp;marker=-38.737942%2C-72.602050">
+</iframe>
+
+### Contactez-nous
+
+
+### Adresse
+
+Universidad Católica de Temuco  
+Campus San Francisco  
+Manuel Montt 56  
+Temuco, Chili
+
+### Comment Nous Rejoindre
+
+L'université est située au centre de Temuco et est accessible via :
+
+- Les lignes de bus publics desservant le centre-ville de Temuco
+- À distance de marche de la Plaza de Armas
+- Services de taxi et de covoiturage
+- Pistes cyclables à travers le centre de Temuco

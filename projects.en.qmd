@@ -1,0 +1,12 @@
+---
+title: Research Projects
+listing:
+    contents:
+        - "projects/*.qmd"
+    template: project-listing.ejs
+    fields: [title, members, categories, status, github]
+    categories: true
+    sort-ui: [categories]
+    field-display-names:
+        categories: "Categories"
+---

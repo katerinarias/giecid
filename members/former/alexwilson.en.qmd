@@ -1,0 +1,30 @@
+---
+title: "Alex Wilson"
+subtitle: "Former MSc Student"
+image: "../current/shanemcintosh.jpg"
+title-block-banner: false
+format: html
+css: ../../styles.css
+listing:
+    contents:
+        - "../../publications/*.qmd"
+    template: ../../custom-listing.ejs
+    fields: [title, autores, categories, venue, preprint]
+    include:
+      autores: "{Alex Wilson}"
+---
+
+::: {.profile-image}
+![Alex Wilson](../current/shanemcintosh.jpg "Alex Wilson")
+:::
+<br>
+
+**Contact Information**:
+
+- Current Position: Research Engineer at Software Analytics Lab
+- Email: alex.wilson@example.com
+- Research Interests: Code Evolution Analysis, Software Metrics, Knowledge Loss Prevention
+
+**About me**:
+
+During my MSc studies, I focused on understanding how software systems evolve over time and developing methods to preserve critical development knowledge. My research contributed to better understanding of code evolution patterns and ways to prevent knowledge loss in software teams. Now, as a Research Engineer at Software Analytics Lab, I continue to work on developing tools and metrics that help teams better understand and manage their software systems.

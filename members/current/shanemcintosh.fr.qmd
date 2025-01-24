@@ -1,0 +1,11 @@
+---
+title: "Shane McIntosh"
+subtitle: "Professeur Principal"
+image: shanemcintosh.jpg
+---
+
+Shane McIntosh est professeur principal dans le groupe de recherche. Ses intérêts de recherche comprennent:
+
+- Systèmes de construction de logiciels
+- Intégration continue
+- Analyse empirique des logiciels

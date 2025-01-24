@@ -1,0 +1,27 @@
+---
+name: "Code Review Analytics Platform"
+title: "Code Review Analytics Platform"
+members: ["Shane McIntosh", "James Wilson", "Maria Garcia"]
+status: "Completed"
+categories: ["Completed", "Software Evolution", "Machine Learning"]
+github: "https://github.com/research-group/review-analytics"
+---
+**Team Members**: [{{< meta members.1 >}}](../members/current/shanemcintosh.qmd), {{< meta members.2 >}}, {{< meta members.3 >}}  
+**Status**: {{< meta status >}}  
+**Research Areas**: [{{< meta categories.2 >}}](../projects.qmd#category=Software+Evolution), [{{< meta categories.3 >}}](../projects.qmd#category=Machine+Learning)  
+**GitHub**: [Repository]({{< meta github >}})
+
+**Project Overview**: 
+This project developed an analytics platform for understanding code review practices and their impact on software quality. We analyzed historical code review data to identify patterns that lead to effective reviews and better code quality.
+
+**Key Achievements**:
+- Created ML models to predict review outcomes
+- Identified key factors in successful code reviews
+- Developed automated review assignment system
+- Published findings in top software engineering venues
+
+**Impact**:
+- Platform adopted by multiple open-source projects
+- Reduced review response times by 40%
+- Improved code quality metrics by 25%
+- Generated insights for improving review processes

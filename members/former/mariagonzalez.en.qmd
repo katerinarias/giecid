@@ -1,0 +1,30 @@
+---
+title: "Maria Gonzalez"
+subtitle: "Former PhD Student"
+image: "../current/shanemcintosh.jpg"
+title-block-banner: false
+format: html
+css: ../../styles.css
+listing:
+    contents:
+        - "../../publications/*.qmd"
+    template: ../../custom-listing.ejs
+    fields: [title, autores, categories, venue, preprint]
+    include:
+      autores: "{Maria Gonzalez}"
+---
+
+::: {.profile-image}
+![Maria Gonzalez](../current/shanemcintosh.jpg "Maria Gonzalez")
+:::
+<br>
+
+**Contact Information**:
+
+- Current Position: Senior Software Engineer at DevOps Solutions
+- Email: maria.gonzalez@example.com
+- Research Interests: Dependency Management, Build System Optimization, Software Evolution
+
+**About me**:
+
+My PhD research focused on improving build systems and dependency management in large-scale software projects. I developed innovative approaches to optimize build processes and manage complex dependency networks in evolving software systems. Now, as a Senior Software Engineer at DevOps Solutions, I apply my research expertise to solve real-world challenges in software development and deployment pipelines.

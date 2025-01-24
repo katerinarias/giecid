@@ -1,0 +1,8 @@
+---
+title: "New Industry Partnership with Microsoft Research"
+date: "2023-11-05"
+description: "Strategic partnership formed with Microsoft Research to study dependency management in large-scale systems, including PhD funding."
+link: "#"
+---
+
+Our research group has established a strategic partnership with Microsoft Research to investigate scalable approaches for dependency management in large-scale software systems. This collaboration includes funding for two PhD students and will provide unique access to real-world data from Microsoft's vast software ecosystem.

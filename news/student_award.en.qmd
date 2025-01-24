@@ -1,0 +1,8 @@
+---
+title: "Graduate Student Wins Distinguished Paper Award at FSE 2023"
+date: "2023-10-01"
+description: "PhD student Raj Patel receives Distinguished Paper Award at FSE 2023 for innovative work combining ML with static analysis."
+link: "#"
+---
+
+Raj Patel, a PhD student in our research group, has received the Distinguished Paper Award at FSE 2023 for his work on "Machine Learning-Based Static Analysis for Security Vulnerability Detection." The paper introduces innovative techniques that combine traditional static analysis with deep learning to improve the accuracy of security vulnerability detection in source code.

@@ -1,0 +1,8 @@
+---
+title: "Estudiante de Posgrado Gana Premio al Artículo Distinguido en FSE 2023"
+date: "2023-10-01"
+description: "El estudiante de doctorado Raj Patel recibe el Premio al Artículo Distinguido en FSE 2023 por trabajo innovador que combina ML con análisis estático."
+link: "#"
+---
+
+Raj Patel, estudiante de doctorado en nuestro grupo de investigación, ha recibido el Premio al Artículo Distinguido en FSE 2023 por su trabajo sobre "Análisis Estático Basado en Aprendizaje Automático para la Detección de Vulnerabilidades de Seguridad." El artículo introduce técnicas innovadoras que combinan el análisis estático tradicional con el aprendizaje profundo para mejorar la precisión en la detección de vulnerabilidades de seguridad en el código fuente.

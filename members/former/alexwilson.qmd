@@ -1,0 +1,30 @@
+---
+title: "Alex Wilson"
+subtitle: "Antiguo Estudiante de Maestría"
+image: "../current/shanemcintosh.jpg"
+title-block-banner: false
+format: html
+css: ../../styles.css
+listing:
+    contents:
+        - "../../publications/*.qmd"
+    template: ../../custom-listing.ejs
+    fields: [title, autores, categories, venue, preprint]
+    include:
+      autores: "{Alex Wilson}"
+---
+
+::: {.profile-image}
+![Alex Wilson](../current/shanemcintosh.jpg "Alex Wilson")
+:::
+<br>
+
+**Información de Contacto**:
+
+- Posición Actual: Ingeniero de Investigación en Software Analytics Lab
+- Correo electrónico: alex.wilson@example.com
+- Intereses de Investigación: Análisis de Evolución de Código, Métricas de Software, Prevención de Pérdida de Conocimiento
+
+**Sobre mí**:
+
+Durante mis estudios de maestría, me enfoqué en comprender cómo evolucionan los sistemas de software a lo largo del tiempo y en desarrollar métodos para preservar el conocimiento crítico del desarrollo. Mi investigación contribuyó a una mejor comprensión de los patrones de evolución del código y las formas de prevenir la pérdida de conocimiento en los equipos de software. Ahora, como Ingeniero de Investigación en Software Analytics Lab, continúo trabajando en el desarrollo de herramientas y métricas que ayudan a los equipos a comprender y gestionar mejor sus sistemas de software.

@@ -1,0 +1,27 @@
+---
+name: "Software Evolution Pattern Analysis"
+title: "Software Evolution Pattern Analysis"
+members: ["Shane McIntosh", "Rachel Kim", "Marco Silva"]
+status: "Active"
+categories: ["Active", "Software Evolution", "Machine Learning"]
+github: "https://github.com/research-group/evolution-patterns"
+---
+**Team Members**: [{{< meta members.1 >}}](../members/current/shanemcintosh.qmd), {{< meta members.2 >}}, {{< meta members.3 >}}  
+**Status**: {{< meta status >}}  
+**Research Areas**: [{{< meta categories.2 >}}](../projects.qmd#category=Software+Evolution), [{{< meta categories.3 >}}](../projects.qmd#category=Machine+Learning)  
+**GitHub**: [Repository]({{< meta github >}})
+
+**Project Overview**: 
+This project investigates patterns in software evolution to predict future maintenance needs and guide refactoring decisions. We analyze historical code changes to understand how software systems evolve and identify patterns that indicate potential maintenance issues.
+
+**Key Objectives**:
+- Develop models for predicting code decay
+- Identify patterns of problematic code evolution
+- Create automated refactoring recommendations
+- Build visualization tools for evolution patterns
+
+**Current Progress**:
+- Created evolution pattern detection system
+- Implemented initial prediction models
+- Developed interactive visualization prototype
+- Analyzing large-scale repository dataset

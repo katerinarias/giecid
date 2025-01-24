@@ -1,0 +1,35 @@
+---
+---
+
+## Nuestra Ubicación
+
+Nuestro grupo de investigación está ubicado en la Universidad Católica de Temuco.
+
+<iframe 
+    width="600" 
+    height="450" 
+    frameborder="0" 
+    scrolling="no" 
+    marginheight="0" 
+    marginwidth="0" 
+    src="https://www.openstreetmap.org/export/embed.html?bbox=-72.602050%2C-38.737942%2C-72.602050%2C-38.737942&amp;layer=mapnik&amp;marker=-38.737942%2C-72.602050">
+</iframe>
+
+### Contáctenos
+
+
+### Dirección
+
+Universidad Católica de Temuco  
+Campus San Francisco  
+Manuel Montt 56  
+Temuco, Chile
+
+### Cómo Llegar
+
+La universidad está ubicada en el centro de Temuco y es accesible a través de:
+
+- Rutas de buses públicos que sirven al centro de Temuco
+- Distancia caminable desde la Plaza de Armas
+- Servicios de taxi y transporte compartido
+- Rutas para bicicletas a través del centro de Temuco

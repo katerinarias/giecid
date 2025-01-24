@@ -1,0 +1,11 @@
+---
+title: "Shane McIntosh"
+subtitle: "Profesor Principal"
+image: shanemcintosh.jpg
+---
+
+Shane McIntosh es profesor principal en el grupo de investigación. Sus intereses de investigación incluyen:
+
+- Sistemas de construcción de software
+- Integración continua
+- Análisis empírico de software

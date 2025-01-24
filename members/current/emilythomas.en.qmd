@@ -1,0 +1,30 @@
+---
+title: "Emily Thomas"
+subtitle: "PhD Candidate"
+image: "shanemcintosh.jpg"
+title-block-banner: false
+format: html
+css: ../../styles.css
+listing:
+    contents:
+        - "../../publications/*.qmd"
+    template: ../../custom-listing.ejs
+    fields: [title, autores, categories, venue, preprint]
+    include:
+      autores: "{Emily Thomas}"
+---
+
+::: {.profile-image}
+![Emily Thomas](shanemcintosh.jpg "Emily Thomas")
+:::
+<br>
+
+**Contact Information**:
+
+- Email: emily.thomas@example.com   
+- Affiliation: Research Group
+- Research Interests: Build Failure Prediction, Mutation Testing, Automated CI Testing
+
+**About me**:
+
+I am a PhD candidate specializing in continuous integration and software testing. My research focuses on developing predictive models for build failures, improving mutation testing techniques, and enhancing automated testing in CI pipelines. I am passionate about helping development teams identify and prevent integration issues early in the development process, ultimately improving software quality and team productivity.

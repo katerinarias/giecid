@@ -1,0 +1,30 @@
+---
+title: "Filipe R. Cogo"
+subtitle: "Former PhD Student"
+image: "../current/shanemcintosh.jpg"
+title-block-banner: false
+format: html
+css: ../../styles.css
+listing:
+    contents:
+        - "../../publications/*.qmd"
+    template: ../../custom-listing.ejs
+    fields: [title, autores, categories, venue, preprint]
+    include:
+      autores: "{Filipe R. Cogo}"
+---
+
+::: {.profile-image}
+![Filipe R. Cogo](shanemcintosh.jpg "Filipe R. Cogo")
+:::
+<br>
+
+**Contact Information**:
+
+- Current Position: Research Scientist at Tech Corp
+- Email: filipe.cogo@example.com
+- Research Interests: Software Logging, Code Coverage Analysis, Software Testing
+
+**About me**:
+
+During my PhD research, I specialized in improving software quality through advanced logging and testing techniques. My work focused on developing more accurate code coverage analysis methods and enhancing software logging practices. Currently, as a Research Scientist at Tech Corp, I continue to advance the field of software testing and analysis, working on innovative solutions to help teams better understand and verify their software systems.

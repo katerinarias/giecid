@@ -1,0 +1,27 @@
+---
+name: "Sistema Inteligente de Gestión de Dependencias"
+title: "Sistema Inteligente de Gestión de Dependencias"
+members: ["Shane McIntosh", "Alex Kumar", "Sophie Martin"]
+status: "Completado"
+categories: ["Completed", "Software Evolution", "Program Analysis"]
+github: "https://github.com/research-group/smart-dependencies"
+---
+**Miembros del Equipo**: [{{< meta members.1 >}}](../members/current/shanemcintosh.qmd), {{< meta members.2 >}}, {{< meta members.3 >}}  
+**Estado**: {{< meta status >}}  
+**Áreas de Investigación**: [{{< meta categories.2 >}}](../projects.qmd#category=Software+Evolution), [{{< meta categories.3 >}}](../projects.qmd#category=Program+Analysis)  
+**GitHub**: [Repositorio]({{< meta github >}})
+
+**Descripción General del Proyecto**: 
+Este proyecto desarrolló un sistema inteligente para gestionar dependencias de software, enfocándose en implicaciones de seguridad, compatibilidad y rendimiento. Creamos herramientas para analizar grafos de dependencias y recomendar estrategias óptimas de actualización.
+
+**Logros Clave**:
+- Construcción de motor automatizado de análisis de dependencias
+- Desarrollo de modelos de predicción de compatibilidad
+- Creación de sistema inteligente de programación de actualizaciones
+- Implementación de seguimiento de vulnerabilidades de seguridad
+
+**Impacto**:
+- Reducción de errores relacionados con dependencias en un 60%
+- Automatización del 80% de las actualizaciones de dependencias
+- Disminución de vulnerabilidades de seguridad en un 45%
+- Herramientas integradas en principales gestores de paquetes

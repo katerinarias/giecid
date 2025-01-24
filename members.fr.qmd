@@ -1,0 +1,41 @@
+---
+title: "Membres"
+format: html
+listing:
+  - id: current-members
+    contents: "members/current/*.qmd"
+    type: grid
+    sort: "date desc"
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    fields: [image, title, subtitle]
+    field-display-names: 
+      subtitle: "Rôle"
+    template: member-grid.ejs
+  - id: former-members
+    contents: "members/former/*.fr.qmd"
+    type: grid
+    sort: "date desc"
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    fields: [image, title, subtitle]
+    field-display-names:
+      subtitle: "Rôle"
+    template: member-grid.ejs
+---
+
+## Membres Actuels
+
+:::: {.member-grid}
+::: {#current-members}
+:::
+::::
+
+## Anciens Membres
+
+:::: {.member-grid}
+::: {#former-members}
+:::
+::::

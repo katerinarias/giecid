@@ -1,0 +1,30 @@
+---
+title: "Faizan Khan"
+subtitle: "PhD Student"
+image: "shanemcintosh.jpg"
+title-block-banner: false
+format: html
+css: ../../styles.css
+listing:
+    contents:
+        - "../../publications/*.qmd"
+    template: ../../custom-listing.ejs
+    fields: [title, autores, categories, venue, preprint]
+    include:
+      autores: "{Faizan Khan}"
+---
+
+::: {.profile-image}
+![Faizan Khan](shanemcintosh.jpg "Faizan Khan")
+:::
+<br>
+
+**Contact Information**:
+
+- Email: faizan.khan@example.com   
+- Affiliation: Research Group
+- Research Interests: Continuous Integration, Static Analysis, Software Quality
+
+**About me**:
+
+I am a PhD student researching ways to improve software quality through advanced continuous integration practices and static analysis techniques. My work focuses on developing and enhancing tools that help development teams catch potential issues early in the development cycle. I am particularly interested in creating more efficient and accurate static analysis methods that can be seamlessly integrated into CI pipelines.

@@ -1,0 +1,30 @@
+---
+title: "Filipe R. Cogo"
+subtitle: "Antiguo Estudiante de Doctorado"
+image: "../current/shanemcintosh.jpg"
+title-block-banner: false
+format: html
+css: ../../styles.css
+listing:
+    contents:
+        - "../../publications/*.qmd"
+    template: ../../custom-listing.ejs
+    fields: [title, autores, categories, venue, preprint]
+    include:
+      autores: "{Filipe R. Cogo}"
+---
+
+::: {.profile-image}
+![Filipe R. Cogo](shanemcintosh.jpg "Filipe R. Cogo")
+:::
+<br>
+
+**Información de Contacto**:
+
+- Posición Actual: Científico Investigador en Tech Corp
+- Correo electrónico: filipe.cogo@example.com
+- Intereses de Investigación: Registro de Software, Análisis de Cobertura de Código, Pruebas de Software
+
+**Sobre mí**:
+
+Durante mi investigación doctoral, me especialicé en mejorar la calidad del software a través de técnicas avanzadas de registro y pruebas. Mi trabajo se centró en desarrollar métodos más precisos de análisis de cobertura de código y mejorar las prácticas de registro de software. Actualmente, como Científico Investigador en Tech Corp, continúo avanzando en el campo de pruebas y análisis de software, trabajando en soluciones innovadoras para ayudar a los equipos a comprender mejor y verificar sus sistemas de software.

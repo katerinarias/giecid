@@ -1,0 +1,30 @@
+---
+title: "David Kim"
+subtitle: "PhD Student"
+image: "shanemcintosh.jpg"
+title-block-banner: false
+format: html
+css: ../../styles.css
+listing:
+    contents:
+        - "../../publications/*.qmd"
+    template: ../../custom-listing.ejs
+    fields: [title, autores, categories, venue, preprint]
+    include:
+      autores: "{David Kim}"
+---
+
+::: {.profile-image}
+![David Kim](shanemcintosh.jpg "David Kim")
+:::
+<br>
+
+**Contact Information**:
+
+- Email: david.kim@example.com   
+- Affiliation: Research Group
+- Research Interests: Machine Learning for Static Analysis, Code Quality Prediction, Security Vulnerability Detection
+
+**About me**:
+
+I am a PhD student focusing on the intersection of machine learning and software engineering. My research explores innovative applications of ML techniques to enhance static code analysis, predict code quality metrics, and detect potential security vulnerabilities in software systems. Through my work, I aim to develop more accurate and efficient automated tools for software quality assurance.

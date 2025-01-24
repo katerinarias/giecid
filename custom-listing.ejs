@@ -1,0 +1,13 @@
+<ul class="list">
+  <% for (const item of items) { %>
+    <li type="1" <%= metadataAttrs(item) %>>
+      <h3><a href="<%- item.path %>"><%= item.title %></a></h3>
+      <div class="listing-autores"><strong>Authors</strong>:
+        <%= item.autores %>
+      </div>
+      <div class="listing-venue"><strong>Venue</strong>: <%= item.venue %></div>
+      <div class="listing-preprint"><strong>Preprint</strong>: [PDF](#<%= item.venue %>)</div>
+      <div class="listing-categories"><strong>Related Tags</strong>: <%= item.categories %></div>
+    </li>
+  <% } %>
+</ul>

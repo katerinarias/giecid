@@ -1,0 +1,27 @@
+---
+name: "Plataforma de Análisis de Revisión de Código"
+title: "Plataforma de Análisis de Revisión de Código"
+members: ["Shane McIntosh", "James Wilson", "Maria Garcia"]
+status: "Completado"
+categories: ["Completed", "Software Evolution", "Machine Learning"]
+github: "https://github.com/research-group/review-analytics"
+---
+**Miembros del Equipo**: [{{< meta members.1 >}}](../members/current/shanemcintosh.qmd), {{< meta members.2 >}}, {{< meta members.3 >}}  
+**Estado**: {{< meta status >}}  
+**Áreas de Investigación**: [{{< meta categories.2 >}}](../projects.qmd#category=Software+Evolution), [{{< meta categories.3 >}}](../projects.qmd#category=Machine+Learning)  
+**GitHub**: [Repositorio]({{< meta github >}})
+
+**Descripción General del Proyecto**: 
+Este proyecto desarrolló una plataforma de análisis para comprender las prácticas de revisión de código y su impacto en la calidad del software. Analizamos datos históricos de revisión de código para identificar patrones que conducen a revisiones efectivas y mejor calidad de código.
+
+**Logros Clave**:
+- Creación de modelos de ML para predecir resultados de revisiones
+- Identificación de factores clave en revisiones de código exitosas
+- Desarrollo de sistema automatizado de asignación de revisiones
+- Publicación de hallazgos en principales conferencias de ingeniería de software
+
+**Impacto**:
+- Plataforma adoptada por múltiples proyectos de código abierto
+- Reducción de tiempos de respuesta de revisión en un 40%
+- Mejora de métricas de calidad de código en un 25%
+- Generación de insights para mejorar procesos de revisión

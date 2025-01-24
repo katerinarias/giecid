@@ -1,0 +1,13 @@
+<ul class="list">
+  <% for (const item of items) { %>
+    <li type="1" <%= metadataAttrs(item) %>>
+      <h3><a href="<%- item.path %>"><%= item.title %></a></h3>
+      <div class="listing-members"><strong>Team Members</strong>:
+        <%= item.members.join(", ") %>
+      </div>
+      <div class="listing-status"><strong>Status</strong>: <%= item.status %></div>
+      <div class="listing-github"><strong>GitHub</strong>: <a href="<%= item.github %>" target="_blank">Repository</a></div>
+      <div class="listing-categories"><strong>Research Areas</strong>: <%= item.categories.slice(1).join(", ") %></div>
+    </li>
+  <% } %>
+</ul>

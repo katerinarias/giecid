@@ -1,0 +1,30 @@
+---
+title: "Yuki Liu"
+subtitle: "Former PhD Student"
+image: "../current/shanemcintosh.jpg"
+title-block-banner: false
+format: html
+css: ../../styles.css
+listing:
+    contents:
+        - "../../publications/*.qmd"
+    template: ../../custom-listing.ejs
+    fields: [title, autores, categories, venue, preprint]
+    include:
+      autores: "{Yuki Liu}"
+---
+
+::: {.profile-image}
+![Yuki Liu](../current/shanemcintosh.jpg "Yuki Liu")
+:::
+<br>
+
+**Contact Information**:
+
+- Current Position: Security Researcher at CyberSec Institute
+- Email: yuki.liu@example.com
+- Research Interests: Security Vulnerability Detection, Flaky Test Analysis, Test Suite Evolution
+
+**About me**:
+
+My PhD research focused on improving software security and testing practices, with particular emphasis on automated vulnerability detection and addressing flaky tests. I developed novel approaches for analyzing test suite evolution and identifying security vulnerabilities in software systems. Currently, as a Security Researcher at CyberSec Institute, I continue to advance the field of software security through research and development of automated vulnerability detection techniques.

@@ -1,0 +1,53 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "!.ipynb_checkpoints"
+
+format:
+  html:
+    theme:
+      light: [lightly, theme-light.scss]
+      dark: [darkly, theme-dark.scss]
+    css: styles.css
+    toc: false
+    page-layout: full
+    anchor-sections: false
+
+website:
+  title: "Educación en Contextos Diversos e Indígenas"
+  site-url: "https://katerinarias.github.io/giecid/"
+  description: "Grupo de Investigacion - Educación en Contextos Diversos e Indígenas"
+  navbar:
+    title: "GIECID"
+    search: true
+    logo: ./assets/logo.png
+    left:
+      - text: "Inicio"
+        href: index.qmd
+      - text: "Miembros"
+        href: members.qmd
+      - text: "Publicaciones"
+        href: publications.qmd
+      - text: "Proyectos"
+        href: projects.qmd
+      - text: "Contacto"
+        href: contact.qmd
+
+babelquarto:
+  languagelinks: navbar
+  languagecodes:
+  - name: es
+    text: "Español"
+  - name: en
+    text: "English"
+  - name: fr
+    text: "Français"
+  mainlanguage: 'es'
+  languages: ['en', 'fr']
+title-es: "Grupo de Investigación"
+title-fr: "Groupe de Recherche"
+description-es: "Sitio web del grupo de investigación"
+description-fr: "Site web du groupe de recherche"
+lang: es

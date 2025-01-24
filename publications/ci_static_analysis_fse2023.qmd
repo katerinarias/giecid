@@ -1,0 +1,25 @@
+---
+name: "Improving Continuous Integration with Static Analysis Tools"
+title: "Improving Continuous Integration with Static Analysis Tools"
+autores: ["Faizan Khan", "Maxime Lamothe"]
+venue: "FSE 2023"
+tags: [continuous integration, static analysis]
+categories: [FSE, "2023", "Software Evolution"]
+preprint: "../pdfs/tse2024_xu.pdf"
+---
+**Authors**: [{{< meta autores.1 >}}](../members/current/shanemcintosh.qmd), {{< meta autores.2 >}}  
+**Venue**: {{< meta venue >}}   
+**Related Tags**: [{{< meta categories.1 >}}](../publications.qmd#category=continuous+integration), [{{< meta categories.2 >}}](../publications.qmd#category=static+analysis)  
+**Pre-print**: [PDF]({{< meta preprint >}})  
+**Abstract**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua...   
+  
+
+**BibTeX**:
+```bibtex
+@article{example,
+  title = {{< meta title >}},
+  author = {{< meta autores.1 >}} and {{< meta autores.2 >}},
+  journal = {{< meta venue >}},
+  year = {{< meta tags.1 >}},
+}
+```

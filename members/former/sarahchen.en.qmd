@@ -1,0 +1,30 @@
+---
+title: "Sarah Chen"
+subtitle: "Former MSc Student"
+image: "../current/shanemcintosh.jpg"
+title-block-banner: false
+format: html
+css: ../../styles.css
+listing:
+    contents:
+        - "../../publications/*.qmd"
+    template: ../../custom-listing.ejs
+    fields: [title, autores, categories, venue, preprint]
+    include:
+      autores: "{Sarah Chen}"
+---
+
+::: {.profile-image}
+![Sarah Chen](../current/shanemcintosh.jpg "Sarah Chen")
+:::
+<br>
+
+**Contact Information**:
+
+- Current Position: Software Engineer at Cloud Solutions Inc.
+- Email: sarah.chen@example.com
+- Research Interests: Build System Performance, Developer Productivity, Software Metrics
+
+**About me**:
+
+During my MSc studies, I researched ways to improve build system performance and measure developer productivity through meaningful software metrics. My work contributed to understanding how build system optimizations impact developer workflows and productivity. Now at Cloud Solutions Inc., I leverage this research background to implement efficient build pipelines and productivity tracking systems that help development teams work more effectively.

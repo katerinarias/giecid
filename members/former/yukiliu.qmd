@@ -1,0 +1,30 @@
+---
+title: "Yuki Liu"
+subtitle: "Antigua Estudiante de Doctorado"
+image: "../current/shanemcintosh.jpg"
+title-block-banner: false
+format: html
+css: ../../styles.css
+listing:
+    contents:
+        - "../../publications/*.qmd"
+    template: ../../custom-listing.ejs
+    fields: [title, autores, categories, venue, preprint]
+    include:
+      autores: "{Yuki Liu}"
+---
+
+::: {.profile-image}
+![Yuki Liu](../current/shanemcintosh.jpg "Yuki Liu")
+:::
+<br>
+
+**Información de Contacto**:
+
+- Posición Actual: Investigadora de Seguridad en CyberSec Institute
+- Correo electrónico: yuki.liu@example.com
+- Intereses de Investigación: Detección de Vulnerabilidades de Seguridad, Análisis de Pruebas Inestables, Evolución de Suites de Pruebas
+
+**Sobre mí**:
+
+Mi investigación doctoral se centró en mejorar las prácticas de seguridad y pruebas de software, con especial énfasis en la detección automatizada de vulnerabilidades y el abordaje de pruebas inestables. Desarrollé enfoques novedosos para analizar la evolución de suites de pruebas e identificar vulnerabilidades de seguridad en sistemas de software. Actualmente, como Investigadora de Seguridad en CyberSec Institute, continúo avanzando en el campo de la seguridad de software a través de la investigación y el desarrollo de técnicas automatizadas de detección de vulnerabilidades.

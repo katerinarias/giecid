@@ -1,0 +1,30 @@
+---
+title: "Emily Thomas"
+subtitle: "Candidata a Doctorado"
+image: "shanemcintosh.jpg"
+title-block-banner: false
+format: html
+css: ../../styles.css
+listing:
+    contents:
+        - "../../publications/*.qmd"
+    template: ../../custom-listing.ejs
+    fields: [title, autores, categories, venue, preprint]
+    include:
+      autores: "{Emily Thomas}"
+---
+
+::: {.profile-image}
+![Emily Thomas](shanemcintosh.jpg "Emily Thomas")
+:::
+<br>
+
+**Información de Contacto**:
+
+- Correo electrónico: emily.thomas@example.com   
+- Afiliación: Grupo de Investigación
+- Intereses de Investigación: Predicción de Fallos de Compilación, Pruebas de Mutación, Pruebas Automatizadas de CI
+
+**Sobre mí**:
+
+Soy candidata a doctorado especializada en integración continua y pruebas de software. Mi investigación se centra en desarrollar modelos predictivos para fallos de compilación, mejorar técnicas de pruebas de mutación y optimizar las pruebas automatizadas en pipelines de CI. Me apasiona ayudar a los equipos de desarrollo a identificar y prevenir problemas de integración temprano en el proceso de desarrollo, mejorando en última instancia la calidad del software y la productividad del equipo.

@@ -1,0 +1,12 @@
+---
+title: Liste des Publications
+listing:
+    contents:
+        - "publications/*.qmd"
+    template: custom-listing.ejs
+    fields: [title, autores, categories, venue, preprint]
+    categories: true
+    sort-ui: [categories]
+    field-display-names:
+        categories: "Catégories"
+---

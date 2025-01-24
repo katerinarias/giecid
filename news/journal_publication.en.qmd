@@ -1,0 +1,8 @@
+---
+title: "Major Publication in IEEE Transactions on Software Engineering"
+date: "2023-10-15"
+description: "Research on detecting and eliminating resource waste in CI environments accepted for publication in prestigious IEEE TSE journal."
+link: "#"
+---
+
+Our research on "Automated Detection of Resource Waste in Continuous Integration Environments" has been accepted for publication in IEEE Transactions on Software Engineering (TSE). This work presents novel techniques for identifying and eliminating computational resource waste in CI/CD pipelines, potentially leading to significant cost savings for software organizations.

@@ -1,0 +1,19 @@
+---
+title: "Prédiction des Échecs de Construction par Apprentissage Automatique"
+autores: "Shane McIntosh, Maria González, David Kim"
+venue: "International Conference on Software Engineering (ICSE)"
+year: 2024
+categories: ["Intégration Continue", "Apprentissage Automatique"]
+preprint: "../pdfs/tse2024_xu.pdf"
+---
+
+## Résumé
+
+Cet article présente une approche novatrice pour prédire les échecs de construction de logiciels en utilisant des techniques d'apprentissage automatique. Notre modèle peut identifier les échecs de construction potentiels avant qu'ils ne se produisent, permettant aux équipes de développement de prendre des mesures préventives.
+
+## Contributions Principales
+
+- Développement d'un modèle prédictif pour les échecs de construction
+- Analyse approfondie des modèles d'échec dans les systèmes CI
+- Évaluation empirique sur des projets logiciels open source
+- Outil open source pour la prédiction des échecs

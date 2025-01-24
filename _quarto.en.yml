@@ -1,0 +1,14 @@
+website:
+  navbar:
+    title: "GIECID"
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Members"
+        href: members.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "Contact"
+        href: contact.qmd

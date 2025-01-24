@@ -1,0 +1,27 @@
+---
+name: "Intelligent Dependency Management System"
+title: "Intelligent Dependency Management System"
+members: ["Shane McIntosh", "Alex Kumar", "Sophie Martin"]
+status: "Completed"
+categories: ["Completed", "Software Evolution", "Program Analysis"]
+github: "https://github.com/research-group/smart-dependencies"
+---
+**Team Members**: [{{< meta members.1 >}}](../members/current/shanemcintosh.qmd), {{< meta members.2 >}}, {{< meta members.3 >}}  
+**Status**: {{< meta status >}}  
+**Research Areas**: [{{< meta categories.2 >}}](../projects.qmd#category=Software+Evolution), [{{< meta categories.3 >}}](../projects.qmd#category=Program+Analysis)  
+**GitHub**: [Repository]({{< meta github >}})
+
+**Project Overview**: 
+This project developed an intelligent system for managing software dependencies, focusing on security, compatibility, and performance implications. We created tools to analyze dependency graphs and recommend optimal update strategies.
+
+**Key Achievements**:
+- Built automated dependency analysis engine
+- Developed compatibility prediction models
+- Created intelligent update scheduling system
+- Implemented security vulnerability tracking
+
+**Impact**:
+- Reduced dependency-related bugs by 60%
+- Automated 80% of dependency updates
+- Decreased security vulnerabilities by 45%
+- Tools integrated into major package managers
