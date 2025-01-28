@@ -8,7 +8,7 @@
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.6.40">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-<title>Predicción de Fallos de Construcción Usando Aprendizaje Automático – Educación en Contextos Diversos e Indígenas</title>
+<title>Predicting Build Failures in Modern Software Systems – Educación en Contextos Diversos e Indígenas</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -20,6 +20,40 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script><script src="../site_libs/quarto-nav/headroom.min.js"></script><script src="../site_libs/clipboard/clipboard.min.js"></script><script src="../site_libs/quarto-search/autocomplete.umd.js"></script><script src="../site_libs/quarto-search/fuse.min.js"></script><script src="../site_libs/quarto-search/quarto-search.js"></script><meta name="quarto:offset" content="../">
@@ -112,10 +146,11 @@ ul.task-list li input[type="checkbox"] {
     
 <!-- main -->
 <main class="content column-page" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block default"><div class="quarto-title">
-<h1 class="title">Predicción de Fallos de Construcción Usando Aprendizaje Automático</h1>
+<h1 class="title">Predicting Build Failures in Modern Software Systems</h1>
   <div class="quarto-categories">
-    <div class="quarto-category">Integración Continua</div>
-    <div class="quarto-category">Aprendizaje Automático</div>
+    <div class="quarto-category">2024</div>
+    <div class="quarto-category">ICSE</div>
+    <div class="quarto-category">Software Quality</div>
   </div>
   </div>
 
@@ -130,15 +165,18 @@ ul.task-list li input[type="checkbox"] {
   
 
 
-</header><section id="resumen" class="level2"><h2 data-anchor-id="resumen">Resumen</h2>
-<p>Este artículo presenta un enfoque novedoso para predecir fallos en la construcción de software utilizando técnicas de aprendizaje automático. Nuestro modelo puede identificar potenciales fallos de construcción antes de que ocurran, permitiendo a los equipos de desarrollo tomar medidas preventivas.</p>
-</section><section id="contribuciones-principales" class="level2"><h2 data-anchor-id="contribuciones-principales">Contribuciones Principales</h2>
-<ul>
-<li>Desarrollo de un modelo predictivo para fallos de construcción</li>
-<li>Análisis exhaustivo de patrones de fallo en sistemas CI</li>
-<li>Evaluación empírica en proyectos de software de código abierto</li>
-<li>Herramienta de código abierto para la predicción de fallos</li>
-</ul></section></main><!-- /main --><script id="quarto-html-after-body" type="application/javascript">
+</header><p><strong>Autores</strong>: <a href="../members/current/rajpatel.html">Raj Patel</a>, Farshad Kazemi<br><strong>Evento</strong>: ICSE 2024<br><strong>Categorias</strong>: <a href="../publications.html#category=2024">2024</a>, <a href="../publications.html#category=ICSE">ICSE</a>, <a href="../publications.html#category=Software+Quality">Software Quality</a><br><strong>Pre-print</strong>: <a href="../pdfs/template.pdf">PDF</a><br><strong>Resumen</strong>: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua…</p>
+<p><strong>BibTeX</strong>:</p>
+<div class="sourceCode" id="cb1"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="va">@article</span>{<span class="ot">example</span>,</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>  <span class="dt">title</span> = <span class="st">Predicting</span> <span class="st">Build</span> <span class="st">Failures</span> <span class="st">in</span> <span class="st">Modern</span> <span class="st">Software</span> <span class="st">Systems</span>,</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>  <span class="dt">author</span> = <span class="st">Raj</span> <span class="st">Patel</span> <span class="st">and</span> <span class="st">Farshad</span> <span class="st">Kazemi</span>,</span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a>  <span class="dt">journal</span> = <span class="st">ICSE</span> 2024,</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a>  <span class="dt">year</span> = 2024,</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>}</span></code><button title="Copiar al portapapeles" class="code-copy-button"><i class="bi"></i></button></pre></div>
+
+
+
+</main><!-- /main --><script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
     const mode = bsSheetEl.getAttribute("data-mode");

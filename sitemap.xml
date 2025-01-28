@@ -1,195 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://katerinarias.github.io/giecid/publications/resource_waste_analysis_emse2022.html</loc>
-    <lastmod>2025-01-24T19:12:33.769Z</lastmod>
-  </url>
-  <url>
-    <loc>https://katerinarias.github.io/giecid/publications/log_coverage_tse2024.html</loc>
-    <lastmod>2025-01-24T19:12:33.769Z</lastmod>
-  </url>
-  <url>
-    <loc>https://katerinarias.github.io/giecid/publications/flaky_tests_msr2018.html</loc>
-    <lastmod>2025-01-24T19:12:33.769Z</lastmod>
-  </url>
-  <url>
-    <loc>https://katerinarias.github.io/giecid/publications/build_performance_tse2020.html</loc>
-    <lastmod>2025-01-24T19:12:33.769Z</lastmod>
-  </url>
-  <url>
     <loc>https://katerinarias.github.io/giecid/publications/build_failure_prediction_icse2024.html</loc>
-    <lastmod>2025-01-24T19:12:33.769Z</lastmod>
-  </url>
-  <url>
-    <loc>https://katerinarias.github.io/giecid/publications.html</loc>
-    <lastmod>2025-01-24T19:12:33.770Z</lastmod>
-  </url>
-  <url>
-    <loc>https://katerinarias.github.io/giecid/projects/mutation_testing_framework.html</loc>
-    <lastmod>2025-01-24T19:12:33.769Z</lastmod>
-  </url>
-  <url>
-    <loc>https://katerinarias.github.io/giecid/projects/developer_productivity_metrics.html</loc>
-    <lastmod>2025-01-24T19:12:33.769Z</lastmod>
-  </url>
-  <url>
-    <loc>https://katerinarias.github.io/giecid/projects/code_review_analytics.html</loc>
-    <lastmod>2025-01-24T19:12:33.769Z</lastmod>
-  </url>
-  <url>
-    <loc>https://katerinarias.github.io/giecid/projects/build_failure_prediction.html</loc>
-    <lastmod>2025-01-24T19:12:33.769Z</lastmod>
-  </url>
-  <url>
-    <loc>https://katerinarias.github.io/giecid/projects.html</loc>
-    <lastmod>2025-01-24T19:12:33.769Z</lastmod>
-  </url>
-  <url>
-    <loc>https://katerinarias.github.io/giecid/news/tool_release.html</loc>
-    <lastmod>2025-01-24T19:12:33.716Z</lastmod>
-  </url>
-  <url>
-    <loc>https://katerinarias.github.io/giecid/news/research_collaboration_mit.html</loc>
-    <lastmod>2025-01-24T19:12:33.716Z</lastmod>
-  </url>
-  <url>
-    <loc>https://katerinarias.github.io/giecid/news/nsf_grant_awarded.html</loc>
-    <lastmod>2025-01-24T19:12:33.716Z</lastmod>
-  </url>
-  <url>
-    <loc>https://katerinarias.github.io/giecid/news/new_grant_awarded.html</loc>
-    <lastmod>2025-01-24T19:12:33.715Z</lastmod>
-  </url>
-  <url>
-    <loc>https://katerinarias.github.io/giecid/news/journal_publication.html</loc>
-    <lastmod>2025-01-24T19:12:33.715Z</lastmod>
-  </url>
-  <url>
-    <loc>https://katerinarias.github.io/giecid/news/best_paper_icse.html</loc>
-    <lastmod>2025-01-24T19:12:33.715Z</lastmod>
-  </url>
-  <url>
-    <loc>https://katerinarias.github.io/giecid/members/former/sarahchen.html</loc>
-    <lastmod>2025-01-24T19:12:33.715Z</lastmod>
-  </url>
-  <url>
-    <loc>https://katerinarias.github.io/giecid/members/former/filipecogo.html</loc>
-    <lastmod>2025-01-24T19:12:33.715Z</lastmod>
-  </url>
-  <url>
-    <loc>https://katerinarias.github.io/giecid/members/current/shanemcintosh.html</loc>
-    <lastmod>2025-01-24T19:12:33.715Z</lastmod>
-  </url>
-  <url>
-    <loc>https://katerinarias.github.io/giecid/members/current/maximelamothe.html</loc>
-    <lastmod>2025-01-24T19:12:33.712Z</lastmod>
-  </url>
-  <url>
-    <loc>https://katerinarias.github.io/giecid/members/current/emilythomas.html</loc>
-    <lastmod>2025-01-24T19:12:33.712Z</lastmod>
-  </url>
-  <url>
-    <loc>https://katerinarias.github.io/giecid/members.html</loc>
-    <lastmod>2025-01-24T19:12:33.715Z</lastmod>
-  </url>
-  <url>
-    <loc>https://katerinarias.github.io/giecid/contact.html</loc>
-    <lastmod>2025-01-24T19:12:33.712Z</lastmod>
-  </url>
-  <url>
-    <loc>https://katerinarias.github.io/giecid/about.html</loc>
-    <lastmod>2025-01-24T19:12:33.711Z</lastmod>
-  </url>
-  <url>
-    <loc>https://katerinarias.github.io/giecid/index.html</loc>
-    <lastmod>2025-01-24T19:12:33.712Z</lastmod>
-  </url>
-  <url>
-    <loc>https://katerinarias.github.io/giecid/members/current/davidkim.html</loc>
-    <lastmod>2025-01-24T19:12:33.712Z</lastmod>
-  </url>
-  <url>
-    <loc>https://katerinarias.github.io/giecid/members/current/faizankhan.html</loc>
-    <lastmod>2025-01-24T19:12:33.712Z</lastmod>
-  </url>
-  <url>
-    <loc>https://katerinarias.github.io/giecid/members/current/rajpatel.html</loc>
-    <lastmod>2025-01-24T19:12:33.712Z</lastmod>
-  </url>
-  <url>
-    <loc>https://katerinarias.github.io/giecid/members/former/alexwilson.html</loc>
-    <lastmod>2025-01-24T19:12:33.715Z</lastmod>
-  </url>
-  <url>
-    <loc>https://katerinarias.github.io/giecid/members/former/mariagonzalez.html</loc>
-    <lastmod>2025-01-24T19:12:33.715Z</lastmod>
-  </url>
-  <url>
-    <loc>https://katerinarias.github.io/giecid/members/former/yukiliu.html</loc>
-    <lastmod>2025-01-24T19:12:33.715Z</lastmod>
-  </url>
-  <url>
-    <loc>https://katerinarias.github.io/giecid/news/industry_partnership.html</loc>
-    <lastmod>2025-01-24T19:12:33.715Z</lastmod>
-  </url>
-  <url>
-    <loc>https://katerinarias.github.io/giecid/news/keynote_ase.html</loc>
-    <lastmod>2025-01-24T19:12:33.715Z</lastmod>
-  </url>
-  <url>
-    <loc>https://katerinarias.github.io/giecid/news/new_paper_acceptance.html</loc>
-    <lastmod>2025-01-24T19:12:33.716Z</lastmod>
-  </url>
-  <url>
-    <loc>https://katerinarias.github.io/giecid/news/phd_defense_success.html</loc>
-    <lastmod>2025-01-24T19:12:33.716Z</lastmod>
-  </url>
-  <url>
-    <loc>https://katerinarias.github.io/giecid/news/student_award.html</loc>
-    <lastmod>2025-01-24T19:12:33.716Z</lastmod>
-  </url>
-  <url>
-    <loc>https://katerinarias.github.io/giecid/news/workshop_organization.html</loc>
-    <lastmod>2025-01-24T19:12:33.716Z</lastmod>
+    <lastmod>2025-01-28T19:11:53.310Z</lastmod>
   </url>
   <url>
     <loc>https://katerinarias.github.io/giecid/projects/automated_ci_testing.html</loc>
-    <lastmod>2025-01-24T19:12:33.768Z</lastmod>
+    <lastmod>2025-01-28T19:11:53.310Z</lastmod>
   </url>
   <url>
-    <loc>https://katerinarias.github.io/giecid/projects/code_evolution_analysis.html</loc>
-    <lastmod>2025-01-24T19:12:33.769Z</lastmod>
+    <loc>https://katerinarias.github.io/giecid/news/best_paper_icse.html</loc>
+    <lastmod>2025-01-28T19:11:53.258Z</lastmod>
   </url>
   <url>
-    <loc>https://katerinarias.github.io/giecid/projects/dependency_management.html</loc>
-    <lastmod>2025-01-24T19:12:33.769Z</lastmod>
+    <loc>https://katerinarias.github.io/giecid/members/current/rajpatel.html</loc>
+    <lastmod>2025-01-28T19:11:53.257Z</lastmod>
   </url>
   <url>
-    <loc>https://katerinarias.github.io/giecid/projects/ml_static_analysis.html</loc>
-    <lastmod>2025-01-24T19:12:33.769Z</lastmod>
+    <loc>https://katerinarias.github.io/giecid/index.html</loc>
+    <lastmod>2025-01-28T19:11:53.257Z</lastmod>
   </url>
   <url>
-    <loc>https://katerinarias.github.io/giecid/projects/security_vulnerability_detection.html</loc>
-    <lastmod>2025-01-24T19:12:33.769Z</lastmod>
+    <loc>https://katerinarias.github.io/giecid/contact.html</loc>
+    <lastmod>2025-01-28T19:11:53.257Z</lastmod>
   </url>
   <url>
-    <loc>https://katerinarias.github.io/giecid/publications/antipatterns_analysis_ase2021.html</loc>
-    <lastmod>2025-01-24T19:12:33.769Z</lastmod>
+    <loc>https://katerinarias.github.io/giecid/members.html</loc>
+    <lastmod>2025-01-28T19:11:53.257Z</lastmod>
   </url>
   <url>
-    <loc>https://katerinarias.github.io/giecid/publications/build_optimization_apsec2017.html</loc>
-    <lastmod>2025-01-24T19:12:33.769Z</lastmod>
+    <loc>https://katerinarias.github.io/giecid/members/former/alexwilson.html</loc>
+    <lastmod>2025-01-28T19:11:53.257Z</lastmod>
   </url>
   <url>
-    <loc>https://katerinarias.github.io/giecid/publications/ci_static_analysis_fse2023.html</loc>
-    <lastmod>2025-01-24T19:12:33.769Z</lastmod>
+    <loc>https://katerinarias.github.io/giecid/projects.html</loc>
+    <lastmod>2025-01-28T19:11:53.310Z</lastmod>
   </url>
   <url>
-    <loc>https://katerinarias.github.io/giecid/publications/knowledge_loss_esem2016.html</loc>
-    <lastmod>2025-01-24T19:12:33.769Z</lastmod>
-  </url>
-  <url>
-    <loc>https://katerinarias.github.io/giecid/publications/metrics_sonification_icsme2019.html</loc>
-    <lastmod>2025-01-24T19:12:33.769Z</lastmod>
+    <loc>https://katerinarias.github.io/giecid/publications.html</loc>
+    <lastmod>2025-01-28T19:11:53.310Z</lastmod>
   </url>
 </urlset>
