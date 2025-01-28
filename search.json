@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "publications/significados_y_expectativas_de_educacion_rural_de_madres_mapuches_en_la_araucania.html",
+    "href": "publications/significados_y_expectativas_de_educacion_rural_de_madres_mapuches_en_la_araucania.html",
+    "title": "Significados y Expectativas de Educación Rural de Madres Mapuches en La Araucanía, Chile",
+    "section": "",
+    "text": "Autores: Viviana Villarroel, Katerin Arias\nEvento: Revista Internacional de Educación para la Justicia Social\nCategorias: 2024, RIEJS, Educación rural, Relación educativa, Madres indígenas, Expectativas, Contexto indígena\nPre-print: PDF\nResumen: El artículo expone resultados de investigación que dan cuenta de la construcción de significados y expectativas de madres mapuches de La Araucanía, Chile, respecto a la educación escolar rural que cursaron y que hoy reciben sus hijos y nietos. La metodología es cualitativa, se entrevistaron a seis madres mapuches quienes vivieron procesos de escolarización y que envían a sus hijos y nietos a la misma escuela. Los datos se analizaron a través del análisis de contenido a fin de identificar los sentidos explícitos y latentes que han construido las madres en torno a su experiencia. Los principales resultados dan cuenta que las madres mapuches tienen recuerdos de experiencias traumáticas en su proceso de escolarización, sustentadas en el castigo físico y simbólico. Sin embargo, deciden continuar enviando a sus hijos y nietos a esos mismos espacios áulicos con la esperanza que puedan lograr un mejor devenir económico. Asimismo, tienen la esperanza que a mayor educación tendrán una relación de respeto y valoración de su ser mapuche en la sociedad. Concluimos, que históricamente la educación escolar se ha caracterizado por ser una escuela opresora y castigadora que en la actualidad ha buscado su transformación bajo un discurso de relaciones de respeto y de valoración de la diversidad social y cultural.\nBibTeX:\n@article{example,\n  title = Significados y Expectativas de Educación Rural de Madres Mapuches en La Araucanía, Chile,\n  author = Viviana Villarroel and Katerin Arias,\n  journal = Revista Internacional de Educación para la Justicia Social,\n  year = 2024,\n}"
+  },
+  {
     "objectID": "publications/build_failure_prediction_icse2024.html",
     "href": "publications/build_failure_prediction_icse2024.html",
     "title": "Predicting Build Failures in Modern Software Systems",
@@ -7,25 +14,32 @@
     "text": "Autores: Raj Patel, Farshad Kazemi\nEvento: ICSE 2024\nCategorias: 2024, ICSE, Software Quality\nPre-print: PDF\nResumen: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua…\nBibTeX:\n@article{example,\n  title = Predicting Build Failures in Modern Software Systems,\n  author = Raj Patel and Farshad Kazemi,\n  journal = ICSE 2024,\n  year = 2024,\n}"
   },
   {
-    "objectID": "projects/automated_ci_testing.html",
-    "href": "projects/automated_ci_testing.html",
-    "title": "Pruebas Automatizadas en Pipelines de Integración Continua",
+    "objectID": "projects/principios_de_la_pedagogia_y_educacion_indigena.html",
+    "href": "projects/principios_de_la_pedagogia_y_educacion_indigena.html",
+    "title": "Principios de la Pedagogía y educación indígena: aportes para una educación intercultural para todos",
     "section": "",
-    "text": "Miembros del Equipo: Raj Patel, Sarah Chen\nEstado: Activo\nÁreas de Investigación: Software Testing, Continuous Integration\nGitHub: Repositorio\nDescripción General del Proyecto: Este proyecto investiga enfoques novedosos para mejorar las pruebas automatizadas en pipelines de CI. Nos enfocamos en desarrollar estrategias inteligentes de selección y priorización de pruebas que puedan reducir los tiempos de compilación mientras mantienen la efectividad de las pruebas.\nObjetivos Clave: - Desarrollar modelos de aprendizaje automático para la selección de pruebas - Crear algoritmos adaptativos de priorización de pruebas - Reducir el tiempo de ejecución del pipeline de CI - Mantener o mejorar la cobertura y efectividad de las pruebas\nProgreso Actual: - Completada la recolección inicial de datos de proyectos de código abierto - Implementado prototipo de algoritmo de selección de pruebas - Evaluando el rendimiento en pipelines de CI del mundo real - Preparando marco experimental para análisis comparativo"
+    "text": "Miembros del Equipo: Katerin Arias Fuente de Financiamiento: \nPeríodo de ejecución: 2022 - 2025\nRol en el Proyecto: Co-Investigadora\nLink de acceso: link\nDescripción General del Proyecto: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua…\nObjetivos Clave: - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua…\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua…\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua…\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua…\nProgreso Actual: - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua…\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua…\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua…\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua…"
   },
   {
-    "objectID": "news/best_paper_icse.html",
-    "href": "news/best_paper_icse.html",
-    "title": "Premio al Mejor Artículo en ICSE 2024",
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Proyectos de Investigación",
     "section": "",
-    "text": "Nos complace anunciar que nuestro artículo “Build Failure Prediction Using Machine Learning” ha sido galardonado con el premio al mejor artículo en la International Conference on Software Engineering (ICSE) 2024.\nEste reconocimiento destaca la importancia de nuestro trabajo en la predicción de fallos en la construcción de software utilizando técnicas de aprendizaje automático."
+    "text": "Ordenar por\n       Por defecto\n         \n          Categorías\n        \n     \n  \n\n\n\n\nInternados en contexto mapuche: aportes para el bienestar y desarrollo de la identidad sociocultural que favorezcan la educación en contexto indígena\n\n\nTeam Members: Katerin Arias\n\n\nPeríodo de ejecución: 2024 - 2027\n\n\nLink de acceso: Link\n\n\n\n\nPrincipios de la Pedagogía y educación indígena: aportes para una educación intercultural para todos\n\n\nTeam Members: Katerin Arias\n\n\nPeríodo de ejecución: 2022 - 2025\n\n\nLink de acceso: Link\n\n\n\n\nNo hay resultados"
   },
   {
-    "objectID": "members/current/rajpatel.html",
-    "href": "members/current/rajpatel.html",
-    "title": "Raj Patel",
+    "objectID": "members/former/alexwilson.html",
+    "href": "members/former/alexwilson.html",
+    "title": "Alex Wilson",
     "section": "",
-    "text": "Raj Patel\n\n\n\n\nInformación de Contacto:\n\nCorreo electrónico: raj.patel@example.com\n\nAfiliación: Grupo de Investigación\nIntereses de Investigación: Análisis de Revisión de Código, Métricas de Productividad del Desarrollador, Gestión del Conocimiento\n\nSobre mí:\nSoy estudiante de maestría enfocado en mejorar los procesos de desarrollo de software a través de insights basados en datos. Mi investigación explora cómo mejorar las prácticas de revisión de código y medir la productividad del desarrollador de manera efectiva. Estoy particularmente interesado en comprender cómo fluye el conocimiento a través de los equipos de desarrollo y en crear herramientas que puedan ayudar a capturar y compartir este conocimiento de manera más eficiente.\n\n\n\n\n\n\n\n\nPredicting Build Failures in Modern Software Systems\n\n\nAuthors: Raj Patel,Farshad Kazemi\n\n\nVenue: ICSE 2024\n\n\nPreprint: PDF\n\n\nRelated Tags: 2024,ICSE,Software Quality\n\n\n\n\nNo hay resultados"
+    "text": "Alex Wilson\n\n\n\n\nInformación de Contacto:\n\nPosición Actual: Ingeniero de Investigación en Software Analytics Lab\nCorreo electrónico: alex.wilson@example.com\nIntereses de Investigación: Análisis de Evolución de Código, Métricas de Software, Prevención de Pérdida de Conocimiento\n\nSobre mí:\nDurante mis estudios de maestría, me enfoqué en comprender cómo evolucionan los sistemas de software a lo largo del tiempo y en desarrollar métodos para preservar el conocimiento crítico del desarrollo. Mi investigación contribuyó a una mejor comprensión de los patrones de evolución del código y las formas de prevenir la pérdida de conocimiento en los equipos de software. Ahora, como Ingeniero de Investigación en Software Analytics Lab, continúo trabajando en el desarrollo de herramientas y métricas que ayudan a los equipos a comprender y gestionar mejor sus sistemas de software.\n\n\n\n\n\n\n\n\nNo hay resultados"
+  },
+  {
+    "objectID": "members/current/katerinarias.html",
+    "href": "members/current/katerinarias.html",
+    "title": "Katerin Arias",
+    "section": "",
+    "text": "Katerin Arias\n\n\n\n\nInformación de Contacto:\n\nCorreo electrónico: karias@uct.cl\nAfiliación: Facultad de Ciencias de Salud\nIntereses de Investigación: Educación e Interculturalidad\n\nSobre mí:\nProfesora de Educación General Básica con especialización en educación intercultural en contexto mapuche. Doctora en Ciencias de la Educación, Universidad Católica de Temuco, 2019, Chile. Magíster en Educación, mención Currículum y Evaluación, Universidad Mayor, Temuco, Chile.\n\n\n\n\n\n\n\n\nDesafíos de la relación familia-escuela en contexto mapuche: aproximación desde los profesores\n\n\nAuthors: Katerin Arias,Mariela Gajardo,Juan Sierpe,Yislen Santini\n\n\nVenue: FONDECYT\n\n\nPreprint: PDF\n\n\nRelated Tags: 2024,FONDECYT,Relación familia-escuela,Relación educativa intercultural,Educación indígena,Relaciones de poder,Contexto indígena\n\n\n\n\nSignificados y Expectativas de Educación Rural de Madres Mapuches en La Araucanía, Chile\n\n\nAuthors: Viviana Villarroel,Katerin Arias\n\n\nVenue: Revista Internacional de Educación para la Justicia Social\n\n\nPreprint: PDF\n\n\nRelated Tags: 2024,RIEJS,Educación rural,Relación educativa,Madres indígenas,Expectativas,Contexto indígena\n\n\n\n\nNo hay resultados"
   },
   {
     "objectID": "index.html",
@@ -67,14 +81,14 @@
     "href": "members.html",
     "title": "Miembros",
     "section": "",
-    "text": "Estudiante de Maestría\n\n\n\n\nNo hay resultados"
+    "text": "Profesora en Educación General Básica\n\n\n\n  \n\n\nEstudiante de Maestría\n\n\n\n\nNo hay resultados"
   },
   {
     "objectID": "members.html#miembros-actuales",
     "href": "members.html#miembros-actuales",
     "title": "Miembros",
     "section": "",
-    "text": "Estudiante de Maestría\n\n\n\n\nNo hay resultados"
+    "text": "Profesora en Educación General Básica\n\n\n\n  \n\n\nEstudiante de Maestría\n\n\n\n\nNo hay resultados"
   },
   {
     "objectID": "members.html#antiguos-miembros",
@@ -84,24 +98,38 @@
     "text": "Antiguos Miembros\n\n\n\n\n  \n\nAlex Wilson\n\n\nAntiguo Estudiante de Maestría\n\n\n\n\nNo hay resultados"
   },
   {
-    "objectID": "members/former/alexwilson.html",
-    "href": "members/former/alexwilson.html",
-    "title": "Alex Wilson",
+    "objectID": "members/current/rajpatel.html",
+    "href": "members/current/rajpatel.html",
+    "title": "Raj Patel",
     "section": "",
-    "text": "Alex Wilson\n\n\n\n\nInformación de Contacto:\n\nPosición Actual: Ingeniero de Investigación en Software Analytics Lab\nCorreo electrónico: alex.wilson@example.com\nIntereses de Investigación: Análisis de Evolución de Código, Métricas de Software, Prevención de Pérdida de Conocimiento\n\nSobre mí:\nDurante mis estudios de maestría, me enfoqué en comprender cómo evolucionan los sistemas de software a lo largo del tiempo y en desarrollar métodos para preservar el conocimiento crítico del desarrollo. Mi investigación contribuyó a una mejor comprensión de los patrones de evolución del código y las formas de prevenir la pérdida de conocimiento en los equipos de software. Ahora, como Ingeniero de Investigación en Software Analytics Lab, continúo trabajando en el desarrollo de herramientas y métricas que ayudan a los equipos a comprender y gestionar mejor sus sistemas de software.\n\n\n\n\n\n\n\n\nNo hay resultados"
+    "text": "Raj Patel\n\n\n\n\nInformación de Contacto:\n\nCorreo electrónico: raj.patel@example.com\n\nAfiliación: Grupo de Investigación\nIntereses de Investigación: Análisis de Revisión de Código, Métricas de Productividad del Desarrollador, Gestión del Conocimiento\n\nSobre mí:\nSoy estudiante de maestría enfocado en mejorar los procesos de desarrollo de software a través de insights basados en datos. Mi investigación explora cómo mejorar las prácticas de revisión de código y medir la productividad del desarrollador de manera efectiva. Estoy particularmente interesado en comprender cómo fluye el conocimiento a través de los equipos de desarrollo y en crear herramientas que puedan ayudar a capturar y compartir este conocimiento de manera más eficiente.\n\n\n\n\n\n\n\n\nPredicting Build Failures in Modern Software Systems\n\n\nAuthors: Raj Patel,Farshad Kazemi\n\n\nVenue: ICSE 2024\n\n\nPreprint: PDF\n\n\nRelated Tags: 2024,ICSE,Software Quality\n\n\n\n\nNo hay resultados"
   },
   {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Proyectos de Investigación",
+    "objectID": "news/best_paper_icse.html",
+    "href": "news/best_paper_icse.html",
+    "title": "Premio al Mejor Artículo en ICSE 2024",
     "section": "",
-    "text": "Ordenar por\n       Por defecto\n         \n          Categorías\n        \n     \n  \n\n\n\n\nPruebas Automatizadas en Pipelines de Integración Continua\n\n\nTeam Members: Raj Patel, Sarah Chen\n\n\nStatus: Activo\n\n\nGitHub: Repository\n\n\nResearch Areas: Software Testing, Continuous Integration\n\n\n\n\nNo hay resultados"
+    "text": "Nos complace anunciar que nuestro artículo “Build Failure Prediction Using Machine Learning” ha sido galardonado con el premio al mejor artículo en la International Conference on Software Engineering (ICSE) 2024.\nEste reconocimiento destaca la importancia de nuestro trabajo en la predicción de fallos en la construcción de software utilizando técnicas de aprendizaje automático."
+  },
+  {
+    "objectID": "projects/internados_en_contexto_mapuche.html",
+    "href": "projects/internados_en_contexto_mapuche.html",
+    "title": "Internados en contexto mapuche: aportes para el bienestar y desarrollo de la identidad sociocultural que favorezcan la educación en contexto indígena",
+    "section": "",
+    "text": "Miembros del Equipo: Katerin Arias Fuente de Financiamiento: \nPeríodo de ejecución: 2024 - 2027\nRol en el Proyecto: Investigadora\nLink de acceso: link\nDescripción General del Proyecto: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua…\nObjetivos Clave: - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua…\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua…\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua…\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua…\nProgreso Actual: - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua…\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua…\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua…\n- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua…"
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Lista de Publicaciones",
     "section": "",
-    "text": "Ordenar por\n       Por defecto\n         \n          Categorías\n        \n     \n  \n\n\n\n\nPredicting Build Failures in Modern Software Systems\n\n\nAuthors: Raj Patel,Farshad Kazemi\n\n\nVenue: ICSE 2024\n\n\nPreprint: PDF\n\n\nRelated Tags: 2024,ICSE,Software Quality\n\n\n\n\nNo hay resultados"
+    "text": "Ordenar por\n       Por defecto\n         \n          Categorías\n        \n     \n  \n\n\n\n\nDesafíos de la relación familia-escuela en contexto mapuche: aproximación desde los profesores\n\n\nAuthors: Katerin Arias,Mariela Gajardo,Juan Sierpe,Yislen Santini\n\n\nVenue: FONDECYT\n\n\nPreprint: PDF\n\n\nRelated Tags: 2024,FONDECYT,Relación familia-escuela,Relación educativa intercultural,Educación indígena,Relaciones de poder,Contexto indígena\n\n\n\n\nPredicting Build Failures in Modern Software Systems\n\n\nAuthors: Raj Patel,Farshad Kazemi\n\n\nVenue: ICSE 2024\n\n\nPreprint: PDF\n\n\nRelated Tags: 2024,ICSE,Software Quality\n\n\n\n\nSignificados y Expectativas de Educación Rural de Madres Mapuches en La Araucanía, Chile\n\n\nAuthors: Viviana Villarroel,Katerin Arias\n\n\nVenue: Revista Internacional de Educación para la Justicia Social\n\n\nPreprint: PDF\n\n\nRelated Tags: 2024,RIEJS,Educación rural,Relación educativa,Madres indígenas,Expectativas,Contexto indígena\n\n\n\n\nNo hay resultados"
+  },
+  {
+    "objectID": "publications/desafios_de_la_relacion_familia-escuela_en_contexto_mapuche.html",
+    "href": "publications/desafios_de_la_relacion_familia-escuela_en_contexto_mapuche.html",
+    "title": "Desafíos de la relación familia-escuela en contexto mapuche: aproximación desde los profesores",
+    "section": "",
+    "text": "Autores: Katerin Arias, Mariela Gajardo, Juan Sierpe, Yislen Santini\nEvento: FONDECYT\nCategorias: 2024, FONDECYT, Relación familia-escuela, Relación educativa intercultural, Educación indígena, Relaciones de poder, Contexto indígena\nPre-print: PDF\nResumen: El artículo expone resultados de investigación sobre el sentido de la educación escolar desde la perspectiva de los actores del medio educativo y social. El objetivo es dar cuenta de los desafíos de la relación familia-escuela en contexto indígena, desde la perspectiva de los profesores de dos escuelas rurales situadas en comunidades mapuches de La Araucanía, Chile. El problema de investigación plantea que en la educación escolar en contexto mapuche la vinculación familia-escuela, históricamente, se ha caracterizado por relaciones de poder, que niegan la participación de la familia en los procesos de gestión escolar intercultural. De esta manera, se asume una participación funcionalista articulada a aspectos administrativos. La metodología es cualitativa con un nivel de alcance descriptivo, los participantes son seis profesores. El instrumento de recolección de información es la entrevista semidirigida, la técnica de análisis de la información es el análisis de contenido en complementariedad con la teoría fundamentada. Los principales resultados dan cuenta de relaciones de poder que persisten en la relación familia-escuela en contexto mapuche sustentados en una relación de racismo y discriminación. Las principales conclusiones relevan la urgencia de establecer una formación continua sobre interculturalidad para los actores del medio educativo, lo que permitiría revertir las prácticas discriminatorias hacia “lo mapuche” presentes en la escuela. Esto, en contexto mapuche permitiría fortalecer las relaciones educativas entre familia indígena y escuela con base en la incorporación de los saberes y conocimientos educativos indígenas, contribuyendo en una educación escolar en perspectiva intercultural.\nBibTeX:\n@article{example,\n  title = Desafíos de la relación familia-escuela en contexto mapuche: aproximación desde los profesores,\n  author = Katerin Arias and Mariela Gajardo,\n  journal = FONDECYT,\n  year = 2024,\n}"
   }
 ]
