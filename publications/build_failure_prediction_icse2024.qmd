@@ -1,19 +1,24 @@
 ---
-title: "Predicción de Fallos de Construcción Usando Aprendizaje Automático"
-autores: "Shane McIntosh, Maria González, David Kim"
-venue: "International Conference on Software Engineering (ICSE)"
-year: 2024
-categories: ["Integración Continua", "Aprendizaje Automático"]
-preprint: "../pdfs/tse2024_xu.pdf"
+name: "Predicting Build Failures in Modern Software Systems"
+title: "Predicting Build Failures in Modern Software Systems"
+autores: ["Raj Patel", "Farshad Kazemi"]
+venue: "ICSE 2024"
+categories: ["2024", ICSE, "Software Quality"]
+preprint: "../pdfs/template.pdf"
 ---
+**Autores**: [{{< meta autores.1 >}}](../members/current/rajpatel.qmd), {{< meta autores.2 >}}  
+**Evento**: {{< meta venue >}}   
+**Categorias**: [{{< meta categories.1 >}}](../publications.qmd#category=2024), [{{< meta categories.2 >}}](../publications.qmd#category=ICSE), [{{< meta categories.3 >}}](../publications.qmd#category=Software+Quality)  
+**Pre-print**: [PDF]({{< meta preprint >}})  
+**Resumen**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua...   
 
-## Resumen
 
-Este artículo presenta un enfoque novedoso para predecir fallos en la construcción de software utilizando técnicas de aprendizaje automático. Nuestro modelo puede identificar potenciales fallos de construcción antes de que ocurran, permitiendo a los equipos de desarrollo tomar medidas preventivas.
-
-## Contribuciones Principales
-
-- Desarrollo de un modelo predictivo para fallos de construcción
-- Análisis exhaustivo de patrones de fallo en sistemas CI
-- Evaluación empírica en proyectos de software de código abierto
-- Herramienta de código abierto para la predicción de fallos
+**BibTeX**:
+```bibtex
+@article{example,
+  title = {{< meta title >}},
+  author = {{< meta autores.1 >}} and {{< meta autores.2 >}},
+  journal = {{< meta venue >}},
+  year = {{< meta categories.1 >}},
+}
+```

@@ -1,7 +1,7 @@
 ---
 title: "Raj Patel"
 subtitle: "MSc Student"
-image: "shanemcintosh.jpg"
+image: "rajpatel.jpg"
 title-block-banner: false
 format: html
 css: ../../styles.css
@@ -15,7 +15,7 @@ listing:
 ---
 
 ::: {.profile-image}
-![Raj Patel](shanemcintosh.jpg "Raj Patel")
+![Raj Patel](rajpatel.jpg "Raj Patel")
 :::
 <br>
 

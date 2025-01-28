@@ -1,8 +1,0 @@
----
-title: "Nueva Asociación Industrial con Microsoft Research"
-date: "2023-11-05"
-description: "Asociación estratégica formada con Microsoft Research para estudiar la gestión de dependencias en sistemas a gran escala, incluyendo financiamiento para doctorado."
-link: "#"
----
-
-Nuestro grupo de investigación ha establecido una asociación estratégica con Microsoft Research para investigar enfoques escalables para la gestión de dependencias en sistemas de software a gran escala. Esta colaboración incluye financiamiento para dos estudiantes de doctorado y proporcionará acceso único a datos del mundo real del vasto ecosistema de software de Microsoft.

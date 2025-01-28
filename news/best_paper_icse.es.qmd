@@ -1,9 +1,0 @@
----
-title: "Premio al Mejor Artículo en ICSE 2024"
-date: "2024-01-15"
-description: "Nuestro equipo ha recibido el premio al mejor artículo en ICSE 2024"
----
-
-Nos complace anunciar que nuestro artículo "Build Failure Prediction Using Machine Learning" ha sido galardonado con el premio al mejor artículo en la International Conference on Software Engineering (ICSE) 2024.
-
-Este reconocimiento destaca la importancia de nuestro trabajo en la predicción de fallos en la construcción de software utilizando técnicas de aprendizaje automático.

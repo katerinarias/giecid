@@ -1,8 +1,0 @@
----
-title: "Publicación Importante en IEEE Transactions on Software Engineering"
-date: "2023-10-15"
-description: "Investigación sobre detección y eliminación de desperdicio de recursos en entornos CI aceptada para publicación en la prestigiosa revista IEEE TSE."
-link: "#"
----
-
-Nuestra investigación sobre "Detección Automatizada de Desperdicio de Recursos en Entornos de Integración Continua" ha sido aceptada para su publicación en IEEE Transactions on Software Engineering (TSE). Este trabajo presenta técnicas novedosas para identificar y eliminar el desperdicio de recursos computacionales en pipelines de CI/CD, potencialmente conduciendo a ahorros significativos de costos para organizaciones de software.

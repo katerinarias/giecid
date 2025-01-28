@@ -1,9 +1,0 @@
----
-title: "Grupo de Investigación Recibe Importante Subvención"
-date: "2024-02-01"
-description: "Nuestro grupo de investigación ha recibido una importante subvención para estudiar prácticas de pruebas de software en sistemas a gran escala."
----
-
-Nos complace anunciar que nuestro grupo de investigación ha recibido una importante subvención para estudiar prácticas de pruebas de software en sistemas a gran escala. Este financiamiento apoyará nuestro trabajo continuo en la mejora de la calidad y fiabilidad del software.
-
-El proyecto comenzará en marzo de 2024 e involucrará la colaboración con varios socios de la industria.

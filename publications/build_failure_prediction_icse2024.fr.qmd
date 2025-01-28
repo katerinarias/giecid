@@ -1,19 +1,24 @@
 ---
-title: "Prédiction des Échecs de Construction par Apprentissage Automatique"
-autores: "Shane McIntosh, Maria González, David Kim"
-venue: "International Conference on Software Engineering (ICSE)"
-year: 2024
-categories: ["Intégration Continue", "Apprentissage Automatique"]
-preprint: "../pdfs/tse2024_xu.pdf"
+name: "Prédiction des Échecs de Construction dans les Systèmes Logiciels Modernes"
+title: "Prédiction des Échecs de Construction dans les Systèmes Logiciels Modernes"
+autores: ["Raj Patel", "Farshad Kazemi"]
+venue: "ICSE 2024"
+categories: ["2024", ICSE, "Qualité Logicielle"]
+preprint: "../pdfs/template.pdf"
 ---
+**Auteurs**: [{{< meta autores.1 >}}](../members/current/rajpatel.qmd), {{< meta autores.2 >}}  
+**Conférence**: {{< meta venue >}}   
+**Tags Associés**: [{{< meta categories.1 >}}](../publications.qmd#category=2024), [{{< meta categories.2 >}}](../publications.qmd#category=ICSE), [{{< meta categories.3 >}}](../publications.qmd#category=Qualité+Logicielle)  
+**Pré-publication**: [PDF]({{< meta preprint >}})  
+**Résumé**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua...
 
-## Résumé
 
-Cet article présente une approche novatrice pour prédire les échecs de construction de logiciels en utilisant des techniques d'apprentissage automatique. Notre modèle peut identifier les échecs de construction potentiels avant qu'ils ne se produisent, permettant aux équipes de développement de prendre des mesures préventives.
-
-## Contributions Principales
-
-- Développement d'un modèle prédictif pour les échecs de construction
-- Analyse approfondie des modèles d'échec dans les systèmes CI
-- Évaluation empirique sur des projets logiciels open source
-- Outil open source pour la prédiction des échecs
+**BibTeX**:
+```bibtex
+@article{example,
+  title = {{< meta title >}},
+  author = {{< meta autores.1 >}} and {{< meta autores.2 >}},
+  journal = {{< meta venue >}},
+  year = {{< meta categories.1 >}},
+}
+```

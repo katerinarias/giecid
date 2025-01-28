@@ -1,8 +1,0 @@
----
-title: "Organizando Taller Internacional sobre Inteligencia en CI/CD"
-date: "2024-01-25"
-description: "Primer Taller Internacional sobre Inteligencia en CI/CD se realizará en FSE 2024, enfocándose en aplicaciones de IA/ML en CI/CD."
-link: "#"
----
-
-Nuestro grupo de investigación organizará el 1er Taller Internacional sobre Inteligencia en CI/CD (CI-Intel 2024) en FSE 2024. Este taller tiene como objetivo reunir a investigadores y profesionales que trabajan en la aplicación de técnicas de IA/ML para mejorar los procesos de integración y entrega continua. La convocatoria de artículos será anunciada próximamente.

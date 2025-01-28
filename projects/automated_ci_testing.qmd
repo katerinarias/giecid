@@ -1,12 +1,12 @@
 ---
 name: "Pruebas Automatizadas en Pipelines de Integración Continua"
 title: "Pruebas Automatizadas en Pipelines de Integración Continua"
-members: ["Shane McIntosh", "Sarah Chen"]
+members: ["Raj Patel", "Sarah Chen"]
 status: "Activo"
 categories: ["Active", "Software Testing", "Continuous Integration"]
 github: "https://github.com/research-group/ci-testing"
 ---
-**Miembros del Equipo**: [{{< meta members.1 >}}](../members/current/shanemcintosh.qmd), {{< meta members.2 >}}  
+**Miembros del Equipo**: [{{< meta members.1 >}}](../members/current/rajpatel.qmd), {{< meta members.2 >}}  
 **Estado**: {{< meta status >}}  
 **Áreas de Investigación**: [{{< meta categories.2 >}}](../projects.qmd#category=Software+Testing), [{{< meta categories.3 >}}](../projects.qmd#category=Continuous+Integration)  
 **GitHub**: [Repositorio]({{< meta github >}})

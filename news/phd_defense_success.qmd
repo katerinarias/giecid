@@ -1,8 +1,0 @@
----
-title: "Defensa Doctoral Exitosa: Avanzando en Técnicas de Pruebas de Software"
-date: "2024-02-10"
-description: "Sarah Chen defiende exitosamente su tesis doctoral sobre estrategias avanzadas de pruebas de mutación para sistemas de software modernos."
-link: "#"
----
-
-Nos enorgullece anunciar que nuestra miembro del equipo Sarah Chen ha defendido exitosamente su tesis doctoral sobre "Estrategias Avanzadas de Pruebas de Mutación para Sistemas de Software Modernos." Su investigación introduce enfoques novedosos para las pruebas de mutación que mejoran significativamente tanto la eficiencia como la efectividad en la detección de defectos de software.

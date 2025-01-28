@@ -1,9 +1,0 @@
----
-title: "Nuevo Artículo Aceptado en ICSE 2024"
-date: "2024-01-15"
-description: "Nuestro artículo sobre predicción de fallos de compilación ha sido aceptado en la Conferencia Internacional de Ingeniería de Software (ICSE) 2024."
----
-
-Nos complace anunciar que nuestro artículo "Predicción de Fallos de Compilación Utilizando Técnicas de Aprendizaje Automático" ha sido aceptado en ICSE 2024. Este trabajo representa un avance significativo en nuestra comprensión de los sistemas de integración continua y cómo podemos hacerlos más eficientes.
-
-El artículo será presentado en la conferencia en abril de 2024 en Lisboa, Portugal.

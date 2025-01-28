@@ -1,8 +1,0 @@
----
-title: "Nueva Colaboración de Investigación con MIT"
-date: "2024-03-15"
-description: "Emocionante nueva asociación con el Laboratorio de Ingeniería de Software del MIT enfocada en técnicas automatizadas de pruebas y verificación."
-link: "#"
----
-
-Nuestro grupo de investigación ha establecido una nueva colaboración con el Laboratorio de Ingeniería de Software del MIT. Esta asociación se centrará en desarrollar técnicas avanzadas para pruebas y verificación automatizada de software. El proyecto conjunto tiene como objetivo combinar nuestra experiencia en sistemas CI/CD con el trabajo del MIT en métodos formales.

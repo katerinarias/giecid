@@ -1,8 +1,0 @@
----
-title: "Profesor McIntosh Presenta Conferencia Magistral en ASE 2023"
-date: "2023-12-10"
-description: "Profesor McIntosh presenta conferencia magistral sobre el futuro de los sistemas de compilación automatizados en ASE 2023, destacando los últimos hallazgos de investigación."
-link: "#"
----
-
-El Profesor Shane McIntosh presentó una conferencia magistral en la 38ª Conferencia Internacional IEEE/ACM sobre Ingeniería de Software Automatizada (ASE 2023). Su charla, titulada "El Futuro de los Sistemas de Compilación Automatizados," destacó las tendencias emergentes en la automatización de compilación y presentó los últimos hallazgos de nuestro grupo sobre técnicas de optimización de compilación.

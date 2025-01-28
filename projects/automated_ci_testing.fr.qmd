@@ -1,0 +1,27 @@
+---
+name: "Tests automatisés dans les pipelines d'intégration continue"
+title: "Tests automatisés dans les pipelines d'intégration continue"
+members: ["Raj Patel", "Sarah Chen"]
+status: "Active"
+categories: ["Active", "Software Testing", "Continuous Integration"]
+github: "https://github.com/research-group/ci-testing"
+---
+**Membres de l'équipe**: [{{< meta members.1 >}}](../members/current/rajpatel.qmd), {{< meta members.2 >}}  
+**Statut**: {{< meta status >}}  
+**Domaines de recherche**: [{{< meta categories.2 >}}](../projects.qmd#category=Software+Testing), [{{< meta categories.3 >}}](../projects.qmd#category=Continuous+Integration)  
+**GitHub**: [Dépôt]({{< meta github >}})
+
+**Aperçu du projet**: 
+Ce projet étudie de nouvelles approches pour améliorer les tests automatisés dans les pipelines d'intégration continue. Nous nous concentrons sur le développement de stratégies intelligentes de sélection et de priorisation des tests qui peuvent réduire les temps de construction tout en maintenant l'efficacité des tests.
+
+**Objectifs principaux**:
+- Développer des modèles d'apprentissage automatique pour la sélection des tests
+- Créer des algorithmes adaptatifs de priorisation des tests
+- Réduire le temps d'exécution des pipelines d'intégration continue
+- Maintenir ou améliorer la couverture et l'efficacité des tests
+
+**Progrès actuels**:
+- Collecte initiale de données à partir de projets open-source terminée
+- Implémentation d'un prototype d'algorithme de sélection des tests
+- Évaluation des performances sur des pipelines d'intégration continue réels
+- Préparation du cadre expérimental pour l'analyse comparative

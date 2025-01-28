@@ -1,12 +1,12 @@
 ---
 name: "Automated Testing in Continuous Integration Pipelines"
 title: "Automated Testing in Continuous Integration Pipelines"
-members: ["Shane McIntosh", "Sarah Chen"]
+members: ["Raj Patel", "Sarah Chen"]
 status: "Active"
 categories: ["Active", "Software Testing", "Continuous Integration"]
 github: "https://github.com/research-group/ci-testing"
 ---
-**Team Members**: [{{< meta members.1 >}}](../members/current/shanemcintosh.qmd), {{< meta members.2 >}}  
+**Team Members**: [{{< meta members.1 >}}](../members/current/rajpatel.qmd), {{< meta members.2 >}}  
 **Status**: {{< meta status >}}  
 **Research Areas**: [{{< meta categories.2 >}}](../projects.qmd#category=Software+Testing), [{{< meta categories.3 >}}](../projects.qmd#category=Continuous+Integration)  
 **GitHub**: [Repository]({{< meta github >}})

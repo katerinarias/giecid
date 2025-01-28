@@ -1,8 +1,0 @@
----
-title: "Subvención NSF Otorgada para Investigación de Revisión de Código Impulsada por IA"
-date: "2024-01-15"
-description: "Importante financiamiento NSF asegurado para desarrollar sistemas de revisión de código impulsados por IA para la detección automatizada de errores y vulnerabilidades."
-link: "#"
----
-
-Nuestro grupo de investigación ha recibido una sustancial subvención NSF para investigar procesos de revisión de código impulsados por IA. El proyecto de tres años se centrará en desarrollar sistemas inteligentes que puedan identificar automáticamente posibles errores, vulnerabilidades de seguridad y problemas de mantenimiento en los cambios de código, mientras proporcionan retroalimentación procesable a los desarrolladores.

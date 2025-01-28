@@ -14,7 +14,7 @@ listing:
       subtitle: "Rôle"
     template: member-grid.ejs
   - id: former-members
-    contents: "members/former/*.fr.qmd"
+    contents: "members/former/*.qmd"
     type: grid
     sort: "date desc"
     categories: false

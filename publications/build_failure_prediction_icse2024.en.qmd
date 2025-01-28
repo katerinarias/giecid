@@ -1,15 +1,14 @@
 ---
 name: "Predicting Build Failures in Modern Software Systems"
 title: "Predicting Build Failures in Modern Software Systems"
-autores: ["Toshiki Hirao", "Farshad Kazemi"]
+autores: ["Raj Patel", "Farshad Kazemi"]
 venue: "ICSE 2024"
-tags: [build breakage, defect prediction]
-categories: [ICSE, "2024", "Software Quality"]
-preprint: "../pdfs/tse2024_xu.pdf"
+categories: ["2024", ICSE, "Software Quality"]
+preprint: "../pdfs/template.pdf"
 ---
-**Authors**: [{{< meta autores.1 >}}](../members/current/shanemcintosh.qmd), {{< meta autores.2 >}}  
+**Authors**: [{{< meta autores.1 >}}](../members/current/rajpatel.qmd), {{< meta autores.2 >}}  
 **Venue**: {{< meta venue >}}   
-**Related Tags**: [{{< meta categories.1 >}}](../publications.qmd#category=build+breakage), [{{< meta categories.2 >}}](../publications.qmd#category=defect+prediction)  
+**Related Tags**: [{{< meta categories.1 >}}](../publications.qmd#category=2024), [{{< meta categories.2 >}}](../publications.qmd#category=ICSE), [{{< meta categories.3 >}}](../publications.qmd#category=Software+Quality)  
 **Pre-print**: [PDF]({{< meta preprint >}})  
 **Abstract**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua...   
 
@@ -20,6 +19,6 @@ preprint: "../pdfs/tse2024_xu.pdf"
   title = {{< meta title >}},
   author = {{< meta autores.1 >}} and {{< meta autores.2 >}},
   journal = {{< meta venue >}},
-  year = {{< meta tags.1 >}},
+  year = {{< meta categories.1 >}},
 }
 ```

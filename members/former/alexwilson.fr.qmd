@@ -1,0 +1,30 @@
+---
+title: "Alex Wilson"
+subtitle: "Ancien étudiant en maîtrise"
+image: "alexwilson.jpg"
+title-block-banner: false
+format: html
+css: ../../styles.css
+listing:
+    contents:
+        - "../../publications/*.qmd"
+    template: ../../custom-listing.ejs
+    fields: [title, autores, categories, venue, preprint]
+    include:
+      autores: "{Alex Wilson}"
+---
+
+::: {.profile-image}
+![Alex Wilson](alexwilson.jpg "Alex Wilson")
+:::
+<br>
+
+**Coordonnées**:
+
+- Poste actuel: Ingénieur de recherche au Laboratoire d'analytique logicielle
+- Courriel: alex.wilson@example.com
+- Intérêts de recherche: Analyse de l'évolution du code, Métriques logicielles, Prévention de la perte de connaissances
+
+**À propos de moi**:
+
+Durant mes études de maîtrise, je me suis concentré sur la compréhension de l'évolution des systèmes logiciels dans le temps et le développement de méthodes pour préserver les connaissances critiques de développement. Mes recherches ont contribué à une meilleure compréhension des modèles d'évolution du code et des moyens de prévenir la perte de connaissances dans les équipes logicielles. Maintenant, en tant qu'ingénieur de recherche au Laboratoire d'analytique logicielle, je continue à travailler sur le développement d'outils et de métriques qui aident les équipes à mieux comprendre et gérer leurs systèmes logiciels.

@@ -1,7 +1,7 @@
 ---
 title: "Alex Wilson"
 subtitle: "Antiguo Estudiante de Maestría"
-image: "../current/shanemcintosh.jpg"
+image: "alexwilson.jpg"
 title-block-banner: false
 format: html
 css: ../../styles.css
@@ -15,7 +15,7 @@ listing:
 ---
 
 ::: {.profile-image}
-![Alex Wilson](../current/shanemcintosh.jpg "Alex Wilson")
+![Alex Wilson](alexwilson.jpg "Alex Wilson")
 :::
 <br>
 

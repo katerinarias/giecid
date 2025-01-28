@@ -1,8 +1,0 @@
----
-title: "Lanzamiento de BuildGuard: Herramienta de Prevención de Fallos de Compilación Impulsada por IA"
-date: "2023-11-20"
-description: "Nueva herramienta de código abierto BuildGuard utiliza aprendizaje automático para predecir y prevenir fallos de compilación en CI, mostrando una reducción del 40% en fallos."
-link: "#"
----
-
-Nos complace anunciar el lanzamiento de BuildGuard, una herramienta de código abierto que utiliza aprendizaje automático para predecir y prevenir fallos de compilación antes de que ocurran. La herramienta se integra con plataformas CI populares y ha demostrado reducir los fallos de compilación hasta en un 40% en nuestras implementaciones iniciales. Consulta la herramienta en nuestro repositorio de GitHub.
