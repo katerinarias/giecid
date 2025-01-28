@@ -1,0 +1,40 @@
+---
+name: "Significados y Expectativas de Educación Rural de 
+Madres Mapuches en La Araucanía, Chile"
+title: "Significados y Expectativas de Educación Rural de 
+Madres Mapuches en La Araucanía, Chile"
+autores: ["Viviana Villarroel", "Katerin Arias"]
+venue: "Revista Internacional de Educación para la Justicia Social"
+categories: ["2024", RIEJS, "Educación rural", "Relación educativa", "Madres indígenas", "Expectativas", "Contexto indígena"]
+preprint: "../pdfs/productividad/PRODUCTIVIDAD_2024_KARIAS/ART_4_RIEJS_VILLARROEL_ARIAS_2024_SCOPUS.pdf"
+---
+**Autores**: {{< meta autores.1 >}}, [{{< meta autores.2 >}}](../members/current/katerinarias.qmd)  
+**Evento**: {{< meta venue >}}   
+**Categorias**: [{{< meta categories.1 >}}](../publications.qmd#category=2024), [{{< meta categories.2 >}}](../publications.qmd#category=RIEJS), [{{< meta categories.3 >}}](../publications.qmd#category=Educación+rural), [{{< meta categories.4 >}}](../publications.qmd#category=Relación+educativa), [{{< meta categories.5 >}}](../publications.qmd#category=Madres+indígenas), [{{< meta categories.6 >}}](../publications.qmd#category=Expectativas), [{{< meta categories.7 >}}](../publications.qmd#category=Contexto+indígena)  
+**Pre-print**: [PDF]({{< meta preprint >}})  
+**Resumen**: El  artículo expone  resultados  de  investigación  que  dan  cuenta  de  la  construcción  de 
+significados y expectativas de madres mapuches de La Araucanía, Chile, respecto a la educación 
+escolar rural que cursaron y que hoy reciben sus hijos y nietos. La metodología es cualitativa, 
+se  entrevistaron  a  seis  madres  mapuches  quienes  vivieron  procesos  de  escolarización  y  que 
+envían a sus hijos y nietos a la misma escuela. Los datos se analizaron a través del análisis de 
+contenido a fin de identificar los sentidos explícitos y latentes que han construido las madres 
+en  torno  a  su  experiencia.  Los  principales  resultados  dan  cuenta  que  las  madres  mapuches 
+tienen recuerdos de experiencias traumáticas en su proceso de escolarización, sustentadas en 
+el castigo físico y simbólico. Sin embargo, deciden continuar enviando a sus hijos y nietos a 
+esos mismos espacios áulicos con la esperanza que puedan lograr un mejor devenir económico. 
+Asimismo,  tienen  la  esperanza  que  a  mayor  educación  tendrán  una  relación  de  respeto  y 
+valoración  de  su ser  mapuche en  la  sociedad.  Concluimos, que históricamente  la  educación 
+escolar se ha caracterizado por ser una escuela opresora y castigadora que en la actualidad ha 
+buscado  su  transformación  bajo  un  discurso  de  relaciones  de  respeto  y  de  valoración  de  la 
+diversidad social y cultural.   
+
+
+**BibTeX**:
+```bibtex
+@article{example,
+  title = {{< meta title >}},
+  author = {{< meta autores.1 >}} and {{< meta autores.2 >}},
+  journal = {{< meta venue >}},
+  year = {{< meta categories.1 >}},
+}
+```

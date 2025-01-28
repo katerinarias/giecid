@@ -1,0 +1,30 @@
+---
+title: "Katerin Arias"
+subtitle: "Profesora en Educación General Básica"
+image: "katerinarias.jpg"
+title-block-banner: false
+format: html
+css: ../../styles.css
+listing:
+    contents:
+        - "../../publications/*.qmd"
+    template: ../../custom-listing.ejs
+    fields: [title, autores, categories, venue, preprint]
+    include:
+      autores: "{Katerin Arias}"
+---
+
+::: {.profile-image}
+![Katerin Arias](katerinarias.jpg "Katerin Arias")
+:::
+<br>
+
+**Información de Contacto**:
+
+- Correo electrónico: karias@uct.cl
+- Afiliación: Facultad de Ciencias de Salud
+- Intereses de Investigación: Educación e Interculturalidad
+
+**Sobre mí**:
+
+Profesora de Educación General Básica con especialización en educación intercultural en contexto mapuche. Doctora en Ciencias de la Educación, Universidad Católica de Temuco, 2019, Chile. Magíster en Educación, mención Currículum y Evaluación, Universidad Mayor, Temuco, Chile.

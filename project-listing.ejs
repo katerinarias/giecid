@@ -5,9 +5,8 @@
       <div class="listing-members"><strong>Team Members</strong>:
         <%= item.members.join(", ") %>
       </div>
-      <div class="listing-status"><strong>Status</strong>: <%= item.status %></div>
-      <div class="listing-github"><strong>GitHub</strong>: <a href="<%= item.github %>" target="_blank">Repository</a></div>
-      <div class="listing-categories"><strong>Research Areas</strong>: <%= item.categories.slice(1).join(", ") %></div>
+      <div class="listing-periodo"><strong>Período de ejecución</strong>: <%= item['start-year'] %> - <%= item['end-year'] %></div>
+      <div class="listing-link"><strong>Link de acceso</strong>: <a href="<%= item.link %>" target="_blank">Link</a></div>
     </li>
   <% } %>
 </ul>
