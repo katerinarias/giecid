@@ -2,7 +2,7 @@
   <% for (const item of items) { %>
     <li type="1" <%= metadataAttrs(item) %>>
       <h3><a href="<%- item.path %>"><%= item.title %></a></h3>
-      <div class="listing-members"><strong>Team Members</strong>:
+      <div class="listing-members"><strong>Miembros</strong>:
         <%= item.members.join(", ") %>
       </div>
       <div class="listing-periodo"><strong>Período de ejecución</strong>: <%= item['start-year'] %> - <%= item['end-year'] %></div>

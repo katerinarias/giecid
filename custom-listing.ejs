@@ -2,12 +2,17 @@
   <% for (const item of items) { %>
     <li type="1" <%= metadataAttrs(item) %>>
       <h3><a href="<%- item.path %>"><%= item.title %></a></h3>
-      <div class="listing-autores"><strong>Authors</strong>:
+      <div class="listing-autores"><strong>Autores</strong>:
         <%= item.autores %>
       </div>
-      <div class="listing-venue"><strong>Venue</strong>: <%= item.venue %></div>
+      <% if (item.libro) { %>
+        <div class="listing-libro"><strong>Libro</strong>: <%= item.libro %></div>
+        <div class="listing-capitulo"><strong>Capitulo</strong>: <%= item.capitulo %></div>
+      <% } else { %>
+        <div class="listing-venue"><strong>Lugar de publicación</strong>: <%= item.venue %></div>
+      <% } %>
       <div class="listing-preprint"><strong>Preprint</strong>: [PDF](<%= item.preprint %>)</div>
-      <div class="listing-categories"><strong>Related Tags</strong>: <%= item.categories %></div>
+      <div class="listing-categories"><strong>Palabras clave</strong>: <%= item.categories %></div>
     </li>
   <% } %>
 </ul>
