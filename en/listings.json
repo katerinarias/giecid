@@ -11,11 +11,10 @@
     "items": []
   },
   {
-    "listing": "/members/current/katerinarias.html",
+    "listing": "/members.html",
     "items": [
-      "/publications/desafios_de_la_relacion_familia-escuela_en_contexto_mapuche.html",
-      "/publications/desafios_del_pluralismo_epostemologico_intercultural_como_eje_de_un_modelo_de_acompanamiento.html",
-      "/publications/significados_y_expectativas_de_educacion_rural_de_madres_mapuches_en_la_araucania.html"
+      "/members/current/katerinarias.html",
+      "/members/former/alexwilson.html"
     ]
   },
   {
@@ -25,16 +24,12 @@
     ]
   },
   {
-    "listing": "/members.html",
+    "listing": "/members/current/katerinarias.html",
     "items": [
-      "/members/current/katerinarias.html",
-      "/members/current/rajpatel.html",
-      "/members/former/alexwilson.html"
+      "/publications/desafios_de_la_relacion_familia-escuela_en_contexto_mapuche.html",
+      "/publications/desafios_del_pluralismo_epostemologico_intercultural_como_eje_de_un_modelo_de_acompanamiento.html",
+      "/publications/significados_y_expectativas_de_educacion_rural_de_madres_mapuches_en_la_araucania.html"
     ]
-  },
-  {
-    "listing": "/members/current/rajpatel.html",
-    "items": []
   },
   {
     "listing": "/publications.html",
