@@ -65,9 +65,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-autores','listing-categories','listing-venue','listing-preprint',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
+      valueNames: ['listing-title','listing-autores','listing-categories','listing-venue','listing-preprint',{ data: ['index'] },{ data: ['categories'] }],
       
-      searchColumns: ["listing-project","listing-format","listing-website","listing-babelquarto","listing-title-es","listing-title-fr","listing-description-es","listing-description-fr","listing-lang","listing-language","listing-name","listing-title","listing-autores","listing-venue","listing-categories","listing-preprint","listing-path","listing-outputHref","listing-author","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
+      searchColumns: [],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -201,25 +201,7 @@ window.Quarto = {
 
 
 <div class="quarto-listing quarto-listing-container-custom" id="listing-listing">
-<ul class="list">
-<li type="1" data-index="0" data-categories="MjAyNCUyQ0lDU0UlMkNRdWFsaXQlQzMlQTklMjBMb2dpY2llbGxl" data-listing-file-modified-sort="1738097479907" data-listing-reading-time-sort="1" data-listing-word-count-sort="91">
-<h3>
-<a href="../../publications/build_failure_prediction_icse2024.html">Prédiction des Échecs de Construction dans les Systèmes Logiciels Modernes</a>
-</h3>
-<div class="listing-autores">
-<strong>Authors</strong>: Raj Patel,Farshad Kazemi
-</div>
-<div class="listing-venue">
-<strong>Venue</strong>: ICSE 2024
-</div>
-<div class="listing-preprint">
-<strong>Preprint</strong>: <a href="../pdfs/template.pdf">PDF</a>
-</div>
-<div class="listing-categories">
-<strong>Related Tags</strong>: 2024,ICSE,Qualité Logicielle
-</div>
-</li>
-</ul>
+<ul class="list"></ul>
 <div class="listing-no-matching d-none">
 Aucun article correspondant
 </div>
