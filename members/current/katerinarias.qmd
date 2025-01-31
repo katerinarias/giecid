@@ -9,7 +9,7 @@ listing:
     contents:
         - "../../publications/*.qmd"
     template: ../../custom-listing.ejs
-    fields: [title, autores, categories, venue, preprint]
+    fields: [title, autores, categories, venue]
     include:
       autores: "{Katerin Arias}"
 ---

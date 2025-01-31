@@ -23,7 +23,7 @@ Para agregar un nuevo miembro al grupo, sigue estos pasos:
        contents:
            - "../../publications/*.qmd"
        template: ../../custom-listing.ejs
-       fields: [title, autores, categories, venue, preprint]
+       fields: [title, autores, categories, venue]
        include:
            autores: "{Nombre del Miembro}"
    ---
