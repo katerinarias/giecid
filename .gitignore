@@ -1,2 +1,6 @@
 /.quarto/
 _site/
+.RData
+.Rhistory
+node_modules
+

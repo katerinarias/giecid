@@ -33,9 +33,9 @@ listing:
 :::
 ::::
 
-## Antiguos Miembros
-
-:::: {.member-grid}
-::: {#former-members}
-:::
-::::
+<!-- ## Antiguos Miembros -->
+<!---->
+<!-- :::: {.member-grid} -->
+<!-- ::: {#former-members} -->
+<!-- ::: -->
+<!-- :::: -->
