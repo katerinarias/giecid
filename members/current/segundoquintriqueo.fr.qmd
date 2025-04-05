@@ -1,7 +1,7 @@
 ---
 title: "Segundo Quintriqueo Millán"
 subtitle: "Doctor en Educación"
-image: "segundoquintriqueo.jpg"
+image: "segundoquintriqueo.png"
 title-block-banner: false
 format: html
 css: ../../styles.css
@@ -15,7 +15,7 @@ listing:
 ---
 
 ::: {.profile-image}
-![Segundo Quintriqueo](segundoquintriqueo.jpg "Segundo Quintriqueo")
+![Segundo Quintriqueo](segundoquintriqueo.png "Segundo Quintriqueo")
 :::
 <br>
 

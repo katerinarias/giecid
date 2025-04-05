@@ -13,17 +13,17 @@ listing:
     field-display-names: 
       subtitle: "Cargo"
     template: member-grid.ejs
-  - id: former-members
-    contents: "members/former/*.qmd"
-    type: grid
-    sort: "date desc"
-    categories: false
-    sort-ui: false
-    filter-ui: false
-    fields: [image, title, subtitle]
-    field-display-names:
-      subtitle: "Cargo"
-    template: member-grid.ejs
+  # - id: former-members
+  #   contents: "members/former/*.qmd"
+  #   type: grid
+  #   sort: "date desc"
+  #   categories: false
+  #   sort-ui: false
+  #   filter-ui: false
+  #   fields: [image, title, subtitle]
+  #   field-display-names:
+  #     subtitle: "Cargo"
+  #   template: member-grid.ejs
 ---
 
 ## Miembros Actuales

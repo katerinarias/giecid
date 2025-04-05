@@ -1,7 +1,7 @@
 ---
 title: "Miguel Antonio Del Pino Sepúlveda"
 subtitle: "Doctor en Ciencias de la Educación"
-image: "migueldelpino.jpg"
+image: "migueldelpino.jpeg"
 title-block-banner: false
 format: html
 css: ../../styles.css
@@ -15,7 +15,7 @@ listing:
 ---
 
 ::: {.profile-image}
-![Miguel del Pino](migueldelpino.jpg "Miguel del Pino")
+![Miguel del Pino](migueldelpino.jpeg "Miguel del Pino")
 :::
 <br>
 
