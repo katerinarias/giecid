@@ -1,0 +1,29 @@
+---
+title: "Teresa Marlene Millahueque Córdova"
+subtitle: "Profesora de Castellano y Comunicación"
+image: "teresamillahueque.jpg"
+title-block-banner: false
+format: html
+css: ../../styles.css
+listing:
+    contents:
+        - "../../publications/*.qmd"
+    template: ../../custom-listing.ejs
+    fields: [title, autores, categories, venue]
+    include:
+      autores: "{Teresa Millahueque}"
+---
+
+::: {.profile-image}
+![Teresa Millahueque](teresamillahueque.jpg "Teresa Millahueque")
+:::
+<br>
+
+**Información de Contacto**:
+
+- Correo electrónico: teresamillahueque2010@alu.uct.cl
+- Afiliación: Escuela de Pedagogía de la Universidad de la Frontera
+
+**Sobre mí**:
+
+Es profesora de Castellano y Comunicación, estudiante del Programa de Doctorado en Educación en Consorcio UCT. Se ha desempeñado en diferentes contextos escolares y de educación superior de la novena región. Actualmente integra el equipo de prácticas de la Escuela de Pedagogía de la Universidad de la Frontera. Su motivación es relevar la educación y valores mapuches y la búsqueda de conocimiento que permita avanzar hacia una justicia epistémica que contribuya a la formación de persona e identidad cultural mapuche.

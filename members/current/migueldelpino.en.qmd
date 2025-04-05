@@ -1,0 +1,30 @@
+---
+title: "Miguel Antonio Del Pino Sepúlveda"
+subtitle: "Doctor en Ciencias de la Educación"
+image: "migueldelpino.jpg"
+title-block-banner: false
+format: html
+css: ../../styles.css
+listing:
+    contents:
+        - "../../publications/*.qmd"
+    template: ../../custom-listing.ejs
+    fields: [title, autores, categories, venue]
+    include:
+      autores: "{Miguel del Pino}"
+---
+
+::: {.profile-image}
+![Miguel del Pino](migueldelpino.jpg "Miguel del Pino")
+:::
+<br>
+
+**Información de Contacto**:
+
+- Correo electrónico: mdelpino@ucm.cl
+- Afiliación: Facultad de Ciencias de la Salud
+- ORCID: 0000-0003-3379-3994
+
+**Sobre mí**:
+
+Doctor en Ciencias de la Educación (Universidad Nacional de Cuyo, Argentina). Académico categoría adjunto de la Universidad Católica del Maule.  Miembro de los centros de investigación en Educación para la Justicia Social (CIEJUS) y en Estudios Avanzados del Maule (CIEAM). Actualmente Investigador responsable de proyecto Fondecyt regular (código 1220783) y coinvestigador de Fondecyt (código 1240540). Su línea de investigación es la evaluación educativa para la justicia social, educación indígena e investigación participativa.

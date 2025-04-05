@@ -1,0 +1,30 @@
+---
+title: "Viviana Marcela Villarroel Cárdenas"
+subtitle: "Doctora en Ciencias de la Educación"
+image: "vivianavillarroel.jpg"
+title-block-banner: false
+format: html
+css: ../../styles.css
+listing:
+    contents:
+        - "../../publications/*.qmd"
+    template: ../../custom-listing.ejs
+    fields: [title, autores, categories, venue]
+    include:
+      autores: "{Viviana Villarroel}"
+---
+
+::: {.profile-image}
+![Viviana Villarroel](vivianavillarroel.jpg "Viviana Villarroel")
+:::
+<br>
+
+**Información de Contacto**:
+
+- Correo electrónico: vvillarroel@uct.cl
+- Afiliación: Facultad de Ciencias de la Salud
+- ORCID: 0000-0003-0408-8794
+
+**Sobre mí**:
+
+Doctora en Ciencias de la Educación, Postdoctorante del Centro de Investigación, Innovación y Creación de la Universidad Católica de Temuco, Chile. Docente Part-time del Departamento de Psicología de la Facultad de Ciencias de la Salud de la Universidad Católica de Temuco, Chile. Es miembro de la Sociedad Chilena de Educación Científica (SCHEC) y de la Red Interuniversitaria de Educación e Interculturalidad. Su línea de investigación se asocia a educación e interculturalidad.
