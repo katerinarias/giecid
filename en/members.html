@@ -83,34 +83,6 @@ ul.task-list li input[type="checkbox"] {
       window['quarto-listing-loaded']();
     }
   })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-former-members .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-image','listing-title','listing-subtitle',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
-      
-      searchColumns: ["listing-project","listing-format","listing-website","listing-babelquarto","listing-title-es","listing-title-fr","listing-description-es","listing-description-fr","listing-lang","listing-language","listing-title","listing-subtitle","listing-image","listing-title-block-banner","listing-css","listing-listing","listing-path","listing-outputHref","listing-author","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-former-members'] = new List('listing-former-members', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
   </script><script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script><script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script><script type="text/javascript">
 const typesetMath = (el) => {
   if (window.MathJax) {
@@ -211,7 +183,7 @@ window.Quarto = {
 <div class="member-grid">
 <div id="listing-current-members" class="quarto-listing quarto-listing-container-custom">
 <ul class="list member-grid">
-<li type="1" data-index="0" data-listing-file-modified-sort="1743880263399" data-listing-reading-time-sort="1" data-listing-word-count-sort="58" style="width: 250px; list-style: none; text-align: center;">
+<li type="1" data-index="0" data-listing-file-modified-sort="1743881246832" data-listing-reading-time-sort="1" data-listing-word-count-sort="58" style="width: 250px; list-style: none; text-align: center;">
 <p><a href="./members/current/katerinarias.html"> <img src="./members/current/katerinarias.jpg" alt="Katerin Arias" class="member-image"></a></p>
 <h3 style="margin-bottom: 0.2rem;">
 <a href="./members/current/katerinarias.html" style="display: block;">Katerin Arias</a>
@@ -220,8 +192,8 @@ window.Quarto = {
 Profesora en Educación General Básica
 </div>
 </li>
-<li type="1" data-index="1" data-listing-file-modified-sort="1743880263399" data-listing-reading-time-sort="1" data-listing-word-count-sort="94" style="width: 250px; list-style: none; text-align: center;">
-<p><a href="./members/current/migueldelpino.html"> <img src="./members/current/migueldelpino.jpg" alt="Miguel Antonio Del Pino Sepúlveda" class="member-image"></a></p>
+<li type="1" data-index="1" data-listing-file-modified-sort="1743881246832" data-listing-reading-time-sort="1" data-listing-word-count-sort="94" style="width: 250px; list-style: none; text-align: center;">
+<p><a href="./members/current/migueldelpino.html"> <img src="./members/current/migueldelpino.jpeg" alt="Miguel Antonio Del Pino Sepúlveda" class="member-image"></a></p>
 <h3 style="margin-bottom: 0.2rem;">
 <a href="./members/current/migueldelpino.html" style="display: block;">Miguel Antonio Del Pino Sepúlveda</a>
 </h3>
@@ -229,8 +201,8 @@ Profesora en Educación General Básica
 Doctor en Ciencias de la Educación
 </div>
 </li>
-<li type="1" data-index="2" data-listing-file-modified-sort="1743880263399" data-listing-reading-time-sort="1" data-listing-word-count-sort="113" style="width: 250px; list-style: none; text-align: center;">
-<p><a href="./members/current/segundoquintriqueo.html"> <img src="./members/current/segundoquintriqueo.jpg" alt="Segundo Quintriqueo Millán" class="member-image"></a></p>
+<li type="1" data-index="2" data-listing-file-modified-sort="1743881246833" data-listing-reading-time-sort="1" data-listing-word-count-sort="113" style="width: 250px; list-style: none; text-align: center;">
+<p><a href="./members/current/segundoquintriqueo.html"> <img src="./members/current/segundoquintriqueo.png" alt="Segundo Quintriqueo Millán" class="member-image"></a></p>
 <h3 style="margin-bottom: 0.2rem;">
 <a href="./members/current/segundoquintriqueo.html" style="display: block;">Segundo Quintriqueo Millán</a>
 </h3>
@@ -238,7 +210,7 @@ Doctor en Ciencias de la Educación
 Doctor en Educación
 </div>
 </li>
-<li type="1" data-index="3" data-listing-file-modified-sort="1743880263399" data-listing-reading-time-sort="1" data-listing-word-count-sort="90" style="width: 250px; list-style: none; text-align: center;">
+<li type="1" data-index="3" data-listing-file-modified-sort="1743881246833" data-listing-reading-time-sort="1" data-listing-word-count-sort="90" style="width: 250px; list-style: none; text-align: center;">
 <p><a href="./members/current/vivianavillarroel.html"> <img src="./members/current/vivianavillarroel.jpg" alt="Viviana Marcela Villarroel Cárdenas" class="member-image"></a></p>
 <h3 style="margin-bottom: 0.2rem;">
 <a href="./members/current/vivianavillarroel.html" style="display: block;">Viviana Marcela Villarroel Cárdenas</a>
@@ -262,22 +234,7 @@ No matching items
 
 
 
-</section><div class="quarto-listing quarto-listing-container-custom" id="listing-former-members">
-<ul class="list member-grid">
-<li type="1" data-index="0" data-listing-file-modified-sort="1743880263400" data-listing-reading-time-sort="1" data-listing-word-count-sort="95" style="width: 250px; list-style: none; text-align: center;">
-<p><a href="./members/former/alexwilson.html"> <img src="./members/former/alexwilson.jpg" alt="Alex Wilson" class="member-image"></a></p>
-<h3 style="margin-bottom: 0.2rem;">
-<a href="./members/former/alexwilson.html" style="display: block;">Alex Wilson</a>
-</h3>
-<div class="listing-subtitle" style="margin-bottom: 0.5rem;">
-Former MSc Student
-</div>
-</li>
-</ul>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main><!-- /main --><script id="quarto-html-after-body" type="application/javascript">
+</section></main><!-- /main --><script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
     const mode = bsSheetEl.getAttribute("data-mode");
