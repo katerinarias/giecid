@@ -15,10 +15,10 @@ listing:
       link: "Lien vers l'Article"
 ---
 
-# Bienvenue dans Notre Groupe de Recherche
+# Bienvenue dans GIECID
 
 ::: {.group-photo}
-![Notre Groupe de Recherche à XXXXXXX](./assets/groupphoto.jpg "Photo du Groupe")
+![Notre Groupe de Recherche](./assets/groupphoto.png "Photo du Groupe")
 :::
 
 ## À Propos de Nous

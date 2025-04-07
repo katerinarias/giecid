@@ -15,10 +15,10 @@ listing:
       link: "Link to Article"
 ---
 
-# Welcome to Our Research Group
+# Welcome to GIECID
 
 ::: {.group-photo}
-![Our Research Group at XXXXXXX](./assets/groupphoto.jpg "Group Photo")
+![Our Research Group](./assets/groupphoto.png "Group Photo")
 :::
 
 ## About Us
