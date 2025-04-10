@@ -1,34 +1,24 @@
 [
   {
-    "listing": "/projects.html",
-    "items": [
-      "/projects/internados_en_contexto_mapuche.html",
-      "/projects/principios_de_la_pedagogia_y_educacion_indigena.html"
-    ]
-  },
-  {
-    "listing": "/members/former/alexwilson.html",
-    "items": []
-  },
-  {
-    "listing": "/members/current/segundoquintriqueo.html",
-    "items": [
-      "/publications/desafios_del_pluralismo_epostemologico_intercultural_como_eje_de_un_modelo_de_acompanamiento.html"
-    ]
-  },
-  {
-    "listing": "/members/current/katerinarias.html",
+    "listing": "/publications.html",
     "items": [
       "/publications/desafios_de_la_relacion_familia-escuela_en_contexto_mapuche.html",
       "/publications/desafios_del_pluralismo_epostemologico_intercultural_como_eje_de_un_modelo_de_acompanamiento.html",
+      "/publications/interculturalidad_en_educacion_superior.html",
+      "/publications/internacionalidad_para_la_formacion_inicial_docente.html",
+      "/publications/monoculturalidad_en_las_practicas_pedagogicas_en_la_formacion_inicial_docente_en_la_araucania.html",
       "/publications/significados_y_expectativas_de_educacion_rural_de_madres_mapuches_en_la_araucania.html"
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/members/current/vivianavillarroel.html",
     "items": [
-      "/news/best_paper_icse.html"
+      "/publications/significados_y_expectativas_de_educacion_rural_de_madres_mapuches_en_la_araucania.html"
     ]
+  },
+  {
+    "listing": "/members/current/migueldelpino.html",
+    "items": []
   },
   {
     "listing": "/members.html",
@@ -40,21 +30,40 @@
     ]
   },
   {
-    "listing": "/members/current/migueldelpino.html",
-    "items": []
+    "listing": "/index.html",
+    "items": [
+      "/news/best_paper_icse.html"
+    ]
   },
   {
-    "listing": "/members/current/vivianavillarroel.html",
+    "listing": "/members/current/katerinarias.html",
     "items": [
+      "/publications/desafios_de_la_relacion_familia-escuela_en_contexto_mapuche.html",
+      "/publications/desafios_del_pluralismo_epostemologico_intercultural_como_eje_de_un_modelo_de_acompanamiento.html",
+      "/publications/interculturalidad_en_educacion_superior.html",
+      "/publications/internacionalidad_para_la_formacion_inicial_docente.html",
+      "/publications/monoculturalidad_en_las_practicas_pedagogicas_en_la_formacion_inicial_docente_en_la_araucania.html",
       "/publications/significados_y_expectativas_de_educacion_rural_de_madres_mapuches_en_la_araucania.html"
     ]
   },
   {
-    "listing": "/publications.html",
+    "listing": "/members/current/segundoquintriqueo.html",
     "items": [
-      "/publications/desafios_de_la_relacion_familia-escuela_en_contexto_mapuche.html",
       "/publications/desafios_del_pluralismo_epostemologico_intercultural_como_eje_de_un_modelo_de_acompanamiento.html",
-      "/publications/significados_y_expectativas_de_educacion_rural_de_madres_mapuches_en_la_araucania.html"
+      "/publications/interculturalidad_en_educacion_superior.html",
+      "/publications/internacionalidad_para_la_formacion_inicial_docente.html",
+      "/publications/monoculturalidad_en_las_practicas_pedagogicas_en_la_formacion_inicial_docente_en_la_araucania.html"
+    ]
+  },
+  {
+    "listing": "/members/former/alexwilson.html",
+    "items": []
+  },
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/internados_en_contexto_mapuche.html",
+      "/projects/principios_de_la_pedagogia_y_educacion_indigena.html"
     ]
   }
 ]
