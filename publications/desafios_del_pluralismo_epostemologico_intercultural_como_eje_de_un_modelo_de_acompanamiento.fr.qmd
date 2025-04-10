@@ -7,7 +7,7 @@ capitulo: "9"
 categories: ["2024", "Libro", "Pluralismo Epistemológico", "Educación Intercultural", "Modelo de Acompañamiento", "Contexto de Colonización"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2024_KARIAS/Cap_libro_5Arias-Ortega_2024_Referato.pdf"
 ---
-**Autores**: {{< meta autores.1 >}}, [{{< meta autores.2 >}}](../members/current/katerinarias.qmd), {{< meta autores.2 >}}  
+**Autores**: [{{< meta autores.1 >}}](../members/current/segundoquintriqueo.qmd), [{{< meta autores.2 >}}](../members/current/katerinarias.qmd), {{< meta autores.3 >}}
 **Libro**: {{< meta libro >}}   
 **Capítulo**: {{< meta capitulo >}}   
 **Categorias**: [{{< meta categories.1 >}}](../publications.qmd#category=2024), [{{< meta categories.2 >}}](../publications.qmd#category=Libro), [{{< meta categories.3 >}}](../publications.qmd#category=Pluralismo+Epistemológico), [{{< meta categories.4 >}}](../publications.qmd#category=Educación+Intercultural), [{{< meta categories.5 >}}](../publications.qmd#category=Modelo+de+Acompañamiento), [{{< meta categories.6 >}}](../publications.qmd#category=Contexto+de+Colonización)  

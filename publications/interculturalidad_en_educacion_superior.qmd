@@ -1,0 +1,24 @@
+---
+name: "Interculturalidad en educación superior: experiencia en educación inicial en La Araucanía, Chile"
+title: "Interculturalidad en educación superior: experiencia en educación inicial en La Araucanía, Chile"
+autores: ["Soledad Morales-Saavedra", "Segundo Quintriqueo", "Pilar Uribe-Sepulveda", "Katerin Arias"]
+venue: "Convergencia"
+categories: ["2018", "Convergencia", "Interculturalidad", "Enfoque Educativo Intercultural", "Formación inicial docente", "Educación e infancia", "Conocimientos educativos mapuches"]
+preprint: "pdfs/productividad/PRODUCTIVIDAD_2018_KARIAS/ART_2_SCOPUS.pdf"
+---
+**Autores**: {{< meta autores.1 >}}, [{{< meta autores.2 >}}](../members/current/segundoquintriqueo.qmd), {{< meta autores.3 >}}, [{{< meta autores.4 >}}](../members/current/katerinarias.qmd)  
+**Lugar de publicación**: {{< meta venue >}}   
+**Categorias**: [{{< meta categories.1 >}}](../publications.qmd#category=2018), [{{< meta categories.2 >}}](../publications.qmd#category=Convergencia), [{{< meta categories.3 >}}](../publications.qmd#category=Interculturalidad), [{{< meta categories.4 >}}](../publications.qmd#category=Enfoque+educativo+intercultural), [{{< meta categories.5 >}}](../publications.qmd#category=Formación+inicial+docente), [{{< meta categories.6 >}}](../publications.qmd#category=Educación+e+infancia), [{{< meta categories.7 >}}](../publications.qmd#category=Conocimientos+educativos+mapuches)  
+**Pre-print**: [PDF](../{{< meta preprint >}})  
+**Resumen**:  El objetivo del artículo es presentar resultados de la experiencia desarrollada en los procesos de formación inicial docente. La investigación sostiene como supuesto que en las familias y comunidades indígenas mapuches presentes en Chile existen conocimientos asociados a prácticas socioculturales, que permitirían sustentar una Educación Parvularia, desde un enfoque educativo intercultural, con base epistémica en la memoria social de padres y sabios. Los principales resultados develan temas claves en la formación, respecto a los saberes para una educación intercultural para niños menores de seis años, fortaleciendo la comunicación y trabajo con la familia y la comunidad.  
+
+
+**BibTeX**:
+```bibtex
+@article{example,
+  title = {{< meta title >}},
+  author = {{< meta autores.1 >}} and {{< meta autores.2 >}},
+  journal = {{< meta venue >}},
+  year = {{< meta categories.1 >}},
+}
+```
