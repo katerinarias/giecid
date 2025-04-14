@@ -67,7 +67,7 @@ ul.task-list li input[type="checkbox"] {
     const options = {
       valueNames: ['listing-title','listing-autores','listing-categories','listing-venue','listing-preprint',{ data: ['index'] },{ data: ['categories'] }],
       
-      searchColumns: ["listing-project","listing-format","listing-website","listing-babelquarto","listing-title-es","listing-title-fr","listing-description-es","listing-description-fr","listing-lang","listing-language","listing-name","listing-title","listing-autores","listing-venue","listing-categories","listing-preprint","listing-path","listing-outputHref","listing-author","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count","listing-libro","listing-capitulo"],
+      searchColumns: ["listing-project","listing-format","listing-website","listing-babelquarto","listing-title-es","listing-title-fr","listing-description-es","listing-description-fr","listing-lang","listing-language","listing-name","listing-title","listing-autores","listing-libro","listing-capitulo","listing-categories","listing-preprint","listing-path","listing-outputHref","listing-author","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count","listing-venue"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -165,15 +165,17 @@ window.Quarto = {
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
     <h5 class="quarto-listing-category-title">Categorías</h5>
 <div class="quarto-listing-category category-default">
-<div class="category" data-category="">Todas <span class="quarto-category-count">(7)</span>
+<div class="category" data-category="">Todas <span class="quarto-category-count">(14)</span>
 </div>
 <div class="category" data-category="MjAxNg==">2016 <span class="quarto-category-count">(1)</span>
 </div>
 <div class="category" data-category="MjAxOA==">2018 <span class="quarto-category-count">(2)</span>
 </div>
-<div class="category" data-category="MjAxOQ==">2019 <span class="quarto-category-count">(1)</span>
+<div class="category" data-category="MjAxOQ==">2019 <span class="quarto-category-count">(8)</span>
 </div>
 <div class="category" data-category="MjAyNA==">2024 <span class="quarto-category-count">(3)</span>
+</div>
+<div class="category" data-category="Q29uZGljaW9uZXMlMjBkZSUyMGluZ3Jlc28lMjB1bml2ZXJzaXRhcmlv">Condiciones de ingreso universitario <span class="quarto-category-count">(1)</span>
 </div>
 <div class="category" data-category="Q29ub2NpbWllbnRvcyUyMGVkdWNhdGl2b3MlMjBtYXB1Y2hlcw==">Conocimientos educativos mapuches <span class="quarto-category-count">(1)</span>
 </div>
@@ -185,31 +187,53 @@ window.Quarto = {
 </div>
 <div class="category" data-category="RGVzYWYlQzMlQURvcyUyMGVwaXN0JUMzJUE5bWljb3M=">Desafíos epistémicos <span class="quarto-category-count">(1)</span>
 </div>
-<div class="category" data-category="RWR1Y2FjaSVDMyVCM24lMjBJbnRlcmN1bHR1cmFs">Educación Intercultural <span class="quarto-category-count">(2)</span>
+<div class="category" data-category="RWR1Y2FjaSVDMyVCM24lMjBJbnRlcmN1bHR1cmFs">Educación Intercultural <span class="quarto-category-count">(5)</span>
+</div>
+<div class="category" data-category="RWR1Y2FjaSVDMyVCM24lMjBJbnRlcmN1bHR1cmFsJTIwQmlsaW5nJUMzJUJDZQ==">Educación Intercultural Bilingüe <span class="quarto-category-count">(1)</span>
 </div>
 <div class="category" data-category="RWR1Y2FjaSVDMyVCM24lMjBlJTIwaW5mYW5jaWE=">Educación e infancia <span class="quarto-category-count">(1)</span>
 </div>
+<div class="category" data-category="RWR1Y2FjaSVDMyVCM24lMjBlc2NvbGFyJTIwZW4lMjBjb250ZXh0byUyMG1hcHVjaGU=">Educación escolar en contexto mapuche <span class="quarto-category-count">(1)</span>
+</div>
 <div class="category" data-category="RWR1Y2FjaSVDMyVCM24lMjBpbmQlQzMlQURnZW5h">Educación indígena <span class="quarto-category-count">(1)</span>
 </div>
+<div class="category" data-category="RWR1Y2FjaSVDMyVCM24lMjBpbnRlcmN1bHR1cmFs">Educación intercultural <span class="quarto-category-count">(1)</span>
+</div>
 <div class="category" data-category="RWR1Y2FjaSVDMyVCM24lMjBydXJhbA==">Educación rural <span class="quarto-category-count">(1)</span>
+</div>
+<div class="category" data-category="RWR1Y2FyZQ==">Educare <span class="quarto-category-count">(1)</span>
 </div>
 <div class="category" data-category="RW5mb3F1ZSUyMEVkdWNhdGl2byUyMEludGVyY3VsdHVyYWw=">Enfoque Educativo Intercultural <span class="quarto-category-count">(1)</span>
 </div>
 <div class="category" data-category="RW5mb3F1ZSUyMGVkdWNhdGl2byUyMGludGVyY3VsdHVyYWw=">Enfoque educativo intercultural <span class="quarto-category-count">(1)</span>
 </div>
+<div class="category" data-category="RXBpc3RlbWUlMjBpbmQlQzMlQURnZW5h">Episteme indígena <span class="quarto-category-count">(1)</span>
+</div>
 <div class="category" data-category="RXBpc3RlbW9sb2clQzMlQURhJTIwY29udGV4dHVhbA==">Epistemología contextual <span class="quarto-category-count">(1)</span>
+</div>
+<div class="category" data-category="RXNwYWNpb3M=">Espacios <span class="quarto-category-count">(1)</span>
+</div>
+<div class="category" data-category="RXN0dWRpYW50ZXMlMjBtYXB1Y2hlcw==">Estudiantes mapuches <span class="quarto-category-count">(1)</span>
 </div>
 <div class="category" data-category="RXhwZWN0YXRpdmFz">Expectativas <span class="quarto-category-count">(1)</span>
 </div>
-<div class="category" data-category="Rk9OREVDWVQ=">FONDECYT <span class="quarto-category-count">(3)</span>
+<div class="category" data-category="Rk9OREVDWVQ=">FONDECYT <span class="quarto-category-count">(4)</span>
 </div>
 <div class="category" data-category="Rm9ybWFjaSVDMyVCM24lMjBEb2NlbnRl">Formación Docente <span class="quarto-category-count">(1)</span>
 </div>
-<div class="category" data-category="Rm9ybWFjaSVDMyVCM24lMjBpbmljaWFsJTIwZG9jZW50ZQ==">Formación inicial docente <span class="quarto-category-count">(2)</span>
+<div class="category" data-category="Rm9ybWFjaSVDMyVCM24lMjBpbmljaWFsJTIwZGUlMjBwcm9mZXNvcmVz">Formación inicial de profesores <span class="quarto-category-count">(1)</span>
 </div>
-<div class="category" data-category="SW50ZXJjdWx0dXJhbGlkYWQ=">Interculturalidad <span class="quarto-category-count">(2)</span>
+<div class="category" data-category="Rm9ybWFjaSVDMyVCM24lMjBpbmljaWFsJTIwZG9jZW50ZQ==">Formación inicial docente <span class="quarto-category-count">(3)</span>
 </div>
-<div class="category" data-category="TGlicm8=">Libro <span class="quarto-category-count">(2)</span>
+<div class="category" data-category="SW50ZXJjdWx0dXJhbGlkYWQ=">Interculturalidad <span class="quarto-category-count">(4)</span>
+</div>
+<div class="category" data-category="SW50ZXJjdWx0dXJhbGlkYWQlMjBDciVDMyVBRHRpY2E=">Interculturalidad Crítica <span class="quarto-category-count">(1)</span>
+</div>
+<div class="category" data-category="SW50ZXJjdWx0dXJhbGlkYWQlMjBGdW5jaW9uYWxpc3Rh">Interculturalidad Funcionalista <span class="quarto-category-count">(1)</span>
+</div>
+<div class="category" data-category="TGV5JTIwSW5kJUMzJUFEZ2VuYQ==">Ley Indígena <span class="quarto-category-count">(1)</span>
+</div>
+<div class="category" data-category="TGlicm8=">Libro <span class="quarto-category-count">(5)</span>
 </div>
 <div class="category" data-category="TWFkcmVzJTIwaW5kJUMzJUFEZ2VuYXM=">Madres indígenas <span class="quarto-category-count">(1)</span>
 </div>
@@ -230,6 +254,10 @@ window.Quarto = {
 <div class="category" data-category="UmVsYWNpJUMzJUIzbiUyMGVkdWNhdGl2YSUyMGludGVyY3VsdHVyYWw=">Relación educativa intercultural <span class="quarto-category-count">(1)</span>
 </div>
 <div class="category" data-category="UmVsYWNpJUMzJUIzbiUyMGZhbWlsaWEtZXNjdWVsYQ==">Relación familia-escuela <span class="quarto-category-count">(1)</span>
+</div>
+<div class="category" data-category="UmV2aXN0YSUyMGRlJTIwRXN0dWRpb3MlMjB5JTIwRXhwZXJpZW5jaWFzJTIwZW4lMjBFZHVjYWNpJUMzJUIzbg==">Revista de Estudios y Experiencias en Educación <span class="quarto-category-count">(1)</span>
+</div>
+<div class="category" data-category="U29jaWVkYWQlMjB5JTIwY3VsdHVyYQ==">Sociedad y cultura <span class="quarto-category-count">(1)</span>
 </div>
 </div>
 </div>
@@ -261,7 +289,44 @@ window.Quarto = {
 </div>
 </div>
 <ul class="list">
-<li type="1" data-index="0" data-categories="MjAyNCUyQ0ZPTkRFQ1lUJTJDUmVsYWNpJUMzJUIzbiUyMGZhbWlsaWEtZXNjdWVsYSUyQ1JlbGFjaSVDMyVCM24lMjBlZHVjYXRpdmElMjBpbnRlcmN1bHR1cmFsJTJDRWR1Y2FjaSVDMyVCM24lMjBpbmQlQzMlQURnZW5hJTJDUmVsYWNpb25lcyUyMGRlJTIwcG9kZXIlMkNDb250ZXh0byUyMGluZCVDMyVBRGdlbmE=" data-listing-file-modified-sort="1744311474841" data-listing-reading-time-sort="3" data-listing-word-count-sort="405">
+<li type="1" data-index="0" data-categories="MjAxOSUyQ1JldmlzdGElMjBkZSUyMEVzdHVkaW9zJTIweSUyMEV4cGVyaWVuY2lhcyUyMGVuJTIwRWR1Y2FjaSVDMyVCM24lMkNMZXklMjBJbmQlQzMlQURnZW5hJTJDRWR1Y2FjaSVDMyVCM24lMjBJbnRlcmN1bHR1cmFsJTIwQmlsaW5nJUMzJUJDZSUyQ0ludGVyY3VsdHVyYWxpZGFkJTIwRnVuY2lvbmFsaXN0YSUyQ0ludGVyY3VsdHVyYWxpZGFkJTIwQ3IlQzMlQUR0aWNh" data-listing-file-modified-sort="1744651650836" data-listing-reading-time-sort="1" data-listing-word-count-sort="188">
+<h3>
+<a href="./publications/encuentros_en_la_educacion_intercultural_en_contexto_mapuche.html">(Des) encuentros en la Educación Intercultural en Contexto Mapuche, Chile</a>
+</h3>
+<div class="listing-autores">
+<strong>Autores</strong>: Katerin Arias,Paula Riquelme
+</div>
+<div class="listing-venue">
+<strong>Lugar de publicación</strong>: Revista de Estudios y Experiencias en Educación
+</div>
+<div class="listing-preprint">
+<strong>Preprint</strong>: <a href="https://katerinarias.github.io/giecid/pdfs/productividad/PRODUCTIVIDAD_2019_KARIAS/ART_5_SCIELO.pdf">PDF</a>
+</div>
+<div class="listing-categories">
+<strong>Palabras clave</strong>: 2019,Revista de Estudios y Experiencias en Educación,Ley Indígena,Educación Intercultural Bilingüe,Interculturalidad Funcionalista,Interculturalidad Crítica
+</div>
+</li>
+<li type="1" data-index="1" data-categories="MjAxOSUyQ0xpYnJvJTJDRWR1Y2FjaSVDMyVCM24lMjBJbnRlcmN1bHR1cmFs" data-listing-file-modified-sort="1744651650835" data-listing-reading-time-sort="1" data-listing-word-count-sort="188">
+<h3>
+<a href="./publications/desafios_de_la_co-construccion_de_un_modelo_de_intervencion_educativa_intercultural_en_contexto_indigeno.html">Desafíos de la co-construcción de un Modelo de Intervención Educativa Intercultural en Contexto Indígeno</a>
+</h3>
+<div class="listing-autores">
+<strong>Autores</strong>: Segundo Quintriqueo,Daniel Quilaqueo
+</div>
+<div class="listing-libro">
+<strong>Libro</strong>: Desafíos de la co-construcción de un Modelo de Intervención Educativa Intercultural en Contexto Indígeno
+</div>
+<div class="listing-capitulo">
+<strong>Capitulo</strong>: All
+</div>
+<div class="listing-preprint">
+<strong>Preprint</strong>: <a href="https://katerinarias.github.io/giecid/pdfs/productividad/PRODUCTIVIDAD_2019_KARIAS/Libro-Desaf%C3%ADos-de-la-Co-contrucci%C3%B3n...FONDEF-2019.pdf">PDF</a>
+</div>
+<div class="listing-categories">
+<strong>Palabras clave</strong>: 2019,Libro,Educación Intercultural
+</div>
+</li>
+<li type="1" data-index="2" data-categories="MjAyNCUyQ0ZPTkRFQ1lUJTJDUmVsYWNpJUMzJUIzbiUyMGZhbWlsaWEtZXNjdWVsYSUyQ1JlbGFjaSVDMyVCM24lMjBlZHVjYXRpdmElMjBpbnRlcmN1bHR1cmFsJTJDRWR1Y2FjaSVDMyVCM24lMjBpbmQlQzMlQURnZW5hJTJDUmVsYWNpb25lcyUyMGRlJTIwcG9kZXIlMkNDb250ZXh0byUyMGluZCVDMyVBRGdlbmE=" data-listing-file-modified-sort="1744651650835" data-listing-reading-time-sort="3" data-listing-word-count-sort="405">
 <h3>
 <a href="./publications/desafios_de_la_relacion_familia-escuela_en_contexto_mapuche.html">Desafíos de la relación familia-escuela en contexto mapuche: aproximación desde los profesores</a>
 </h3>
@@ -278,7 +343,7 @@ window.Quarto = {
 <strong>Palabras clave</strong>: 2024,FONDECYT,Relación familia-escuela,Relación educativa intercultural,Educación indígena,Relaciones de poder,Contexto indígena
 </div>
 </li>
-<li type="1" data-index="1" data-categories="MjAyNCUyQ0xpYnJvJTJDUGx1cmFsaXNtbyUyMEVwaXN0ZW1vbCVDMyVCM2dpY28lMkNFZHVjYWNpJUMzJUIzbiUyMEludGVyY3VsdHVyYWwlMkNNb2RlbG8lMjBkZSUyMEFjb21wYSVDMyVCMWFtaWVudG8lMkNDb250ZXh0byUyMGRlJTIwQ29sb25pemFjaSVDMyVCM24=" data-listing-file-modified-sort="1744311474841" data-listing-reading-time-sort="2" data-listing-word-count-sort="333">
+<li type="1" data-index="3" data-categories="MjAyNCUyQ0xpYnJvJTJDUGx1cmFsaXNtbyUyMEVwaXN0ZW1vbCVDMyVCM2dpY28lMkNFZHVjYWNpJUMzJUIzbiUyMEludGVyY3VsdHVyYWwlMkNNb2RlbG8lMjBkZSUyMEFjb21wYSVDMyVCMWFtaWVudG8lMkNDb250ZXh0byUyMGRlJTIwQ29sb25pemFjaSVDMyVCM24=" data-listing-file-modified-sort="1744651650835" data-listing-reading-time-sort="2" data-listing-word-count-sort="333">
 <h3>
 <a href="./publications/desafios_del_pluralismo_epostemologico_intercultural_como_eje_de_un_modelo_de_acompanamiento.html">Desafíos del pluralismo epistemológico intercultural como eje de un modelo de acompañamiento</a>
 </h3>
@@ -298,7 +363,7 @@ window.Quarto = {
 <strong>Palabras clave</strong>: 2024,Libro,Pluralismo Epistemológico,Educación Intercultural,Modelo de Acompañamiento,Contexto de Colonización
 </div>
 </li>
-<li type="1" data-index="2" data-categories="MjAxOSUyQ0ZPTkRFQ1lUJTJDRWR1Y2FjaSVDMyVCM24lMjBJbnRlcmN1bHR1cmFsJTJDRGVzYWYlQzMlQURvcyUyMGVwaXN0JUMzJUE5bWljb3MlMkNFcGlzdGVtb2xvZyVDMyVBRGElMjBjb250ZXh0dWFs" data-listing-file-modified-sort="1744311474841" data-listing-reading-time-sort="2" data-listing-word-count-sort="305">
+<li type="1" data-index="4" data-categories="MjAxOSUyQ0ZPTkRFQ1lUJTJDRWR1Y2FjaSVDMyVCM24lMjBJbnRlcmN1bHR1cmFsJTJDRGVzYWYlQzMlQURvcyUyMGVwaXN0JUMzJUE5bWljb3MlMkNFcGlzdGVtb2xvZyVDMyVBRGElMjBjb250ZXh0dWFs" data-listing-file-modified-sort="1744651650835" data-listing-reading-time-sort="2" data-listing-word-count-sort="305">
 <h3>
 <a href="./publications/educacion_intercultural_bilingue_en_la_araucania.html">Educación Intercultural Bilingüe en La Araucanía: principales limitaciones epistemológicas</a>
 </h3>
@@ -315,7 +380,61 @@ window.Quarto = {
 <strong>Palabras clave</strong>: 2019,FONDECYT,Educación Intercultural,Desafíos epistémicos,Epistemología contextual
 </div>
 </li>
-<li type="1" data-index="3" data-categories="MjAxOCUyQ0NvbnZlcmdlbmNpYSUyQ0ludGVyY3VsdHVyYWxpZGFkJTJDRW5mb3F1ZSUyMEVkdWNhdGl2byUyMEludGVyY3VsdHVyYWwlMkNGb3JtYWNpJUMzJUIzbiUyMGluaWNpYWwlMjBkb2NlbnRlJTJDRWR1Y2FjaSVDMyVCM24lMjBlJTIwaW5mYW5jaWElMkNDb25vY2ltaWVudG9zJTIwZWR1Y2F0aXZvcyUyMG1hcHVjaGVz" data-listing-file-modified-sort="1744311474841" data-listing-reading-time-sort="1" data-listing-word-count-sort="196">
+<li type="1" data-index="5" data-categories="MjAxOSUyQ0xpYnJvJTJDRWR1Y2FjaSVDMyVCM24lMjBJbnRlcmN1bHR1cmFs" data-listing-file-modified-sort="1744651650835" data-listing-reading-time-sort="2" data-listing-word-count-sort="289">
+<h3>
+<a href="./publications/aproximacion_critica_y_decolonial_en_contexto_indigena.html">Educación e Interculturalidad: Aproximación Crítica y Decolonial en Contexto Indígena</a>
+</h3>
+<div class="listing-autores">
+<strong>Autores</strong>: Segundo Quintriqueo,Daniel Quilaqueo
+</div>
+<div class="listing-libro">
+<strong>Libro</strong>: Educación e Interculturalidad: Aproximación Crítica y Decolonial en Contexto Indígena
+</div>
+<div class="listing-capitulo">
+<strong>Capitulo</strong>: All
+</div>
+<div class="listing-preprint">
+<strong>Preprint</strong>: <a href="https://katerinarias.github.io/giecid/pdfs/productividad/PRODUCTIVIDAD_2019_KARIAS/educacion-e-interculturalidad_Cap_libros.pdf">PDF</a>
+</div>
+<div class="listing-categories">
+<strong>Palabras clave</strong>: 2019,Libro,Educación Intercultural
+</div>
+</li>
+<li type="1" data-index="6" data-categories="MjAxOSUyQ0ZPTkRFQ1lUJTJDRWR1Y2FjaSVDMyVCM24lMjBpbnRlcmN1bHR1cmFsJTJDRXBpc3RlbWUlMjBpbmQlQzMlQURnZW5hJTJDRm9ybWFjaSVDMyVCM24lMjBpbmljaWFsJTIwZG9jZW50ZQ==" data-listing-file-modified-sort="1744651650835" data-listing-reading-time-sort="2" data-listing-word-count-sort="297">
+<h3>
+<a href="./publications/educacion_intercultural_articulada_a_la_episteme_indigena_en_latinoamerica.html">Educación intercultural articulada a la espisteme indígena en latinoamerida. El caso mapuche en chile</a>
+</h3>
+<div class="listing-autores">
+<strong>Autores</strong>: Segundo Quintriqueo,Katerin Arias
+</div>
+<div class="listing-venue">
+<strong>Lugar de publicación</strong>: FONDECYT
+</div>
+<div class="listing-preprint">
+<strong>Preprint</strong>: <a href="https://katerinarias.github.io/giecid/pdfs/productividad/PRODUCTIVIDAD_2019_KARIAS/ART_4_SCOPUS.pdf">PDF</a>
+</div>
+<div class="listing-categories">
+<strong>Palabras clave</strong>: 2019,FONDECYT,Educación intercultural,Episteme indígena,Formación inicial docente
+</div>
+</li>
+<li type="1" data-index="7" data-categories="MjAxOSUyQ0VzcGFjaW9zJTJDU29jaWVkYWQlMjB5JTIwY3VsdHVyYSUyQ0VkdWNhY2klQzMlQjNuJTIwZXNjb2xhciUyMGVuJTIwY29udGV4dG8lMjBtYXB1Y2hlJTJDSW50ZXJjdWx0dXJhbGlkYWQ=" data-listing-file-modified-sort="1744651650836" data-listing-reading-time-sort="1" data-listing-word-count-sort="165">
+<h3>
+<a href="./publications/implicancias_de_la_sociedad_y_cultura_hegemonica_en_la_educacion_escolar_en_contexto_mapuche.html">Implicancias de la sociedad y cultura hegemónica en la educación escolar en contexto mapuche (Chile): una crítica epistemológica</a>
+</h3>
+<div class="listing-autores">
+<strong>Autores</strong>: Katerin Arias,Eliana Ortiz-Velosa
+</div>
+<div class="listing-venue">
+<strong>Lugar de publicación</strong>: FONDECYT
+</div>
+<div class="listing-preprint">
+<strong>Preprint</strong>: <a href="https://katerinarias.github.io/giecid/pdfs/productividad/PRODUCTIVIDAD_2019_KARIAS/ART_2_SCOPUS.pdf">PDF</a>
+</div>
+<div class="listing-categories">
+<strong>Palabras clave</strong>: 2019,Espacios,Sociedad y cultura,Educación escolar en contexto mapuche,Interculturalidad
+</div>
+</li>
+<li type="1" data-index="8" data-categories="MjAxOCUyQ0NvbnZlcmdlbmNpYSUyQ0ludGVyY3VsdHVyYWxpZGFkJTJDRW5mb3F1ZSUyMEVkdWNhdGl2byUyMEludGVyY3VsdHVyYWwlMkNGb3JtYWNpJUMzJUIzbiUyMGluaWNpYWwlMjBkb2NlbnRlJTJDRWR1Y2FjaSVDMyVCM24lMjBlJTIwaW5mYW5jaWElMkNDb25vY2ltaWVudG9zJTIwZWR1Y2F0aXZvcyUyMG1hcHVjaGVz" data-listing-file-modified-sort="1744651650836" data-listing-reading-time-sort="1" data-listing-word-count-sort="196">
 <h3>
 <a href="./publications/interculturalidad_en_educacion_superior.html">Interculturalidad en educación superior: experiencia en educación inicial en La Araucanía, Chile</a>
 </h3>
@@ -332,7 +451,7 @@ window.Quarto = {
 <strong>Palabras clave</strong>: 2018,Convergencia,Interculturalidad,Enfoque Educativo Intercultural,Formación inicial docente,Educación e infancia,Conocimientos educativos mapuches
 </div>
 </li>
-<li type="1" data-index="4" data-categories="MjAxNiUyQ0xpYnJvJTJDRm9ybWFjaSVDMyVCM24lMjBEb2NlbnRlJTJDSW50ZXJjdWx0dXJhbGlkYWQ=" data-listing-file-modified-sort="1744311474841" data-listing-reading-time-sort="2" data-listing-word-count-sort="337">
+<li type="1" data-index="9" data-categories="MjAxNiUyQ0xpYnJvJTJDRm9ybWFjaSVDMyVCM24lMjBEb2NlbnRlJTJDSW50ZXJjdWx0dXJhbGlkYWQ=" data-listing-file-modified-sort="1744651650836" data-listing-reading-time-sort="2" data-listing-word-count-sort="337">
 <h3>
 <a href="./publications/internacionalidad_para_la_formacion_inicial_docente.html">Interculturalidad para la Formación Inicial Docente: Desafíos para construir un diálogo intercultural</a>
 </h3>
@@ -352,7 +471,27 @@ window.Quarto = {
 <strong>Palabras clave</strong>: 2016,Libro,Formación Docente,Interculturalidad
 </div>
 </li>
-<li type="1" data-index="5" data-categories="MjAxOCUyQ0ZPTkRFQ1lUJTJDUHIlQzMlQTFjdGljYXMlMjBwZWRhZyVDMyVCM2dpY2FzJTJDTW9ub2N1bHR1cmFsaWRhZCUyQ0Zvcm1hY2klQzMlQjNuJTIwaW5pY2lhbCUyMGRvY2VudGUlMkNFbmZvcXVlJTIwZWR1Y2F0aXZvJTIwaW50ZXJjdWx0dXJhbA==" data-listing-file-modified-sort="1744311474841" data-listing-reading-time-sort="2" data-listing-word-count-sort="333">
+<li type="1" data-index="10" data-categories="MjAxOSUyQ0xpYnJvJTJDRWR1Y2FjaSVDMyVCM24lMjBJbnRlcmN1bHR1cmFs" data-listing-file-modified-sort="1744651650836" data-listing-reading-time-sort="1" data-listing-word-count-sort="195">
+<h3>
+<a href="./publications/modelo_de_intervencion_educativa_intercultural_en_contexto_indigena.html">Manual de aplicación - Modelo de Intervención Educativa Intercultural en Contexto Indígena</a>
+</h3>
+<div class="listing-autores">
+<strong>Autores</strong>: Segundo Quintriqueo,Daniel Quilaqueo
+</div>
+<div class="listing-libro">
+<strong>Libro</strong>: Manual de aplicación - Modelo de Intervención Educativa Intercultural en Contexto Indígena
+</div>
+<div class="listing-capitulo">
+<strong>Capitulo</strong>: All
+</div>
+<div class="listing-preprint">
+<strong>Preprint</strong>: <a href="https://katerinarias.github.io/giecid/pdfs/productividad/PRODUCTIVIDAD_2019_KARIAS/Manual-de-Intervenci%C3%B3n-Educativa_2019_lIBRO.pdf">PDF</a>
+</div>
+<div class="listing-categories">
+<strong>Palabras clave</strong>: 2019,Libro,Educación Intercultural
+</div>
+</li>
+<li type="1" data-index="11" data-categories="MjAxOCUyQ0ZPTkRFQ1lUJTJDUHIlQzMlQTFjdGljYXMlMjBwZWRhZyVDMyVCM2dpY2FzJTJDTW9ub2N1bHR1cmFsaWRhZCUyQ0Zvcm1hY2klQzMlQjNuJTIwaW5pY2lhbCUyMGRvY2VudGUlMkNFbmZvcXVlJTIwZWR1Y2F0aXZvJTIwaW50ZXJjdWx0dXJhbA==" data-listing-file-modified-sort="1744651650836" data-listing-reading-time-sort="2" data-listing-word-count-sort="333">
 <h3>
 <a href="./publications/monoculturalidad_en_las_practicas_pedagogicas_en_la_formacion_inicial_docente_en_la_araucania.html">Monoculturalidad en las prácticas pedagógicas en la formación inicial docente en La Araucanía, Chile</a>
 </h3>
@@ -369,7 +508,24 @@ window.Quarto = {
 <strong>Palabras clave</strong>: 2018,FONDECYT,Prácticas pedagógicas,Monoculturalidad,Formación inicial docente,Enfoque educativo intercultural
 </div>
 </li>
-<li type="1" data-index="6" data-categories="MjAyNCUyQ1JJRUpTJTJDRWR1Y2FjaSVDMyVCM24lMjBydXJhbCUyQ1JlbGFjaSVDMyVCM24lMjBlZHVjYXRpdmElMkNNYWRyZXMlMjBpbmQlQzMlQURnZW5hcyUyQ0V4cGVjdGF0aXZhcyUyQ0NvbnRleHRvJTIwaW5kJUMzJUFEZ2VuYQ==" data-listing-file-modified-sort="1744311474841" data-listing-reading-time-sort="2" data-listing-word-count-sort="371">
+<li type="1" data-index="12" data-categories="MjAxOSUyQ0VkdWNhcmUlMkNFc3R1ZGlhbnRlcyUyMG1hcHVjaGVzJTJDQ29uZGljaW9uZXMlMjBkZSUyMGluZ3Jlc28lMjB1bml2ZXJzaXRhcmlvJTJDRm9ybWFjaSVDMyVCM24lMjBpbmljaWFsJTIwZGUlMjBwcm9mZXNvcmVzJTJDSW50ZXJjdWx0dXJhbGlkYWQ=" data-listing-file-modified-sort="1744651650836" data-listing-reading-time-sort="2" data-listing-word-count-sort="361">
+<h3>
+<a href="./publications/ser_mapuche_en_la_universidad.html">Ser mapuche en la universidad: Condiciones de ingreso a la formación inicial docente, La Araucanía</a>
+</h3>
+<div class="listing-autores">
+<strong>Autores</strong>: Eliana Ortiz-Velosa,Katerin Arias
+</div>
+<div class="listing-venue">
+<strong>Lugar de publicación</strong>: Educare
+</div>
+<div class="listing-preprint">
+<strong>Preprint</strong>: <a href="https://katerinarias.github.io/giecid/pdfs/productividad/PRODUCTIVIDAD_2019_KARIAS/ART_3_SCOPUS.pdf">PDF</a>
+</div>
+<div class="listing-categories">
+<strong>Palabras clave</strong>: 2019,Educare,Estudiantes mapuches,Condiciones de ingreso universitario,Formación inicial de profesores,Interculturalidad
+</div>
+</li>
+<li type="1" data-index="13" data-categories="MjAyNCUyQ1JJRUpTJTJDRWR1Y2FjaSVDMyVCM24lMjBydXJhbCUyQ1JlbGFjaSVDMyVCM24lMjBlZHVjYXRpdmElMkNNYWRyZXMlMjBpbmQlQzMlQURnZW5hcyUyQ0V4cGVjdGF0aXZhcyUyQ0NvbnRleHRvJTIwaW5kJUMzJUFEZ2VuYQ==" data-listing-file-modified-sort="1744651650836" data-listing-reading-time-sort="2" data-listing-word-count-sort="371">
 <h3>
 <a href="./publications/significados_y_expectativas_de_educacion_rural_de_madres_mapuches_en_la_araucania.html">Significados y Expectativas de Educación Rural de Madres Mapuches en La Araucanía, Chile</a>
 </h3>
