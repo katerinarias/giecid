@@ -1,0 +1,26 @@
+---
+name: "Relación educativa entre profesor y educador tradicional en la educación intercultural bilingüe"
+title: "Relación educativa entre profesor y educador tradicional en la educación intercultural bilingüe"
+autores: ["Katerin Arias", "Segundo Quintriqueo"]
+venue: "redie"
+categories: ["2021", "redie", "Relaciones Interétnicas", "Conocimientos Tradicionales", "Métodos Educativos"]
+preprint: "pdfs/productividad/PRODUCTIVIDAD_2021_KARIAS/ART_N°1_ARIAS-ORTEGA Y QUINTRIQUEO_REDIE_2021_SCOPUS.pdf"
+---
+**Autores**: [{{< meta autores.1 >}}](../members/current/katerinarias.qmd), [{{< meta autores.2 >}}](../members/current/segundoquintriqueo.qmd)  
+**Lugar de publicación**: {{< meta venue >}}   
+**Categorias**: [{{< meta categories.1 >}}](../publications.qmd#category=2021), [{{< meta categories.2 >}}](../publications.qmd#category=redie), [{{< meta categories.3 >}}](../publications.qmd#category=Relaciones+Interétnicas), [{{< meta categories.4 >}}](../publications.qmd#category=Conocimientos+Tradicionales), [{{< meta categories.5 >}}](../publications.qmd#category=Métodos+Educativos)  
+**Pre-print**: [PDF](../{{< meta preprint >}})  
+**Resumen**: El objetivo del artículo es exponer los desafíos de la relación educativa entre profesor mentor y educador 
+tradicional en la implementación de la Educación Intercultural Bilingüe (EIB) en La Araucanía, Chile. Estos desafíos tienen relación con la incorporación de los aportes epistémicos de métodos, saberes y conocimientos educativos mapuches en la enseñanza de la lengua y la cultura mapuche en la EIB. La articulación de los aportes epistémicos mapuches y escolares permite una relación educativa intercultural caracterizada por la implicación mutua para avanzar hacia un diálogo de saberes inter-epistémicos en la escuela. La metodología utilizada es la investigación educativa desde un enfoque de complementariedad metodológica cualitativo-cuantitativo. Los resultados de la investigación muestran que existe una base de conocimientos educativos mapuches presente en la memoria social de los educadores tradicionales –que 
+es pertinente incorporar al currículo escolar desde un enfoque educativo intercultural. 
+
+
+**BibTeX**:
+```bibtex
+@article{example,
+  title = {{< meta title >}},
+  author = {{< meta autores.1 >}} and {{< meta autores.2 >}},
+  journal = {{< meta venue >}},
+  year = {{< meta categories.1 >}},
+}
+```
