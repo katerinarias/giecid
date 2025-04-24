@@ -1,6 +1,6 @@
 ---
 title: "Viviana Marcela Villarroel Cárdenas"
-subtitle: "Doctora en Ciencias de la Educación"
+rol: "Investigador Asociado"
 image: "vivianavillarroel.jpg"
 title-block-banner: false
 format: html
@@ -15,7 +15,7 @@ listing:
 ---
 
 ::: {.profile-image}
-![Viviana Villarroel](vivianavillarroel.jpg "Viviana Villarroel")
+![Viviana Villarroel<br> Investigador Asociado](vivianavillarroel.jpg "Viviana Villarroel")
 :::
 <br>
 
@@ -24,6 +24,7 @@ listing:
 - Correo electrónico: vvillarroel@uct.cl
 - Afiliación: Facultad de Ciencias de la Salud
 - ORCID: 0000-0003-0408-8794
+- [Link de Scholar](https://scholar.google.com/citations?user=L3aTziYAAAAJ&hl=en&oi=ao)
 
 **Sobre mí**:
 

@@ -1,6 +1,6 @@
 ---
 title: "Katerin Arias"
-subtitle: "Profesora en Educación General Básica"
+rol: "Lider del grupo"
 image: "katerinarias.jpg"
 title-block-banner: false
 format: html
@@ -15,7 +15,7 @@ listing:
 ---
 
 ::: {.profile-image}
-![Katerin Arias](katerinarias.jpg "Katerin Arias")
+![Katerin Arias<br> Lider del grupo](katerinarias.jpg "Katerin Arias")
 :::
 <br>
 
@@ -24,6 +24,7 @@ listing:
 - Correo electrónico: karias@uct.cl
 - Afiliación: Facultad de Ciencias de Salud
 - Intereses de Investigación: Educación e Interculturalidad
+- [Link de Scholar](https://scholar.google.com/citations?user=16Ms6dQAAAAJ&hl=en&oi=ao)
 
 **Sobre mí**:
 

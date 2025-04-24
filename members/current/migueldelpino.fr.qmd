@@ -1,6 +1,6 @@
 ---
 title: "Miguel Antonio Del Pino Sepúlveda"
-subtitle: "Doctor en Ciencias de la Educación"
+rol: "Investigador Asociado"
 image: "migueldelpino.jpeg"
 title-block-banner: false
 format: html
@@ -15,7 +15,7 @@ listing:
 ---
 
 ::: {.profile-image}
-![Miguel del Pino](migueldelpino.jpeg "Miguel del Pino")
+![Miguel del Pino<br> Investigador Asociado](migueldelpino.jpeg "Miguel del Pino")
 :::
 <br>
 
@@ -24,6 +24,7 @@ listing:
 - Correo electrónico: mdelpino@ucm.cl
 - Afiliación: Facultad de Ciencias de la Salud
 - ORCID: 0000-0003-3379-3994
+- [Link de Scholar](https://scholar.google.com/citations?user=BDKOjTAAAAAJ&hl=en&oi=ao)
 
 **Sobre mí**:
 

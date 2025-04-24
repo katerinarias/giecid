@@ -1,6 +1,6 @@
 ---
 title: "Segundo Quintriqueo Millán"
-subtitle: "Doctor en Educación"
+rol: "Investigador Asociado"
 image: "segundoquintriqueo.png"
 title-block-banner: false
 format: html
@@ -15,7 +15,7 @@ listing:
 ---
 
 ::: {.profile-image}
-![Segundo Quintriqueo](segundoquintriqueo.png "Segundo Quintriqueo")
+![Segundo Quintriqueo<br> Investigador Asociado](segundoquintriqueo.png "Segundo Quintriqueo")
 :::
 <br>
 
@@ -25,6 +25,7 @@ listing:
 - Afiliación: Facultad de Ciencias de la Salud
 - Intereses de Investigación: Educación e Interculturalidad
 - ORCID: 0000-0003-0408-8794
+- [Link de Scholar](https://scholar.google.com/citations?user=XZBjhB4AAAAJ&hl=en&oi=ao)
 
 **Sobre mí**:
 

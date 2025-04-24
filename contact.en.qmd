@@ -17,12 +17,12 @@ Our research group is located at Universidad Católica de Temuco.
 
 ### Contact us
 
-<span style="display: inline-flex; align-items: center;">
+<!-- <span style="display: inline-flex; align-items: center;">
     <a href="https://scholar.google.com/citations?user=16Ms6dQAAAAJ&hl=en&oi=ao">
         <img src="./assets/scholar-logo.png" alt="Icon" style="width: 32px; height: 32px; vertical-align: middle; margin-right: 5px;">
     </a>
     <a href="https://scholar.google.com/citations?user=16Ms6dQAAAAJ&hl=en&oi=ao"><strong>Perfil de Scholar</strong></a>
-</span>
+</span> -->
 
 ### Address
 

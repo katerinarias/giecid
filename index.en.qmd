@@ -1,31 +1,29 @@
 ---
-title: "Research Group"
+title: "Welcome to GIECID"
 format: html
-listing:
-  - id: latest-news
-    contents: "news/*.qmd"
-    type: default
-    sort: "date desc"
-    max-items: 5
-    categories: false
-    sort-ui: false
-    filter-ui: false
-    fields: [title, date, description, link]
-    field-display-names:
-      link: "Link to Article"
+# listing:
+#   - id: latest-news
+#     contents: "news/*.qmd"
+#     type: default
+#     sort: "date desc"
+#     max-items: 5
+#     categories: false
+#     sort-ui: false
+#     filter-ui: false
+#     fields: [title, date, description, link]
+#     field-display-names:
+#       link: "Link to Article"
 ---
 
-# Welcome to GIECID
-
 ::: {.group-photo}
-![Our Research Group](./assets/groupphoto.png "Group Photo")
+![Our Research Group](./assets/groupphoto.jpg "Group Photo")
 :::
 
 ## About Us
 
 We are a dynamic research group focused on advancing the field of software engineering through innovative research and practical applications. Our team combines expertise in software development, empirical studies, and machine learning to tackle challenging problems in modern software development practices. We collaborate with industry partners and academic institutions worldwide to drive impactful research that shapes the future of software engineering.
 
-## Latest News
+<!-- ## Latest News
 
 ::: {#latest-news}
-:::
+::: -->
