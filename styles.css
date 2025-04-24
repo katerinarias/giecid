@@ -147,7 +147,7 @@ body[data-bs-theme="dark"] .navbar.navbar-expand-lg {
 .member-grid {
   display: flex;
   flex-wrap: wrap;
-  gap: 20px;
+  gap: 3rem;
   justify-content: center;
 }
 
@@ -162,6 +162,11 @@ body[data-bs-theme="dark"] .navbar.navbar-expand-lg {
 }
 
 .profile-image {
+  margin: 0 auto 10px; /* Centers the image and adds space below */
+  text-align: center;
+}
+
+.img-fluid {
   width: 250px; /* Adjust size as needed */
   height: 250px;
   border: solid 1px black;
@@ -480,7 +485,7 @@ span.color-box {
 }
 
 .group-photo {
-  max-width: 70%;
+  max-width: 60%;
   display: block;
   margin: 0 auto;
   text-align: center;
