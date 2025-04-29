@@ -3,12 +3,13 @@ name: "Ser mapuche en la universidad: Condiciones de ingreso a la formación ini
 title: "Ser mapuche en la universidad: Condiciones de ingreso a la formación inicial docente, La Araucanía"
 autores: ["Eliana Ortiz-Velosa", "Katerin Arias"]
 venue: "Educare"
-categories: ["2019", "Educare", "Estudiantes mapuches", "Condiciones de ingreso universitario", "Formación inicial de profesores", "Interculturalidad"]
+categories: 2019
+keywords: ["2019", "Educare", "Estudiantes mapuches", "Condiciones de ingreso universitario", "Formación inicial de profesores", "Interculturalidad"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2019_KARIAS/ART_3_SCOPUS.pdf"
 ---
 **Autores**: {{< meta autores.1 >}}, [{{< meta autores.2 >}}](../members/current/katerinarias.qmd)  
 **Lugar de publicación**: {{< meta venue >}}   
-**Categorias**: [{{< meta categories.1 >}}](../publications.qmd#category=2019), [{{< meta categories.2 >}}](../publications.qmd#category=Educare), [{{< meta categories.3 >}}](../publications.qmd#category=Estudiantes+mapuches), [{{< meta categories.4 >}}](../publications.qmd#category=Condiciones+de+ingreso+universitario), [{{< meta categories.5 >}}](../publications.qmd#category=Formación+inicial+de+profesores), [{{< meta categories.6 >}}](../publications.qmd#category=Interculturalidad)  
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}  
 **Pre-print**: [PDF](../{{< meta preprint >}})  
 **Resumen**: El artículo problematiza en factores sociales que inciden en el ingreso y permanencia de estudiantes de origen indígena pertenecientes a culturas minoritarias involuntarias en la educación superior.  Sostenemos  como  tesis  que  estudiantes  mapuches  enfrentan  problemas  personales  y  sociales  que  se  constituyen  en  tensiones  interculturales  que  tienen  su  origen,  entre  otros  factores,  a causas relacionadas a la vida académica previa al ingreso a la universidad. El objetivo es describir las características demográficas, de procedencia y académicas propias de estudiantes mapuches de la  Facultad  de  Educación  de  la  Universidad  Católica  de  Temuco.  La  metodología  empleada  fue  el  análisis estadístico descriptivo de la base de datos de la Universidad, lo que permitió la caracterización demográfica con base en las identidades territoriales de la cual provienen este estudiantado. Se llevó a  cabo  la  triangulación  de  las  condiciones  académicas  de  ingreso,  esto  es,  el  promedio  de  notas  de  la  educación  media  (NEM),  con  la  procedencia  de  estudiantes  y  sus  preferencias  de  formación  profesional en el área de educación. Concluimos que conocer esta triada (demografía, condiciones académicas y preferencias de carrera) nos permitirá avanzar en la gestión de estrategias y pistas de acciones para apoyar a este estudiantado en su proceso de inserción en la vida universitaria.    
 

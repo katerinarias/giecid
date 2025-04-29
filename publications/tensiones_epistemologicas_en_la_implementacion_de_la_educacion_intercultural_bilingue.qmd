@@ -3,12 +3,13 @@ name: "Tensiones epistemológicas en la implementación de la Educación Intercu
 title: "Tensiones epistemológicas en la implementación de la Educación Intercultural Bilingüe"
 autores: ["Katerin Arias", "Segundo Quintriqueo"]
 venue: "FONDECYT"
-categories: ["2021", "FONDECYT", "Relación educativa" , "Educación colonial", "Educación intercultural"]
+categories: 2021
+keywords: ["2021", "FONDECYT", "Relación educativa", "Educación colonial", "Educación intercultural"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2021_KARIAS/ART_N°2_ARIAS-ORTEGA Y QUINTRIQUEO_Ensaio_Pol_Public_2021_SCOPUS.pdf"
 ---
 **Autores**: [{{< meta autores.1 >}}](../members/current/katerinarias.qmd), [{{< meta autores.2 >}}](../members/current/segundoquintriqueo.qmd)  
 **Lugar de publicación**: {{< meta venue >}}   
-**Categorias**: [{{< meta categories.1 >}}](../publications.qmd#category=2021), [{{< meta categories.2 >}}](../publications.qmd#category=FONDECYT), [{{< meta categories.3 >}}](../publications.qmd#category=Relación+educativa), [{{< meta categories.4 >}}](../publications.qmd#category=Educación+colonial), [{{< meta categories.5 >}}](../publications.qmd#category=Educación+intercultural)  
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}  
 **Pre-print**: [PDF](../{{< meta preprint >}})  
 **Resumen**: El artículo busca indagar las tensiones epistemológicas existentes entre el profesor mentor y el educador tradicional (sabio mapuche), en la implementación de la Educación Intercultural Bilingüe (EIB) en tres escuelas de La Araucanía, Chile. La metodología utilizada es la investigación cualitativa, a través de la aplicación de entrevistas semi-dirigidas a profesores mentores y educadores tradicionales encargados de implementar la EIB. Los principales resultados dan cuenta de que existe una relación educativa de carácter colonial del profesor mentor hacia el educador tradicional, lo que limita la implementación de la EIB. Estas tensiones están asociados a prácticas de minorización, asimetría y hegemonía del conocimiento escolar de raíz eurocéntrico occidental sobre la Enseñanza de la lengua y la cultura mapuche. 
 

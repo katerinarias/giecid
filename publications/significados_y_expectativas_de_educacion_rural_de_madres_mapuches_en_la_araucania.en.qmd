@@ -3,12 +3,13 @@ name: "Significados y Expectativas de Educación Rural de Madres Mapuches en La 
 title: "Significados y Expectativas de Educación Rural de Madres Mapuches en La Araucanía, Chile"
 autores: ["Viviana Villarroel", "Katerin Arias"]
 venue: "Revista Internacional de Educación para la Justicia Social"
-categories: ["2024", "RIEJS", "Educación rural", "Relación educativa", "Madres indígenas", "Expectativas", "Contexto indígena"]
+categories: 2024
+keywords: ["2024", "RIEJS", "Educación rural", "Relación educativa", "Madres indígenas", "Expectativas", "Contexto indígena"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2024_KARIAS/ART_4_RIEJS_VILLARROEL_ARIAS_2024_SCOPUS.pdf"
 ---
 **Autores**: [{{< meta autores.1 >}}](../members/current/vivianavillarroel.qmd), [{{< meta autores.2 >}}](../members/current/katerinarias.qmd)  
 **Lugar de publicación**: {{< meta venue >}}   
-**Categorias**: [{{< meta categories.1 >}}](../publications.qmd#category=2024), [{{< meta categories.2 >}}](../publications.qmd#category=RIEJS), [{{< meta categories.3 >}}](../publications.qmd#category=Educación+rural), [{{< meta categories.4 >}}](../publications.qmd#category=Relación+educativa), [{{< meta categories.5 >}}](../publications.qmd#category=Madres+indígenas), [{{< meta categories.6 >}}](../publications.qmd#category=Expectativas), [{{< meta categories.7 >}}](../publications.qmd#category=Contexto+indígena)  
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}, {{< meta keywords.7 >}}  
 **Pre-print**: [PDF](../{{< meta preprint >}})  
 **Resumen**: El  artículo expone  resultados  de  investigación  que  dan  cuenta  de  la  construcción  de 
 significados y expectativas de madres mapuches de La Araucanía, Chile, respecto a la educación 

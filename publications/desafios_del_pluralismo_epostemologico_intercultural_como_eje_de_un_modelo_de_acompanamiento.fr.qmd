@@ -4,13 +4,14 @@ title: "Desafíos del pluralismo epistemológico intercultural como eje de un mo
 autores: ["Segundo Quintriqueo", "Katerin Arias", "Sonia Salas-Salinas"]
 libro: "Lineamientos estrategicos para la Implementación de la Educación Intercultural desde un Modelo de Acompañamiento"
 capitulo: "9"
-categories: ["2024", "Libro", "Pluralismo Epistemológico", "Educación Intercultural", "Modelo de Acompañamiento", "Contexto de Colonización"]
+categories: 2024
+keywords: ["2024", "Libro", "Pluralismo Epistemológico", "Educación Intercultural", "Modelo de Acompañamiento", "Contexto de Colonización"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2024_KARIAS/Cap_libro_5Arias-Ortega_2024_Referato.pdf"
 ---
 **Autores**: [{{< meta autores.1 >}}](../members/current/segundoquintriqueo.qmd), [{{< meta autores.2 >}}](../members/current/katerinarias.qmd), {{< meta autores.3 >}}
 **Libro**: {{< meta libro >}}   
 **Capítulo**: {{< meta capitulo >}}   
-**Categorias**: [{{< meta categories.1 >}}](../publications.qmd#category=2024), [{{< meta categories.2 >}}](../publications.qmd#category=Libro), [{{< meta categories.3 >}}](../publications.qmd#category=Pluralismo+Epistemológico), [{{< meta categories.4 >}}](../publications.qmd#category=Educación+Intercultural), [{{< meta categories.5 >}}](../publications.qmd#category=Modelo+de+Acompañamiento), [{{< meta categories.6 >}}](../publications.qmd#category=Contexto+de+Colonización)  
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}  
 **Pre-print**: [PDF](../{{< meta preprint >}})  
 **Resumen**: En este capítulo presentamos un análisis sobre el enfoque pluralismo
 epistemológico como eje articulador del modelo de acompañamiento en la

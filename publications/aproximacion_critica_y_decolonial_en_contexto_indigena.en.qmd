@@ -4,13 +4,14 @@ title: "Educación e Interculturalidad: Aproximación Crítica y Decolonial en C
 autores: ["Segundo Quintriqueo", "Daniel Quilaqueo"]
 libro: "Educación e Interculturalidad: Aproximación Crítica y Decolonial en Contexto Indígena"
 capitulo: "All"
-categories: ["2019", "Libro", "Educación Intercultural"]
+categories: 2019
+keywords: ["2019", "Libro", "Educación Intercultural"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2019_KARIAS/educacion-e-interculturalidad_Cap_libros.pdf"
 ---
 **Autores**: [{{< meta autores.1 >}}](../members/current/segundoquintriqueo.qmd), {{< meta autores.2 >}}  
 **Libro**: {{< meta libro >}}   
 **Capítulo**: {{< meta capitulo >}}   
-**Categorias**: [{{< meta categories.1 >}}](../publications.qmd#category=2024), [{{< meta categories.2 >}}](../publications.qmd#category=Libro), [{{< meta categories.3 >}}](../publications.qmd#category=Educación+Intercultural) 
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}} 
 **Pre-print**: [PDF](../{{< meta preprint >}})  
 **Resumen**: Este libro aporta una aproximación crítica y decolonial de la investigación en 
 educación en contextos indígenas e interculturales. Surge de la necesidad por 

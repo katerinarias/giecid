@@ -3,12 +3,13 @@ name: "(Des) encuentros en la Educación Intercultural en Contexto Mapuche, Chil
 title: "(Des) encuentros en la Educación Intercultural en Contexto Mapuche, Chile"
 autores: ["Katerin Arias", "Paula Riquelme"]
 venue: "Revista de Estudios y Experiencias en Educación"
-categories: ["2019", "Revista de Estudios y Experiencias en Educación", "Ley Indígena", "Educación Intercultural Bilingüe", "Interculturalidad Funcionalista", "Interculturalidad Crítica"]
+categories: 2019
+keywords: ["2019", "Revista de Estudios y Experiencias en Educación", "Ley Indígena", "Educación Intercultural Bilingüe", "Interculturalidad Funcionalista", "Interculturalidad Crítica"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2019_KARIAS/ART_5_SCIELO.pdf"
 ---
 **Autores**: [{{< meta autores.1 >}}](../members/current/katerinarias.qmd), {{< meta autores.2 >}}  
 **Lugar de publicación**: {{< meta venue >}}   
-**Categorias**: [{{< meta categories.1 >}}](../publications.qmd#category=2019), [{{< meta categories.2 >}}](../publications.qmd#category=Revista+de+Estudios+y+Experiencias+en+Educación), [{{< meta categories.3 >}}](../publications.qmd#category=Ley+Indígena), [{{< meta categories.4 >}}](../publications.qmd#category=Educación+Intercultural+Bilingüe), [{{< meta categories.5 >}}](../publications.qmd#category=Interculturalidad+Funcionalista), [{{< meta categories.6 >}}](../publications.qmd#category=Interculturalidad+Crítica)  
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}  
 **Pre-print**: [PDF](../{{< meta preprint >}})  
 **Resumen**: El problema de estudio plantea que la política de Educación Intercultural Bilingüe (EIB) se concibe desde una perspectiva funcionalista que ofrece una educación 'distinta' a niños y jóvenes mapuches 'sólo para mejorar logros académicos'. Obviando, las demandas de una educación con pertinencia social y cultural para construir conocimientos desde su propio marco epistémico y así avanzar en la formación de sujetos capaces de concebir el mundo desde distintas perspectivas. El enfoque teórico es la interculturalidad crítica. Los principales resultados indican que la EIB está subordinada a los objetivos neoliberales de la política educativa del Estado, para mantener las desigualdades sociales.   
 

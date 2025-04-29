@@ -3,12 +3,13 @@ name: "Conocimientos Geográficos y Territoriales con Base Epistémica en la Mem
 title: "Conocimientos Geográficos y Territoriales con Base Epistémica en la Memoria Social Mapuche"
 autores: ["Segundo Quintriqueo", "Katerin Arias", "Gerardo Muñoz", "Hector Torres", "Soledad Morales", "Fernando Peña"]
 venue: "RBCS"
-categories: ["2021", "RBCS"]
+categories: 2021
+keywords: ["2021", "RBCS"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2021_KARIAS/ART_N°3_QUINTRIQUEO Y ARIAS-ORTEGA_RBCS_2021_SCOPUS.pdf"
 ---
 **Autores**: [{{< meta autores.1 >}}](../members/current/segundoquintriqueo.qmd), [{{< meta autores.2 >}}](../members/current/katerinarias.qmd), {{< meta autores.3 >}}, {{< meta autores.4 >}}, {{< meta autores.5 >}}, {{< meta autores.6 >}}  
 **Lugar de publicación**: {{< meta venue >}}   
-**Categorias**: [{{< meta categories.1 >}}](../publications.qmd#category=2021), [{{< meta categories.2 >}}](../publications.qmd#category=RBCS)  
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}  
 **Pre-print**: [PDF](../{{< meta preprint >}})  
 **Resumen**: Con la llegada de los conquistadores europeos a Chile, en la primera mitad del siglo XVI, comenzó un proceso progresivo de invasión y usurpación del territorio histórico mapuche, con el fin de expandir los dominios de la Corona española, mediante el sometimiento militar (Bengoa, 1996). Si bien esta avanzada militar fue resistida por cerca de tres siglos en la denominada Guerra de Arauco (1536-1818), el sometimiento del pueblo mapuche y la anexión
 Artigo recebido em: 16/01/2020 Aprovado em: 28/06/2020

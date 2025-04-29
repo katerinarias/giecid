@@ -490,3 +490,13 @@ span.color-box {
   margin: 0 auto;
   text-align: center;
 }
+
+.group-photo .img-fluid {
+  width: 25vw; /* Adjust size as needed */
+  height: 24vw;
+  border: solid 1px black;
+  object-fit: cover; /* Ensures the image fits without distortion */
+  display: block; /* Ensures the image takes up its own line */
+  margin: 0 auto 10px; /* Centers the image and adds space below */
+  text-align: center;
+}

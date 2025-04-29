@@ -3,12 +3,13 @@ name: "Relación pedagógica en la educación intercultural: una aproximación d
 title: "Relación pedagógica en la educación intercultural: una aproximación desde los profesores mentores en La Araucanía"
 autores: ["Katerin Arias"]
 venue: "FONDECYT"
-categories: ["2020", "FONDECYT", "Relación educativa", "Educación intercultural", "Prácticas pedagógicas"]
+categories: 2020
+keywords: ["2020", "FONDECYT", "Relación educativa", "Educación intercultural", "Prácticas pedagógicas"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2020_KARIAS/ANEXO_N°1_ Art_1_Arias-Ortega_ Revista_ Educação e Pesquisa _Q3_ Scopus_Publicado_2020.pdf"
 ---
 **Autores**: [{{< meta autores.1 >}}](../members/current/katerinarias.qmd)  
 **Lugar de publicación**: {{< meta venue >}}   
-**Categorias**: [{{< meta categories.1 >}}](../publications.qmd#category=2024), [{{< meta categories.2 >}}](../publications.qmd#category=FONDECYT), [{{< meta categories.3 >}}](../publications.qmd#category=Relación+educativa), [{{< meta categories.4 >}}](../publications.qmd#category=Educación+intercultural), [{{< meta categories.5 >}}](../publications.qmd#category=Prácticas+pedagógicas)  
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}  
 **Pre-print**: [PDF](../{{< meta preprint >}})  
 **Resumen**: En Chile la educación intercultural bilingüe (EIB) es una política del Estado que incorpora la enseñanza de la lengua y la cultura de los pueblos indígenas en el currículum escolar. El problema de investigación plantea que la concretización de la EIB en el aula se encuentra limitada por desafíos epistemológicos entre los encargados de implementarla. El artículo expone resultados de investigación que describen la percepción de profesores mentores sobre los factores que afectan la enseñanza de la lengua y la cultura mapuche en la relación pedagógica con el educador tradicional, en tres escuelas situadas en comunidades mapuche en La Araucanía. La metodología es de carácter cualitativo, con un nivel descriptivo, en que se aplicaron entrevistas semidirigidas a los participantes. El análisis de la información se realiza mediante el uso de la técnica de teoría fundamentada. Los resultados muestran que existe una percepción negativa hacia la EIB, al concebirla como una política educativa impuesta por el Estado, lo que limita un quiebre paradigmático de la escuela para la enseñanza de la lengua y la cultura mapuche en el aula. Se concluye que es urgente poner en discusión y cuestionamiento la política de EIB que desde su enfoque funcional aumenta el racismo y prejuicio hacia lo mapuche en la educación escolar. Por ende, es necesario repensar la educación intercultural desde una perspectiva crítica, que surge desde los sujetos que históricamente han sido subalternizados.   
 
