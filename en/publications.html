@@ -67,9 +67,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-autores','listing-categories','listing-venue','listing-preprint',{ data: ['index'] },{ data: ['categories'] }],
+      valueNames: ['listing-title','listing-autores','listing-categories','listing-venue','listing-preprint',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
       
-      searchColumns: ["listing-project","listing-format","listing-website","listing-babelquarto","listing-title-es","listing-title-fr","listing-description-es","listing-description-fr","listing-lang","listing-language","listing-name","listing-title","listing-autores","listing-libro","listing-capitulo","listing-categories","listing-keywords","listing-preprint","listing-path","listing-outputHref","listing-author","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count","listing-venue"],
+      searchColumns: ["listing-project","listing-format","listing-website","listing-babelquarto","listing-title-es","listing-title-fr","listing-description-es","listing-description-fr","listing-lang","listing-language","listing-name","listing-title","listing-autores","listing-libro","listing-tipo","listing-categories","listing-keywords","listing-preprint","listing-path","listing-outputHref","listing-author","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count","listing-venue","listing-capitulo"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -360,23 +360,16 @@ window.Quarto = {
 
 
 </header><div class="quarto-listing quarto-listing-container-custom" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-    <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})"><option value="" disabled selected hidden="">Order By</option>
-<option value="index" data-direction="asc">Default</option>
-<option value="listing-categories" data-direction="asc">
-        Categories
-      </option></select>
-</div>
-</div>
 <ul class="list">
-<li type="1" data-index="0" data-categories="MjAyNA==" data-listing-file-modified-sort="1745905659121" data-listing-reading-time-sort="3" data-listing-word-count-sort="406">
+<li type="1" data-index="0" data-categories="MjAyNA==" data-listing-file-modified-sort="1745955421322" data-listing-reading-time-sort="3" data-listing-word-count-sort="407">
 <h3>
 <a href="./publications/desafios_de_la_relacion_familia-escuela_en_contexto_mapuche.html">Desafíos de la relación familia-escuela en contexto mapuche: aproximación desde los profesores</a>
 </h3>
 <div class="listing-autores">
-<strong>Autores</strong>: Katerin Arias,Mariela Gajardo,Juan Sierpe,Yislen Santini
+<strong>Autores</strong>: <a href="./members/current/Katerin%20Arias.html">Katerin Arias</a>, Mariela Gajardo, Juan Sierpe, Yislen Santini
+</div>
+<div class="listing-tipo">
+<strong>Tipo</strong>: Revista
 </div>
 <div class="listing-venue">
 <strong>Lugar de publicación</strong>: FONDECYT
@@ -388,12 +381,15 @@ window.Quarto = {
 <strong>Palabras clave</strong>: 2024,FONDECYT,Relación familia-escuela,Relación educativa intercultural,Educación indígena,Relaciones de poder,Contexto indígena
 </div>
 </li>
-<li type="1" data-index="1" data-categories="MjAyNA==" data-listing-file-modified-sort="1745905659121" data-listing-reading-time-sort="2" data-listing-word-count-sort="334">
+<li type="1" data-index="1" data-categories="MjAyNA==" data-listing-file-modified-sort="1745955421322" data-listing-reading-time-sort="2" data-listing-word-count-sort="336">
 <h3>
 <a href="./publications/desafios_del_pluralismo_epostemologico_intercultural_como_eje_de_un_modelo_de_acompanamiento.html">Desafíos del pluralismo epistemológico intercultural como eje de un modelo de acompañamiento</a>
 </h3>
 <div class="listing-autores">
-<strong>Autores</strong>: Segundo Quintriqueo,Katerin Arias,Sonia Salas-Salinas
+<strong>Autores</strong>: <a href="./members/current/Segundo%20Quintriqueo.html">Segundo Quintriqueo</a>, <a href="./members/current/Katerin%20Arias.html">Katerin Arias</a>, Sonia Salas-Salinas
+</div>
+<div class="listing-tipo">
+<strong>Tipo</strong>: Capítulo de Libro
 </div>
 <div class="listing-libro">
 <strong>Libro</strong>: Lineamientos estrategicos para la Implementación de la Educación Intercultural desde un Modelo de Acompañamiento
@@ -408,12 +404,15 @@ window.Quarto = {
 <strong>Palabras clave</strong>: 2024,Libro,Pluralismo Epistemológico,Educación Intercultural,Modelo de Acompañamiento,Contexto de Colonización
 </div>
 </li>
-<li type="1" data-index="2" data-categories="MjAyNA==" data-listing-file-modified-sort="1745905659122" data-listing-reading-time-sort="2" data-listing-word-count-sort="372">
+<li type="1" data-index="2" data-categories="MjAyNA==" data-listing-file-modified-sort="1745955421323" data-listing-reading-time-sort="2" data-listing-word-count-sort="374">
 <h3>
 <a href="./publications/significados_y_expectativas_de_educacion_rural_de_madres_mapuches_en_la_araucania.html">Significados y Expectativas de Educación Rural de Madres Mapuches en La Araucanía, Chile</a>
 </h3>
 <div class="listing-autores">
-<strong>Autores</strong>: Viviana Villarroel,Katerin Arias
+<strong>Autores</strong>: <a href="./members/current/Viviana%20Villarroel.html">Viviana Villarroel</a>, <a href="./members/current/Katerin%20Arias.html">Katerin Arias</a>
+</div>
+<div class="listing-tipo">
+<strong>Tipo</strong>: Revista
 </div>
 <div class="listing-venue">
 <strong>Lugar de publicación</strong>: Revista Internacional de Educación para la Justicia Social
@@ -425,12 +424,15 @@ window.Quarto = {
 <strong>Palabras clave</strong>: 2024,RIEJS,Educación rural,Relación educativa,Madres indígenas,Expectativas,Contexto indígena
 </div>
 </li>
-<li type="1" data-index="3" data-categories="MjAyMQ==" data-listing-file-modified-sort="1745905659121" data-listing-reading-time-sort="2" data-listing-word-count-sort="313">
+<li type="1" data-index="3" data-categories="MjAyMQ==" data-listing-file-modified-sort="1745955421322" data-listing-reading-time-sort="2" data-listing-word-count-sort="315">
 <h3>
 <a href="./publications/conocimientos_geograficos_y_territoriales_con_base_epistemica_en_la_memoria_social_mapuche.html">Conocimientos Geográficos y Territoriales con Base Epistémica en la Memoria Social Mapuche</a>
 </h3>
 <div class="listing-autores">
-<strong>Autores</strong>: Segundo Quintriqueo,Katerin Arias,Gerardo Muñoz,Hector Torres,Soledad Morales,Fernando Peña
+<strong>Autores</strong>: <a href="./members/current/Segundo%20Quintriqueo.html">Segundo Quintriqueo</a>, <a href="./members/current/Katerin%20Arias.html">Katerin Arias</a>, Gerardo Muñoz, Hector Torres, Soledad Morales, Fernando Peña
+</div>
+<div class="listing-tipo">
+<strong>Tipo</strong>: Revista
 </div>
 <div class="listing-venue">
 <strong>Lugar de publicación</strong>: RBCS
@@ -442,12 +444,15 @@ window.Quarto = {
 <strong>Palabras clave</strong>: 2021,RBCS
 </div>
 </li>
-<li type="1" data-index="4" data-categories="MjAyMQ==" data-listing-file-modified-sort="1745905659122" data-listing-reading-time-sort="2" data-listing-word-count-sort="224">
+<li type="1" data-index="4" data-categories="MjAyMQ==" data-listing-file-modified-sort="1745955421323" data-listing-reading-time-sort="2" data-listing-word-count-sort="226">
 <h3>
 <a href="./publications/relacion_educativa_entre_profesor_y_educador_tradicional_en_la_educacion_intercultural_bilingue.html">Relación educativa entre profesor y educador tradicional en la educación intercultural bilingüe</a>
 </h3>
 <div class="listing-autores">
-<strong>Autores</strong>: Katerin Arias,Segundo Quintriqueo
+<strong>Autores</strong>: <a href="./members/current/Katerin%20Arias.html">Katerin Arias</a>, <a href="./members/current/Segundo%20Quintriqueo.html">Segundo Quintriqueo</a>
+</div>
+<div class="listing-tipo">
+<strong>Tipo</strong>: Revista
 </div>
 <div class="listing-venue">
 <strong>Lugar de publicación</strong>: redie
@@ -459,12 +464,15 @@ window.Quarto = {
 <strong>Palabras clave</strong>: 2021,redie,Relaciones Interétnicas,Conocimientos Tradicionales,Métodos Educativos
 </div>
 </li>
-<li type="1" data-index="5" data-categories="MjAyMQ==" data-listing-file-modified-sort="1745905659122" data-listing-reading-time-sort="1" data-listing-word-count-sort="200">
+<li type="1" data-index="5" data-categories="MjAyMQ==" data-listing-file-modified-sort="1745955421323" data-listing-reading-time-sort="2" data-listing-word-count-sort="202">
 <h3>
 <a href="./publications/tensiones_epistemologicas_en_la_implementacion_de_la_educacion_intercultural_bilingue.html">Tensiones epistemológicas en la implementación de la Educación Intercultural Bilingüe</a>
 </h3>
 <div class="listing-autores">
-<strong>Autores</strong>: Katerin Arias,Segundo Quintriqueo
+<strong>Autores</strong>: <a href="./members/current/Katerin%20Arias.html">Katerin Arias</a>, <a href="./members/current/Segundo%20Quintriqueo.html">Segundo Quintriqueo</a>
+</div>
+<div class="listing-tipo">
+<strong>Tipo</strong>: Revista
 </div>
 <div class="listing-venue">
 <strong>Lugar de publicación</strong>: FONDECYT
@@ -476,12 +484,15 @@ window.Quarto = {
 <strong>Palabras clave</strong>: 2021,FONDECYT,Relación educativa,Educación colonial,Educación intercultural
 </div>
 </li>
-<li type="1" data-index="6" data-categories="MjAyMA==" data-listing-file-modified-sort="1745905659121" data-listing-reading-time-sort="2" data-listing-word-count-sort="206">
+<li type="1" data-index="6" data-categories="MjAyMA==" data-listing-file-modified-sort="1745955421322" data-listing-reading-time-sort="2" data-listing-word-count-sort="208">
 <h3>
 <a href="./publications/educacion_superior_en_contexto_mapuche.html">Educación superior en contexto mapuche: El caso de La Araucanía, Chile</a>
 </h3>
 <div class="listing-autores">
-<strong>Autores</strong>: Katerin Arias,Segundo Quintriqueo
+<strong>Autores</strong>: <a href="./members/current/Katerin%20Arias.html">Katerin Arias</a>, <a href="./members/current/Segundo%20Quintriqueo.html">Segundo Quintriqueo</a>
+</div>
+<div class="listing-tipo">
+<strong>Tipo</strong>: Revista
 </div>
 <div class="listing-venue">
 <strong>Lugar de publicación</strong>: Educare
@@ -493,12 +504,15 @@ window.Quarto = {
 <strong>Palabras clave</strong>: 2020,Educare,Educación superior,Epistemología pluralista,Interculturalidad,Racismo científico
 </div>
 </li>
-<li type="1" data-index="7" data-categories="MjAyMA==" data-listing-file-modified-sort="1745905659121" data-listing-reading-time-sort="2" data-listing-word-count-sort="206">
+<li type="1" data-index="7" data-categories="MjAyMA==" data-listing-file-modified-sort="1745955421322" data-listing-reading-time-sort="2" data-listing-word-count-sort="208">
 <h3>
 <a href="./publications/escuelas_en_territorio_mapuche.html">Escuelas en Territorio Mapuche: desigualdades en el contexto chileno</a>
 </h3>
 <div class="listing-autores">
-<strong>Autores</strong>: Katerin Arias,Fernando Peña,Segundo Quintriqueo,Elías Andrade
+<strong>Autores</strong>: <a href="./members/current/Katerin%20Arias.html">Katerin Arias</a>, Fernando Peña, <a href="./members/current/Segundo%20Quintriqueo.html">Segundo Quintriqueo</a>, Elías Andrade
+</div>
+<div class="listing-tipo">
+<strong>Tipo</strong>: Revista
 </div>
 <div class="listing-venue">
 <strong>Lugar de publicación</strong>: Revista Brasileira de Educação
@@ -510,12 +524,15 @@ window.Quarto = {
 <strong>Palabras clave</strong>: 2020,Revista Brasileira de Educação,Resultados Sistema de Medición de la Calidad de la Educación,Escuelas municipales y particulares subvencionadas,Educación rural
 </div>
 </li>
-<li type="1" data-index="8" data-categories="MjAyMA==" data-listing-file-modified-sort="1745905659122" data-listing-reading-time-sort="2" data-listing-word-count-sort="312">
+<li type="1" data-index="8" data-categories="MjAyMA==" data-listing-file-modified-sort="1745955421323" data-listing-reading-time-sort="2" data-listing-word-count-sort="308">
 <h3>
 <a href="./publications/relacion_pedagogica_en_la_educacion_intercultural.html">Relación pedagógica en la educación intercultural: una aproximación desde los profesores mentores en La Araucanía</a>
 </h3>
 <div class="listing-autores">
-<strong>Autores</strong>: Katerin Arias
+<strong>Autores</strong>: <a href="./members/current/Katerin%20Arias.html">Katerin Arias</a>
+</div>
+<div class="listing-tipo">
+<strong>Tipo</strong>: Revista
 </div>
 <div class="listing-venue">
 <strong>Lugar de publicación</strong>: FONDECYT
@@ -527,12 +544,15 @@ window.Quarto = {
 <strong>Palabras clave</strong>: 2020,FONDECYT,Relación educativa,Educación intercultural,Prácticas pedagógicas
 </div>
 </li>
-<li type="1" data-index="9" data-categories="MjAxOQ==" data-listing-file-modified-sort="1745905659121" data-listing-reading-time-sort="1" data-listing-word-count-sort="189">
+<li type="1" data-index="9" data-categories="MjAxOQ==" data-listing-file-modified-sort="1745955421322" data-listing-reading-time-sort="1" data-listing-word-count-sort="190">
 <h3>
 <a href="./publications/encuentros_en_la_educacion_intercultural_en_contexto_mapuche.html">(Des) encuentros en la Educación Intercultural en Contexto Mapuche, Chile</a>
 </h3>
 <div class="listing-autores">
-<strong>Autores</strong>: Katerin Arias,Paula Riquelme
+<strong>Autores</strong>: <a href="./members/current/Katerin%20Arias.html">Katerin Arias</a>, Paula Riquelme
+</div>
+<div class="listing-tipo">
+<strong>Tipo</strong>: Revista
 </div>
 <div class="listing-venue">
 <strong>Lugar de publicación</strong>: Revista de Estudios y Experiencias en Educación
@@ -544,18 +564,18 @@ window.Quarto = {
 <strong>Palabras clave</strong>: 2019,Revista de Estudios y Experiencias en Educación,Ley Indígena,Educación Intercultural Bilingüe,Interculturalidad Funcionalista,Interculturalidad Crítica
 </div>
 </li>
-<li type="1" data-index="10" data-categories="MjAxOQ==" data-listing-file-modified-sort="1745905659121" data-listing-reading-time-sort="1" data-listing-word-count-sort="189">
+<li type="1" data-index="10" data-categories="MjAxOQ==" data-listing-file-modified-sort="1745955421322" data-listing-reading-time-sort="1" data-listing-word-count-sort="185">
 <h3>
 <a href="./publications/desafios_de_la_co-construccion_de_un_modelo_de_intervencion_educativa_intercultural_en_contexto_indigeno.html">Desafíos de la co-construcción de un Modelo de Intervención Educativa Intercultural en Contexto Indígeno</a>
 </h3>
 <div class="listing-autores">
-<strong>Autores</strong>: Segundo Quintriqueo,Daniel Quilaqueo
+<strong>Autores</strong>: <a href="./members/current/Segundo%20Quintriqueo.html">Segundo Quintriqueo</a>, Daniel Quilaqueo
+</div>
+<div class="listing-tipo">
+<strong>Tipo</strong>: Libro
 </div>
 <div class="listing-libro">
 <strong>Libro</strong>: Desafíos de la co-construcción de un Modelo de Intervención Educativa Intercultural en Contexto Indígeno
-</div>
-<div class="listing-capitulo">
-<strong>Capitulo</strong>: All
 </div>
 <div class="listing-preprint">
 <strong>Preprint</strong>: <a href="https://katerinarias.github.io/giecid/pdfs/productividad/PRODUCTIVIDAD_2019_KARIAS/Libro-Desaf%C3%ADos-de-la-Co-contrucci%C3%B3n...FONDEF-2019.pdf">PDF</a>
@@ -564,12 +584,15 @@ window.Quarto = {
 <strong>Palabras clave</strong>: 2019,Libro,Educación Intercultural
 </div>
 </li>
-<li type="1" data-index="11" data-categories="MjAxOQ==" data-listing-file-modified-sort="1745905659121" data-listing-reading-time-sort="2" data-listing-word-count-sort="306">
+<li type="1" data-index="11" data-categories="MjAxOQ==" data-listing-file-modified-sort="1745955421322" data-listing-reading-time-sort="2" data-listing-word-count-sort="308">
 <h3>
 <a href="./publications/educacion_intercultural_bilingue_en_la_araucania.html">Educación Intercultural Bilingüe en La Araucanía: principales limitaciones epistemológicas</a>
 </h3>
 <div class="listing-autores">
-<strong>Autores</strong>: Katerin Arias,Daniel Quilaqueo,Segundo Quintriqueo
+<strong>Autores</strong>: <a href="./members/current/Katerin%20Arias.html">Katerin Arias</a>, Daniel Quilaqueo, <a href="./members/current/Segundo%20Quintriqueo.html">Segundo Quintriqueo</a>
+</div>
+<div class="listing-tipo">
+<strong>Tipo</strong>: Revista
 </div>
 <div class="listing-venue">
 <strong>Lugar de publicación</strong>: FONDECYT
@@ -581,18 +604,18 @@ window.Quarto = {
 <strong>Palabras clave</strong>: 2019,FONDECYT,Educación Intercultural,Desafíos epistémicos,Epistemología contextual
 </div>
 </li>
-<li type="1" data-index="12" data-categories="MjAxOQ==" data-listing-file-modified-sort="1745905659121" data-listing-reading-time-sort="2" data-listing-word-count-sort="290">
+<li type="1" data-index="12" data-categories="MjAxOQ==" data-listing-file-modified-sort="1745955421321" data-listing-reading-time-sort="2" data-listing-word-count-sort="284">
 <h3>
 <a href="./publications/aproximacion_critica_y_decolonial_en_contexto_indigena.html">Educación e Interculturalidad: Aproximación Crítica y Decolonial en Contexto Indígena</a>
 </h3>
 <div class="listing-autores">
-<strong>Autores</strong>: Segundo Quintriqueo,Daniel Quilaqueo
+<strong>Autores</strong>: <a href="./members/current/Segundo%20Quintriqueo.html">Segundo Quintriqueo</a>, Daniel Quilaqueo
+</div>
+<div class="listing-tipo">
+<strong>Tipo</strong>: Libro
 </div>
 <div class="listing-libro">
 <strong>Libro</strong>: Educación e Interculturalidad: Aproximación Crítica y Decolonial en Contexto Indígena
-</div>
-<div class="listing-capitulo">
-<strong>Capitulo</strong>: All
 </div>
 <div class="listing-preprint">
 <strong>Preprint</strong>: <a href="https://katerinarias.github.io/giecid/pdfs/productividad/PRODUCTIVIDAD_2019_KARIAS/educacion-e-interculturalidad_Cap_libros.pdf">PDF</a>
@@ -601,12 +624,15 @@ window.Quarto = {
 <strong>Palabras clave</strong>: 2019,Libro,Educación Intercultural
 </div>
 </li>
-<li type="1" data-index="13" data-categories="MjAxOQ==" data-listing-file-modified-sort="1745905659121" data-listing-reading-time-sort="2" data-listing-word-count-sort="298">
+<li type="1" data-index="13" data-categories="MjAxOQ==" data-listing-file-modified-sort="1745955421322" data-listing-reading-time-sort="2" data-listing-word-count-sort="300">
 <h3>
 <a href="./publications/educacion_intercultural_articulada_a_la_episteme_indigena_en_latinoamerica.html">Educación intercultural articulada a la espisteme indígena en latinoamerida. El caso mapuche en chile</a>
 </h3>
 <div class="listing-autores">
-<strong>Autores</strong>: Segundo Quintriqueo,Katerin Arias
+<strong>Autores</strong>: <a href="./members/current/Segundo%20Quintriqueo.html">Segundo Quintriqueo</a>, <a href="./members/current/Katerin%20Arias.html">Katerin Arias</a>
+</div>
+<div class="listing-tipo">
+<strong>Tipo</strong>: Revista
 </div>
 <div class="listing-venue">
 <strong>Lugar de publicación</strong>: FONDECYT
@@ -618,12 +644,15 @@ window.Quarto = {
 <strong>Palabras clave</strong>: 2019,FONDECYT,Educación intercultural,Episteme indígena,Formación inicial docente
 </div>
 </li>
-<li type="1" data-index="14" data-categories="MjAxOQ==" data-listing-file-modified-sort="1745905659121" data-listing-reading-time-sort="1" data-listing-word-count-sort="166">
+<li type="1" data-index="14" data-categories="MjAxOQ==" data-listing-file-modified-sort="1745955421322" data-listing-reading-time-sort="1" data-listing-word-count-sort="167">
 <h3>
 <a href="./publications/implicancias_de_la_sociedad_y_cultura_hegemonica_en_la_educacion_escolar_en_contexto_mapuche.html">Implicancias de la sociedad y cultura hegemónica en la educación escolar en contexto mapuche (Chile): una crítica epistemológica</a>
 </h3>
 <div class="listing-autores">
-<strong>Autores</strong>: Katerin Arias,Eliana Ortiz-Velosa
+<strong>Autores</strong>: <a href="./members/current/Katerin%20Arias.html">Katerin Arias</a>, Eliana Ortiz-Velosa
+</div>
+<div class="listing-tipo">
+<strong>Tipo</strong>: Revista
 </div>
 <div class="listing-venue">
 <strong>Lugar de publicación</strong>: FONDECYT
@@ -635,18 +664,18 @@ window.Quarto = {
 <strong>Palabras clave</strong>: 2019,Espacios,Sociedad y cultura,Educación escolar en contexto mapuche,Interculturalidad
 </div>
 </li>
-<li type="1" data-index="15" data-categories="MjAxOQ==" data-listing-file-modified-sort="1745905659122" data-listing-reading-time-sort="1" data-listing-word-count-sort="195">
+<li type="1" data-index="15" data-categories="MjAxOQ==" data-listing-file-modified-sort="1745955421323" data-listing-reading-time-sort="1" data-listing-word-count-sort="189">
 <h3>
 <a href="./publications/modelo_de_intervencion_educativa_intercultural_en_contexto_indigena.html">Manual de aplicación - Modelo de Intervención Educativa Intercultural en Contexto Indígena</a>
 </h3>
 <div class="listing-autores">
-<strong>Autores</strong>: Segundo Quintriqueo,Daniel Quilaqueo
+<strong>Autores</strong>: <a href="./members/current/Segundo%20Quintriqueo.html">Segundo Quintriqueo</a>, Daniel Quilaqueo
+</div>
+<div class="listing-tipo">
+<strong>Tipo</strong>: Libro
 </div>
 <div class="listing-libro">
 <strong>Libro</strong>: Manual de aplicación - Modelo de Intervención Educativa Intercultural en Contexto Indígena
-</div>
-<div class="listing-capitulo">
-<strong>Capitulo</strong>: All
 </div>
 <div class="listing-preprint">
 <strong>Preprint</strong>: <a href="https://katerinarias.github.io/giecid/pdfs/productividad/PRODUCTIVIDAD_2019_KARIAS/Manual-de-Intervenci%C3%B3n-Educativa_2019_lIBRO.pdf">PDF</a>
@@ -655,12 +684,15 @@ window.Quarto = {
 <strong>Palabras clave</strong>: 2019,Libro,Educación Intercultural
 </div>
 </li>
-<li type="1" data-index="16" data-categories="MjAxOQ==" data-listing-file-modified-sort="1745905659122" data-listing-reading-time-sort="2" data-listing-word-count-sort="362">
+<li type="1" data-index="16" data-categories="MjAxOQ==" data-listing-file-modified-sort="1745955421323" data-listing-reading-time-sort="2" data-listing-word-count-sort="363">
 <h3>
 <a href="./publications/ser_mapuche_en_la_universidad.html">Ser mapuche en la universidad: Condiciones de ingreso a la formación inicial docente, La Araucanía</a>
 </h3>
 <div class="listing-autores">
-<strong>Autores</strong>: Eliana Ortiz-Velosa,Katerin Arias
+<strong>Autores</strong>: Eliana Ortiz-Velosa, <a href="./members/current/Katerin%20Arias.html">Katerin Arias</a>
+</div>
+<div class="listing-tipo">
+<strong>Tipo</strong>: Revista
 </div>
 <div class="listing-venue">
 <strong>Lugar de publicación</strong>: Educare
@@ -672,12 +704,15 @@ window.Quarto = {
 <strong>Palabras clave</strong>: 2019,Educare,Estudiantes mapuches,Condiciones de ingreso universitario,Formación inicial de profesores,Interculturalidad
 </div>
 </li>
-<li type="1" data-index="17" data-categories="MjAxOA==" data-listing-file-modified-sort="1745905659121" data-listing-reading-time-sort="1" data-listing-word-count-sort="197">
+<li type="1" data-index="17" data-categories="MjAxOA==" data-listing-file-modified-sort="1745955421322" data-listing-reading-time-sort="1" data-listing-word-count-sort="199">
 <h3>
 <a href="./publications/interculturalidad_en_educacion_superior.html">Interculturalidad en educación superior: experiencia en educación inicial en La Araucanía, Chile</a>
 </h3>
 <div class="listing-autores">
-<strong>Autores</strong>: Soledad Morales-Saavedra,Segundo Quintriqueo,Pilar Uribe-Sepulveda,Katerin Arias
+<strong>Autores</strong>: Soledad Morales-Saavedra, <a href="./members/current/Segundo%20Quintriqueo.html">Segundo Quintriqueo</a>, Pilar Uribe-Sepulveda, <a href="./members/current/Katerin%20Arias.html">Katerin Arias</a>
+</div>
+<div class="listing-tipo">
+<strong>Tipo</strong>: Revista
 </div>
 <div class="listing-venue">
 <strong>Lugar de publicación</strong>: Convergencia
@@ -689,12 +724,15 @@ window.Quarto = {
 <strong>Palabras clave</strong>: 2018,Convergencia,Interculturalidad,Enfoque Educativo Intercultural,Formación inicial docente,Educación e infancia,Conocimientos educativos mapuches
 </div>
 </li>
-<li type="1" data-index="18" data-categories="MjAxOA==" data-listing-file-modified-sort="1745905659122" data-listing-reading-time-sort="2" data-listing-word-count-sort="334">
+<li type="1" data-index="18" data-categories="MjAxOA==" data-listing-file-modified-sort="1745955421323" data-listing-reading-time-sort="2" data-listing-word-count-sort="336">
 <h3>
 <a href="./publications/monoculturalidad_en_las_practicas_pedagogicas_en_la_formacion_inicial_docente_en_la_araucania.html">Monoculturalidad en las prácticas pedagógicas en la formación inicial docente en La Araucanía, Chile</a>
 </h3>
 <div class="listing-autores">
-<strong>Autores</strong>: Katerin Arias,Segundo Quintriqueo,Vanessa Valdebenito
+<strong>Autores</strong>: <a href="./members/current/Katerin%20Arias.html">Katerin Arias</a>, <a href="./members/current/Segundo%20Quintriqueo.html">Segundo Quintriqueo</a>, Vanessa Valdebenito
+</div>
+<div class="listing-tipo">
+<strong>Tipo</strong>: Revista
 </div>
 <div class="listing-venue">
 <strong>Lugar de publicación</strong>: FONDECYT
@@ -706,18 +744,18 @@ window.Quarto = {
 <strong>Palabras clave</strong>: 2018,FONDECYT,Prácticas pedagógicas,Monoculturalidad,Formación inicial docente,Enfoque educativo intercultural
 </div>
 </li>
-<li type="1" data-index="19" data-categories="MjAxNg==" data-listing-file-modified-sort="1745905659121" data-listing-reading-time-sort="2" data-listing-word-count-sort="338">
+<li type="1" data-index="19" data-categories="MjAxNg==" data-listing-file-modified-sort="1745955421322" data-listing-reading-time-sort="2" data-listing-word-count-sort="333">
 <h3>
 <a href="./publications/internacionalidad_para_la_formacion_inicial_docente.html">Interculturalidad para la Formación Inicial Docente: Desafíos para construir un diálogo intercultural</a>
 </h3>
 <div class="listing-autores">
-<strong>Autores</strong>: Segundo Quintriqueo,Soledad Morales,Daniel Quilaqueo,Katerin Arias
+<strong>Autores</strong>: <a href="./members/current/Segundo%20Quintriqueo.html">Segundo Quintriqueo</a>, Soledad Morales, Daniel Quilaqueo, <a href="./members/current/Katerin%20Arias.html">Katerin Arias</a>
+</div>
+<div class="listing-tipo">
+<strong>Tipo</strong>: Libro
 </div>
 <div class="listing-libro">
 <strong>Libro</strong>: Interculturalidad para la Formación Inicial Docente: Desafíos para construir un diálogo intercultural
-</div>
-<div class="listing-capitulo">
-<strong>Capitulo</strong>: Todos
 </div>
 <div class="listing-preprint">
 <strong>Preprint</strong>: <a href="https://katerinarias.github.io/giecid/pdfs/productividad/PRODUCTIVIDAD_2016_KARIAS/Libro-Interculturalidad-formacion-docente-UCT.pdf">PDF</a>

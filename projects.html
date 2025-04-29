@@ -67,9 +67,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-members','listing-categories','listing-status','listing-github',{ data: ['index'] },{ data: ['categories'] }],
+      valueNames: ['listing-title','listing-members','listing-categories','listing-status','listing-github',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
       
-      searchColumns: ["listing-project","listing-format","listing-website","listing-babelquarto","listing-title-es","listing-title-fr","listing-description-es","listing-description-fr","listing-lang","listing-language","listing-name","listing-title","listing-funding","listing-start-year","listing-end-year","listing-members","listing-role","listing-link","listing-path","listing-outputHref","listing-author","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
+      searchColumns: ["listing-project","listing-format","listing-website","listing-babelquarto","listing-title-es","listing-title-fr","listing-description-es","listing-description-fr","listing-lang","listing-language","listing-name","listing-title","listing-financiamiento","listing-start-year","listing-end-year","listing-autores","listing-role","listing-link","listing-path","listing-outputHref","listing-author","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -346,43 +346,33 @@ window.Quarto = {
 
 
 </header><div class="quarto-listing quarto-listing-container-custom" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-    <select id="listing-listing-sort" class="form-select" aria-label="Ordenar por" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})"><option value="" disabled selected hidden="">Ordenar por</option>
-<option value="index" data-direction="asc">Por defecto</option>
-<option value="listing-categories" data-direction="asc">
-        Categorías
-      </option></select>
-</div>
-</div>
 <ul class="list">
-<li type="1" data-index="0" data-listing-file-modified-sort="1745905640011" data-listing-reading-time-sort="2" data-listing-word-count-sort="264">
+<li type="1" data-index="0" data-listing-file-modified-sort="1745955402206" data-listing-reading-time-sort="1" data-listing-word-count-sort="70">
 <h3>
 <a href="./projects/internados_en_contexto_mapuche.html">Internados en contexto mapuche: aportes para el bienestar y desarrollo de la identidad sociocultural que favorezcan la educación en contexto indígena</a>
 </h3>
-<div class="listing-members">
-<strong>Miembros</strong>: Katerin Arias
+<div class="listing-autores">
+<strong>Miembros</strong>: <a href="./members/current/Katerin%20Arias.html">Katerin Arias</a>
 </div>
 <div class="listing-periodo">
 <strong>Período de ejecución</strong>: 2024 - 2027
 </div>
-<div class="listing-link">
-<strong>Link de acceso</strong>: <a href="https://katerinarias.github.io/giecid/#" target="_blank">Link</a>
+<div class="listing-financiamiento">
+<strong>Fuente de financiamiento</strong>: ANID
 </div>
 </li>
-<li type="1" data-index="1" data-listing-file-modified-sort="1745905640011" data-listing-reading-time-sort="2" data-listing-word-count-sort="271">
+<li type="1" data-index="1" data-listing-file-modified-sort="1745955402206" data-listing-reading-time-sort="1" data-listing-word-count-sort="75">
 <h3>
 <a href="./projects/principios_de_la_pedagogia_y_educacion_indigena.html">Principios de la Pedagogía y educación indígena: aportes para una educación intercultural para todos</a>
 </h3>
-<div class="listing-members">
-<strong>Miembros</strong>: Katerin Arias
+<div class="listing-autores">
+<strong>Miembros</strong>: <a href="./members/current/Katerin%20Arias.html">Katerin Arias</a>
 </div>
 <div class="listing-periodo">
 <strong>Período de ejecución</strong>: 2022 - 2025
 </div>
-<div class="listing-link">
-<strong>Link de acceso</strong>: <a href="https://katerinarias.github.io/giecid/#" target="_blank">Link</a>
+<div class="listing-financiamiento">
+<strong>Fuente de financiamiento</strong>: ANID
 </div>
 </li>
 </ul>
