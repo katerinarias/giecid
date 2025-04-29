@@ -3,14 +3,13 @@ name: "Desafíos de la co-construcción de un Modelo de Intervención Educativa 
 title: "Desafíos de la co-construcción de un Modelo de Intervención Educativa Intercultural en Contexto Indígeno"
 autores: ["Segundo Quintriqueo", "Daniel Quilaqueo"]
 libro: "Desafíos de la co-construcción de un Modelo de Intervención Educativa Intercultural en Contexto Indígeno"
-capitulo: "All"
+tipo: "Libro"
 categories: 2019
 keywords: ["2019", "Libro", "Educación Intercultural"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2019_KARIAS/Libro-Desafíos-de-la-Co-contrucción...FONDEF-2019.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/segundoquintriqueo.qmd), {{< meta autores.2 >}}  
+**Autores**: [{{< meta autores.1 >}}](../members/current/Segundo Quintriqueo.qmd), {{< meta autores.2 >}}  
 **Libro**: {{< meta libro >}}   
-**Capítulo**: {{< meta capitulo >}}   
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}} 
 **Pre-print**: [PDF](../{{< meta preprint >}})  
 **Resumen**: Este libro es parte de los resultados del proyecto FONDEF ID16I10350, que se propone implementar un Modelo de Intervención Educativa Intercultural en Contexto Indígena, para revertir el problema de desconocimiento de saberes y conocimientos educativos mapuches por parte de los profesores que se desempeñan en contextos de comunidades indígenas y en escuelas urbanas en regiones con población indígena en Chile. Este problema se evidencia aun más en profesores y educadores tradicionales que se desempeñan en la implementación de la Educación Intercultural Bilingüe. Sostenemos que este desconocimiento ha incidido negativamente en la contextualización de los procesos de enseñanza y aprendizaje y consecuentemente, en el rendimiento académico de los estudiantes.   

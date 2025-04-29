@@ -3,11 +3,12 @@ name: "Relación pedagógica en la educación intercultural: una aproximación d
 title: "Relación pedagógica en la educación intercultural: una aproximación desde los profesores mentores en La Araucanía"
 autores: ["Katerin Arias"]
 venue: "FONDECYT"
+tipo: "Revista"
 categories: 2020
 keywords: ["2020", "FONDECYT", "Relación educativa", "Educación intercultural", "Prácticas pedagógicas"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2020_KARIAS/ANEXO_N°1_ Art_1_Arias-Ortega_ Revista_ Educação e Pesquisa _Q3_ Scopus_Publicado_2020.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/katerinarias.qmd)  
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd)  
 **Lugar de publicación**: {{< meta venue >}}   
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}  
 **Pre-print**: [PDF](../{{< meta preprint >}})  
@@ -18,7 +19,7 @@ preprint: "pdfs/productividad/PRODUCTIVIDAD_2020_KARIAS/ANEXO_N°1_ Art_1_Arias-
 ```bibtex
 @article{example,
   title = {{< meta title >}},
-  author = {{< meta autores.1 >}} and {{< meta autores.2 >}},
+  author = {{< meta autores.1 >}},
   journal = {{< meta venue >}},
   year = {{< meta categories.1 >}},
 }

@@ -6,7 +6,6 @@ listing:
     template: custom-listing.ejs
     fields: [title, autores, categories, venue, preprint]
     categories: true
-    sort-ui: [categories]
     sort:
         - "categories desc"
         - "title asc"

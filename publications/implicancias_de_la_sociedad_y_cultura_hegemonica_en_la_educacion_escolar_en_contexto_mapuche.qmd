@@ -4,10 +4,11 @@ title: "Implicancias de la sociedad y cultura hegemónica en la educación escol
 autores: ["Katerin Arias", "Eliana Ortiz-Velosa"]
 venue: "FONDECYT"
 categories: 2019
+tipo: "Revista"
 keywords: ["2019", "Espacios", "Sociedad y cultura", "Educación escolar en contexto mapuche", "Interculturalidad"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2019_KARIAS/ART_2_SCOPUS.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/katerinarias.qmd), {{< meta autores.2 >}}  
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.2 >}}  
 **Lugar de publicación**: {{< meta venue >}}   
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}  
 **Pre-print**: [PDF](../{{< meta preprint >}})  

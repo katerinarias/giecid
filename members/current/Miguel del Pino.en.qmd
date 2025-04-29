@@ -1,7 +1,7 @@
 ---
-title: "Miguel Antonio Del Pino Sepúlveda"
+title: "Miguel del Pino"
 rol: "Investigador Asociado"
-image: "migueldelpino.jpeg"
+image: "Miguel del Pino.jpeg"
 title-block-banner: false
 format: html
 css: ../../styles.css
@@ -15,7 +15,7 @@ listing:
 ---
 
 ::: {.profile-image}
-![Miguel del Pino<br> Investigador Asociado](migueldelpino.jpeg "Miguel del Pino")
+![Miguel del Pino<br> Investigador Asociado](Miguel del Pino.jpeg "Miguel del Pino")
 :::
 <br>
 

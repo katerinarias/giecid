@@ -1,7 +1,7 @@
 ---
-title: "Viviana Marcela Villarroel Cárdenas"
+title: "Viviana Villarroel"
 rol: "Investigador Asociado"
-image: "vivianavillarroel.jpg"
+image: "Viviana Villarroel.jpg"
 title-block-banner: false
 format: html
 css: ../../styles.css
@@ -15,7 +15,7 @@ listing:
 ---
 
 ::: {.profile-image}
-![Viviana Villarroel<br> Investigador Asociado](vivianavillarroel.jpg "Viviana Villarroel")
+![Viviana Villarroel<br> Investigador Asociado](Viviana Villarroel.jpg "Viviana Villarroel")
 :::
 <br>
 

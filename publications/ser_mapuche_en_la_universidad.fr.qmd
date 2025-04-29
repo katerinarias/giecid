@@ -3,11 +3,12 @@ name: "Ser mapuche en la universidad: Condiciones de ingreso a la formación ini
 title: "Ser mapuche en la universidad: Condiciones de ingreso a la formación inicial docente, La Araucanía"
 autores: ["Eliana Ortiz-Velosa", "Katerin Arias"]
 venue: "Educare"
+tipo: "Revista"
 categories: 2019
 keywords: ["2019", "Educare", "Estudiantes mapuches", "Condiciones de ingreso universitario", "Formación inicial de profesores", "Interculturalidad"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2019_KARIAS/ART_3_SCOPUS.pdf"
 ---
-**Autores**: {{< meta autores.1 >}}, [{{< meta autores.2 >}}](../members/current/katerinarias.qmd)  
+**Autores**: {{< meta autores.1 >}}, [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd)  
 **Lugar de publicación**: {{< meta venue >}}   
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}  
 **Pre-print**: [PDF](../{{< meta preprint >}})  

@@ -3,15 +3,14 @@ name: "Manual de aplicación - Modelo de Intervención Educativa Intercultural e
 title: "Manual de aplicación - Modelo de Intervención Educativa Intercultural en Contexto Indígena"
 autores: ["Segundo Quintriqueo", "Daniel Quilaqueo"]
 libro: "Manual de aplicación - Modelo de Intervención Educativa Intercultural en Contexto Indígena"
-capitulo: "All"
+tipo: "Libro"
 categories: 2019
 keywords: ["2019", "Libro", "Educación Intercultural"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2019_KARIAS/Manual-de-Intervención-Educativa_2019_lIBRO.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/segundoquintriqueo.qmd), {{< meta autores.2 >}}  
+**Autores**: [{{< meta autores.1 >}}](../members/current/Segundo Quintriqueo.qmd), {{< meta autores.2 >}}  
 **Libro**: {{< meta libro >}}   
-**Capítulo**: {{< meta capitulo >}}   
-**Palabras Claves**: {{< meta categories.1 >}}, {{< meta categories.2 >}}, {{< meta categories.3 >}}
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}
 **Pre-print**: [PDF](../{{< meta preprint >}})  
 **Resumen**: El problema que se busca solucionar mediante el Modelo de Intervención Educativa Intercultural en Contexto Indígena, es el desconocimiento de los saberes y conocimientos educativos mapuches, por parte de los profesores que se desempeñan en contextos de comunidades indígenas. Precisamos que el contexto indígena está delimitado a los territorios históricamente habitados por pueblos originarios colonizados por grupos hegemónicos de origen eurocéntrico occidental: españoles, franceses, ingleses y portugueses en América. En esta perspectiva, las colectividades históricas, personas originarias, que viven tanto en contexto rural como urbano,  constituyen  comunidades  indígenas.  Este  es  el  caso  de  las comunidades mapuches, que viven en la región Macro Centro Sur de Chile.   
 

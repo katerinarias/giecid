@@ -3,11 +3,12 @@ name: "Educación intercultural articulada a la espisteme indígena en latinoame
 title: "Educación intercultural articulada a la espisteme indígena en latinoamerida. El caso mapuche en chile"
 autores: ["Segundo Quintriqueo", "Katerin Arias"]
 venue: "FONDECYT"
+tipo: "Revista"
 categories: 2019
 keywords: ["2019", "FONDECYT", "Educación intercultural", "Episteme indígena", "Formación inicial docente"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2019_KARIAS/ART_4_SCOPUS.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/segundoquintriqueo.qmd), [{{< meta autores.2 >}}](../members/current/katerinarias.qmd)  
+**Autores**: [{{< meta autores.1 >}}](../members/current/Segundo Quintriqueo.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd)  
 **Lugar de publicación**: {{< meta venue >}}   
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}  
 **Pre-print**: [PDF](../{{< meta preprint >}})  

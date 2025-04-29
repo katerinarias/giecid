@@ -1,7 +1,7 @@
 ---
-title: "Teresa Marlene Millahueque Córdova"
+title: "Teresa Millahueque"
 rol: "Estudiante de Doctorado"
-image: "teresamillahueque.jpg"
+image: "Teresa Millahueque.jpg"
 title-block-banner: false
 format: html
 css: ../../styles.css
@@ -15,7 +15,7 @@ listing:
 ---
 
 ::: {.profile-image}
-![Teresa Millahueque<br> Estudiante de Doctorado](teresamillahueque.jpg "Teresa Millahueque")
+![Teresa Millahueque<br> Estudiante de Doctorado](Teresa Millahueque.jpg "Teresa Millahueque")
 :::
 <br>
 

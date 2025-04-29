@@ -3,9 +3,66 @@
     <li type="1" <%= metadataAttrs(item) %>>
       <h3><a href="<%- item.path %>"><%= item.title %></a></h3>
       <div class="listing-autores"><strong>Autores</strong>:
-        <%= item.autores %>
+        <% 
+        // Function to convert author name to filename format
+        function nameToFilename(name) {
+          return name.replace(/\s+/g, '').toLowerCase();
+        }
+        
+        // List of known members (current members)
+        const knownMembers = [
+          'Katerin Arias',
+          'Miguel del Pino',
+          'Segundo Quintriqueo',
+          'Teresa Millahueque',
+          'Viviana Villarroel'
+        ];
+        
+        // Parse authors - could be string or array
+        let authors = item.autores;
+        if (typeof authors === 'string') {
+          // Remove brackets if present
+          authors = authors.replace(/[\[\]{}]/g, '');
+          // Split by commas
+          authors = authors.split(',').map(a => a.trim());
+        }
+        
+        // Display authors with links if they exist
+        authors.forEach((author, index) => {
+          // Clean up author name
+          const cleanAuthor = author.trim();
+          
+          // Check if this author is a known member
+          const isMember = knownMembers.some(member => 
+            cleanAuthor === member || 
+            nameToFilename(cleanAuthor) === nameToFilename(member)
+          );
+          
+          if (isMember) {
+            // Find the exact member name that matches
+            const memberName = knownMembers.find(member => 
+              cleanAuthor === member || 
+              nameToFilename(cleanAuthor) === nameToFilename(member)
+            );
+            
+            // Create link to member page
+            %><a href="/members/current/<%= memberName.replace(/\s+/g, ' ') %>.qmd"><%= cleanAuthor %></a><%
+          } else {
+            // Just display the author name
+            %><%= cleanAuthor %><%
+          }
+          
+          // Add comma if not the last author
+          if (index < authors.length - 1) {
+            %>, <%
+          }
+        });
+        %>
       </div>
-      <% if (item.libro) { %>
+      <div class="listing-tipo"><strong>Tipo</strong>: <%= item.tipo %></div>
+      <% if (item.tipo === "Libro") { %>
+        <div class="listing-libro"><strong>Libro</strong>: <%= item.libro %></div>
+      <% } else if (item.tipo === "Capítulo de Libro") { %>
         <div class="listing-libro"><strong>Libro</strong>: <%= item.libro %></div>
         <div class="listing-capitulo"><strong>Capitulo</strong>: <%= item.capitulo %></div>
       <% } else { %>

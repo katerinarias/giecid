@@ -4,10 +4,11 @@ title: "Significados y Expectativas de Educación Rural de Madres Mapuches en La
 autores: ["Viviana Villarroel", "Katerin Arias"]
 venue: "Revista Internacional de Educación para la Justicia Social"
 categories: 2024
+tipo: "Revista"
 keywords: ["2024", "RIEJS", "Educación rural", "Relación educativa", "Madres indígenas", "Expectativas", "Contexto indígena"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2024_KARIAS/ART_4_RIEJS_VILLARROEL_ARIAS_2024_SCOPUS.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/vivianavillarroel.qmd), [{{< meta autores.2 >}}](../members/current/katerinarias.qmd)  
+**Autores**: [{{< meta autores.1 >}}](../members/current/Viviana Villarroel.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd)  
 **Lugar de publicación**: {{< meta venue >}}   
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}, {{< meta keywords.7 >}}  
 **Pre-print**: [PDF](../{{< meta preprint >}})  

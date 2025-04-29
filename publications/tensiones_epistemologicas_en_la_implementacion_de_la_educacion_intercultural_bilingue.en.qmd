@@ -4,10 +4,11 @@ title: "Tensiones epistemológicas en la implementación de la Educación Interc
 autores: ["Katerin Arias", "Segundo Quintriqueo"]
 venue: "FONDECYT"
 categories: 2021
+tipo: "Revista"
 keywords: ["2021", "FONDECYT", "Relación educativa", "Educación colonial", "Educación intercultural"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2021_KARIAS/ART_N°2_ARIAS-ORTEGA Y QUINTRIQUEO_Ensaio_Pol_Public_2021_SCOPUS.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/katerinarias.qmd), [{{< meta autores.2 >}}](../members/current/segundoquintriqueo.qmd)  
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), [{{< meta autores.2 >}}](../members/current/Segundo Quintriqueo.qmd)  
 **Lugar de publicación**: {{< meta venue >}}   
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}  
 **Pre-print**: [PDF](../{{< meta preprint >}})  
