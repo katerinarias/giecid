@@ -17,10 +17,14 @@ preprint: "pdfs/productividad/PRODUCTIVIDAD_2024_KARIAS/ART_8 EDUC_PESQUISA_ARIA
 
 **BibTeX**:
 ```bibtex
-@article{example,
+@article{arias2024desafios,
+  author = {Arias, Katerin and Gajardo, Mariela and Sierpe, Juan and Santini, Yislen},
   title = {{< meta title >}},
-  author = {{< meta autores.1 >}} and {{< meta autores.2 >}},
   journal = {{< meta venue >}},
   year = {{< meta categories.1 >}},
+  volume = {volumen},
+  number = {número},
+  pages = {rango de páginas},
+  doi = {DOI}
 }
 ```

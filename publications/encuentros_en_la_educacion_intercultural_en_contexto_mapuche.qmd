@@ -17,10 +17,14 @@ preprint: "pdfs/productividad/PRODUCTIVIDAD_2019_KARIAS/ART_5_SCIELO.pdf"
 
 **BibTeX**:
 ```bibtex
-@article{example,
+@article{arias2019encuentros,
+  author = {Arias, Katerin and Riquelme, Paula},
   title = {{< meta title >}},
-  author = {{< meta autores.1 >}} and {{< meta autores.2 >}},
   journal = {{< meta venue >}},
   year = {{< meta categories.1 >}},
+  volume = {volumen},
+  number = {número},
+  pages = {rango de páginas},
+  doi = {DOI}
 }
 ```

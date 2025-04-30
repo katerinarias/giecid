@@ -17,10 +17,13 @@ preprint: "pdfs/productividad/PRODUCTIVIDAD_2016_KARIAS/Libro-Interculturalidad-
 
 **BibTeX**:
 ```bibtex
-@article{example,
+@book{quintriqueo2016interculturalidad,
+  author = {Quintriqueo, Segundo and Morales, Soledad and Quilaqueo, Daniel and Arias, Katerin},
   title = {{< meta title >}},
-  author = {{< meta autores.1 >}} and {{< meta autores.2 >}},
-  book = {{< meta libro >}},
+  publisher = {Editorial},
   year = {{< meta categories.1 >}},
+  address = {Ciudad o país},
+  edition = {edición},
+  isbn = {ISBN}
 }
 ```

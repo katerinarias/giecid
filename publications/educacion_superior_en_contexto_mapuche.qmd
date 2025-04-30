@@ -17,10 +17,14 @@ preprint: "pdfs/productividad/PRODUCTIVIDAD_2020_KARIAS/ANEXO_N°3_Art_3_Arias-O
 
 **BibTeX**:
 ```bibtex
-@article{example,
+@article{arias2020educacion,
+  author = {Arias, Katerin and Quintriqueo, Segundo},
   title = {{< meta title >}},
-  author = {{< meta autores.1 >}} and {{< meta autores.2 >}},
   journal = {{< meta venue >}},
   year = {{< meta categories.1 >}},
+  volume = {volumen},
+  number = {número},
+  pages = {rango de páginas},
+  doi = {DOI}
 }
 ```

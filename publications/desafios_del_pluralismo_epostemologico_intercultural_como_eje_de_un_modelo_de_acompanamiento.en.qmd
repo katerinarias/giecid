@@ -43,10 +43,15 @@ de pluralismo epistemológico.
 
 **BibTeX**:
 ```bibtex
-@article{example,
+@incollection{quintriqueo2024desafios,
+  author = {Quintriqueo, Segundo and Arias, Katerin and Salas-Salinas, Sonia},
   title = {{< meta title >}},
-  author = {{< meta autores.1 >}} and {{< meta autores.2 >}},
-  book = {{< meta libro >}},
+  booktitle = {{< meta libro >}},
+  editor = {editor},
+  publisher = {Editorial},
   year = {{< meta categories.1 >}},
+  chapter = {{< meta capitulo >}},
+  pages = {rango de páginas},
+  address = {Ciudad o país}
 }
 ```

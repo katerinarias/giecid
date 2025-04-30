@@ -19,10 +19,14 @@ es pertinente incorporar al currículo escolar desde un enfoque educativo interc
 
 **BibTeX**:
 ```bibtex
-@article{example,
+@article{arias2021relacion,
+  author = {Arias, Katerin and Quintriqueo, Segundo},
   title = {{< meta title >}},
-  author = {{< meta autores.1 >}} and {{< meta autores.2 >}},
   journal = {{< meta venue >}},
   year = {{< meta categories.1 >}},
+  volume = {volumen},
+  number = {número},
+  pages = {rango de páginas},
+  doi = {DOI}
 }
 ```

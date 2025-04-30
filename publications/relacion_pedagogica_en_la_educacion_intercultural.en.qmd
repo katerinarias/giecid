@@ -17,10 +17,14 @@ preprint: "pdfs/productividad/PRODUCTIVIDAD_2020_KARIAS/ANEXO_N°1_ Art_1_Arias-
 
 **BibTeX**:
 ```bibtex
-@article{example,
+@article{arias2020relacion,
+  author = {Arias, Katerin},
   title = {{< meta title >}},
-  author = {{< meta autores.1 >}},
   journal = {{< meta venue >}},
   year = {{< meta categories.1 >}},
+  volume = {volumen},
+  number = {número},
+  pages = {rango de páginas},
+  doi = {DOI}
 }
 ```

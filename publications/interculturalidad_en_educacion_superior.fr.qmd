@@ -17,10 +17,14 @@ preprint: "pdfs/productividad/PRODUCTIVIDAD_2018_KARIAS/ART_2_SCOPUS.pdf"
 
 **BibTeX**:
 ```bibtex
-@article{example,
+@article{morales2018interculturalidad,
+  author = {Morales-Saavedra, Soledad and Quintriqueo, Segundo and Uribe-Sepulveda, Pilar and Arias, Katerin},
   title = {{< meta title >}},
-  author = {{< meta autores.1 >}} and {{< meta autores.2 >}},
   journal = {{< meta venue >}},
   year = {{< meta categories.1 >}},
+  volume = {volumen},
+  number = {número},
+  pages = {rango de páginas},
+  doi = {DOI}
 }
 ```

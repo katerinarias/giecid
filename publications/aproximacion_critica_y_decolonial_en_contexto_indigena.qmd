@@ -19,10 +19,13 @@ promover espacios de reflexión, discusión y análisis en vinculación recípro
 
 **BibTeX**:
 ```bibtex
-@article{example,
+@book{quintriqueo2019educacion,
+  author = {Quintriqueo, Segundo and Quilaqueo, Daniel},
   title = {{< meta title >}},
-  author = {{< meta autores.1 >}} and {{< meta autores.2 >}},
-  book = {{< meta libro >}},
+  publisher = {Editorial},
   year = {{< meta categories.1 >}},
+  address = {Ciudad o país},
+  edition = {edición},
+  isbn = {ISBN}
 }
 ```
