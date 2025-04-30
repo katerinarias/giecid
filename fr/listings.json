@@ -1,33 +1,55 @@
 [
   {
-    "listing": "/publications.html",
+    "listing": "/projects.html",
     "items": [
-      "/publications/desafios_de_la_relacion_familia-escuela_en_contexto_mapuche.html",
-      "/publications/desafios_del_pluralismo_epostemologico_intercultural_como_eje_de_un_modelo_de_acompanamiento.html",
-      "/publications/significados_y_expectativas_de_educacion_rural_de_madres_mapuches_en_la_araucania.html",
-      "/publications/conocimientos_geograficos_y_territoriales_con_base_epistemica_en_la_memoria_social_mapuche.html",
-      "/publications/relacion_educativa_entre_profesor_y_educador_tradicional_en_la_educacion_intercultural_bilingue.html",
-      "/publications/tensiones_epistemologicas_en_la_implementacion_de_la_educacion_intercultural_bilingue.html",
-      "/publications/educacion_superior_en_contexto_mapuche.html",
-      "/publications/escuelas_en_territorio_mapuche.html",
-      "/publications/relacion_pedagogica_en_la_educacion_intercultural.html",
-      "/publications/encuentros_en_la_educacion_intercultural_en_contexto_mapuche.html",
-      "/publications/desafios_de_la_co-construccion_de_un_modelo_de_intervencion_educativa_intercultural_en_contexto_indigeno.html",
-      "/publications/educacion_intercultural_bilingue_en_la_araucania.html",
-      "/publications/aproximacion_critica_y_decolonial_en_contexto_indigena.html",
-      "/publications/educacion_intercultural_articulada_a_la_episteme_indigena_en_latinoamerica.html",
-      "/publications/implicancias_de_la_sociedad_y_cultura_hegemonica_en_la_educacion_escolar_en_contexto_mapuche.html",
-      "/publications/modelo_de_intervencion_educativa_intercultural_en_contexto_indigena.html",
-      "/publications/ser_mapuche_en_la_universidad.html",
-      "/publications/interculturalidad_en_educacion_superior.html",
-      "/publications/monoculturalidad_en_las_practicas_pedagogicas_en_la_formacion_inicial_docente_en_la_araucania.html",
-      "/publications/internacionalidad_para_la_formacion_inicial_docente.html"
+      "/projects/internados_en_contexto_mapuche.html",
+      "/projects/principios_de_la_pedagogia_y_educacion_indigena.html"
     ]
   },
   {
-    "listing": "/members/current/Viviana Villarroel.html",
+    "listing": "/members/former/alexwilson.html",
+    "items": []
+  },
+  {
+    "listing": "/members/current/Teresa Millahueque.html",
+    "items": []
+  },
+  {
+    "listing": "/members/current/Miguel del Pino.html",
+    "items": []
+  },
+  {
+    "listing": "/members.html",
     "items": [
-      "/publications/significados_y_expectativas_de_educacion_rural_de_madres_mapuches_en_la_araucania.html"
+      "/members/current/Katerin Arias.html",
+      "/members/current/Miguel del Pino.html",
+      "/members/current/Segundo Quintriqueo.html",
+      "/members/current/Teresa Millahueque.html",
+      "/members/current/Viviana Villarroel.html"
+    ]
+  },
+  {
+    "listing": "/members/current/Katerin Arias.html",
+    "items": [
+      "/publications/encuentros_en_la_educacion_intercultural_en_contexto_mapuche.html",
+      "/publications/conocimientos_geograficos_y_territoriales_con_base_epistemica_en_la_memoria_social_mapuche.html",
+      "/publications/desafios_de_la_relacion_familia-escuela_en_contexto_mapuche.html",
+      "/publications/desafios_del_pluralismo_epostemologico_intercultural_como_eje_de_un_modelo_de_acompanamiento.html",
+      "/publications/educacion_intercultural_bilingue_en_la_araucania.html",
+      "/publications/educacion_intercultural_articulada_a_la_episteme_indigena_en_latinoamerica.html",
+      "/publications/educacion_superior_en_contexto_mapuche.html",
+      "/publications/escuelas_en_territorio_mapuche.html",
+      "/publications/implicancias_de_la_sociedad_y_cultura_hegemonica_en_la_educacion_escolar_en_contexto_mapuche.html",
+      "/publications/interculturalidad_en_educacion_superior.html",
+      "/publications/internacionalidad_para_la_formacion_inicial_docente.html",
+      "/publications/monoculturalidad_en_las_practicas_pedagogicas_en_la_formacion_inicial_docente_en_la_araucania.html",
+      "/publications/percepciones_de_estudiantes_de_enseñanza_basica_sobre_la_educacion_intercultural_bilingue_en_la_araucania_chile.html",
+      "/publications/practicas_pedagogicas_en_aula_multigrado.html",
+      "/publications/relacion_educativa_entre_profesor_y_educador_tradicional_en_la_educacion_intercultural_bilingue.html",
+      "/publications/relacion_pedagogica_en_la_educacion_intercultural.html",
+      "/publications/ser_mapuche_en_la_universidad.html",
+      "/publications/significados_y_expectativas_de_educacion_rural_de_madres_mapuches_en_la_araucania.html",
+      "/publications/tensiones_epistemologicas_en_la_implementacion_de_la_educacion_intercultural_bilingue.html"
     ]
   },
   {
@@ -50,54 +72,37 @@
     ]
   },
   {
-    "listing": "/members/current/Katerin Arias.html",
+    "listing": "/members/current/Viviana Villarroel.html",
     "items": [
-      "/publications/encuentros_en_la_educacion_intercultural_en_contexto_mapuche.html",
-      "/publications/conocimientos_geograficos_y_territoriales_con_base_epistemica_en_la_memoria_social_mapuche.html",
+      "/publications/significados_y_expectativas_de_educacion_rural_de_madres_mapuches_en_la_araucania.html"
+    ]
+  },
+  {
+    "listing": "/publications.html",
+    "items": [
       "/publications/desafios_de_la_relacion_familia-escuela_en_contexto_mapuche.html",
       "/publications/desafios_del_pluralismo_epostemologico_intercultural_como_eje_de_un_modelo_de_acompanamiento.html",
-      "/publications/educacion_intercultural_bilingue_en_la_araucania.html",
-      "/publications/educacion_intercultural_articulada_a_la_episteme_indigena_en_latinoamerica.html",
+      "/publications/significados_y_expectativas_de_educacion_rural_de_madres_mapuches_en_la_araucania.html",
+      "/publications/conocimientos_geograficos_y_territoriales_con_base_epistemica_en_la_memoria_social_mapuche.html",
+      "/publications/etnografia_escolar_sobre_la_educacion_intercultural_en_tres_escuelas_mapuches_de_la_araucania.html",
+      "/publications/percepciones_de_estudiantes_de_enseñanza_basica_sobre_la_educacion_intercultural_bilingue_en_la_araucania_chile.html",
+      "/publications/practicas_pedagogicas_en_aula_multigrado.html",
+      "/publications/relacion_educativa_entre_profesor_y_educador_tradicional_en_la_educacion_intercultural_bilingue.html",
+      "/publications/tensiones_epistemologicas_en_la_implementacion_de_la_educacion_intercultural_bilingue.html",
       "/publications/educacion_superior_en_contexto_mapuche.html",
       "/publications/escuelas_en_territorio_mapuche.html",
-      "/publications/implicancias_de_la_sociedad_y_cultura_hegemonica_en_la_educacion_escolar_en_contexto_mapuche.html",
-      "/publications/interculturalidad_en_educacion_superior.html",
-      "/publications/internacionalidad_para_la_formacion_inicial_docente.html",
-      "/publications/monoculturalidad_en_las_practicas_pedagogicas_en_la_formacion_inicial_docente_en_la_araucania.html",
-      "/publications/relacion_educativa_entre_profesor_y_educador_tradicional_en_la_educacion_intercultural_bilingue.html",
       "/publications/relacion_pedagogica_en_la_educacion_intercultural.html",
+      "/publications/encuentros_en_la_educacion_intercultural_en_contexto_mapuche.html",
+      "/publications/desafios_de_la_co-construccion_de_un_modelo_de_intervencion_educativa_intercultural_en_contexto_indigeno.html",
+      "/publications/educacion_intercultural_bilingue_en_la_araucania.html",
+      "/publications/aproximacion_critica_y_decolonial_en_contexto_indigena.html",
+      "/publications/educacion_intercultural_articulada_a_la_episteme_indigena_en_latinoamerica.html",
+      "/publications/implicancias_de_la_sociedad_y_cultura_hegemonica_en_la_educacion_escolar_en_contexto_mapuche.html",
+      "/publications/modelo_de_intervencion_educativa_intercultural_en_contexto_indigena.html",
       "/publications/ser_mapuche_en_la_universidad.html",
-      "/publications/significados_y_expectativas_de_educacion_rural_de_madres_mapuches_en_la_araucania.html",
-      "/publications/tensiones_epistemologicas_en_la_implementacion_de_la_educacion_intercultural_bilingue.html"
-    ]
-  },
-  {
-    "listing": "/members.html",
-    "items": [
-      "/members/current/Katerin Arias.html",
-      "/members/current/Miguel del Pino.html",
-      "/members/current/Segundo Quintriqueo.html",
-      "/members/current/Teresa Millahueque.html",
-      "/members/current/Viviana Villarroel.html"
-    ]
-  },
-  {
-    "listing": "/members/current/Miguel del Pino.html",
-    "items": []
-  },
-  {
-    "listing": "/members/current/Teresa Millahueque.html",
-    "items": []
-  },
-  {
-    "listing": "/members/former/alexwilson.html",
-    "items": []
-  },
-  {
-    "listing": "/projects.html",
-    "items": [
-      "/projects/internados_en_contexto_mapuche.html",
-      "/projects/principios_de_la_pedagogia_y_educacion_indigena.html"
+      "/publications/interculturalidad_en_educacion_superior.html",
+      "/publications/monoculturalidad_en_las_practicas_pedagogicas_en_la_formacion_inicial_docente_en_la_araucania.html",
+      "/publications/internacionalidad_para_la_formacion_inicial_docente.html"
     ]
   }
 ]
