@@ -12,18 +12,22 @@ format: html
 #     filter-ui: false
 #     fields: [title, date, description, link]
 #     field-display-names:
-#       link: "Link to Article"
+#       link: "Enlace al Artículo"
 ---
 
 ::: {.group-photo}
-![Our Research Group](./assets/groupphoto.jpg "Group Photo")
+![GIECID](./assets/groupphoto.jpg "Foto del Grupo")
 :::
 
 ## About Us
 
-We are a dynamic research group focused on advancing the field of software engineering through innovative research and practical applications. Our team combines expertise in software development, empirical studies, and machine learning to tackle challenging problems in modern software development practices. We collaborate with industry partners and academic institutions worldwide to drive impactful research that shapes the future of software engineering.
+The Research Group on Education in Indigenous and Diverse Contexts (GIECID) is composed of academics and researchers with a solid trajectory in the study of education in intercultural, indigenous and socio-cultural diversity contexts. The group aims to generate critical, situated and relevant knowledge that contributes to educational transformation from a social justice perspective, recognizing and valuing the knowledge, languages and epistemologies of indigenous peoples.
 
-<!-- ## Latest News
+GIECID promotes a collaborative and interdisciplinary approach, based on the articulation between university, communities and territories, in order to contribute to the development of pedagogical policies, practices and knowledge that strengthen educational processes in indigenous and diverse contexts.
+
+<!-- ## Últimas Noticias
 
 ::: {#latest-news}
 ::: -->
+
+

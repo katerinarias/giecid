@@ -1,5 +1,5 @@
 ---
-title: "Bienvenue dans GIECID"
+title: "Bienvenue à GIECID"
 format: html
 # listing:
 #   - id: latest-news
@@ -12,18 +12,21 @@ format: html
 #     filter-ui: false
 #     fields: [title, date, description, link]
 #     field-display-names:
-#       link: "Lien vers l'Article"
+#       link: "Enlace al Artículo"
 ---
 
 ::: {.group-photo}
-![Notre Groupe de Recherche](./assets/groupphoto.jpg "Photo du Groupe")
+![GIECID](./assets/groupphoto.jpg "Foto del Grupo")
 :::
 
-## À Propos de Nous
+## À propos de nous
 
-Nous sommes un groupe de recherche dynamique qui se concentre sur l'avancement du domaine du génie logiciel grâce à la recherche innovante et aux applications pratiques. Notre équipe combine une expertise en développement logiciel, en études empiriques et en apprentissage automatique pour relever les défis des pratiques modernes de développement logiciel. Nous collaborons avec des partenaires industriels et des institutions académiques du monde entier pour mener des recherches percutantes qui façonnent l'avenir du génie logiciel.
+Le Groupe de Recherche en Éducation dans les Contextes Indigènes et Divers (GIECID) est composé d'universitaires et de chercheurs ayant une solide expérience dans l'étude de l'éducation dans des contextes interculturels, indigènes et de diversité socioculturelle. Le groupe vise à générer des connaissances critiques, situées et pertinentes qui contribuent à la transformation éducative dans une perspective de justice sociale, en reconnaissant et en valorisant les savoirs, les langues et les épistémologies des peuples autochtones.
 
-<!-- ## Dernières Nouvelles
+Le GIECID promeut une approche collaborative et interdisciplinaire, basée sur l'articulation entre l'université, les communautés et les territoires, afin de contribuer au développement de politiques, de pratiques et de savoirs pédagogiques qui renforcent les processus éducatifs dans des contextes indigènes et divers.
+
+<!-- ## Últimas Noticias
 
 ::: {#latest-news}
 ::: -->
+
