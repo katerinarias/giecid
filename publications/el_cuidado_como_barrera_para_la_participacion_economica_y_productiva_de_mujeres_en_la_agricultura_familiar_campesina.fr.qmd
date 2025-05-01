@@ -1,0 +1,30 @@
+---
+name: "El cuidado como barrera para la participación económica y productiva de mujeres en la agricultura familiar campesina. Estudio bibliográfico de las políticas de desarrollo rural en Chile"
+title: "El cuidado como barrera para la participación económica y productiva de mujeres en la agricultura familiar campesina. Estudio bibliográfico de las políticas de desarrollo rural en Chile"
+autores: ["Gloria Mora", "Jorge Constanzo", "Katerin Arias", "Alejandra Millahual", "Fernanda Herrera"]
+venue: "Cuadernos de Desarrollo Rural"
+tipo: "Revista"
+categories: 2021
+keywords: ["2021", "Cuadernos de Desarrollo Rural", "Cuidado", "Agricultura Familiar Campesina", "Género", "Políticas Públicas", "Chile"]
+preprint: "pdfs/productividad/PRODUCTIVIDAD_2021_KARIAS/ART_N9_OTRO_ARIAS_CADERNO DESARROLLO RURAL_WOS_2021.pdf"
+---
+**Autores**: {{< meta autores.1 >}}, {{< meta autores.2 >}}, [{{< meta autores.3 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.4 >}}, {{< meta autores.5 >}}  
+**Lugar de publicación**: {{< meta venue >}}   
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}, {{< meta keywords.7 >}}
+**Pre-print**: [PDF](../{{< meta preprint >}})  
+**Resumen**: Aunque en Chile el trabajo de las mujeres en la agricultura familiar campesina se ha incrementado, las tareas de cuidado que realizan representan una barrera para su participación productiva. Por esto, se exploró la manera en que las políticas, planes y programas de desarrollo rural actuales asumen el cuidado como un asunto relevante para la inserción económico-productiva de las mujeres campesinas. A través de una revisión bibliográfica, se muestra que las implicaciones del cuidado en términos de género no se han caracterizado en las políticas estudiadas. Se concluye que el cuidado es un tema político que puede articular estrategias intersectoriales para el desarrollo rural con equidad entre mujeres y hombres.
+
+
+**BibTeX**:
+```bibtex
+@article{mora2021cuidado,
+  author = {Mora, Gloria and Constanzo, Jorge and Arias, Katerin and Millahual, Alejandra and Herrera, Fernanda},
+  title = {{< meta title >}},
+  journal = {{< meta venue >}},
+  year = {{< meta categories.1 >}},
+  volume = {18},
+  number = {},
+  pages = {19},
+  doi = {https://doi.org/10.11144/Javeriana.cdr18.cbpe}
+}
+```
