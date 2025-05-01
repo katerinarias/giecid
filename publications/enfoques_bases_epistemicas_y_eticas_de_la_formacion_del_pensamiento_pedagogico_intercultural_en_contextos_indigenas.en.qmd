@@ -1,0 +1,30 @@
+---
+name: "Enfoques, bases epistémicas y éticas de la formación del pensamiento pedagógico intercultural en contextos indígenas"
+title: "Enfoques, bases epistémicas y éticas de la formación del pensamiento pedagógico intercultural en contextos indígenas"
+autores: ["Lazaro Blanco", "Katerin Arias"]
+venue: "Formación Universitaria"
+tipo: "Revista"
+categories: 2022
+keywords: ["2022", "Formación Universitaria", "Pensamiento Pedagógico", "Educación Intercultural", "Formación Inicial Docente"]
+preprint: "pdfs/productividad/PRODUCTIVIDAD_2022_KARIAS/ART_4_Enfoques_FORMACION UNIVERSITARIA_Lazaro_Arias_2022_SCOPUS.pdf"
+---
+**Autores**: {{< meta autores.1 >}}, [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd)
+**Lugar de publicación**: {{< meta venue >}}   
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}
+**Pre-print**: [PDF](../{{< meta preprint >}})  
+**Resumen**: El objetivo de este estudio es analizar los hallazgos reportados en la literatura académica que permitan sistematizar los enfoques, las bases epistémicas y éticas del proceso de formación del pensamiento pedagógico intercultural. La metodología es cualitativa, basada en el método análisis de contenido. Como resultado se identifican tres enfoques: 1) generalizador, 2) conceptual de la educación intercultural, y 3) contra-hegemónico de la educación. Se encuentran dos bases epistémicas y dos bases éticas que sustentan la formación del pensamiento pedagógico intercultural. Las bases epistémicas son: 1) dominio del contenido intercultural y 2) relaciones transdisciplinarias entre el saber indígena y el conocimiento occidental. Las bases éticas son: 1) configuración del saber pedagógico a través de la memoria histórico-social e 2) integración reflexiva de doble racionalidad. Se concluye que el pensamiento pedagógico intercultural deriva en una visión multidisciplinaria e integral del proceso de formación de personas indígenas y no indígenas.
+
+
+**BibTeX**:
+```bibtex
+@article{blanco2022enfoques,
+  author = {Blanco, Lazaro and Arias, Katerin},
+  title = {{< meta title >}},
+  journal = {{< meta venue >}},
+  year = {{< meta categories.1 >}},
+  volume = {15},
+  number = {2},
+  pages = {71-82},
+  doi = {http://dx.doi.org/10.4067/S0718-50062022000200071}
+}
+```

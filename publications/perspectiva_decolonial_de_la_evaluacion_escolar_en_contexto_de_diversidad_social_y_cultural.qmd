@@ -1,0 +1,30 @@
+---
+name: "Perspectiva decolonial de la evaluación escolar en contexto de diversidad social y cultural"
+title: "Perspectiva decolonial de la evaluación escolar en contexto de diversidad social y cultural"
+autores: ["Lázaro Blanco", "Katerin Arias"]
+venue: "Perfiles Educativos"
+tipo: "Revista"
+categories: 2022
+keywords: ["2022", "Perfiles Educativos", "Decolonialidad", "Evaluación escolar", "Diversidad social y cultural", "Evaluación dialógica", "Contexto indígena", "Comunicación oral"]
+preprint: "pdfs/productividad/PRODUCTIVIDAD_2022_KARIAS/ART_6_ PERFILES EDUCATIVOS_BLANCO_ARIAS_2022_SCOPUS.pdf"
+---
+**Autores**: {{< meta autores.1 >}}, [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd)
+**Lugar de publicación**: {{< meta venue >}}   
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}, {{< meta keywords.7 >}}, {{< meta keywords.8 >}}
+**Pre-print**: [PDF](../{{< meta preprint >}})  
+**Resumen**: El artículo discute argumentos alternativos sobre la evaluación escolar en contexto de diversidad social y cultural, desde una perspectiva de-colonial, como una forma de contrarrestar la concepción occidental de evaluación escolar en contextos indígenas e interculturales. Las preguntas que guían esta discusión tienen relación con identificar cuáles son los requerimientos metodológicos del proceso de evaluación escolar en contexto de diversidad social y cultural; y cuáles son las potencialidades metodológicas de la evaluación dialógica para la formación de personas en contexto de diversidad social y cultural. El artículo está fundamentado en un análisis de contenido de literatura académica de perspectiva intercultural referente a la evaluación escolar. La información recopilada y sistematizada se analiza con base en los referentes epistemológico, pedagógico y psicológico. Los principales resultados muestran la urgencia de sistematizar la comunicación dialógica como opción didáctica en los procesos de evaluación escolar en contexto de diversidad social y cultural.
+
+
+**BibTeX**:
+```bibtex
+@article{delpino2022justicia,
+  author = {Del Pino, Miguel and Arias, Katerin and Muñoz, Gerardo},
+  title = {{< meta title >}},
+  journal = {{< meta venue >}},
+  year = {{< meta categories.1 >}},
+  volume = {44},
+  number = {177}, 
+  pages = {168-182},
+  doi = {https://doi.org/10.22201/iisue.24486167e.2022.177.60546}
+}
+```

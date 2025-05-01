@@ -1,0 +1,30 @@
+---
+name: "Educación preescolar en contexto rural:una revisión documental de las políticaspúblicas en Chile"
+title: "Educación preescolar en contexto rural:una revisión documental de las políticaspúblicas en Chile"
+autores: ["Gloria Mora", "Jorge Constanzo", "Katerin Arias", "Alejandra Millahual"]
+venue: "Revista Educación"
+tipo: "Revista"
+categories: 2022
+keywords: ["2022", "Revista Educación", "Políticas públicas", "Jardín infantil", "Ruralidad", "Educación parvularia", "Chile"]
+preprint: "pdfs/productividad/PRODUCTIVIDAD_2022_KARIAS/ART_2_EDUC_PREESCO_RURAL_MORA _ARIAS_2022_SCIELO.pdf"
+---
+**Autores**: {{< meta autores.1 >}}, {{< meta autores.2 >}}, [{{< meta autores.3 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.4 >}}  
+**Lugar de publicación**: {{< meta venue >}}   
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}, {{< meta keywords.7 >}}, {{< meta keywords.8 >}}   
+**Pre-print**: [PDF](../{{< meta preprint >}})  
+**Resumen**: En Chile la educación preescolar constituye una estrategia pública para la equidad a favor de niños y niñas menores de 6 años en condiciones de vulnerabilidad socioeconómica, como aquella población cuya familia reside en sectores rurales. Dadas las relevantes implicaciones que dicha educación tiene sobre el desarrollo infantil, la investigación se planteó como objetivo explorar la forma en que la política de jardines infantiles ha respondido a las condiciones socioculturales y geográficas del medio rural a partir de 1990 en adelante. Por medio de una revisión documental, se identificaron 1664 documentos (en su mayoría gubernamentales) y se seleccionaron y analizaron 82. Se evidenció que la política de jardines toma la intersectorialidad como estrategia para la pertinencia territorial con el fin de fortalecer la educación y la salud de la primera infancia y, además, avanzar en la superación de la pobreza e inserción laboral de las madres. Se concluye con una discusión acerca de la escasa claridad de las políticas estudiadas con respecto a mecanismos que articulen la educación parvularia con los territorios rurales.
+
+
+**BibTeX**:
+```bibtex
+@article{mora2022educacion,
+  author = {Mora, Gloria and Constanzo, Jorge and Arias, Katerin and Millahual, Alejandra},
+  title = {{< meta title >}},
+  journal = {{< meta venue >}},
+  year = {{< meta categories.1 >}},
+  volume = {46},
+  number = {2},
+  pages = {15},
+  doi = {https://doi.org/10.15517/revedu.v46i2.47704}
+}
+```

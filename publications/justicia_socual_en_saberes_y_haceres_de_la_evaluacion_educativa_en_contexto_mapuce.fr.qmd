@@ -1,0 +1,30 @@
+---
+name: "Justicia Social en Saberes y Haceres de la Evaluación Educativa en Contexto Mapuce"
+title: "Justicia Social en Saberes y Haceres de la Evaluación Educativa en Contexto Mapuce"
+autores: ["Miguel Del Pino", "Katerin Arias", "Gerardo Muñoz"]
+venue: "Revista Internacional de Educación para la Justicia Social"
+tipo: "Revista"
+categories: 2022
+keywords: ["2022", "Revista Internacional de Educación para la Justicia Social", "Reconocimiento", "Participación", "Evaluación educativa", "Educación indígena", "Justicia social"]
+preprint: "pdfs/productividad/PRODUCTIVIDAD_2022_KARIAS/ART_5_Justicia Social_Revista RJSC_DEL PINO_ARIAS_2022_ SCOPUS.pdf"
+---
+**Autores**: [{{< meta autores.1 >}}](../members/current/Miguel Del Pino.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.3 >}}
+**Lugar de publicación**: {{< meta venue >}}   
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}, {{< meta keywords.7 >}}
+**Pre-print**: [PDF](../{{< meta preprint >}})  
+**Resumen**: En Chile la evaluación es un tema controversial y complejo, que a la fecha suma diversas críticas producto de su lógica de homogeneización educativa. Una de las críticas surge de los pueblos indígenas, quienes luchan por una evaluación con mayor justicia social. El presente estudio tuvo como objetivos: 1. Identificar los ámbitos de justicia/injusticia de la evaluación educativa en contexto indígena mapuce y 2. Reconocer los saberes y haceres que las personas incorporan en el trabajo de aula para la evaluación en contexto indígena mapuce. Se desarrolló una investigación participativa con el enfoque dialógico-kishu kimkelay ta che, con la conformación de dos comunidades de investigación ubicadas en la Región de La Araucanía, una bafkehce y la otra pewenche, donde se trabajó con procedimientos como el diálogo colectivo y la conversación dialógica. La validación de los conocimientos producidos se realizó mediante az kintun. Los resultados dan cuenta de ámbitos de justicia/injusticia relacionados a los enfoques de reconocimiento y paridad de participación, como saberes y haceres mapuce que las personas logran incorporar y desarrollar en la evaluación escolar. Las principales conclusiones apuntan al desafío de establecer como núcleo normativo una evaluación para el desarrollo de la justicia social en contextos indígenas.
+
+
+**BibTeX**:
+```bibtex
+@article{delpino2022justicia,
+  author = {Del Pino, Miguel and Arias, Katerin and Muñoz, Gerardo},
+  title = {{< meta title >}},
+  journal = {{< meta venue >}},
+  year = {{< meta categories.1 >}},
+  volume = {11},
+  number = {1},
+  pages = {133-154},
+  doi = {https://doi.org/10.15366/riejs2022.11.1.008}
+}
+```
