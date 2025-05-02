@@ -1,0 +1,30 @@
+---
+name: "Experiencias de Estudiantes Universitarios de La Araucanía en el Contexto de Aislamiento Físico"
+title: "Experiencias de Estudiantes Universitarios de La Araucanía en el Contexto de Aislamiento Físico" 
+autores: ["Julia Sarmiento", "Karla Morales", "Valeska Torres", "Daniela Vicente", "Katerin Arias"]
+venue: "Última Década"
+tipo: "Revista"
+categories: 2022
+keywords: ["2022", "Última Década", "Ansiedad", "Educación a Distancia", "Covid-19"]
+preprint: "pdfs/productividad/PRODUCTIVIDAD_2022_KARIAS/ART_12_Experiencias EST_UNIV_Sarmiento_ARIAS ET AL_SCIELO_2022.pdf"
+---
+**Autores**: {{< meta autores.1 >}}, {{< meta autores.2 >}}, {{< meta autores.3 >}}, {{< meta autores.4 >}}, [{{< meta autores.5 >}}](../members/current/Katerin Arias.qmd)
+**Lugar de publicación**: {{< meta venue >}}   
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}
+**Pre-print**: [PDF](../{{< meta preprint >}})  
+**Resumen**: El artículo expone experiencias que viven los estudiantes universitarios en contexto de aislamiento físico producto de la pandemia COVID-19. La metodología utilizada es la investigación cualitativa, los participantes fueron seis estudiantes de La Araucanía, Chile. El instrumento de recolección de información es la entrevista semiestructurada. Los resultados dan cuenta de situaciones que han generado ansiedad en los estudiantes universitarios, lo que ha afectado el ámbito personal, social y académico, llevando a una reestructuración de su vida cotidiana. Concluimos en la necesidad de una formación profesional que aporte con estrategias, conocimientos y habilidades, para enfrentar problemas de salud mental.
+
+
+**BibTeX**:
+```bibtex
+@article{sarmiento2022experiencias,
+  author = {Sarmiento, Julia and Morales, Karla and Torres, Valeska and Vicente, Daniela and Arias, Katerin},
+  title = {{< meta title >}},
+  journal = {{< meta venue >}},
+  year = {{< meta categories.1 >}},
+  volume = {},
+  number = {59},
+  pages = {214-245},
+  doi = {}
+}
+```

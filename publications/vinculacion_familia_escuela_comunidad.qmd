@@ -1,0 +1,30 @@
+---
+name: "Vinculación familia-escuela-comunidad: una necesidad para la educación intercultural en infancia"
+title: "Vinculación familia-escuela-comunidad: una necesidad para la educación intercultural en infancia" 
+autores: ["Soledad Morales", "Segundo Quintriqueo", "Katerin Arias", "Viviana Zapata"]
+venue: "CUHSO"
+tipo: "Revista"
+categories: 2022
+keywords: ["2022", "CUHSO", "Infancia", "Interculturalidad", "Vinculación Familia-Escuela-Comunidad"]
+preprint: "pdfs/productividad/PRODUCTIVIDAD_2022_KARIAS/ART_10_Vinculacion familia_escuela_comunidad Morales_Arias_otros_ 2022SCIELO.pdf"
+---
+**Autores**: {{< meta autores.1 >}}, [{{< meta autores.2 >}}](../members/current/Segundo Quintriqueo.qmd), [{{< meta autores.3 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.4 >}}
+**Lugar de publicación**: {{< meta venue >}}   
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}
+**Pre-print**: [PDF](../{{< meta preprint >}})  
+**Resumen**: El objetivo del artículo es aportar con rutas reflexivas y acciones concretas que permitan avanzar en la vinculación familia-escuela-comunidad, como una necesidad para repensar la educación intercultural desde la infancia. Esto implica que los actores del medio educativo como educadoras/es de párvulos y asistentes de párvulos y los actores del medio social como la familia-comunidad, establezcan relaciones educativas interculturales con base en el respeto al otro como legítimo otro. Lo anterior, para favorecer los procesos educativos, desde un enfoque de pertinencia social, cultural y territorial, que permita cuestionar el racismo y las prácticas discriminatorias presentes en nuestra sociedad. La metodología es una revisión bibliográfica a nivel nacional e internacional que sustenta una reflexión teórica sobre las posibilidades de generar un diálogo entre contenidos occidentales y conocimiento indígena en la educación inicial, desde un enfoque educativo intercultural. Los principales resultados dan cuenta de un conjunto de pistas de acción que potencian un acercamiento entre familia-escuela-comunidad. Concluimos en la urgencia para articular los saberes educativos mapuches y escolares, para formar la primera infancia desde un pluralismo epistemológico intercultural.
+
+
+**BibTeX**:
+```bibtex
+@article{morales2022vinculacion,
+  author = {Morales, Soledad and Quintriqueo, Segundo and Arias, Katerin and Zapata, Viviana},
+  title = {{< meta title >}},
+  journal = {{< meta venue >}},
+  year = {{< meta categories.1 >}},
+  volume = {32},
+  number = {1},
+  pages = {58-74},
+  doi = {10.7770/CUHSO-V32n1-art2754}
+}
+```
