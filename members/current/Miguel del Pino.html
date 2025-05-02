@@ -67,9 +67,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-autores','listing-categories','listing-venue',{ data: ['index'] },{ data: ['categories'] }],
+      valueNames: ['listing-title','listing-autores','listing-categories','listing-venue',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
       
-      searchColumns: [],
+      searchColumns: ["listing-project","listing-format","listing-website","listing-babelquarto","listing-title-es","listing-title-fr","listing-description-es","listing-description-fr","listing-lang","listing-language","listing-name","listing-title","listing-autores","listing-venue","listing-tipo","listing-categories","listing-keywords","listing-preprint","listing-path","listing-outputHref","listing-author","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -362,7 +362,28 @@ window.Quarto = {
 
 
 <div class="quarto-listing quarto-listing-container-custom" id="listing-listing">
-<ul class="list"></ul>
+<ul class="list">
+<li type="1" data-index="0" data-categories="MjAyMg==" data-listing-file-modified-sort="1746168750738" data-listing-reading-time-sort="2" data-listing-word-count-sort="235">
+<h3>
+<a href="../../publications/docencia_universitaria_en_contexto_indigena.html">Docencia Universitaria en Contexto Indígena</a>
+</h3>
+<div class="listing-autores">
+<strong>Autores</strong>: <a href="../../members/current/Katerin%20Arias.html">Katerin Arias</a>, <a href="../../members/current/Miguel%20del%20Pino.html">Miguel del Pino</a>, Gerardo Muñoz
+</div>
+<div class="listing-tipo">
+<strong>Tipo</strong>: Revista
+</div>
+<div class="listing-venue">
+<strong>Lugar de publicación</strong>: RMIE
+</div>
+<div class="listing-preprint">
+<strong>Preprint</strong>: <a href="https://katerinarias.github.io/giecid/pdfs/productividad/PRODUCTIVIDAD_2022_KARIAS/ART_13_%20RMIE_ARIAS_DEL%20PINO_MU%C3%91OZ_2022_SCOPUS.pdf">PDF</a>
+</div>
+<div class="listing-keywords">
+<strong>Palabras clave</strong>: 2022,RMIE,Docencia Universitaria,Educación Superior,Interculturalidad
+</div>
+</li>
+</ul>
 <div class="listing-no-matching d-none">No hay resultados</div>
 </div></main><!-- /main --><script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
