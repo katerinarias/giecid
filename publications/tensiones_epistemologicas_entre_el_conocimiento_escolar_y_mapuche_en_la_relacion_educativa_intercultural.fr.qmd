@@ -8,10 +8,10 @@ categories: 2022
 keywords: ["2022", "Praxis Educativa", "Escolarización y Curriculum Escolar", "Conocimiento Escolar y Educativo Mapuche", "Tensiones Epistemológicas", "Pluralismo Epistemológico", "Educación Intercultural"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2022_KARIAS/ART_7_Tensiones entre Conoc_Escolar_Mapuc_REI_SCIELO.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Segundo Quintriqueo.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.3 >}}, {{< meta autores.4 >}}, {{< meta autores.5 >}}
-**Lugar de publicación**: {{< meta venue >}}   
-**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}, {{< meta keywords.7 >}}
-**Pre-print**: [PDF](../{{< meta preprint >}})  
+**Autores**: [{{< meta autores.1 >}}](../members/current/Segundo Quintriqueo.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.3 >}}, {{< meta autores.4 >}}, {{< meta autores.5 >}}  
+**Lugar de publicación**: {{< meta venue >}}     
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}, {{< meta keywords.7 >}}  
+**Pre-print**: [PDF](../{{< meta preprint >}})    
 **Resumen**: El artículo pretende comprender las tensiones epistemológicas en las relaciones educativas interculturales entre profesor/a mentor/a, educador/a tradicional y el estudiantado en La Araucanía. La perspectiva teórica que sustenta la discusión es la escolarización fundamentada en el currículum escolar de corte eurocéntrico occidental y la educación familiar en contexto mapuche, por lo que el estudiantado es sometido a una doble inmersión: la educación escolar y familiar. La metodología empleada es la investigación educativa, basada en una etnografía escolar y un análisis de contenido. Los principales resultados muestran la reproducción de un racismo institucionalizado en la educación escolar, una diferencia epistemológica en relación con los contenidos deseables de transmitir en la implementación de la educación intercultural y una invisibilización sistemática, tanto de los saberes indígenas como de los estudiantes y educadores tradicionales en los procesos de escolarización.
 
 

@@ -8,10 +8,10 @@ categories: 2021
 keywords: ["2021", "Cad. Pesqui., São Paulo, v.51, e07046, 2021", "Prácticas Pedagógicas", "Clase Multiseriada", "Enseñanza", "Aprendizaje"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2021_KARIAS/ART_N°4_OTROS Y ARIAS-ORTEGA_Cadernos de pesquisa_2021_SCOPUS.pdf"
 ---
-**Autores**: {{< meta autores.1 >}}, {{< meta autores.2 >}}, {{< meta autores.3 >}}, {{< meta autores.4 >}}, {{< meta autores.5 >}}, [{{< meta autores.6 >}}](../members/current/Katerin Arias.qmd)  
-**Lugar de publicación**: {{< meta venue >}}   
-**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}  
-**Pre-print**: [PDF](../{{< meta preprint >}})  
+**Autores**: {{< meta autores.1 >}}, {{< meta autores.2 >}}, {{< meta autores.3 >}}, {{< meta autores.4 >}}, {{< meta autores.5 >}}, [{{< meta autores.6 >}}](../members/current/Katerin Arias.qmd)    
+**Lugar de publicación**: {{< meta venue >}}     
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}    
+**Pre-print**: [PDF](../{{< meta preprint >}})    
 **Resumen**: El artículo presenta resultados de investigación sobre la percepción de profesores de aulas multigrado respecto de los principales desafíos socioeducativos que enfrentan en sus prácticas pedagógicas, en una escuela situada en comunidad mapuche de La Araucanía, Chile. La metodología utilizada es cualitativa. Los principales resultados dan cuenta que los profesores que se desempeñan en escuelas multigrados deben atender de forma simultánea la diversidad social, cultural, lingüística y etaria que presentan los estudiantes, pese a no tener la formación profesional para ello. Esta realidad se complejiza, si se consideran las características del currículum escolar monocultural que no responde a la modalidad de escuelas multigrado, ni al contexto donde están insertas dichas escuelas.
 
 

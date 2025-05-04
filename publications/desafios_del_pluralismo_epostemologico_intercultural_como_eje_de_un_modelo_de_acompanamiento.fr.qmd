@@ -9,11 +9,11 @@ categories: 2024
 keywords: ["2024", "Libro", "Pluralismo Epistemológico", "Educación Intercultural", "Modelo de Acompañamiento", "Contexto de Colonización"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2024_KARIAS/Cap_libro_5Arias-Ortega_2024_Referato.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Segundo Quintriqueo.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.3 >}}
+**Autores**: [{{< meta autores.1 >}}](../members/current/Segundo Quintriqueo.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.3 >}}  
 **Libro**: {{< meta libro >}}   
 **Capítulo**: {{< meta capitulo >}}   
-**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}  
-**Pre-print**: [PDF](../{{< meta preprint >}})  
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}    
+**Pre-print**: [PDF](../{{< meta preprint >}})    
 **Resumen**: En este capítulo presentamos un análisis sobre el enfoque pluralismo
 epistemológico como eje articulador del modelo de acompañamiento en la
 implementación de la educación intercultural, en escuelas situadas en contextos

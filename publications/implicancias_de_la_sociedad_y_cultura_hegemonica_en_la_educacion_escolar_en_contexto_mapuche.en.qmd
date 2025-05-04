@@ -8,10 +8,10 @@ tipo: "Revista"
 keywords: ["2019", "Espacios", "Sociedad y cultura", "Educación escolar en contexto mapuche", "Interculturalidad"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2019_KARIAS/ART_2_SCOPUS.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.2 >}}  
-**Lugar de publicación**: {{< meta venue >}}   
-**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}  
-**Pre-print**: [PDF](../{{< meta preprint >}})  
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.2 >}}    
+**Lugar de publicación**: {{< meta venue >}}     
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}    
+**Pre-print**: [PDF](../{{< meta preprint >}})    
 **Resumen**: El artículo propone un enfoque epistemológico crítico de la implicación de la sociedad y cultura hegemónicas en la educación escolar de niños mapuche en contextos indígenas e interculturales en La Araucanía, Chile. El enfoque teórico metodológico que sustenta nuestro estudio es la sociología de la educación, desde autores clásicos, neoclásicos y actuales. Los resultados proporcionan un estado del arte en los conceptos principales como una posibilidad para el estudio de la educación y su conexión con los procesos de transformación social.   
 
 

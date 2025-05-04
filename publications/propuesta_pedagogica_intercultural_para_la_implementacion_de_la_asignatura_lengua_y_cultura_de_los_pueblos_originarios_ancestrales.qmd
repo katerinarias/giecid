@@ -8,10 +8,10 @@ categories: 2022
 keywords: ["2022", "Libro", "Educación Intercultural"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2022_KARIAS/propuesta pedagógica 2022 WEB (12-4-23).pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Segundo Quintriqueo.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.3 >}}, {{< meta autores.4 >}}, {{< meta autores.5 >}}, {{< meta autores.6 >}}, {{< meta autores.7 >}}, [{{< meta autores.8 >}}](../members/current/Viviana Villarroel.qmd)
+**Autores**: [{{< meta autores.1 >}}](../members/current/Segundo Quintriqueo.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.3 >}}, {{< meta autores.4 >}}, {{< meta autores.5 >}}, {{< meta autores.6 >}}, {{< meta autores.7 >}}, [{{< meta autores.8 >}}](../members/current/Viviana Villarroel.qmd)  
 **Libro**: {{< meta libro >}}   
-**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}} 
-**Pre-print**: [PDF](../{{< meta preprint >}})  
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}   
+**Pre-print**: [PDF](../{{< meta preprint >}})    
 **Resumen**: La propuesta pedagógica intercultural se propone apoyar la implementación de la Asignatura Lengua y Cultura de los Pueblos Originarios Ancestrales, para aportar a la transversalización de la educación intercultural en el sistema educativo escolar chileno. Esto, a través de pistas de acción y estrategias para la contextualización de los contenidos educativos escolares en articulación con el conocimiento indígena, desde un enfoque educativo intercultural.
 
 La propuesta pedagógica considera dos componentes centrales de acción: el medio escolar y el medio social, desde una dimensión teórica, empírica y metodológica.

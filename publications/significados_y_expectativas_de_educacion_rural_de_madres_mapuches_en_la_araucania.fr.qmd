@@ -8,10 +8,10 @@ tipo: "Revista"
 keywords: ["2024", "RIEJS", "Educación rural", "Relación educativa", "Madres indígenas", "Expectativas", "Contexto indígena"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2024_KARIAS/ART_4_RIEJS_VILLARROEL_ARIAS_2024_SCOPUS.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Viviana Villarroel.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd)  
-**Lugar de publicación**: {{< meta venue >}}   
-**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}, {{< meta keywords.7 >}}  
-**Pre-print**: [PDF](../{{< meta preprint >}})  
+**Autores**: [{{< meta autores.1 >}}](../members/current/Viviana Villarroel.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd)    
+**Lugar de publicación**: {{< meta venue >}}     
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}, {{< meta keywords.7 >}}    
+**Pre-print**: [PDF](../{{< meta preprint >}})    
 **Resumen**: El  artículo expone  resultados  de  investigación  que  dan  cuenta  de  la  construcción  de 
 significados y expectativas de madres mapuches de La Araucanía, Chile, respecto a la educación 
 escolar rural que cursaron y que hoy reciben sus hijos y nietos. La metodología es cualitativa, 

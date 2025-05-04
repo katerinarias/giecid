@@ -8,10 +8,10 @@ categories: 2022
 keywords: ["2022", "Revista Meta: Avaliação", "Intervención educativa intercultural", "Saberes y conocimientos educativos indígenas", "Relación educativa intercultural"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2022_KARIAS/ART_3_Intervención EI_Arias_Ortiz_2022_METAAVALIACIAO_SCOPUS.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.2 >}}
-**Lugar de publicación**: {{< meta venue >}}   
-**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}
-**Pre-print**: [PDF](../{{< meta preprint >}})  
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.2 >}}  
+**Lugar de publicación**: {{< meta venue >}}     
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}  
+**Pre-print**: [PDF](../{{< meta preprint >}})    
 **Resumen**: El artículo aporta con un estado del arte sobre el desarrollo de intervenciones educativas interculturales en contextos indígenas que contribuyen a la descolonización del currículum escolar. La metodología es cualitativa y consistió en una revisión documental-descriptiva de la literatura normativa y científica a nivel nacional e internacional, sobre experiencias de intervención educativa intercultural, para lograr una comprensión y explicación de cómo se establecen las relaciones educativas y del saber entre indígenas y no indígenas en los procesos de enseñanza y aprendizaje en la escuela. Los principales resultados dan cuenta de categorías de saberes y conocimientos educativos indígenas, posibles de articular en las diferentes asignaturas del currículo escolar en los distintos niveles educativos. Se concluye que es posible establecer una relación educativa intercultural sobre la base de la implicación entre profesores, estudiantes, padres y miembros de las comunidades indígenas, para ofrecer una educación pertinente al contexto territorial en el cual se desarrolla el proceso de enseñanza aprendizaje.
 
 

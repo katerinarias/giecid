@@ -1,0 +1,30 @@
+---
+name: "Escuela multinivel en contexto indígena: fortalezas, limitaciones y desafíos  desde la perspectiva de los profesores en La Araucanía"
+title: "Escuela multinivel en contexto indígena: fortalezas, limitaciones y desafíos  desde la perspectiva de los profesores en La Araucanía"
+autores: ["Katerin Arias", "Natalia Díaz", "Daniela Catrimilla", "María Saldías"]
+venue: "Ciencias Psicológicas" 
+tipo: "Revista"
+categories: 2023
+keywords: ["2023", "Ciencias Psicológicas", "Cultura Indígena", "Educación Escolar", "Enseñanza y Aprendizaje", "Pueblos Indígenas y Tribales", "Educación Intercultural"]
+preprint: "pdfs/productividad/PRODUCTIVIDAD_2023_KARIAS/ART_3_Escuela Multinivel_Arias_2023_SCOPUS.pdf"
+---
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.2 >}}, {{< meta autores.3 >}}, {{< meta autores.4 >}}     
+**Lugar de publicación**: {{< meta venue >}}     
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}, {{< meta keywords.7 >}}      
+**Pre-print**: [PDF](../{{< meta preprint >}})    
+**Resumen**: El artículo expone las principales fortalezas, limitaciones y desafíos de la escuela multinivel en contexto indígena, desde las voces de los profesores en La Araucanía (Chile). La metodología es cualitativa, se aplicaron seis entrevistas semiestructuradas a profesores; la técnica de análisis de la información es el análisis de contenido en complementariedad con la teoría fundamentada. Los resultados revelan la persistencia de prejuicios hacia la familia indígena, el desconocimiento de los profesores sobre los saberes locales y la carencia de competencias para desarrollar una educación en perspectiva intercultural. Se concluye la necesidad de vinculación y diálogo entre escuela-familia-comunidad, lo que permita la revitalización de la identidad sociocultural en los procesos de enseñanza y aprendizaje.
+
+
+**BibTeX**:
+```bibtex
+@article{arias2023escuela,
+  author = {Arias, Katerin and Díaz, Natalia and Catrimilla, Daniela and Saldías, María},
+  title = {{< meta title >}},
+  journal = {{< meta venue >}},
+  year = {{< meta categories.1 >}},
+  volume = {17},
+  number = {1},
+  pages = {15},
+  doi = {10.22235/cp.v17i1.2841}
+}
+```

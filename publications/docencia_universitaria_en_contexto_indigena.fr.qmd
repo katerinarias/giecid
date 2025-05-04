@@ -8,10 +8,10 @@ categories: 2022
 keywords: ["2022", "RMIE", "Docencia Universitaria", "Educación Superior", "Interculturalidad"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2022_KARIAS/ART_13_ RMIE_ARIAS_DEL PINO_MUÑOZ_2022_SCOPUS.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), [{{< meta autores.2 >}}](../members/current/Miguel del Pino.qmd), {{< meta autores.3 >}}
-**Lugar de publicación**: {{< meta venue >}}   
-**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}
-**Pre-print**: [PDF](../{{< meta preprint >}})  
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), [{{< meta autores.2 >}}](../members/current/Miguel del Pino.qmd), {{< meta autores.3 >}}  
+**Lugar de publicación**: {{< meta venue >}}     
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}  
+**Pre-print**: [PDF](../{{< meta preprint >}})    
 **Resumen**: Este artículo expone resultados de investigación sobre la docencia universitaria en contexto mapuche, en una universidad convencional de La Araucanía, Chile. Se empleó una metodología cualitativa, con un nivel de alcance descriptivo. Se aplicaron entrevistas semidirigidas a docentes que desarrollan sus prácticas pedagógicas en universidades situadas en territorio mapuche. La información se analizó desde la perspectiva de la teoría fundamentada y se complementó con el análisis de contenido. Los principales resultados identifican la necesidad de formación continua y sensibilización intercultural de formadoras(es) de nuevas(os) profesionales. Concluimos que la formación profesional en perspectiva intercultural implica que las prácticas pedagógicas de las y los docentes consideren las demandas y finalidades educativas indígenas en la enseñanza, incorporando sus visiones de mundo, para ofrecer una formación con pertinencia sociocultural y territorial en las distintas disciplinas que se enseñan.
 
 

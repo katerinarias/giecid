@@ -8,10 +8,10 @@ tipo: "Revista"
 keywords: ["2019", "Revista de Estudios y Experiencias en Educación", "Ley Indígena", "Educación Intercultural Bilingüe", "Interculturalidad Funcionalista", "Interculturalidad Crítica"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2019_KARIAS/ART_5_SCIELO.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.2 >}}  
-**Lugar de publicación**: {{< meta venue >}}   
-**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}  
-**Pre-print**: [PDF](../{{< meta preprint >}})  
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.2 >}}    
+**Lugar de publicación**: {{< meta venue >}}     
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}    
+**Pre-print**: [PDF](../{{< meta preprint >}})    
 **Resumen**: El problema de estudio plantea que la política de Educación Intercultural Bilingüe (EIB) se concibe desde una perspectiva funcionalista que ofrece una educación 'distinta' a niños y jóvenes mapuches 'sólo para mejorar logros académicos'. Obviando, las demandas de una educación con pertinencia social y cultural para construir conocimientos desde su propio marco epistémico y así avanzar en la formación de sujetos capaces de concebir el mundo desde distintas perspectivas. El enfoque teórico es la interculturalidad crítica. Los principales resultados indican que la EIB está subordinada a los objetivos neoliberales de la política educativa del Estado, para mantener las desigualdades sociales.   
 
 

@@ -1,0 +1,30 @@
+---
+name: "Discriminación percibida entre profesor y educador tradicional en la educación intercultural en La Araucanía, Chile"
+title: "Discriminación percibida entre profesor y educador tradicional en la educación intercultural en La Araucanía, Chile"
+autores: ["Katerin Arias", "Gerardo Muñoz", "Segundo Quintriqueo"]
+venue: "Educ. Pesqui." 
+tipo: "Revista"
+categories: 2023
+keywords: ["2023", "Educ. Pesqui.", "Educación intercultural", "Relación educativa", "Discriminación"]
+preprint: "pdfs/productividad/PRODUCTIVIDAD_2023_KARIAS/ART_ 1_ Discriminacion Percibida_Arias_2023_SCOPUS.pdf"
+---
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.2 >}}, [{{< meta autores.3 >}}](../members/current/Segundo Quintriqueo.qmd)  
+**Lugar de publicación**: {{< meta venue >}}     
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}  
+**Pre-print**: [PDF](../{{< meta preprint >}})    
+**Resumen**: El artículo expone resultados de investigación sobre la relación educativa entre profesores mentores y educadores tradicionales en la implementación del Programa de Educación Intercultural (PEIB) en La Araucanía, Chile. La metodología es mixta, se aplica un cuestionario de valoración Likert a un total de 155 participantes, de los que 105 son educadores tradicionales y 50 profesores mentores. Los resultados dan cuenta de prácticas de discriminación explícita e implícita percibida por los sujetos mapuches en la relación educativa que establecen con el profesor. Ambos actores educativos reconocen que una relación educativa de implicación, reconocimiento y colaboración podría revertir dichas prácticas discriminatorias. Concluimos que la relación educativa en la educación escolar se sustenta con base en un racismo implícito y explícito hacia la enseñanza de la lengua y la cultura indígena en la escuela. Así, la discriminación percibida por parte de los educadores tradicionales interpela a la escuela y su rol histórico en los procesos de subalternización del mapuche. En este contexto, se hacen necesarias estrategias de intervención educativa intercultural que den una respuesta pertinente a la diversidad social, cultural y lingüística presentes en la educación escolar. Esto se constituye en un desafío para los directivos, profesores, padres, madres y miembros de la comunidad: avanzar en un diálogo interepistémico, sustentado en el respeto, la ética, el compromiso político, la corresponsabilidad, la negociación, mediación y abandono de sus propios marcos de referencia.
+
+
+**BibTeX**:
+```bibtex
+@article{arias2023discriminacion,
+  author = {Arias, Katerin and Muñoz, Gerardo and Quintriqueo, Segundo},
+  title = {{< meta title >}},
+  journal = {{< meta venue >}},
+  year = {{< meta categories.1 >}},
+  volume = {49},
+  number = {},
+  pages = {19},
+  doi = {https://doi.org/10.1590/S1678-4634202349250586esp}
+}
+```

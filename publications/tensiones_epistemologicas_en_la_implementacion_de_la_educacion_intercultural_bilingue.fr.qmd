@@ -8,10 +8,10 @@ tipo: "Revista"
 keywords: ["2021", "FONDECYT", "Relación educativa", "Educación colonial", "Educación intercultural"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2021_KARIAS/ART_N°2_ARIAS-ORTEGA Y QUINTRIQUEO_Ensaio_Pol_Public_2021_SCOPUS.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), [{{< meta autores.2 >}}](../members/current/Segundo Quintriqueo.qmd)  
-**Lugar de publicación**: {{< meta venue >}}   
-**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}  
-**Pre-print**: [PDF](../{{< meta preprint >}})  
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), [{{< meta autores.2 >}}](../members/current/Segundo Quintriqueo.qmd)    
+**Lugar de publicación**: {{< meta venue >}}     
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}    
+**Pre-print**: [PDF](../{{< meta preprint >}})    
 **Resumen**: El artículo busca indagar las tensiones epistemológicas existentes entre el profesor mentor y el educador tradicional (sabio mapuche), en la implementación de la Educación Intercultural Bilingüe (EIB) en tres escuelas de La Araucanía, Chile. La metodología utilizada es la investigación cualitativa, a través de la aplicación de entrevistas semi-dirigidas a profesores mentores y educadores tradicionales encargados de implementar la EIB. Los principales resultados dan cuenta de que existe una relación educativa de carácter colonial del profesor mentor hacia el educador tradicional, lo que limita la implementación de la EIB. Estas tensiones están asociados a prácticas de minorización, asimetría y hegemonía del conocimiento escolar de raíz eurocéntrico occidental sobre la Enseñanza de la lengua y la cultura mapuche. 
 
 
