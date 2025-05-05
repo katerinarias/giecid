@@ -1,0 +1,37 @@
+---
+name: "Desafíos epistemológicos para la incorporación de la perspectiva de género en la educación escolar chilena"
+title: "Desafíos epistemológicos para la incorporación de la perspectiva de género en la educación escolar chilena"
+autores: ["Viviana Villarroel", "Katerin Arias", "Cristhina González"]
+libro: "Género y educación: Reflexiones para la igualdad en tiempos de crisis"
+capitulo: "0"
+tipo: "Capítulo de Libro"
+categories: 2023
+keywords: ["2023", "Capítulo de Libro"]
+preprint: "pdfs/productividad/PRODUCTIVIDAD_2023_KARIAS/cap_Libro_Género y educación_Villarroel_Arias_2023.pdf"
+---
+**Autores**: [{{< meta autores.1 >}}](../members/current/Viviana Villarroel.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.3 >}}    
+**Libro**: {{< meta libro >}}   
+**Capítulo**: {{< meta capitulo >}}   
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}    
+**Pre-print**: [PDF](../{{< meta preprint >}})    
+**Resumen**: En este capítulo se discute sobre la urgencia de incorporar la perspectiva de género en la educación escolar chilena, como una forma de contrarrestar un currículum androcéntrico instalado tanto en el sistema educativo escolar como en los itinerarios formativos de futuros profesores. Desde esta perspectiva, se reflexiona sobre el sistema escolar chileno con una crítica orientada a sus fundamentos androcentristas y las posibles causas de su permanencia en el sistema educativo.
+
+Asimismo, se realiza una revisión del estado del arte sobre la incorporación de una perspectiva de género, para visualizar posibilidades de cómo se integra a los sistemas educativos ya sean de enseñanza básica, media o en la formación inicial docente. Lo anterior, permite identificar los elementos facilitadores y obstaculizadores, y los principales desafíos que emergen de las experiencias de los docentes.
+
+Sumado a lo anterior, se revelan los aportes de la epistemología feminista como concepto operativo metodológico susceptible de ser incorporado en el aula, permitiendo procesos de enseñanza y aprendizaje que deconstruyan el sistema educativo escolar actual. Finalmente, en las reflexiones finales se da cuenta de la relevancia de incorporar una perspectiva de género en los procesos de formación inicial docente en Chile.
+
+
+**BibTeX**:
+```bibtex
+@incollection{villarroel2023desafios,
+  author = {Villarroel, Viviana and Arias, Katerin and González, Cristhina},
+  title = {{< meta title >}},
+  booktitle = {{< meta libro >}},
+  editor = {María Cecilia Fernández Darraz},
+  publisher = {Ediciones de la Universidad Católica de Temuco},
+  year = {{< meta categories.1 >}},
+  chapter = {{< meta capitulo >}},
+  pages = {},
+  address = {Av. Alemania 0211, Temuco, Chile}
+}
+```

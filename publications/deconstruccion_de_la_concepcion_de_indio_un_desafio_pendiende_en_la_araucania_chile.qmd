@@ -1,0 +1,30 @@
+---
+name: "Deconstrucción de la concepción de ‘indio’: un desafío pendiente en La Araucanía, Chile"
+title: "Deconstrucción de la concepción de ‘indio’: un desafío pendiente en La Araucanía, Chile"
+autores: ["Viviana Villarroel", "Katerin Arias", "Segundo Quintriqueo"]
+venue: "Revista de Ciências Sociais"
+tipo: "Revista"
+categories: 2023
+keywords: ["2023", "Revista de Ciências Sociais", "Indio", "Pueblos Indígenas", "Discriminación", "Racismo"]
+preprint: "pdfs/productividad/PRODUCTIVIDAD_2023_KARIAS/ART_11_CIVITAS_VILLARROEL_ARIAS_SCOPUS_2023.pdf"
+---
+**Autores**: [{{< meta autores.1 >}}](../members/current/Viviana Villarroel.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd), [{{< meta autores.3 >}}](../members/current/Segundo Quintriqueo.qmd)   
+**Lugar de publicación**: {{< meta venue >}}    
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}    
+**Pre-print**: [PDF](../{{< meta preprint >}})    
+**Resumen**: El artículo problematiza el uso de la conceptualización de 'indio' en La Araucanía, Chile. A través de una aproximación histórica se discuten los orígenes del 'indio', las causas y consecuencias psicosociales que esta denominación ha traído para los sujetos indígenas, principalmente los mapuches en Chile. La metodología es cualitativa de tipo documental-descriptiva de artículos científicos, que permite una comprensión histórica de los orígenes del concepto 'indio' y cómo éste prevalece vigente en la sociedad chilena. Se utiliza el análisis de contenido en el que se identifican los núcleos de sentido y significado explícitos y latentes que subyacen al concepto 'indio'. Los resultados relevan que la deconstrucción del 'indio', permitiría erradicar progresivamente prácticas de racismo y discriminación hacia niños, jóvenes y adultos indígenas. Concluimos que la deconstrucción del concepto "indio" implica partir de la base del reconocimiento de un pluralismo epistemológico intercultural.
+
+
+**BibTeX**:
+```bibtex
+@article{villarroel2023deconstruccion,
+  author = {Villarroel, Viviana and Arias, Katerin and Quintriqueo, Segundo},
+  title = {{< meta title >}},
+  journal = {{< meta venue >}},
+  year = {{< meta categories.1 >}},
+  volume = {23},
+  number = {},
+  pages = {12},
+  doi = {http://dx.doi.org/10.15448/1984-7289.2023.1.43057}
+}
+```

@@ -1,0 +1,30 @@
+---
+name: "Voces de personal docente universitario sobre necesidades de formación profesional intercultural en la Araucanía, Chile"
+title: "Voces de personal docente universitario sobre necesidades de formación profesional intercultural en la Araucanía, Chile"
+autores: ["Katerin Arias", "Viviana Villarroel", "Segundo Quintriqueo"]
+venue: "Revista Electrónica Educare " 
+tipo: "Revista"
+categories: 2023
+keywords: ["2023", "Revista Electrónica Educare", "Formación Profesional", "Interculturalidad", "Educación Superior", "Educación Intercultural"]
+preprint: "pdfs/productividad/PRODUCTIVIDAD_2023_KARIAS/ART_4_EDUCARE_ARIAS_VILLARROEL_QUINTRIQUEO_SCOPUS_2023.pdf"
+---
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), [{{< meta autores.2 >}}](../members/current/Viviana Villarroel.qmd), [{{< meta autores.3 >}}](../members/current/Segundo Quintriqueo.qmd)
+**Lugar de publicación**: {{< meta venue >}}    
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}    
+**Pre-print**: [PDF](../{{< meta preprint >}})    
+**Resumen**: Objetivo. Exponer resultados de investigación sobre las necesidades de formación profesional intercultural en la docencia universitaria en contextos de colonización, desde las voces de sus docentes. Esto, para promover el desarrollo de planes de investigación sobre docencia en interculturalidad y estrategias de enseñanza apropiadas, entre los sujetos encargados de formar a nuevos grupos profesionales en las distintas áreas disciplinarias. Metodología. Cualitativa de tipo descriptiva, participaron nueve personas académicas universitarias, quienes, a través de una entrevista semidirigida, relevan las necesidades, los ejes y contenidos de formación profesional que necesitan en perspectiva intercultural. Se consideró la técnica de análisis de contenido. Resultados. Dan cuenta de la necesidad de ampliar el conocimiento a nivel teórico, metodológico y práctico que el personal docente formador de las nuevos grupos profesionales tienen acerca de la interculturalidad. Esto les permitiría resignificar la formación profesional desde un enfoque educativo intercultural. Discusión. Es urgente que la formación profesional transite a una perspectiva intercultural que se constituya en una herramienta de cambio y de innovación para la transformación y mejora de los contextos sociales y educativos indígenas e interculturales. Asimismo, es urgente explorar los vacíos que emergen en la formación profesional intercultural y cómo se construye su identidad profesional.
+
+
+**BibTeX**:
+```bibtex
+@article{arias2023voces,
+  author = {Arias, Katerin and Villarroel, Viviana and Quintriqueo, Segundo},
+  title = {{< meta title >}},
+  journal = {{< meta venue >}},
+  year = {{< meta categories.1 >}},
+  volume = {17},
+  number = {1},
+  pages = {15},
+  doi = {https://doi.org/10.15359/ree.27-2.16296}
+}
+```

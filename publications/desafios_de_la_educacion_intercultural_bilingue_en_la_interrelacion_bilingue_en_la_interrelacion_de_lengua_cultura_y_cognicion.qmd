@@ -1,0 +1,30 @@
+---
+name: "Desafíos de la educación intercultural bilingüe en la interrelación de lengua, cultura y cognición"
+title: "Desafíos de la educación intercultural bilingüe en la interrelación de lengua, cultura y cognición"
+autores: ["Katerin Arias", "Carlo Previl"]
+venue: "Cadernos de Linguagem e Sociedade"
+tipo: "Revista"
+categories: 2023
+keywords: ["2023", "Cadernos de Linguagem e Sociedade", "Educación Intercultural Bilingüe", "Lengua", "Cultura", "Cognición", "Lengua Indígena", "Bilingüismo"]
+preprint: "pdfs/productividad/PRODUCTIVIDAD_2023_KARIAS/ART_7_LEN_CUL_COG_ARIAS_SCOPUS_2023.pdf"
+---
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.2 >}}   
+**Lugar de publicación**: {{< meta venue >}}    
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}, {{< meta keywords.7 >}}, {{< meta keywords.8 >}}    
+**Pre-print**: [PDF](../{{< meta preprint >}})    
+**Resumen**: El ensayo discute la interrelación entre lengua-cultura-cognición en la educación intercultural bilingüe en territorios indígenas. Sostenemos que el bilingüismo favorecería el éxito escolar y educativo de los estudiantes indígenas, quienes históricamente en contexto de hegemonía cultural dan cuenta de un débil éxito escolar en relación al no indígena. Así, el reforzamiento de la identidad sociocultural incide en las capacidades de tratamiento y utilización de la información, para el desarrollo cognitivo de los estudiantes, permitiendo vínculos entre la cosmogonía de sus referentes culturales y el desarrollo de habilidades para analizar, sintetizar y crear objetos de conocimiento útiles para el éxito escolar.
+
+
+**BibTeX**:
+```bibtex
+@article{arias2023desafios,
+  author = {Arias, Katerin and Previl, Carlo},
+  title = {{< meta title >}},
+  journal = {{< meta venue >}},
+  year = {{< meta categories.1 >}},
+  volume = {23},
+  number = {1},
+  pages = {200-219},
+  doi = {10.26512/les.v24i1.44853}
+}
+```

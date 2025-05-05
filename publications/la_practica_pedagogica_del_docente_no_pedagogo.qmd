@@ -1,0 +1,33 @@
+---
+name: "La Práctica Pedagógica del Docente No Pedagogo: Reflexiones y Desafíos para una Pedagogía con Perspectiva Crítica e Intercultural"
+title: "La Práctica Pedagógica del Docente No Pedagogo: Reflexiones y Desafíos para una Pedagogía con Perspectiva Crítica e Intercultural"
+autores: ["Patricio Quezada", "Segundo Quintriqueo", "Katerin Arias"]
+libro: "Prácticas pedagógicas y educación intercultural: desafíos epistemológicos para la escolaridad en contextos indígenas"
+capitulo: "7"
+tipo: "Capítulo de Libro"
+categories: 2023
+keywords: ["2023", "Capítulo de Libro", "Pedagogía Crítica Latinoamericana", "Docente No Pedagogo", "Educación Técnica", "Práctica Pedagógica", "Educación Intercultural"]
+preprint: "pdfs/productividad/PRODUCTIVIDAD_2023_KARIAS/CAP_LIBRO_ARIAS_VILLARROEL_2023.pdf"
+---
+**Autores**: {{< meta autores.1 >}}, [{{< meta autores.2 >}}](../members/current/Segundo Quintriqueo.qmd), [{{< meta autores.3 >}}](../members/current/Katerin Arias.qmd)    
+**Libro**: {{< meta libro >}}   
+**Capítulo**: {{< meta capitulo >}}   
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}, {{< meta keywords.7 >}}    
+**Pre-print**: [PDF](../{{< meta preprint >}})    
+**Resumen**: Desde mucho tiempo se viene planteando, que los problemas educativos no solo afectan a quiénes son pedagogos, sino que también, a docentes que, por cuestiones de formación, no son pedagogos. Tomando el ejemplo del contexto de la educación técnica profesional, argumentamos que quienes no son formados en pedagogía se encuentran allí, construyendo, con sus potencialidades y limitaciones, una práctica pedagógica funcional y no acorde a la diversidad social y cultural de sus estudiantes. Entonces, utilizando la investigación educativa, reflexionamos sobre la práctica pedagógica del docente no pedagogo en este espacio, planteando desafíos que permitan avanzar hacia una educación intercultural, con perspectiva crítica y transformadora. Concluimos que los docentes no pedagogos deben replantear su rol y prácticas pedagógicas, incorporando en su actuar, una posición crítica y reflexiva de la docencia y pedagogía, como una oportunidad para construirse desde lo propio y con el otro. Esto permitiría pensar a la educación, desde procesos educativos emancipadores que ayudan a superar la epistemología occidental, con el objeto de propiciar espacios educativos de aprendizaje situados y contextualizados en clave intercultural.
+
+
+**BibTeX**:
+```bibtex
+@incollection{quezada2024practica,
+  author = {Quezada, Patricio and Quintriqueo, Segundo and Arias, Katerin},
+  title = {{< meta title >}},
+  booktitle = {{< meta libro >}},
+  editor = {Dr. Gerardo Andrés Fuentes Vilugrón},
+  publisher = {Doctorado en Educación en Consorcio, Universidad Católica de Temuco},
+  year = {{< meta categories.1 >}},
+  chapter = {{< meta capitulo >}},
+  pages = {149-172},
+  address = {Doctorado en Educación en Consorcio, Universidad Católica de Temuco}
+}
+```

@@ -1,0 +1,33 @@
+---
+name: "Saberes y Conocimientos Indígenas para Repensar la Educación Científica en la Escuela"
+title: "Saberes y Conocimientos Indígenas para Repensar la Educación Científica en la Escuela"
+autores: ["Viviana Villarroel", "Katerin Arias"]
+libro: "Educación Científica: Investigaciones e Innovaciones en las Aulas Chilenas"
+capitulo: "12"
+tipo: "Capítulo de Libro"
+categories: 2023
+keywords: ["2023", "Capítulo de Libro", "Conocimiento Autóctono", "Conocimiento Científico", "Educación Intercultural"]
+preprint: "pdfs/productividad/PRODUCTIVIDAD_2023_KARIAS/cap_Libro_Género y educación_Villarroel_Arias_2023.pdf"
+---
+**Autores**: [{{< meta autores.1 >}}](../members/current/Viviana Villarroel.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd)    
+**Libro**: {{< meta libro >}}   
+**Capítulo**: {{< meta capitulo >}}   
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}    
+**Pre-print**: [PDF](../{{< meta preprint >}})    
+**Resumen**: El capítulo de libro presenta resultados de investigación20 que exponen saberes y conocimientos educativos indígenas posibles de incorporar a la educación escolar, para repensar la educación científica en niños y jóvenes mapuches. La metodología es cualitativa de tipo descriptivo. Se trabajaron entrevistas semiestructuradas con sabios mapuches y educadores tradicionales que se desempeñan en escuelas de La Araucanía, Chile. El análisis de los testimonios de los participantes consideró un análisis temático. Los principales resultados dan cuenta de métodos, contenidos y finalidades educativas indígenas posibles de articular con los contenidos escolares en las prácticas de enseñanza y aprendizaje, para repensar la educación científica desde un enfoque educativo intercultural. Las principales conclusiones dan cuenta del arraigo de un racismo científico institucionalizado en el sistema educativo escolar que niega una educación científica que incorpore saberes y conocimientos educativos indígenas, lo que contribuiría en estrategias para abordar problemáticas como el cambio climático desde un pluralismo epistemológico intercultural.
+
+
+**BibTeX**:
+```bibtex
+@incollection{villarroel2023saberes,
+  author = {Villarroel, Viviana and Arias, Katerin},
+  title = {{< meta title >}},
+  booktitle = {{< meta libro >}},
+  editor = {},
+  publisher = {SCIEC},
+  year = {{< meta categories.1 >}},
+  chapter = {{< meta capitulo >}},
+  pages = {-232},
+  address = {}
+}
+```

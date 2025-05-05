@@ -1,0 +1,30 @@
+---
+name: "Competency-Based Training Versus Teacher Training in Professional Performance: A Debate in Educational Sciences Programs"
+title: "Competency-Based Training Versus Teacher Training in Professional Performance: A Debate in Educational Sciences Programs"
+autores: ["Lázaro Blanco", "Katerin Arias"]
+venue: "Journal of Ethnic and Cultural Studies"
+tipo: "Revista"
+categories: 2023
+keywords: ["2023", "Journal of Ethnic and Cultural Studies", "Competency-Based Model", "Intercultural Competencies", "Intercultural Education", "Interculturality", "Teacher Education"]
+preprint: "pdfs/productividad/PRODUCTIVIDAD_2023_KARIAS/ART_8_JECS_ARIAS_SCOPUS_2023.pdf"
+---
+**Autores**: {{< meta autores.1 >}}, [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd)   
+**Lugar de publicación**: {{< meta venue >}}    
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}, {{< meta keywords.7 >}}    
+**Pre-print**: [PDF](../{{< meta preprint >}})    
+**Resumen**: The purpose of this article is to conduct a descriptive-interpretative analysis of the systematized and emerging theoretical assumptions in academic literature in initial teacher training, which show hints of a model based on professional performance as an alternative in contexts of social and cultural diversity. The article is based on an intercultural educational approach which has an indigenous perspective. This raises the urgency of rethinking teacher training processes in relation to indigenous and intercultural contexts based on appraisal and respect for indigenous children and young people's episteme, who hold cultural, ethnic, and linguistic differences. This article discusses the main limitations of the competency-based training model in educating teachers who take on inclusion and diversity of indigenous individuals as part of their professional performance. This research is qualitative and is grounded on content analysis of literature selected from internationally renowned databases. The literature review was organized around three areas of professional education: teaching, research, and practice. Results taken from this search were interpreted from the perspective of the educational model of the universities of the Araucanía region, Chile. An intercultural context that is characterized by a high enrollment of students from indigenous and rural communities. Results show associations among conceptual, attitudinal, procedural, and relational contents in professional training areas that might be subject of reconceptualization, this is, to enlarge the scope in the initial teacher training model by including intercultural professional performance in the context of social and cultural diversity. These areas fall into three categories: (a) development of intercultural critical thinking, (b) autonomous search of intercultural knowledge, and (c) intercultural communication, which are interpreted as useful for professional performance and are highly recommended in literature for their inclusion in educational sciences curricula.
+
+
+**BibTeX**:
+```bibtex
+@article{blanco2023competency,
+  author = {Blanco, Lázaro and Arias, Katerin},
+  title = {{< meta title >}},
+  journal = {{< meta venue >}},
+  year = {{< meta categories.1 >}},
+  volume = {10},
+  number = {3},
+  pages = {190-212},
+  doi = {http://dx.doi.org/10.29333/ejecs/1406}
+}
+```

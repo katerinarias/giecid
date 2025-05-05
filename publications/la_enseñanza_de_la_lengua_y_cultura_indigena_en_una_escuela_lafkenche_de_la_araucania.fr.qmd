@@ -1,0 +1,30 @@
+---
+name: "La enseñanza de la lengua y cultura indígena en una escuela lafkenche de La Araucanía"
+title: "La enseñanza de la lengua y cultura indígena en una escuela lafkenche de La Araucanía"
+autores: ["Katerin Arias", "Miguel del Pino", "Gerardo Muñoz"]
+venue: "Revista Brasileira de Educação"
+tipo: "Revista"
+categories: 2023
+keywords: ["2023", "Revista Brasileira de Educação", "Lengua y Cultura Mapuche", "Prácticas Pedagógicas", "Educación Intercultural Bilingüe"]
+preprint: "pdfs/productividad/PRODUCTIVIDAD_2023_KARIAS/ART_9_RBE_AriaS_SCOPUS_2023.pdf"
+---
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), [{{< meta autores.2 >}}](../members/current/Miguel del Pino.qmd), {{< meta autores.3 >}}   
+**Lugar de publicación**: {{< meta venue >}}    
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}    
+**Pre-print**: [PDF](../{{< meta preprint >}})    
+**Resumen**: El artículo describe cómo se enseña la lengua y la cultura mapuche a los estudiantes indígenas y no indígenas de una escuela ubicada en La Araucanía, Chile, en la implementación de la educación intercultural bilingüe. El estudio es cualitativo, la técnica de recolección de información es la observación participante, que permite describir el procedimiento didáctico empleado por el profesor mentor y el educador tradicional en la enseñanza de la lengua y la cultura mapuche. Los principales resultados nos permiten sostener que en las prácticas pedagógicas tanto del profesor como del educador tradicional existe un bajo uso de la lengua vernácula en los procesos de enseñanza y aprendizaje. En el aula predomina el español con pocos espacios para la práctica del mapunzugun. La enseñanza de la lengua se sustenta en métodos sintéticos, para el aumento de vocabulario, limitando la oralidad y la comprensión de los saberes y conocimientos propios que se transmiten a través de ella.
+
+
+**BibTeX**:
+```bibtex
+@article{arias2023ensenanza,
+  author = {Arias, Katerin and del Pino, Miguel and Muñoz, Gerardo},
+  title = {{< meta title >}},
+  journal = {{< meta venue >}},
+  year = {{< meta categories.1 >}},
+  volume = {28},
+  number = {},
+  pages = {24},
+  doi = {https://doi.org/10.1590/S1413-24782023280079}
+}
+```

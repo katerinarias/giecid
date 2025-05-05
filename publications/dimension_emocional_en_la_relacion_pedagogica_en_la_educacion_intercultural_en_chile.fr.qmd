@@ -1,0 +1,30 @@
+---
+name: "Dimensión emocional en la relación pedagógica en la educación intercultural en Chile"
+title: "Dimensión emocional en la relación pedagógica en la educación intercultural en Chile"
+autores: ["Katerin Arias", "Segundo Quintriqueo"]
+venue: "Revista Colombiana de Educación" 
+tipo: "Revista"
+categories: 2023
+keywords: ["2023", "Revista Colombiana de Educación", "Relación Profesor-Alumno", "Relación Estudiante-Escuela", "Educación Intercultural", "Desarrollo Afectivo", "Aprendizaje Socioemocional"]
+preprint: "pdfs/productividad/PRODUCTIVIDAD_2023_KARIAS/ART_5_RCE_ARIAS_QUINTRIQUEO_SCOPUS_2023.pdf"
+---
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), [{{< meta autores.2 >}}](../members/current/Segundo Quintriqueo.qmd)   
+**Lugar de publicación**: {{< meta venue >}}    
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}, {{< meta keywords.7 >}}    
+**Pre-print**: [PDF](../{{< meta preprint >}})    
+**Resumen**: El artículo de investigación expone resultados sobre la dimensión emocional de la relación educativa entre el profesor, educador tradicional, asistente de la educación y estudiantes indígenas en la implementación de la educación intercultural, en La Araucanía, Chile. La metodología de investigación es cualitativa y se utilizó un enfoque descriptivo, participó un profesor mentor, un educador tradicional, un asistente de la educación y 19 estudiantes de una escuela situada en comunidades mapuches del borde costero de La Araucanía. Los principales resultados informan que existe una relación educativa conflictuada, que limita el desarrollo emocional entre el profesor mentor y el educador tradicional. Y, entre ambos hacia los estudiantes mapuches. Esto, producto de tensiones interétnicas e intraétnicas en la educación escolar. Concluimos que esta tensión entre los actores educativos incide negativamente en los estudiantes mapuches, afectando su desarrollo emocional y la construcción de su identidad sociocultural.
+
+
+**BibTeX**:
+```bibtex
+@article{arias2023dimension,
+  author = {Arias, Katerin and Quintriqueo, Segundo},
+  title = {{< meta title >}},
+  journal = {{< meta venue >}},
+  year = {{< meta categories.1 >}},
+  volume = {88},
+  number = {},
+  pages = {349-369},
+  doi = {https://doi.org/1 10.17227/rce.num88-13907}
+}
+```

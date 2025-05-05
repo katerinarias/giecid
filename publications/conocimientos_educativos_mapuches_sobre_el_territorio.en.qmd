@@ -1,0 +1,33 @@
+---
+name: "Conocimientos educativos mapuches sobre el territorio: Aportes para una formación de ciudadanos sensibles con el medioambiente"
+title: "Conocimientos educativos mapuches sobre el territorio: Aportes para una formación de ciudadanos sensibles con el medioambiente"
+autores: ["Segundo Quintriqueo", "Katerin Arias", "Elías Andrade"]
+libro: "Resumenes"
+capitulo: "16"
+tipo: "Capítulo de Libro"
+categories: 2023
+keywords: ["2023", "Capítulo de Libro"]
+preprint: "pdfs/productividad/PRODUCTIVIDAD_2023_KARIAS/CAP_LIBRO _Quebec_2023.pdf"
+---
+**Autores**: [{{< meta autores.1 >}}](../members/current/Segundo Quintriqueo.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.3 >}}    
+**Libro**: {{< meta libro >}}   
+**Capítulo**: {{< meta capitulo >}}   
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}    
+**Pre-print**: [PDF](../{{< meta preprint >}})    
+**Resumen**: El capítulo comunica los resultados de investigación sobre conocimientos geográficos y territoriales mapuches, asociados a prácticas socioculturales con base epistémica en la memoria social de kimches (sabios mapuches), para una democracia y educación transformadora en perspectiva intercultural en La Araucanía, Chile. El marco de referencia es la geografía humana y el enfoque educativo intercultural, desde una perspectiva decolonial y un pluralismo epistemológico intercultural. La metodología empleada es la investigación en educación, que tiene como propósito describir y comprender los conocimientos mapuches sobre la geografía, el territorio y el sentido del lugar, en tanto construcción histórica y social. Los resultados muestran que las dimensiones históricas, ecológicas, políticas, las prácticas socioculturales y espirituales, constituyen contenidos educativos centrales en la educación familiar mapuche, posibles de articular con el conocimiento escolar. Lo anterior, constituye una aspiración del pueblo mapuche para la educación escolar de todos los estudiantes desde una perspectiva intercultural, para formar ciudadanos sensibles con el medioambiente.
+
+
+**BibTeX**:
+```bibtex
+@incollection{quintriqueo2024conocimientos,
+  author = {Quintriqueo, Segundo and Arias, Katerin and Andrade, Elías},
+  title = {{< meta title >}},
+  booktitle = {{< meta libro >}},
+  editor = {},
+  publisher = {},
+  year = {{< meta categories.1 >}},
+  chapter = {{< meta capitulo >}},
+  pages = {111-113},
+  address = {Quebec}
+}
+```

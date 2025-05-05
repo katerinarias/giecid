@@ -1,0 +1,33 @@
+---
+name: "El Sentido de la Escuela desde las Voces de Padres Mapuches en La Araucanía, Chile"
+title: "El Sentido de la Escuela desde las Voces de Padres Mapuches en La Araucanía, Chile"
+autores: ["Katerin Arias", "Viviana Villarroel"]
+libro: "Prácticas pedagógicas y educación intercultural: desafíos epistemológicos para la escolaridad en contextos indígenas"
+capitulo: "10"
+tipo: "Capítulo de Libro"
+categories: 2023
+keywords: ["2023", "Capítulo de Libro", "Escuela", "Indígenas", "Enseñanza", "Aprendizaje"]
+preprint: "pdfs/productividad/PRODUCTIVIDAD_2023_KARIAS/CAP_LIBRO_ARIAS_VILLARROEL_2023.pdf"
+---
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), [{{< meta autores.2 >}}](../members/current/Viviana Villarroel.qmd)    
+**Libro**: {{< meta libro >}}   
+**Capítulo**: {{< meta capitulo >}}   
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}    
+**Pre-print**: [PDF](../{{< meta preprint >}})    
+**Resumen**: El capítulo de libro presenta resultados de investigación sobre el sentido de la escuela en contextos educativos indígenas. Se sostiene que en la actualidad comprender el sentido de la escuela es complejo de definir, difuso y ambiguo, puesto que su definición se condiciona por factores sociales, culturales y económicos entre los que encontramos, la historia de la instalación de la escuela en el territorio indígena, los procesos de escolarización vividos por los padres y las expectativas de estos respecto de la educación de sus hijos. La metodología es cualitativa de tipo descriptiva, participan 11 padres mapuches de La Araucanía, a través de una entrevista semiestructurada. El análisis de la información considera un análisis temático. Los principales resultados dan cuenta que el sentido atribuido a la escuela, tiene relación a ser un medio que permite la movilidad social ascendente. Además, los padres mapuches, relevan la necesidad de que en este espacio se revitalice la identidad sociocultural mapuche, puesto que son los niños y jóvenes quienes se convierten en transmisores del saber propio en la familia. Asimismo, asumen a la escuela como un escenario educativo que permitirá a los niños ser más que 'ellos', es decir, lograr un diploma que certifique su éxito en la educación escolar, y les permita llegar a la educación superior, como una forma de tener una mejor calidad de vida, rompiendo el círculo de la pobreza. Concluimos que atribuir un sentido a la escuela implica dar un significado a la experiencia vivida en esos espacios, los que van a estar caracterizados por las huellas que dejó la escuela en los padres, durante sus procesos de escolarización. Asimismo, se releva la necesidad que la escuela se vincule con el territorio, la cultura y comunidades, para así ofrecer procesos de enseñanza y aprendizaje que respondan a las necesidades propias del territorio.
+
+
+**BibTeX**:
+```bibtex
+@incollection{quezada2024practica,
+  author = {Quezada, Patricio and Quintriqueo, Segundo and Arias, Katerin},
+  title = {{< meta title >}},
+  booktitle = {{< meta libro >}},
+  editor = {Dr. Gerardo Andrés Fuentes Vilugrón},
+  publisher = {Doctorado en Educación en Consorcio, Universidad Católica de Temuco},
+  year = {{< meta categories.1 >}},
+  chapter = {{< meta capitulo >}},
+  pages = {221-238},
+  address = {Doctorado en Educación en Consorcio, Universidad Católica de Temuco}
+}
+```
