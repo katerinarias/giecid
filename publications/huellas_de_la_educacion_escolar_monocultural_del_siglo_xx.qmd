@@ -1,0 +1,30 @@
+---
+name: "Huellas de la Educación Escolar Monocultural del Siglo XX: Desde las Voces de Sabios y Sabias Mapuches en la Araucanía, Chile"
+title: "Huellas de la Educación Escolar Monocultural del Siglo XX: Desde las Voces de Sabios y Sabias Mapuches en la Araucanía, Chile"
+autores: ["Katerin Arias", "Andrea Valenzuela", "Carlo Prévil"]
+venue: "Diálogo Andino"
+tipo: "Revista"
+categories: 2024
+keywords: ["2024", "Diálogo Andino", "Escuela", "Monoculturalidad", "Educación Escolar", "Estudiantes Indígenas"]
+preprint: "pdfs/productividad/PRODUCTIVIDAD_2024_KARIAS/ART_10_DIALOGO ANDINO_ARIAS ET AL_2024_SCOPUS.pdf"
+---
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.2 >}}, {{< meta autores.3 >}}    
+**Lugar de publicación**: {{< meta venue >}}     
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}    
+**Pre-print**: [PDF](../{{< meta preprint >}})    
+**Resumen**: El artículo expone resultados de investigación sobre el sentido de la escuela en contexto indígena, desde las voces de sabios mapuches de La Araucanía, Chile. Los sabios y sabias mapuches son reconocidos por la comunidad por ser quienes conocen la historia social, cultural y familiar de su pueblo, así como su lengua y su cultura. Son quienes transmiten a las nuevas generaciones la memoria social mapuche. La metodología es cualitativa desde un enfoque descriptivo, se trabajó entrevistas en profundidad con 12 sabios y sabias indígenas mapuche, quienes vivieron procesos de escolarización formal en colegios monoculturales chilenos. Su edad fluctúa entre 40 y 70 años y todos son hablantes de su lengua vernácula mapuche (mapunzugun). La técnica de análisis de la información fue el análisis temático, permitiendo relevar categorías de contenidos centrales que emergen del discurso de los participantes y que permiten comprender el sentido de la escuela y sus huellas en contexto mapuche. Concluimos que es urgente visibilizar los traumas psicológicos, físicos y afectivos que ha dejado la escuela, producto de las prácticas de blanqueamiento y genocidio cultural. Esto, como una oportunidad para avanzar en la reparación y reconciliación entre los sujetos indígenas y no indígenas en la educación escolar en Chile.
+
+
+**BibTeX**:
+```bibtex
+@article{arias2024huellas,
+  author = {Arias, Katerin and Valenzuela, Andrea and Prévil, Carlo},
+  title = {{< meta title >}},
+  journal = {{< meta venue >}},
+  year = {{< meta categories.1 >}},
+  volume = {},
+  number = {},
+  pages = {187-198},
+  doi = {}
+}
+```

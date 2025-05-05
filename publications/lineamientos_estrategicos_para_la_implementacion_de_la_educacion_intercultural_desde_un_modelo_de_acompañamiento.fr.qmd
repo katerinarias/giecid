@@ -1,0 +1,29 @@
+---
+name: "Lineamientos Estratégicos para la Implementación de la Educación Intercultural desde un Modelo de Acompañamiento"
+title: "Lineamientos Estratégicos para la Implementación de la Educación Intercultural desde un Modelo de Acompañamiento"
+autores: ["Segundo Quintriqueo", "Katerin Arias", "Gerardo Muñoz"]
+libro: "Lineamientos Estratégicos para la Implementación de la Educación Intercultural desde un Modelo de Acompañamiento"
+tipo: "Libro"
+categories: 2024
+keywords: ["2024", "Libro", "Educación Intercultural"]
+preprint: "pdfs/productividad/PRODUCTIVIDAD_2024_KARIAS/Libro_ReferatoExterno_Quintriqueo_Arias-Ortega_Muñoz_2024.pdf"
+---
+**Autores**: [{{< meta autores.1 >}}](../members/current/Segundo Quintriqueo.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.3 >}}    
+**Libro**: {{< meta libro >}}   
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}   
+**Pre-print**: [PDF](../{{< meta preprint >}})    
+**Resumen**: 
+
+
+**BibTeX**:
+```bibtex
+@book{quintriqueo2019modelo,
+  author = {Quintriqueo, Segundo and Arias, Katerin and Muñoz, Gerardo},
+  title = {{< meta title >}},
+  publisher = {},
+  year = {{< meta categories.1 >}},
+  address = {Chile},
+  edition = {1},
+  isbn = {978-956-6224-33-4}
+}
+```

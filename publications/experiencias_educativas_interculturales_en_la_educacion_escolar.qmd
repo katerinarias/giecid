@@ -1,0 +1,33 @@
+---
+name: "Experiencias Educativas Interculturales en la Educación Escolar: Posibilidades y Limitaciones en Contexto Indígena"
+title: "Experiencias Educativas Interculturales en la Educación Escolar: Posibilidades y Limitaciones en Contexto Indígena"
+autores: ["Katerin Arias", "Vanessa Valdebenito", "Viviana Villarroel", "Segundo Quintriqueo", "Rodrigo Lagos"]
+libro: "Lineamientos Estratégicos para la Implementación de la Educación Intercultural desde un Modelo de Acompañamiento"
+capitulo: "4"
+tipo: "Capítulo de Libro"
+categories: 2024
+keywords: ["2024", "Capítulo de Libro", "Intervención Educativa Intercultural", "Educación Intercultural", "Saberes y Conocimientos Indígenas"]
+preprint: "pdfs/productividad/PRODUCTIVIDAD_2024_KARIAS/Cap_libro_4Arias-Ortega_2024_Referato.pdf"
+---
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.2 >}}, [{{< meta autores.3 >}}](../members/current/Viviana Villarroel.qmd), [{{< meta autores.4 >}}](../members/current/Segundo Quintriqueo.qmd), {{< meta autores.5 >}}    
+**Libro**: {{< meta libro >}}   
+**Capítulo**: {{< meta capitulo >}}   
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}    
+**Pre-print**: [PDF](../{{< meta preprint >}})    
+**Resumen**: Este capítulo presenta una revisión del estado del arte sobre experiencias de intervención educativa intercultural que se han desarrollado en escuelas situadas en territorios indígenas. Se problematiza cómo estas experiencias educativas interculturales se han constituido en una forma de reparación histórica de los distintos Estados nación con los pueblos indígenas, quienes, a través de procesos de escolarización de corte eurocéntrico occidental, han visto invisibilizados sus marcos epistémicos propios en la formación de nuevos ciudadanos interculturales. De esta manera, se ha negado en el currículum escolar el saber indígena al asumirlo, desde una mirada hegemónica, como carente de validez científica. La metodología es de tipo cualitativa y considera una revisión documental-descriptiva de la literatura sobre experiencias de incorporación de saberes y conocimientos indígenas a la educación escolar. Los principales resultados nos permiten sostener que las experiencias educativas interculturales que aquí se analizan dan cuenta de oportunidades y posibilidades de articulación del saber indígena y occidental, para avanzar en un pluralismo epistemológico que promueva una innovación intercultural, facilitando la comunicación entre sujetos que pertenecen a sociedades y culturas diferentes. Concluimos que incorporar 'lo indígena' en la educación escolar contribuiría al desarrollo de la inteligencia experiencial y emocional en los niños indígenas y no indígenas, ofreciendo una educación con pertinencia social, cultural y territorial.
+
+
+**BibTeX**:
+```bibtex
+@incollection{arias2024experiencias,
+  author = {Arias, Katerin and Valdebenito, Vanessa and Villarroel, Viviana and Quintriqueo, Segundo and Lagos, Rodrigo},
+  title = {{< meta title >}},
+  booktitle = {{< meta libro >}},
+  editor = {},
+  publisher = {Universidad Católica de Temuco},
+  year = {{< meta categories.1 >}},
+  chapter = {{< meta capitulo >}},
+  pages = {68-},
+  address = {Universidad Católica de Temuco}
+}
+```

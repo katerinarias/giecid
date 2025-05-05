@@ -2,10 +2,10 @@
 name: "Desafíos de la relación familia-escuela en contexto mapuche: aproximación desde los profesores"
 title: "Desafíos de la relación familia-escuela en contexto mapuche: aproximación desde los profesores"
 autores: ["Katerin Arias", "Mariela Gajardo", "Juan Sierpe", "Yislen Santini"]
-venue: "FONDECYT"
+venue: "Educ. Pesqui."
 tipo: "Revista"
 categories: 2024
-keywords: ["2024", "FONDECYT", "Relación familia-escuela", "Relación educativa intercultural", "Educación indígena", "Relaciones de poder", "Contexto indígena"]
+keywords: ["2024", "Educ. Pesqui.", "Relación familia-escuela", "Relación educativa intercultural", "Educación indígena", "Relaciones de poder", "Contexto indígena"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2024_KARIAS/ART_8 EDUC_PESQUISA_ARIAS_OTROS_2024_SCOPUS.pdf"
 ---
 **Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.2 >}}, {{< meta autores.3 >}}, {{< meta autores.4 >}}    
@@ -22,9 +22,9 @@ preprint: "pdfs/productividad/PRODUCTIVIDAD_2024_KARIAS/ART_8 EDUC_PESQUISA_ARIA
   title = {{< meta title >}},
   journal = {{< meta venue >}},
   year = {{< meta categories.1 >}},
-  volume = {volumen},
-  number = {número},
-  pages = {rango de páginas},
-  doi = {DOI}
+  volume = {50},
+  number = {},
+  pages = {},
+  doi = {https://doi.org/10.1590/S1678-4634202450263419es}
 }
 ```

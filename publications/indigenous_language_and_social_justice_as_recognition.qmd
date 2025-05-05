@@ -1,0 +1,30 @@
+---
+name: "Indigenous language and social justice as recognition: a participatory study with a Mapuce school"
+title: "Indigenous language and social justice as recognition: a participatory study with a Mapuce school"
+autores: ["Miguel Del Pino", "Katerin Arias", "Gerardo Muñoz"]
+venue: "Journal of Latinos and Education"
+tipo: "Revista"
+categories: 2024
+keywords: ["2024", "Journal of Latinos and Education", "Recognition", "Disparagement", "Indigenous Language", "Social Justice", "Education"]
+preprint: "pdfs/productividad/PRODUCTIVIDAD_2024_KARIAS/ART_3_Jlatinos_ARIAS-ORTEGA ET AL_2024_WOS.pdf"
+---
+**Autores**: [{{< meta autores.1 >}}](../members/current/Miguel Del Pino.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.3 >}}    
+**Lugar de publicación**: {{< meta venue >}}     
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}, {{< meta keywords.7 >}}, {{< meta keywords.8 >}}    
+**Pre-print**: [PDF](../{{< meta preprint >}})    
+**Resumen**: The structure of the national educational system negatively affects the recognition of indigenous Mapuce people, who have been affected with regards to love, equal treatment and social esteem, as understood from the social justice approach of recognition described by Axel Honneth. This is evident in the indigenous knowledge and practices that have been removed from the Chilean school curriculum. This research was carried out through a participatory study using the dialogic-kishu kimkelay ta che methodology, forming a research community with professors, kimces and academics. The results relay, from the voices of the community, the work developed to reverse injustices such as disparagement toward the indigenous language at school, this was achieved through actions for reciprocal recognition based on the incorporation of educational practices associated with the language regarding sonority, nature and territory.
+
+
+**BibTeX**:
+```bibtex
+@article{delpino2024indigenous,
+  author = {Del Pino, Miguel and Arias, Katerin and Muñoz, Gerardo},
+  title = {{< meta title >}},
+  journal = {{< meta venue >}},
+  year = {{< meta categories.1 >}},
+  volume = {},
+  number = {},
+  pages = {},
+  doi = {10.1080/15348431.2024.2349997}
+}
+```

@@ -22,9 +22,9 @@ preprint: "pdfs/productividad/PRODUCTIVIDAD_2024_KARIAS/ART_8 EDUC_PESQUISA_ARIA
   title = {{< meta title >}},
   journal = {{< meta venue >}},
   year = {{< meta categories.1 >}},
-  volume = {volumen},
-  number = {número},
-  pages = {rango de páginas},
-  doi = {DOI}
+  volume = {50},
+  number = {},
+  pages = {},
+  doi = {https://doi.org/10.1590/S1678-4634202450263419es}
 }
 ```

@@ -1,0 +1,30 @@
+---
+name: "Desafíos  de  la  evaluación  del  aprendizaje  en  la  práctica  del  acompañador-acompañado: el caso de educación intercultural bilingüe en Chile"
+title: "Desafíos  de  la  evaluación  del  aprendizaje  en  la  práctica  del  acompañador-acompañado: el caso de educación intercultural bilingüe en Chile"
+autores: ["Katerin Arias", "Carlo Prévil"]
+venue: "Revista Lusófona de Educação"
+tipo: "Revista"
+categories: 2024
+keywords: ["2024", "Revista Lusófona de Educação", "Enseñanza del Tiempo Compartido", "Relación de Apoyo", "Educación Informal", "Aprendizaje Social", "Desarrollo Profesional"]
+preprint: "pdfs/productividad/PRODUCTIVIDAD_2024_KARIAS/ART_2 RLE_ARIAS-ORTEGA ET AL_2024_SCOPUS.pdf"
+---
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.2 >}}    
+**Lugar de publicación**: {{< meta venue >}}     
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}, {{< meta keywords.7 >}}    
+**Pre-print**: [PDF](../{{< meta preprint >}})    
+**Resumen**: El programa de Educación Intercultural Bilingüe (EIB) en Chile es impartido por una díada pedagógica conformada por un docente principal y un educador tradicional (Sabio indígena). Esta investigación destaca los desafíos de la educación informal en la práctica acompañador-acompañado en esta díada. Siguiendo una exploración basada en la teoría cognitiva social, este artículo explora las cuestiones conceptuales y metodológicas de la formación que surgen de las interrelaciones entre estos agentes educativos. La articulación de los aspectos del ambiente de aprendizaje, las prácticas y procesos de transmisión de conocimientos así como los roles y funciones de los agentes educativos llevó a la conceptualización de una herramienta-cuestionario (QEIB) capaz de ayudar a evaluar el estado de formación emergentes de este contexto de relación de acompañamiento. Esta herramienta puede ayudar a definir y caracterizar las concepciones (acompañamiento y acompañado), las dimensiones (formas de relación, cooperación y liderazgo) y los contextos (profesional, interpersonal, didáctico y sociocultural) de esta formación. En perspectiva, se propone considerar esta herramienta (QEIB) como un modelo para la evaluación del aprendizaje en la educación informal que se lleva a cabo en el marco del programa EIB.
+
+
+**BibTeX**:
+```bibtex
+@article{arias2024desafios,
+  author = {Arias, Katerin and Prévil, Carlo},
+  title = {{< meta title >}},
+  journal = {{< meta venue >}},
+  year = {{< meta categories.1 >}},
+  volume = {62},
+  number = {},
+  pages = {27-42},
+  doi = {10.24140/issn.1645-7250.rle62.02}
+}
+```

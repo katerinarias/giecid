@@ -1,0 +1,29 @@
+---
+name: "Modelo de Acompañamiento y su Protocolo de Actuación para la Implementación de la Educación Intercultural en Contexto Indígena"
+title: "Modelo de Acompañamiento y su Protocolo de Actuación para la Implementación de la Educación Intercultural en Contexto Indígena"
+autores: ["Segundo Quintriqueo", "Katerin Arias"]
+libro: "Modelo de Acompañamiento y su Protocolo de Actuación para la Implementación de la Educación Intercultural en Contexto Indígena"
+tipo: "Libro"
+categories: 2024
+keywords: ["2024", "Libro", "Educación Intercultural"]
+preprint: "pdfs/productividad/PRODUCTIVIDAD_2024_KARIAS/Libro sin referato_1_Modelo acompañamiento 2024_Arias_2024.pdf"
+---
+**Autores**: [{{< meta autores.1 >}}](../members/current/Segundo Quintriqueo.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd)    
+**Libro**: {{< meta libro >}}   
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}   
+**Pre-print**: [PDF](../{{< meta preprint >}})    
+**Resumen**: El problema que justifica la co-construcción del Modelo de Acompañamiento y su Protocolo de Actuación es el desconocimiento en los actores del medio educativo (sostenedores, directivos, profesores, educadores tradicionales y asistentes de la educación) y social (padres, madres, sabios y líderes indígenas), respecto de los saberes y conocimientos educativos indígenas y de los componentes teórico-metodológicos que sustentan la educación intercultural. Este problema se configura como una limitante para transversalizar los principios de la pedagogía y educación indígena en la educación intercultural.
+
+
+**BibTeX**:
+```bibtex
+@book{quintriqueo2019modelo,
+  author = {Quintriqueo, Segundo and Arias, Katerin},
+  title = {{< meta title >}},
+  publisher = {},
+  year = {{< meta categories.1 >}},
+  address = {Chile},
+  edition = {1},
+  isbn = {978-956-6224-34-1}
+}
+```

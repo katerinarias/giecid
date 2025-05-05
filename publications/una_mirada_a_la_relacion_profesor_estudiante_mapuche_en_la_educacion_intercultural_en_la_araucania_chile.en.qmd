@@ -1,0 +1,30 @@
+---
+name: "Una mirada a la relación profesor-estudiante mapuche en la educación intercultural en La Araucanía, Chile"
+title: "Una mirada a la relación profesor-estudiante mapuche en la educación intercultural en La Araucanía, Chile"
+autores: ["Katerin Arias", "Valentina Castro", "Angela Zuccone"]
+venue: "Práxis Educativa, Ponta Grossa"
+tipo: "Revista"
+categories: 2024
+keywords: ["2024", "Práxis Educativa, Ponta Grossa", "Relación Profesor-Estudiante Mapuche", "Educación Intercultural", "Niveles de Interacción en la Comunicación", "Lengua Indígena"]
+preprint: "pdfs/productividad/PRODUCTIVIDAD_2024_KARIAS/ART_1_ARIAS-ORTEGA ET AL_2024_PRAXIS-SCOPUS.pdf"
+---
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.2 >}}, {{< meta autores.3 >}}    
+**Lugar de publicación**: {{< meta venue >}}     
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}    
+**Pre-print**: [PDF](../{{< meta preprint >}})    
+**Resumen**: El artículo presenta resultados de investigación que profundizan sobre el sentido de la relación profesor-estudiante mapuche en los procesos de enseñanza y aprendizaje de la lengua y cultura mapuche en el aula, en tres escuelas situadas en comunidades indígenas de La Araucanía, Chile. La metodología es cualitativa desde un enfoque de etnografía escolar, para develar lo implícito y no documentado en las relaciones pedagógicas, durante el desarrollo de la situación de aprendizaje. Los resultados muestran que en la relación profesor-estudiante mapuche predomina una interacción hegemónica y de violencia, prevaleciendo una relación de poder que afecta negativamente el desarrollo de la identidad sociocultural de los estudiantes mapuche. Discutimos sobre las problemáticas de una relación profesor-estudiante mapuche caracterizada por una comunicación unidireccional con pocas competencias emocionales, lo que limita el aprendizaje de la lengua y la cultura indígena.
+
+
+**BibTeX**:
+```bibtex
+@article{arias2024mirada,
+  author = {Arias, Katerin and Castro, Valentina and Zuccone, Angela},
+  title = {{< meta title >}},
+  journal = {{< meta venue >}},
+  year = {{< meta categories.1 >}},
+  volume = {19},
+  number = {},
+  pages = {1-14},
+  doi = {https://doi.org/10.5212/PraxEduc.v.19.21435.002}
+}
+```

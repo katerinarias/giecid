@@ -1,0 +1,35 @@
+---
+name: "Esperiencias socioeducativas de estudiantes universitarios de Tecnología Médica respecto del ingreso a la presencialidad post-covid"
+title: "Esperiencias socioeducativas de estudiantes universitarios de Tecnología Médica respecto del ingreso a la presencialidad post-covid"
+autores: ["Carlos Ávila", "Hernán de la Torre", "María Ruiz", "Katerin Arias"]
+venue: "Revista de Estudios y Experiencias en Educación"
+tipo: "Revista"
+categories: 2024
+keywords: ["2024", "Revista de Estudios y Experiencias en Educación", "Experiencias Socioeducativas", "COVID-19", "Educación Superior", "Tecnología Médica", "Educación a Distancia"]
+preprint: "pdfs/productividad/PRODUCTIVIDAD_2024_KARIAS/ART_13_PORTUGUESA_EDUC_ARIAS ET AL_2024_SCOPUS.pdf"
+---
+**Autores**: {{< meta autores.1 >}}, {{< meta autores.2 >}}, {{< meta autores.3 >}}, [{{< meta autores.4 >}}](../members/current/Katerin Arias.qmd)
+**Lugar de publicación**: {{< meta venue >}}     
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}, {{< meta keywords.7 >}}    
+**Pre-print**: [PDF](../{{< meta preprint >}})    
+**Resumen**: El artículo da cuenta de resultados de investigación sobre experiencias socioeducativas de estudiantes universitarios de una carrera de Tecnología Médica, respecto a las clases virtuales y el ingreso a la presencialidad post-covid en una universidad de La Araucanía, Chile. La problemática de investigación tiene relación con el retorno a la presencialidad post-covid, lo que ha traído consigo posibilidades y limitaciones en los estudiantes universitarios, producto de la nueva modalidad de presencialidad e incorporación a la vida universitaria, luego de haber transitado dos años por la virtualidad.
+
+La metodología es de carácter cualitativa, desde un enfoque descriptivo, el instrumento de recolección de información fue la entrevista semiestructurada. La técnica de análisis de datos e información consideró el análisis de contenido. Los principales resultados dan cuenta que la virtualidad trajo consigo problemáticas asociadas a la práctica del quehacer profesional del tecnólogo médico, lo que incidió negativamente en la adquisición de competencias y habilidades para el trabajo práctico en laboratorios. Asimismo, se releva que el retorno a la presencialidad trajo consigo problemáticas como el desconocimiento de las estrategias pedagógicas y prácticas que utiliza el profesorado para abordar los distintos contenidos disciplinarios en su formación profesional.
+
+Además, se relevan experiencias socioeducativas que han incidido en la salud mental y en la socialización, tales como el cambio de localidad y cambios en los métodos de enseñanza. Respecto de las posibilidades del retorno a la presencialidad los estudiantes reconocen que les ha permitido socializar e interactuar con sus compañeros, facilitando el proceso académico y su inserción a la vida universitaria.
+
+Las principales conclusiones resaltan que durante el período de educación virtual se evidenciaron múltiples desafíos, entre ellos la disminución en el nivel de aprendizaje, el deterioro de la salud mental y la falta de interacción tanto entre estudiantes como con los docentes. Estos factores han tenido un impacto negativo en el progreso curricular de los estudiantes al regresar a la modalidad presencial. Se ha observado una convivencia escolar conflictiva entre los pares, derivada en gran medida de la falta de familiaridad y conexión previas.
+
+**BibTeX**:
+```bibtex
+@article{avila2024experiencias,
+  author = {Ávila, Carlos and de la Torre, Hernán and Ruiz, María and Arias, Katerin},
+  title = {{< meta title >}},
+  journal = {{< meta venue >}},
+  year = {{< meta categories.1 >}},
+  volume = {23},
+  number = {53},
+  pages = {139-155},
+  doi = {https://doi.org/10.21703/rexe.v23i53.2627}
+}
+```

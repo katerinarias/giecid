@@ -1,0 +1,30 @@
+---
+name: "Evaluación de la co-enseñanza en educación diferencial: principales fortalezas, limitaciones y desafíos"
+title: "Evaluación de la co-enseñanza en educación diferencial: principales fortalezas, limitaciones y desafíos"
+autores: ["Katerin Arias"]
+venue: "Meta: Avaliação"
+tipo: "Revista"
+categories: 2024
+keywords: ["2024", "Meta: Avaliação", "Educación Especial", "Co-enseñanza", "Educación Inclusiva"]
+preprint: "pdfs/productividad/PRODUCTIVIDAD_2024_KARIAS/ART_6_METAEVALUACION_ARIAS_2024_SCOPUS.pdf"
+---
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd)    
+**Lugar de publicación**: {{< meta venue >}}     
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}    
+**Pre-print**: [PDF](../{{< meta preprint >}})    
+**Resumen**: El objetivo del artículo es caracterizar la literatura sobre co-enseñanza para identificar las principales fortalezas, limitaciones y desafíos a partir de una revisión documental descriptiva. Esta base de conocimientos permite avanzar en la transformación de la educación diferencial y sus prácticas pedagógicas desde un enfoque práctico de co-enseñanza. La metodología empleada implica una exhaustiva revisión y análisis de la literatura científica, adoptando un enfoque inductivo de tipo descriptivo-documental. Este método se fundamenta en el análisis de contenido, el cual se orienta a identificar tanto los sentidos explícitos como los latentes que influyen en la dinámica de los procesos de enseñanza y aprendizaje en la implementación de la educación diferencial. Para ello, se lleva a cabo una codificación abierta de manera minuciosa, densa, detallada y profunda, reconociendo aquellas palabras y frases con relevancia y significado, con el propósito de comprender a fondo el objeto de estudio. Los resultados más destacados revelan una carencia significativa en varios aspectos clave, como la falta de adecuados espacios físicos y temporales para el diseño, planificación y evaluación de los procesos de co-enseñanza. Además, se identifica una deficiente comprensión de la didáctica por parte de aquellos responsables de llevar a cabo la co-enseñanza en el aula, tanto a nivel teórico como metodológico. Concluimos sobre la necesidad de avanzar en la formación, capacitación y acompañamiento de los co-docentes en su implementación, para mejorar los resultados académicos y educativos de los estudiantes que asisten en la educación escolar.
+
+
+**BibTeX**:
+```bibtex
+@article{arias2024evaluacion,
+  author = {Arias, Katerin},
+  title = {{< meta title >}},
+  journal = {{< meta venue >}},
+  year = {{< meta categories.1 >}},
+  volume = {16},
+  number = {51},
+  pages = {307-332},
+  doi = {http://dx.doi.org/10.22347/2175-2753v16i51.4293}
+}
+```

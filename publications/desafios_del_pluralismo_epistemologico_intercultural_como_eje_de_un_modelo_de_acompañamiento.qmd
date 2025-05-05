@@ -1,0 +1,33 @@
+---
+name: "Desafíos del Pluralismo Epistemológico Intercultural como Eje de un Modelo de Acompañamiento"
+title: "Desafíos del Pluralismo Epistemológico Intercultural como Eje de un Modelo de Acompañamiento"
+autores: ["Segundo Quintriqueo", "Katerin Arias", "Sonia Salas"]
+libro: "Lineamientos Estratégicos para la Implementación de la Educación Intercultural desde un Modelo de Acompañamiento"
+capitulo: "9"
+tipo: "Capítulo de Libro"
+categories: 2024
+keywords: ["2024", "Capítulo de Libro", "Pluralismo Epistemológico", "Educación Intercultural", "Modelo de Acompañamiento", "Contexto de Colonización"]
+preprint: "pdfs/productividad/PRODUCTIVIDAD_2024_KARIAS/Cap_libro_5Arias-Ortega_2024_Referato.pdf"
+---
+**Autores**: [{{< meta autores.1 >}}](../members/current/Segundo Quintriqueo.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.3 >}}    
+**Libro**: {{< meta libro >}}   
+**Capítulo**: {{< meta capitulo >}}   
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}    
+**Pre-print**: [PDF](../{{< meta preprint >}})    
+**Resumen**: En este capítulo presentamos un análisis sobre el enfoque pluralismo epistemológico como eje articulador del modelo de acompañamiento en la implementación de la educación intercultural, en escuelas situadas en contextos de colonización. Abordamos brevemente la evolución de la epistemología tradicional para explicar la necesidad del pluralismo epistemológico en las prácticas educativas como una oportunidad de revertir el racismo epistémico institucionalizado del sistema educativo que ha excluido los saberes, métodos y las finalidades educativas indígenas en la educación escolar. Proponemos el enfoque del pluralismo epistemológico en las prácticas educativas, para incorporar los manifiestos, sociofactos y artefactos culturales indígenas articulados a los conocimientos escolares. También, presentamos que prácticas no consideramos parte del pluralismo epistemológico y que mantienen la exclusión epistémica indígena en el medio escolar. Posteriormente, desde la teoría fundamentada presentamos los procesos de investigación, en este eje articulador del modelo, a partir de los aportes de los actores del medio educativo y social de las tres regiones que participan en el estudio, con códigos teorizados que muestran la necesidad de avanzar hacia una educación intercultural fundamentada en el pluralismo epistemológico intercultural. Estos antecedentes teóricos y empíricos, explicitan los grandes desafíos que enfrenta el modelo educativo monocultural, actualmente en nuestro país, lo que se plantea la necesidad de avanzar hacia una educación intercultural situada, con la implicación de todos los actores del medio educativo y social en la co-construcción de los contenidos, métodos y finalidades educativas en contextos de colonización. Finalmente, se planean algunas recomendaciones a considerar para la implementación de la educación escolar, desde un enfoque de pluralismo epistemológico.
+
+
+**BibTeX**:
+```bibtex
+@incollection{quintriqueo2024desafios,
+  author = {Quintriqueo, Segundo and Arias, Katerin and Salas, Sonia},
+  title = {{< meta title >}},
+  booktitle = {{< meta libro >}},
+  editor = {},
+  publisher = {Universidad Católica de Temuco},
+  year = {{< meta categories.1 >}},
+  chapter = {{< meta capitulo >}},
+  pages = {177-},
+  address = {Universidad Católica de Temuco}
+}
+```

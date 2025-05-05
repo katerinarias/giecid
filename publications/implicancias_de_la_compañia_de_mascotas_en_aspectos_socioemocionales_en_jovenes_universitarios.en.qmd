@@ -1,0 +1,30 @@
+---
+name: "Implicancias de la Compañía de Mascotas en Aspectos Socioemocionales en Jóvenes Universitarios"
+title: "Implicancias de la Compañía de Mascotas en Aspectos Socioemocionales en Jóvenes Universitarios"
+autores: ["Claudia Andrades", "Enoc Calfulaf", "Sebastián Caniumil", "Edwards Toloza", "Katerin Arias"]
+venue: "Revista Puertorriqueña de Psicología"
+tipo: "Revista"
+categories: 2024
+keywords: ["2024", "Revista Puertorriqueña de Psicología", "Bienestar Subjetivo", "Vínculo Afectivo", "Vínculo Humano-Mascota", "Estudiantes Universitarios", "Educación Superior"]
+preprint: "pdfs/productividad/PRODUCTIVIDAD_2024_KARIAS/ART_5_REV_PUERTORIQUEÑA_PSIC_CALFULAF_ET AL_2024_ OTRAS REVISTAS.pdf"
+---
+**Autores**: {{< meta autores.1 >}}, [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.3 >}}, {{< meta autores.4 >}}, {{< meta autores.5 >}}    
+**Lugar de publicación**: {{< meta venue >}}     
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}, {{< meta keywords.7 >}}    
+**Pre-print**: [PDF](../{{< meta preprint >}})    
+**Resumen**: Exponemos resultados de investigación sobre la implicancia de la compañía de mascotas en aspectos socioemocionales en la juventud universitaria de La Araucanía, Chile. El método que utilizamos es la investigación cualitativa desde un enfoque descriptivo y participaron ocho estudiantes. Los principales resultados revelan la construcción de un vínculo afectivo con la mascota con base en una relación de reciprocidad, lo que promueve el desarrollo de la empatía e incide positivamente en la formación académica. Además, encontramos la existencia de emociones que inciden en su estado ánimo. Discutimos, desde la teoría del apego, la influencia que tiene la relación humano-mascota en el desarrollo socioemocional del estudiantado universitario. Concluimos que la relación humano-mascota tiene efectos en los diferentes ámbitos de la vida del estudiantado como lo es en lo psicológico, emocional, social y económico, que repercute en el desarrollo integral y bienestar socioemocional.
+
+
+**BibTeX**:
+```bibtex
+@article{andrades2024implicancias,
+  author = {Andrades, Claudia and Calfulaf, Enoc and Caniumil, Sebastián and Toloza, Edwards and Arias, Katerin},
+  title = {{< meta title >}},
+  journal = {{< meta venue >}},
+  year = {{< meta categories.1 >}},
+  volume = {35},
+  number = {1},
+  pages = {58-71},
+  doi = {https://doi.org/10.55611/reps.3501.06}
+}
+```

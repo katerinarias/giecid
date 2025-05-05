@@ -1,0 +1,29 @@
+---
+name: "(In)justicia social en la educación rural en contextos indígenas en Chile"
+title: "(In)justicia social en la educación rural en contextos indígenas en Chile"
+autores: ["Katerin Arias", "Viviana Villarroel"]
+venue: "Revista Internacional de Investigación en Educación"
+tipo: "Revista"
+categories: 2024
+keywords: ["2024", "Revista Internacional de Investigación en Educación", "Justicia Social", "Desigualdad Cultural", "Educación Rural"]
+preprint: "pdfs/productividad/PRODUCTIVIDAD_2024_KARIAS/ART_15_ARIAS_VILLARROEL_MAGIS_2024_SCOPUS.pdf"
+---
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), [{{< meta autores.2 >}}](../members/current/Viviana Villarroel.qmd)
+**Lugar de publicación**: {{< meta venue >}}     
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}    
+**Pre-print**: [PDF](../{{< meta preprint >}})    
+**Resumen**: El artículo expone resultados de investigación sobre la (in)justicia social que ha caracterizado la educación escolar rural en contextos indígenas en la Araucanía, Chile. La educación escolar rural en territorios indígenas, históricamente, se ha caracterizado por ofrecer una escolarización formal de baja calidad, la que ha obtenido los peores resultados en las pruebas estandarizadas del Sistema de Medición de la Calidad de Enseñanza (SIMCE). El logro educativo en el sistema escolar chileno se ha posicionado a nivel internacional en los puestos más bajos, según resultados académicos como los que arroja el Programme for International Student Assessment (PISA). Esta realidad se acrecienta aún más en escuelas rurales multigrado y unidocentes en territorios indígenas, aumentando las brechas educativas entre indígenas y no indígenas, perpetuando prácticas de discriminación y desigualdad educativa. La metodología es de corte cualitativo con un enfoque descriptivo. Participaron profesores, padres y madres de escuelas situadas en comunidades mapuche. Los resultados dan cuenta de una violencia estructural hacia los niños y jóvenes que desarrollan su escolarización en estos espacios educativos, a través de un abandono en los aspectos económicos, afectivos y de capital humano avanzado para mejorar la calidad de la educación.
+
+**BibTeX**:
+```bibtex
+@article{arias2024injusticia,
+  author = {Arias, Katerin and Villarroel, Viviana},
+  title = {{< meta title >}},
+  journal = {{< meta venue >}},
+  year = {{< meta categories.1 >}},
+  volume = {17},
+  number = {},
+  pages = {21},
+  doi = {10.11144/Javeriana.m17.ijse}
+}
+```

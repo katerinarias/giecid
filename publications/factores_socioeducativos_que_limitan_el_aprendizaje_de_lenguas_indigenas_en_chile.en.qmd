@@ -1,0 +1,30 @@
+---
+name: "Factores socioeducativos que limitan el aprendizaje de lenguas indígenas en Chile"
+title: "Factores socioeducativos que limitan el aprendizaje de lenguas indígenas en Chile"
+autores: ["Katerin Arias", "Segundo Quintriqueo"]
+venue: "Cadernos de Linguagem & Sociedade"
+tipo: "Revista"
+categories: 2024
+keywords: ["2024", "Cadernos de Linguagem & Sociedade", "Factores Socioeducativos", "Revitalización del Lenguaje", "Lengua Indígena", "Educación Intercultural"]
+preprint: "pdfs/productividad/PRODUCTIVIDAD_2024_KARIAS/ART_7_CADERNOS_LINGUAREM_ARIAS_2024_SCOPUS.pdf"
+---
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), [{{< meta autores.2 >}}](../members/current/Segundo Quintriqueo.qmd)    
+**Lugar de publicación**: {{< meta venue >}}     
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}    
+**Pre-print**: [PDF](../{{< meta preprint >}})    
+**Resumen**: El artículo problematiza sobre factores socioeducativos que inciden en la enseñanza-aprendizaje de la lengua indígena mapunzugun (lengua mapuche) en niños y jóvenes mapuches, quienes han vivido procesos de escolarización monolingüe en castellano para la homogeneización cultural y lingüística desarrollada en la escuela. Los resultados permiten sostener que las nuevas generaciones de jóvenes mapuches han levantado procesos de resistencia cultural y prácticas de resiliencia, para aprender su cultura y lengua vernácula con la finalidad de transmitirla a los niños y jóvenes de las familias y comunidades, desde una educación propia con base en métodos educativos de la pedagogía y educación indígena.
+
+
+**BibTeX**:
+```bibtex
+@article{arias2024factores,
+  author = {Arias, Katerin and Quintriqueo, Segundo},
+  title = {{< meta title >}},
+  journal = {{< meta venue >}},
+  year = {{< meta categories.1 >}},
+  volume = {25},
+  number = {1},
+  pages = {161-178},
+  doi = {10.26512/les.v25i1.48096}
+}
+```

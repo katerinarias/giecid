@@ -1,0 +1,30 @@
+---
+name: "Survival Esperiences of Mapuche Parents in Multilevel Schools in La Araucanía"
+title: "Survival Esperiences of Mapuche Parents in Multilevel Schools in La Araucanía"
+autores: ["Katerin Arias", "Miguel del Pino"]
+venue: "Journal of Latinos and Education"
+tipo: "Revista"
+categories: 2024
+keywords: ["2024", "Journal of Latinos and Education", "Educational Pathways", "Rural Education", "Multilevel Schools", "Indigenous Education"]
+preprint: "pdfs/productividad/PRODUCTIVIDAD_2024_KARIAS/ART_11_JOURNAL OF LATINOS_ARIAS ET AL_2024_WOS.pdf"
+---
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), [{{< meta autores.2 >}}](../members/current/Miguel del Pino.qmd)
+**Lugar de publicación**: {{< meta venue >}}     
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}    
+**Pre-print**: [PDF](../{{< meta preprint >}})    
+**Resumen**: This article examines how colonial legacies shape parents' schooling experiences in multilevel schools within the Mapuche context of La Araucanía, Chile, also known as WallMapu. Authorities built schools to evangelize Indigenous people into Christianity. Researchers used biographical narratives to reflect the importance of orality for the Mapuche. The findings show that the physical and psychological violence endured by Mapuche children has widened the educational gap between Indigenous and non-Indigenous populations. The study concludes that recognizing the harm caused by the school system is essential to rebuild trust and improve educational outcomes for Indigenous children.
+
+
+**BibTeX**:
+```bibtex
+@article{arias2024survival,
+  author = {Arias, Katerin and del Pino, Miguel},
+  title = {{< meta title >}},
+  journal = {{< meta venue >}},
+  year = {{< meta categories.1 >}},
+  volume = {},
+  number = {},
+  pages = {15},
+  doi = {https://doi.org/10.1080/15348431.2024.2413522}
+}
+```
