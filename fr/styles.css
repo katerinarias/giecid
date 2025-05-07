@@ -109,6 +109,35 @@ body[data-bs-theme="dark"] .navbar.navbar-expand-lg {
   text-decoration: none;
 }
 
+@media (max-width: 991.98px) {
+  .navbar {
+    height: auto !important;
+    min-height: unset !important;
+    align-items: flex-start;
+  }
+  .navbar-collapse {
+    max-height: none;
+    overflow-y: visible;
+    background-color: #ffffff; /* Or your theme */
+    padding: 1rem;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    border-top: 1px solid #ddd;
+  }
+  .navbar-nav {
+    display: block;
+    height: auto;
+  }
+  .nav-item {
+    display: block;
+    padding: 0.5rem 0;
+    height: auto;
+  }
+  .nav-link {
+    height: auto;
+    color: #333 !important;
+  }
+}
+
 /* Search button styling */
 #quarto-search {
   margin-left: auto;
@@ -499,4 +528,26 @@ span.color-box {
   display: block; /* Ensures the image takes up its own line */
   margin: 0 auto 10px; /* Centers the image and adds space below */
   text-align: center;
+}
+
+.custom-bullets li {
+  list-style: none;
+  position: relative;
+  padding-left: 1.5em;
+}
+
+.custom-bullets li::before {
+  content: "➤"; /* Or use Unicode for an arrow, emoji, etc. */
+  position: absolute;
+  left: 0;
+  color: #007ACC; /* Optional: change color */
+}
+
+@media only screen and (max-width: 600px) {
+  .group-photo .img-fluid {
+    width: 90vw;
+    height: auto;
+    max-width: 350px;
+    max-height: 350px;
+  }
 }
