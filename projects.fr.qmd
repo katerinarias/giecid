@@ -4,8 +4,8 @@ listing:
     contents:
         - "projects/*.qmd"
     template: project-listing.ejs
-    fields: [title, members, categories, status, github]
-    categories: true
+    fields: [title, members]
+    categories: false
     field-display-names:
         categories: "Catégories"
 ---

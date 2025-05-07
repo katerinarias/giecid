@@ -1,0 +1,15 @@
+---
+name: "Équipe de développement et de recherche d'actions collaboratives en contexte éducatif autochtone (L'ÉDRACCÉA), de l'Université du Québec en Abitibi-Témiscamingue (UQAT), Québec-Canada"
+title: "Équipe de développement et de recherche d'actions collaboratives en contexte éducatif autochtone (L'ÉDRACCÉA), de l'Université du Québec en Abitibi-Témiscamingue (UQAT), Québec-Canada"
+financiamiento: "Subvention du Fonds de recherche du Québec – Société et culture (FRQSC)."
+start-year: "2021"
+end-year: "2025"
+autores: ["Katerin Arias"]
+role: "Co-Investigadora"
+code: ""
+---
+**Investigador Responsable**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd)  
+**Fuente de Financiamiento**: {{< meta financiamiento >}}  
+**Período de ejecución**: {{< meta start-year >}} - {{< meta end-year >}}  
+<!-- **Rol en el Proyecto**: {{< meta role >}}   -->
+**Código del Proyecto**: {{< meta code >}} 

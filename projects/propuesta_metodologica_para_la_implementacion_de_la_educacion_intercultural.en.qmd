@@ -1,9 +1,9 @@
 ---
-name: "Principios de la Pedagogía y Educación Indígena: Aportes para una Educación Intercultural para Todos"
-title: "Principios de la Pedagogía y Educación Indígena: Aportes para una Educación Intercultural para Todos"
-financiamiento: "ANID"
-start-year: "2022"
-end-year: "2025"
+name: "Propuesta metodológica para la implementación de la educación intercultural"
+title: "Propuesta metodológica para la implementación de la educación intercultural"
+financiamiento: "MINEDUC"
+start-year: "2020"
+end-year: "2021"
 autores: ["Katerin Arias"]
 role: "Co-Investigadora"
 code: ""
@@ -12,4 +12,4 @@ code: ""
 **Fuente de Financiamiento**: {{< meta financiamiento >}}  
 **Período de ejecución**: {{< meta start-year >}} - {{< meta end-year >}}  
 <!-- **Rol en el Proyecto**: {{< meta role >}}   -->
-**Código del Proyecto**: {{< meta code >}}  
+**Código del Proyecto**: {{< meta code >}} 

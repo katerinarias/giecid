@@ -17,6 +17,7 @@ format:
 
 website:
   title: "Educación en Contextos Diversos e Indígenas"
+  favicon: ./assets/logo.png
   site-url: "https://katerinarias.github.io/giecid/"
   description: "Grupo de Investigacion - Educación en Contextos Diversos e Indígenas"
   navbar:

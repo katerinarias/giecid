@@ -1,0 +1,15 @@
+---
+name: "Établissement de référentiels pour l'éducation à la nordicité commune, mobilité de l'éducation, le lieu et l'éducation relative à l'environnement dans les écosystèmes nordiques."
+title: "Établissement de référentiels pour l'éducation à la nordicité commune, mobilité de l'éducation, le lieu et l'éducation relative à l'environnement dans les écosystèmes nordiques."
+financiamiento: "Université du Quebec en Abitibi-Temiscamingue, Quebec, Canadá"
+start-year: "2019"
+end-year: "2020"
+autores: ["Katerin Arias"]
+role: "Co-Investigadora"
+code: ""
+---
+**Investigador Responsable**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd)  
+**Fuente de Financiamiento**: {{< meta financiamiento >}}  
+**Período de ejecución**: {{< meta start-year >}} - {{< meta end-year >}}  
+<!-- **Rol en el Proyecto**: {{< meta role >}}   -->
+**Código del Proyecto**: {{< meta code >}} 

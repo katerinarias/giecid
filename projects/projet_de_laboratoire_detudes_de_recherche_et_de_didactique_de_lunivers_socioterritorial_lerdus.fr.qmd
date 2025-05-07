@@ -1,7 +1,7 @@
 ---
-name: "Principios de la Pedagogía y Educación Indígena: Aportes para una Educación Intercultural para Todos"
-title: "Principios de la Pedagogía y Educación Indígena: Aportes para una Educación Intercultural para Todos"
-financiamiento: "ANID"
+name: "Projet de Laboratoire d'études, de recherche et de didactique de l'univers socioterritorial. (LERDUS)"
+title: "Projet de Laboratoire d'études, de recherche et de didactique de l'univers socioterritorial. (LERDUS)"
+financiamiento: "Projet de Laboratoire d'études, de recherche et de didactique de l'univers socioterritorial. (LERDUS)"
 start-year: "2022"
 end-year: "2025"
 autores: ["Katerin Arias"]
@@ -12,4 +12,4 @@ code: ""
 **Fuente de Financiamiento**: {{< meta financiamiento >}}  
 **Período de ejecución**: {{< meta start-year >}} - {{< meta end-year >}}  
 <!-- **Rol en el Proyecto**: {{< meta role >}}   -->
-**Código del Proyecto**: {{< meta code >}}  
+**Código del Proyecto**: {{< meta code >}} 

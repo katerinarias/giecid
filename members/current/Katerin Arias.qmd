@@ -21,10 +21,12 @@ listing:
 
 **Información de Contacto**:
 
+::: {.custom-bullets}
 - Correo electrónico: karias@uct.cl
 - Afiliación: Facultad de Ciencias de Salud
 - Intereses de Investigación: Educación e Interculturalidad
 - [Link de Scholar](https://scholar.google.com/citations?user=16Ms6dQAAAAJ&hl=en&oi=ao)
+:::
 
 **Sobre mí**:
 

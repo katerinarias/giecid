@@ -1,0 +1,15 @@
+---
+name: "Sentido de la escuela y la educación escolar en contexto indígena: bases para una relación educativa intercultural. Fondecyt Iniciación"
+title: "Sentido de la escuela y la educación escolar en contexto indígena: bases para una relación educativa intercultural. Fondecyt Iniciación"
+financiamiento: "ANID"
+start-year: "2020"
+end-year: "2023"
+autores: ["Katerin Arias"]
+role: "Investigador responsable"
+code: ""
+---
+**Investigador Responsable**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd)  
+**Fuente de Financiamiento**: {{< meta financiamiento >}}  
+**Período de ejecución**: {{< meta start-year >}} - {{< meta end-year >}}  
+<!-- **Rol en el Proyecto**: {{< meta role >}}   -->
+**Código del Proyecto**: {{< meta code >}} 

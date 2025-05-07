@@ -1,18 +1,15 @@
 ---
-name: "Principios de la Pedagogía y educación indígena: aportes para una educación intercultural para todos"
-title: "Principios de la Pedagogía y educación indígena: aportes para una educación intercultural para todos"
+name: "Principios de la Pedagogía y Educación Indígena: Aportes para una Educación Intercultural para Todos"
+title: "Principios de la Pedagogía y Educación Indígena: Aportes para una Educación Intercultural para Todos"
 financiamiento: "ANID"
 start-year: "2022"
 end-year: "2025"
 autores: ["Katerin Arias"]
 role: "Co-Investigadora"
-link: "#"
+code: ""
 ---
-**Miembros del Equipo**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd)  
+**Investigador Responsable**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd)  
 **Fuente de Financiamiento**: {{< meta financiamiento >}}  
 **Período de ejecución**: {{< meta start-year >}} - {{< meta end-year >}}  
-**Rol en el Proyecto**: {{< meta role >}}  
-**Link de acceso**: [link]({{< meta link >}})  
-
-**Descripción General del Proyecto**: 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua...     
+<!-- **Rol en el Proyecto**: {{< meta role >}}   -->
+**Código del Proyecto**: {{< meta code >}}  

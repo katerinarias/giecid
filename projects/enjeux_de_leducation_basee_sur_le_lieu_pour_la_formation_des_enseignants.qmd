@@ -1,0 +1,15 @@
+---
+name: "Enjeux de l'éducation basée sur le lieu pour la formation des enseignants"
+title: "Enjeux de l'éducation basée sur le lieu pour la formation des enseignants"
+financiamiento: "Programme de mobilité enseignante pour la création de partenariats. Gouvernement du Canada"
+start-year: "2024"
+end-year: "2025"
+autores: ["Katerin Arias"]
+role: "Co-investigadora"
+code: ""
+---
+**Investigador Responsable**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd)  
+**Fuente de Financiamiento**: {{< meta financiamiento >}}  
+**Período de ejecución**: {{< meta start-year >}} - {{< meta end-year >}}  
+<!-- **Rol en el Proyecto**: {{< meta role >}}   -->
+**Código del Proyecto**: {{< meta code >}} 

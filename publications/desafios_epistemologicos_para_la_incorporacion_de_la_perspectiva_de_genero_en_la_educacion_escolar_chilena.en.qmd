@@ -12,7 +12,7 @@ preprint: "pdfs/productividad/PRODUCTIVIDAD_2023_KARIAS/cap_Libro_Género y educ
 **Autores**: [{{< meta autores.1 >}}](../members/current/Viviana Villarroel.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.3 >}}    
 **Libro**: {{< meta libro >}}   
 **Capítulo**: {{< meta capitulo >}}   
-**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}    
+**Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}    
 **Pre-print**: [PDF](../{{< meta preprint >}})    
 **Resumen**: En este capítulo se discute sobre la urgencia de incorporar la perspectiva de género en la educación escolar chilena, como una forma de contrarrestar un currículum androcéntrico instalado tanto en el sistema educativo escolar como en los itinerarios formativos de futuros profesores. Desde esta perspectiva, se reflexiona sobre el sistema escolar chileno con una crítica orientada a sus fundamentos androcentristas y las posibles causas de su permanencia en el sistema educativo.
 
