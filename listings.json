@@ -23,9 +23,11 @@
     "items": []
   },
   {
-    "listing": "/members/current/Miguel del Pino.html",
+    "listing": "/members/current/Miguel Del Pino Sepúlveda.html",
     "items": [
       "/publications/docencia_universitaria_en_contexto_indigena.html",
+      "/publications/indigenous_language_and_social_justice_as_recognition.html",
+      "/publications/justicia_social_en_saberes_y_haceres_de_la_evaluacion_educativa_en_contexto_mapuce.html",
       "/publications/la_enseñanza_de_la_lengua_y_cultura_indigena_en_una_escuela_lafkenche_de_la_araucania.html",
       "/publications/survival_experiences_of_mapuche_parents_in_multilevel_schools_in_la_araucania.html"
     ]
@@ -33,15 +35,15 @@
   {
     "listing": "/members.html",
     "items": [
-      "/members/current/Katerin Arias.html",
-      "/members/current/Miguel del Pino.html",
-      "/members/current/Segundo Quintriqueo.html",
+      "/members/current/Katerin Arias-Ortega.html",
+      "/members/current/Miguel Del Pino Sepúlveda.html",
+      "/members/current/Segundo Quintriqueo Millán.html",
       "/members/current/Teresa Millahueque.html",
-      "/members/current/Viviana Villarroel.html"
+      "/members/current/Viviana Villarroel Cárdenas.html"
     ]
   },
   {
-    "listing": "/members/current/Katerin Arias.html",
+    "listing": "/members/current/Katerin Arias-Ortega.html",
     "items": [
       "/publications/encuentros_en_la_educacion_intercultural_en_contexto_mapuche.html",
       "/publications/injusticia_social_en_la_educacion_rural_en_contextos_indigenas_en_chile.html",
@@ -118,7 +120,7 @@
     ]
   },
   {
-    "listing": "/members/current/Segundo Quintriqueo.html",
+    "listing": "/members/current/Segundo Quintriqueo Millán.html",
     "items": [
       "/publications/conocimientos_geograficos_y_territoriales_con_base_epistemica_en_la_memoria_social_mapuche.html",
       "/publications/conocimientos_educativos_mapuches_sobre_el_territorio.html",
@@ -158,7 +160,7 @@
     ]
   },
   {
-    "listing": "/members/current/Viviana Villarroel.html",
+    "listing": "/members/current/Viviana Villarroel Cárdenas.html",
     "items": [
       "/publications/injusticia_social_en_la_educacion_rural_en_contextos_indigenas_en_chile.html",
       "/publications/deconstruccion_de_la_concepcion_de_indio_un_desafio_pendiende_en_la_araucania_chile.html",
