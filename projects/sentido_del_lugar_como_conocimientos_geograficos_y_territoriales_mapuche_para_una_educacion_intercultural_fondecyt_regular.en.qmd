@@ -4,11 +4,11 @@ title: "Sentido del lugar como conocimientos geográficos y territoriales mapuch
 financiamiento: "ANID"
 start-year: "2018"
 end-year: "2021"
-autores: ["Katerin Arias"]
+autores: ["Katerin Arias-Ortega"]
 role: "Co-investigadora"
 code: ""
 ---
-**Investigador Responsable**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd)  
+**Investigador Responsable**: [{{< meta autores.1 >}}](../members/current/Katerin Arias-Ortega.qmd)  
 **Fuente de Financiamiento**: {{< meta financiamiento >}}  
 **Período de ejecución**: {{< meta start-year >}} - {{< meta end-year >}}  
 <!-- **Rol en el Proyecto**: {{< meta role >}}   -->

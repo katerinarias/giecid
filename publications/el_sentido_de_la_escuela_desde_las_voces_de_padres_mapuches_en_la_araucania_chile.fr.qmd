@@ -1,7 +1,7 @@
 ---
 name: "El Sentido de la Escuela desde las Voces de Padres Mapuches en La Araucanía, Chile"
 title: "El Sentido de la Escuela desde las Voces de Padres Mapuches en La Araucanía, Chile"
-autores: ["Katerin Arias", "Viviana Villarroel"]
+autores: ["Katerin Arias-Ortega", "Viviana Villarroel Cárdenas"]
 libro: "Prácticas pedagógicas y educación intercultural: desafíos epistemológicos para la escolaridad en contextos indígenas"
 capitulo: "10"
 tipo: "Capítulo de Libro"
@@ -9,7 +9,7 @@ categories: 2023
 keywords: ["2023", "Capítulo de Libro", "Escuela", "Indígenas", "Enseñanza", "Aprendizaje"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2023_KARIAS/CAP_LIBRO_ARIAS_VILLARROEL_2023.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), [{{< meta autores.2 >}}](../members/current/Viviana Villarroel.qmd)    
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias-Ortega.qmd), [{{< meta autores.2 >}}](../members/current/Viviana Villarroel Cárdenas.qmd)    
 **Libro**: {{< meta libro >}}   
 **Capítulo**: {{< meta capitulo >}}   
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}    

@@ -1,14 +1,14 @@
 ---
 name: "Didáctica Intercultural para las Ciencias Naturales"
 title: "Didáctica Intercultural para las Ciencias Naturales" 
-autores: ["Viviana Villarroel", "Katerin Arias", "Segundo Quintriqueo"]
+autores: ["Viviana Villarroel Cárdenas", "Katerin Arias-Ortega", "Segundo Quintriqueo Millán"]
 venue: "Investigações em Ensino de Ciências"
 tipo: "Revista"
 categories: 2022
 keywords: ["2022", "Investigações em Ensino de Ciências", "Educación Intercultural", "Enseñanza de las Ciencias", "Educación Cultural y Responsable", "Hegemonía Cultural", "Educación Escolar"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2022_KARIAS/ART_11_Didactica para las ciencias_Villarroel_Arias et al_2022_SCOPUS.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Viviana Villarroel.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd), [{{< meta autores.3 >}}](../members/current/Segundo Quintriqueo.qmd)  
+**Autores**: [{{< meta autores.1 >}}](../members/current/Viviana Villarroel Cárdenas.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias-Ortega.qmd), [{{< meta autores.3 >}}](../members/current/Segundo Quintriqueo Millán.qmd)  
 **Lugar de publicación**: {{< meta venue >}}     
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}, {{< meta keywords.7 >}}  
 **Pre-print**: [PDF](../{{< meta preprint >}})    

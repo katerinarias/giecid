@@ -1,14 +1,14 @@
 ---
 name: "Prácticas Pedagógicas en Aula Multigrado: Principales Desafíos Socioeducativos en Chile"
 title: "Prácticas Pedagógicas en Aula Multigrado: Principales Desafíos Socioeducativos en Chile"
-autores: ["Pamela Freire", "Gabriela Llanquin", "Valesca Neira", "Elisabet Queupumil", "Lidia Riquelme", "Katerin Arias"]
+autores: ["Pamela Freire", "Gabriela Llanquin", "Valesca Neira", "Elisabet Queupumil", "Lidia Riquelme", "Katerin Arias-Ortega"]
 venue: "Cad. Pesqui., São Paulo, v.51, e07046, 2021"
 tipo: "Revista"
 categories: 2021
 keywords: ["2021", "Cad. Pesqui., São Paulo, v.51, e07046, 2021", "Prácticas Pedagógicas", "Clase Multiseriada", "Enseñanza", "Aprendizaje"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2021_KARIAS/ART_N°4_OTROS Y ARIAS-ORTEGA_Cadernos de pesquisa_2021_SCOPUS.pdf"
 ---
-**Autores**: {{< meta autores.1 >}}, {{< meta autores.2 >}}, {{< meta autores.3 >}}, {{< meta autores.4 >}}, {{< meta autores.5 >}}, [{{< meta autores.6 >}}](../members/current/Katerin Arias.qmd)    
+**Autores**: {{< meta autores.1 >}}, {{< meta autores.2 >}}, {{< meta autores.3 >}}, {{< meta autores.4 >}}, {{< meta autores.5 >}}, [{{< meta autores.6 >}}](../members/current/Katerin Arias-Ortega.qmd)    
 **Lugar de publicación**: {{< meta venue >}}     
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}    
 **Pre-print**: [PDF](../{{< meta preprint >}})    

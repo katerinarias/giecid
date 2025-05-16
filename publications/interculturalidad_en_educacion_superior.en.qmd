@@ -1,14 +1,14 @@
 ---
 name: "Interculturalidad en educación superior: experiencia en educación inicial en La Araucanía, Chile"
 title: "Interculturalidad en educación superior: experiencia en educación inicial en La Araucanía, Chile"
-autores: ["Soledad Morales-Saavedra", "Segundo Quintriqueo", "Pilar Uribe-Sepulveda", "Katerin Arias"]
+autores: ["Soledad Morales-Saavedra", "Segundo Quintriqueo Millán", "Pilar Uribe-Sepulveda", "Katerin Arias-Ortega"]
 venue: "Convergencia"
 categories: 2018
 tipo: "Revista"
 keywords: ["2018", "Convergencia", "Interculturalidad", "Enfoque Educativo Intercultural", "Formación inicial docente", "Educación e infancia", "Conocimientos educativos mapuches"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2018_KARIAS/ART_2_SCOPUS.pdf"
 ---
-**Autores**: {{< meta autores.1 >}}, [{{< meta autores.2 >}}](../members/current/Segundo Quintriqueo.qmd), {{< meta autores.3 >}}, [{{< meta autores.4 >}}](../members/current/Katerin Arias.qmd)    
+**Autores**: {{< meta autores.1 >}}, [{{< meta autores.2 >}}](../members/current/Segundo Quintriqueo Millán.qmd), {{< meta autores.3 >}}, [{{< meta autores.4 >}}](../members/current/Katerin Arias-Ortega.qmd)    
 **Lugar de publicación**: {{< meta venue >}}     
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}, {{< meta keywords.7 >}}    
 **Pre-print**: [PDF](../{{< meta preprint >}})    

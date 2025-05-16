@@ -1,14 +1,14 @@
 ---
 name: "Docencia Universitaria en Contexto Indígena"
 title: "Docencia Universitaria en Contexto Indígena" 
-autores: ["Katerin Arias", "Miguel del Pino", "Gerardo Muñoz"]
+autores: ["Katerin Arias-Ortega", "Miguel Del Pino Sepúlveda", "Gerardo Muñoz"]
 venue: "RMIE"
 tipo: "Revista"
 categories: 2022
 keywords: ["2022", "RMIE", "Docencia Universitaria", "Educación Superior", "Interculturalidad"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2022_KARIAS/ART_13_ RMIE_ARIAS_DEL PINO_MUÑOZ_2022_SCOPUS.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), [{{< meta autores.2 >}}](../members/current/Miguel del Pino.qmd), {{< meta autores.3 >}}  
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias-Ortega.qmd), [{{< meta autores.2 >}}](../members/current/Miguel Del Pino Sepúlveda.qmd), {{< meta autores.3 >}}  
 **Lugar de publicación**: {{< meta venue >}}     
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}  
 **Pre-print**: [PDF](../{{< meta preprint >}})    
@@ -18,7 +18,7 @@ preprint: "pdfs/productividad/PRODUCTIVIDAD_2022_KARIAS/ART_13_ RMIE_ARIAS_DEL P
 **BibTeX**:
 ```bibtex
 @article{arias2022docencia,
-  author = {Arias, Katerin and del Pino, Miguel and Muñoz, Gerardo},
+  author = {Arias, Katerin and Del Pino, Miguel and Muñoz, Gerardo},
   title = {{< meta title >}},
   journal = {{< meta venue >}},
   year = {{< meta categories.1 >}},

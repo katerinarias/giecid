@@ -1,14 +1,14 @@
 ---
 name: "Conocimientos Geográficos y Territoriales con Base Epistémica en la Memoria Social Mapuche"
 title: "Conocimientos Geográficos y Territoriales con Base Epistémica en la Memoria Social Mapuche"
-autores: ["Segundo Quintriqueo", "Katerin Arias", "Gerardo Muñoz", "Hector Torres", "Soledad Morales", "Fernando Peña"]
+autores: ["Segundo Quintriqueo Millán", "Katerin Arias-Ortega", "Gerardo Muñoz", "Hector Torres", "Soledad Morales", "Fernando Peña"]
 venue: "RBCS"
 tipo: "Revista"
 categories: 2021
 keywords: ["2021", "RBCS"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2021_KARIAS/ART_N°3_QUINTRIQUEO Y ARIAS-ORTEGA_RBCS_2021_SCOPUS.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Segundo Quintriqueo.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.3 >}}, {{< meta autores.4 >}}, {{< meta autores.5 >}}, {{< meta autores.6 >}}    
+**Autores**: [{{< meta autores.1 >}}](../members/current/Segundo Quintriqueo Millán.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias-Ortega.qmd), {{< meta autores.3 >}}, {{< meta autores.4 >}}, {{< meta autores.5 >}}, {{< meta autores.6 >}}    
 **Lugar de publicación**: {{< meta venue >}}     
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}    
 **Pre-print**: [PDF](../{{< meta preprint >}})    

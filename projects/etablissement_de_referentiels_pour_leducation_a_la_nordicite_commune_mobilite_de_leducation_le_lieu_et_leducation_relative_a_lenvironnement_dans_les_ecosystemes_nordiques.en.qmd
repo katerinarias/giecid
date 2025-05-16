@@ -4,11 +4,11 @@ title: "Établissement de référentiels pour l'éducation à la nordicité comm
 financiamiento: "Université du Quebec en Abitibi-Temiscamingue, Quebec, Canadá"
 start-year: "2019"
 end-year: "2020"
-autores: ["Katerin Arias"]
+autores: ["Katerin Arias-Ortega"]
 role: "Co-Investigadora"
 code: ""
 ---
-**Investigador Responsable**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd)  
+**Investigador Responsable**: [{{< meta autores.1 >}}](../members/current/Katerin Arias-Ortega.qmd)  
 **Fuente de Financiamiento**: {{< meta financiamiento >}}  
 **Período de ejecución**: {{< meta start-year >}} - {{< meta end-year >}}  
 <!-- **Rol en el Proyecto**: {{< meta role >}}   -->

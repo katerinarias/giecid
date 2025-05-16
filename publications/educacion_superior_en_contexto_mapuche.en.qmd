@@ -1,14 +1,14 @@
 ---
 name: "Educación superior en contexto mapuche: El caso de La Araucanía, Chile"
 title: "Educación superior en contexto mapuche: El caso de La Araucanía, Chile"
-autores: ["Katerin Arias", "Segundo Quintriqueo"]
+autores: ["Katerin Arias-Ortega", "Segundo Quintriqueo Millán"]
 venue: "Educare"
 tipo: "Revista"
 categories: 2020
 keywords: ["2020", "Educare", "Educación superior", "Epistemología pluralista", "Interculturalidad", "Racismo científico"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2020_KARIAS/ANEXO_N°3_Art_3_Arias-Ortega y Quintriqueo_ Revista Electrónica Educare_ Scopus_Publicado_2020.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), [{{< meta autores.2 >}}](../members/current/Segundo Quintriqueo.qmd)    
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias-Ortega.qmd), [{{< meta autores.2 >}}](../members/current/Segundo Quintriqueo Millán.qmd)    
 **Lugar de publicación**: {{< meta venue >}}     
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}    
 **Pre-print**: [PDF](../{{< meta preprint >}})    

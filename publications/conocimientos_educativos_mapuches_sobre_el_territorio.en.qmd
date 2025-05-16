@@ -1,7 +1,7 @@
 ---
 name: "Conocimientos educativos mapuches sobre el territorio: Aportes para una formación de ciudadanos sensibles con el medioambiente"
 title: "Conocimientos educativos mapuches sobre el territorio: Aportes para una formación de ciudadanos sensibles con el medioambiente"
-autores: ["Segundo Quintriqueo", "Katerin Arias", "Elías Andrade"]
+autores: ["Segundo Quintriqueo Millán", "Katerin Arias-Ortega", "Elías Andrade"]
 libro: "Resumenes"
 capitulo: "16"
 tipo: "Capítulo de Libro"
@@ -9,7 +9,7 @@ categories: 2023
 keywords: ["2023", "Capítulo de Libro"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2023_KARIAS/CAP_LIBRO _Quebec_2023.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Segundo Quintriqueo.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.3 >}}    
+**Autores**: [{{< meta autores.1 >}}](../members/current/Segundo Quintriqueo Millán.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias-Ortega.qmd), {{< meta autores.3 >}}    
 **Libro**: {{< meta libro >}}   
 **Capítulo**: {{< meta capitulo >}}   
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}    

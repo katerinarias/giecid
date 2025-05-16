@@ -4,12 +4,14 @@ title: "Intégrer l'éducation à la nordicité et le développement de son lieu
 financiamiento: "Fondation de l'Université du Québec en Abitibi-Témiscamingue / Fonds institutionnel de recherche-Création (FIRC)"
 start-year: "2023"
 end-year: "2024"
-autores: ["Katerin Arias"]
-role: "Co-Investigadora"
+autores: ["Carlo Prévil", "Katerin Arias-Ortega"]
+role: "Co-investigadora"
 code: ""
 ---
-**Investigador Responsable**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd)  
+**Investigador Responsable**: {{< meta autores.1 >}}  
+**Miembros**:  
+  - {{< meta autores.1 >}} (Investigador Responsable)  
+  - [{{< meta autores.2 >}}](../members/current/Katerin Arias-Ortega.qmd) ({{< meta role >}})  
 **Fuente de Financiamiento**: {{< meta financiamiento >}}  
 **Período de ejecución**: {{< meta start-year >}} - {{< meta end-year >}}  
-<!-- **Rol en el Proyecto**: {{< meta role >}}   -->
 **Código del Proyecto**: {{< meta code >}} 

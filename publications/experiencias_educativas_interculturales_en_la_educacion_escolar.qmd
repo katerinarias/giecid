@@ -1,7 +1,7 @@
 ---
 name: "Experiencias Educativas Interculturales en la Educación Escolar: Posibilidades y Limitaciones en Contexto Indígena"
 title: "Experiencias Educativas Interculturales en la Educación Escolar: Posibilidades y Limitaciones en Contexto Indígena"
-autores: ["Katerin Arias", "Vanessa Valdebenito", "Viviana Villarroel", "Segundo Quintriqueo", "Rodrigo Lagos"]
+autores: ["Katerin Arias-Ortega", "Vanessa Valdebenito", "Viviana Villarroel Cárdenas", "Segundo Quintriqueo Millán", "Rodrigo Lagos"]
 libro: "Lineamientos Estratégicos para la Implementación de la Educación Intercultural desde un Modelo de Acompañamiento"
 capitulo: "4"
 tipo: "Capítulo de Libro"
@@ -9,7 +9,7 @@ categories: 2024
 keywords: ["2024", "Capítulo de Libro", "Intervención Educativa Intercultural", "Educación Intercultural", "Saberes y Conocimientos Indígenas"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2024_KARIAS/Cap_libro_4Arias-Ortega_2024_Referato.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.2 >}}, [{{< meta autores.3 >}}](../members/current/Viviana Villarroel.qmd), [{{< meta autores.4 >}}](../members/current/Segundo Quintriqueo.qmd), {{< meta autores.5 >}}    
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias-Ortega.qmd), {{< meta autores.2 >}}, [{{< meta autores.3 >}}](../members/current/Viviana Villarroel Cárdenas.qmd), [{{< meta autores.4 >}}](../members/current/Segundo Quintriqueo Millán.qmd), {{< meta autores.5 >}}    
 **Libro**: {{< meta libro >}}   
 **Capítulo**: {{< meta capitulo >}}   
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}    

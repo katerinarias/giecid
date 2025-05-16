@@ -1,14 +1,14 @@
 ---
 name: "Escuelas en Territorio Mapuche: desigualdades en el contexto chileno"
 title: "Escuelas en Territorio Mapuche: desigualdades en el contexto chileno"
-autores: ["Katerin Arias", "Fernando Peña", "Segundo Quintriqueo", "Elías Andrade"]
+autores: ["Katerin Arias-Ortega", "Fernando Peña", "Segundo Quintriqueo Millán", "Elías Andrade"]
 venue: "Revista Brasileira de Educação"
 categories: 2020
 tipo: "Revista"
 keywords: ["2020", "Revista Brasileira de Educação", "Resultados Sistema de Medición de la Calidad de la Educación", "Escuelas municipales y particulares subvencionadas", "Educación rural"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2020_KARIAS/ANEXO_N°2_Art_2_Arias-Ortega, Peña-Cortés_Quintriqueo y Andrade_ Revista Brasileira de Educação_Q3_ Scopus_Publicado_2020.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.2 >}}, [{{< meta autores.3 >}}](../members/current/Segundo Quintriqueo.qmd), {{< meta autores.4 >}}    
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias-Ortega.qmd), {{< meta autores.2 >}}, [{{< meta autores.3 >}}](../members/current/Segundo Quintriqueo Millán.qmd), {{< meta autores.4 >}}    
 **Lugar de publicación**: {{< meta venue >}}     
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}    
 **Pre-print**: [PDF](../{{< meta preprint >}})    

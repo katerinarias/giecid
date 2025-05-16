@@ -1,14 +1,14 @@
 ---
 name: "(In)justicia social en la educación rural en contextos indígenas en Chile"
 title: "(In)justicia social en la educación rural en contextos indígenas en Chile"
-autores: ["Katerin Arias", "Viviana Villarroel"]
+autores: ["Katerin Arias-Ortega", "Viviana Villarroel Cárdenas"]
 venue: "Revista Internacional de Investigación en Educación"
 tipo: "Revista"
 categories: 2024
 keywords: ["2024", "Revista Internacional de Investigación en Educación", "Justicia Social", "Desigualdad Cultural", "Educación Rural"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2024_KARIAS/ART_15_ARIAS_VILLARROEL_MAGIS_2024_SCOPUS.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), [{{< meta autores.2 >}}](../members/current/Viviana Villarroel.qmd)
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias-Ortega.qmd), [{{< meta autores.2 >}}](../members/current/Viviana Villarroel Cárdenas.qmd)
 **Lugar de publicación**: {{< meta venue >}}     
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}    
 **Pre-print**: [PDF](../{{< meta preprint >}})    

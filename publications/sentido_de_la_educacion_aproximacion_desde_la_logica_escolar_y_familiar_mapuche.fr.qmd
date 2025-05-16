@@ -1,7 +1,7 @@
 ---
 name: "Sentido de la Educación: Aproximación desde la Lógica Escolar y Familiar Mapuche"
 title: "Sentido de la Educación: Aproximación desde la Lógica Escolar y Familiar Mapuche"
-autores: ["Katerin Arias", "Segundo Quintriqueo"]
+autores: ["Katerin Arias-Ortega", "Segundo Quintriqueo Millán"]
 libro: "Lineamientos Estratégicos para la Implementación de la Educación Intercultural desde un Modelo de Acompañamiento"
 capitulo: "2"
 tipo: "Capítulo de Libro"
@@ -9,7 +9,7 @@ categories: 2024
 keywords: ["2024", "Capítulo de Libro", "Educación Escolar", "Educación Indígena", "Tensiones Epistemológicas"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2024_KARIAS/Cap_libro_3Arias-Ortega_2024_Referato.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), [{{< meta autores.2 >}}](../members/current/Segundo Quintriqueo.qmd)    
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias-Ortega.qmd), [{{< meta autores.2 >}}](../members/current/Segundo Quintriqueo Millán.qmd)    
 **Libro**: {{< meta libro >}}   
 **Capítulo**: {{< meta capitulo >}}   
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}    

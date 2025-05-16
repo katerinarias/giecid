@@ -1,14 +1,14 @@
 ---
 name: "Dimensión emocional en la relación pedagógica en la educación intercultural en Chile"
 title: "Dimensión emocional en la relación pedagógica en la educación intercultural en Chile"
-autores: ["Katerin Arias", "Segundo Quintriqueo"]
+autores: ["Katerin Arias-Ortega", "Segundo Quintriqueo Millán"]
 venue: "Revista Colombiana de Educación" 
 tipo: "Revista"
 categories: 2023
 keywords: ["2023", "Revista Colombiana de Educación", "Relación Profesor-Alumno", "Relación Estudiante-Escuela", "Educación Intercultural", "Desarrollo Afectivo", "Aprendizaje Socioemocional"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2023_KARIAS/ART_5_RCE_ARIAS_QUINTRIQUEO_SCOPUS_2023.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), [{{< meta autores.2 >}}](../members/current/Segundo Quintriqueo.qmd)   
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias-Ortega.qmd), [{{< meta autores.2 >}}](../members/current/Segundo Quintriqueo Millán.qmd)   
 **Lugar de publicación**: {{< meta venue >}}    
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}, {{< meta keywords.7 >}}    
 **Pre-print**: [PDF](../{{< meta preprint >}})    

@@ -1,14 +1,14 @@
 ---
 name: "Experiencias de Estudiantes Universitarios de La Araucanía en el Contexto de Aislamiento Físico"
 title: "Experiencias de Estudiantes Universitarios de La Araucanía en el Contexto de Aislamiento Físico" 
-autores: ["Julia Sarmiento", "Karla Morales", "Valeska Torres", "Daniela Vicente", "Katerin Arias"]
+autores: ["Julia Sarmiento", "Karla Morales", "Valeska Torres", "Daniela Vicente", "Katerin Arias-Ortega"]
 venue: "Última Década"
 tipo: "Revista"
 categories: 2022
 keywords: ["2022", "Última Década", "Ansiedad", "Educación a Distancia", "Covid-19"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2022_KARIAS/ART_12_Experiencias EST_UNIV_Sarmiento_ARIAS ET AL_SCIELO_2022.pdf"
 ---
-**Autores**: {{< meta autores.1 >}}, {{< meta autores.2 >}}, {{< meta autores.3 >}}, {{< meta autores.4 >}}, [{{< meta autores.5 >}}](../members/current/Katerin Arias.qmd)  
+**Autores**: {{< meta autores.1 >}}, {{< meta autores.2 >}}, {{< meta autores.3 >}}, {{< meta autores.4 >}}, [{{< meta autores.5 >}}](../members/current/Katerin Arias-Ortega.qmd)  
 **Lugar de publicación**: {{< meta venue >}}     
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}  
 **Pre-print**: [PDF](../{{< meta preprint >}})    

@@ -1,14 +1,14 @@
 ---
 name: "(Des) encuentros en la Educación Intercultural en Contexto Mapuche, Chile"
 title: "(Des) encuentros en la Educación Intercultural en Contexto Mapuche, Chile"
-autores: ["Katerin Arias", "Paula Riquelme"]
+autores: ["Katerin Arias-Ortega", "Paula Riquelme"]
 venue: "Revista de Estudios y Experiencias en Educación"
 categories: 2019
 tipo: "Revista"
 keywords: ["2019", "Revista de Estudios y Experiencias en Educación", "Ley Indígena", "Educación Intercultural Bilingüe", "Interculturalidad Funcionalista", "Interculturalidad Crítica"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2019_KARIAS/ART_5_SCIELO.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.2 >}}    
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias-Ortega.qmd), {{< meta autores.2 >}}    
 **Lugar de publicación**: {{< meta venue >}}     
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}    
 **Pre-print**: [PDF](../{{< meta preprint >}})    

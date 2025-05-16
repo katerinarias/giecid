@@ -1,14 +1,14 @@
 ---
 name: "Contenidos Educativos Mapuches y Espacios Ecológicos-Culturales en La Araucanía: Desafíos para una Educación Intercultural"
 title: "Contenidos Educativos Mapuches y Espacios Ecológicos-Culturales en La Araucanía: Desafíos para una Educación Intercultural" 
-autores: ["Elias Andrade", "Segundo Quintriqueo", "Katerin Arias", "Fernando Peña"]
+autores: ["Elias Andrade", "Segundo Quintriqueo Millán", "Katerin Arias-Ortega", "Fernando Peña"]
 venue: "Diálogo Andino"
 tipo: "Revista"
 categories: 2022
 keywords: ["2022", "Diálogo Andino", "Contenidos Educativos", "Conocimiento Indígena", "Construcción de Saberes", "Conocimiento Educativo Familiar", "Espacios Ecológicos-Culturales"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2022_KARIAS/ART_8_Arias-Ortega_Dialogo Andino_scopus_2022.pdf"
 ---
-**Autores**: {{< meta autores.1 >}}, [{{< meta autores.2 >}}](../members/current/Segundo Quintriqueo.qmd), [{{< meta autores.3 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.4 >}}  
+**Autores**: {{< meta autores.1 >}}, [{{< meta autores.2 >}}](../members/current/Segundo Quintriqueo Millán.qmd), [{{< meta autores.3 >}}](../members/current/Katerin Arias-Ortega.qmd), {{< meta autores.4 >}}  
 **Lugar de publicación**: {{< meta venue >}}     
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}, {{< meta keywords.7 >}}  
 **Pre-print**: [PDF](../{{< meta preprint >}})    

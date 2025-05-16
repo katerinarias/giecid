@@ -1,15 +1,20 @@
 ---
-name: "Sentido del lugar como conocimientos geográficos y territoriales mapuche para una educación intercultural Fondecyt Regular"
-title: "Sentido del lugar como conocimientos geográficos y territoriales mapuche para una educación intercultural Fondecyt Regular"
+name: "Sentido del lugar como conocimientos geográficos y territoriales mapuche para una educación intercultural. Fondecyt Regular"
+title: "Sentido del lugar como conocimientos geográficos y territoriales mapuche para una educación intercultural. Fondecyt Regular"
 financiamiento: "ANID"
 start-year: "2018"
 end-year: "2021"
-autores: ["Katerin Arias"]
+autores: ["Segundo Quintriqueo Millán", "Katerin Arias-Ortega", "Soledad Morales Saavedra", "Fernando Peña-Cortés", "Gerardo Muñoz"]
 role: "Co-investigadora"
 code: ""
 ---
-**Investigador Responsable**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd)  
+**Investigador Responsable**: [{{< meta autores.1 >}}](../members/current/Segundo Quintriqueo Millán.qmd)  
+**Miembros**:  
+  - [{{< meta autores.1 >}}](../members/current/Segundo Quintriqueo Millán.qmd) (Investigador Responsable)  
+  - [{{< meta autores.2 >}}](../members/current/Katerin Arias-Ortega.qmd) ({{< meta role >}})  
+  - {{< meta autores.3 >}} (Co-Investigadora)  
+  - {{< meta autores.4 >}} (Co-Investigador)  
+  - {{< meta autores.5 >}} (Co-investigador)  
 **Fuente de Financiamiento**: {{< meta financiamiento >}}  
 **Período de ejecución**: {{< meta start-year >}} - {{< meta end-year >}}  
-<!-- **Rol en el Proyecto**: {{< meta role >}}   -->
 **Código del Proyecto**: {{< meta code >}} 

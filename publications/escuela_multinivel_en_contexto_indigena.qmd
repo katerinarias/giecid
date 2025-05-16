@@ -1,14 +1,14 @@
 ---
 name: "Escuela multinivel en contexto indígena: fortalezas, limitaciones y desafíos  desde la perspectiva de los profesores en La Araucanía"
 title: "Escuela multinivel en contexto indígena: fortalezas, limitaciones y desafíos  desde la perspectiva de los profesores en La Araucanía"
-autores: ["Katerin Arias", "Natalia Díaz", "Daniela Catrimilla", "María Saldías"]
+autores: ["Katerin Arias-Ortega", "Natalia Díaz", "Daniela Catrimilla", "María Saldías"]
 venue: "Ciencias Psicológicas" 
 tipo: "Revista"
 categories: 2023
 keywords: ["2023", "Ciencias Psicológicas", "Cultura Indígena", "Educación Escolar", "Enseñanza y Aprendizaje", "Pueblos Indígenas y Tribales", "Educación Intercultural"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2023_KARIAS/ART_3_Escuela Multinivel_Arias_2023_SCOPUS.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.2 >}}, {{< meta autores.3 >}}, {{< meta autores.4 >}}    
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias-Ortega.qmd), {{< meta autores.2 >}}, {{< meta autores.3 >}}, {{< meta autores.4 >}}    
 **Lugar de publicación**: {{< meta venue >}}    
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}, {{< meta keywords.7 >}}    
 **Pre-print**: [PDF](../{{< meta preprint >}})    

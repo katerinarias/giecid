@@ -1,7 +1,7 @@
 ---
 name: "Desafíos de la Educación desde una Interculturalidad Crítica y Decolonial en Contextos Indígenas"
 title: "Desafíos de la Educación desde una Interculturalidad Crítica y Decolonial en Contextos Indígenas"
-autores: ["Segundo Quintriqueo", "Katerin Arias"]
+autores: ["Segundo Quintriqueo Millán", "Katerin Arias-Ortega"]
 libro: "Decolonialidad e Interculturalidad Crítica"
 capitulo: "7"
 tipo: "Capítulo de Libro"
@@ -9,7 +9,7 @@ categories: 2024
 keywords: ["2024", "Capítulo de Libro"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2024_KARIAS/CAP_libro1_Arias-Ortega_2024_Referato.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Segundo Quintriqueo.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd)    
+**Autores**: [{{< meta autores.1 >}}](../members/current/Segundo Quintriqueo Millán.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias-Ortega.qmd)    
 **Libro**: {{< meta libro >}}   
 **Capítulo**: {{< meta capitulo >}}   
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}    

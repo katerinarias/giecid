@@ -4,12 +4,17 @@ title: "Principios de la Pedagogía y Educación Indígena: Aportes para una Edu
 financiamiento: "ANID"
 start-year: "2022"
 end-year: "2025"
-autores: ["Katerin Arias"]
-role: "Co-Investigadora"
+autores: ["Segundo Quintriqueo Millán", "Katerin Arias-Ortega", "Soledad Morales Saavedra", "Fernando Peña-Cortés", "Gerardo Muñoz"]
+role: "Co-investigadora"
 code: ""
 ---
-**Investigador Responsable**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd)  
-**Fuente de Financiamiento**: {{< meta financiamiento >}}  
-**Período de ejecución**: {{< meta start-year >}} - {{< meta end-year >}}  
-<!-- **Rol en el Proyecto**: {{< meta role >}}   -->
-**Código del Proyecto**: {{< meta code >}}  
+**Chercheur Principal**: [{{< meta autores.1 >}}](../members/current/Segundo Quintriqueo Millán.qmd)  
+**Membres**:  
+  - [{{< meta autores.1 >}}](../members/current/Segundo Quintriqueo Millán.qmd) (Chercheur Principal)  
+  - [{{< meta autores.2 >}}](../members/current/Katerin Arias-Ortega.qmd) (Co-chercheuse)  
+  - {{< meta autores.3 >}} (Co-chercheuse)  
+  - {{< meta autores.4 >}} (Co-chercheur)  
+  - {{< meta autores.5 >}} (Co-chercheur)  
+**Source de Financement**: {{< meta financiamiento >}}  
+**Période d'exécution**: {{< meta start-year >}} - {{< meta end-year >}}  
+**Code du Projet**: {{< meta code >}}  

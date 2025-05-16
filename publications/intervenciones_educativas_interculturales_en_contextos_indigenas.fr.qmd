@@ -1,14 +1,14 @@
 ---
 name: "Intervenciones educativas interculturales en contextos indígenas: aportes a la descolonización de la educación escolar"
 title: "Intervenciones educativas interculturales en contextos indígenas: aportes a la descolonización de la educación escolar"
-autores: ["Katerin Arias", "Eliana Ortiz"]
+autores: ["Katerin Arias-Ortega", "Eliana Ortiz"]
 venue: "Meta: Avaliação"
 tipo: "Revista"
 categories: 2022
 keywords: ["2022", "Meta: Avaliação", "Intervención educativa intercultural", "Saberes y conocimientos educativos indígenas", "Relación educativa intercultural"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2022_KARIAS/ART_3_Intervención EI_Arias_Ortiz_2022_METAAVALIACIAO_SCOPUS.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.2 >}}  
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias-Ortega.qmd), {{< meta autores.2 >}}  
 **Lugar de publicación**: {{< meta venue >}}     
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}  
 **Pre-print**: [PDF](../{{< meta preprint >}})    

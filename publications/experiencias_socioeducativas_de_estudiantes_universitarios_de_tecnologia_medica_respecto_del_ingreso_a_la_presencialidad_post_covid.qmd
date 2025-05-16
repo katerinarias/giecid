@@ -1,14 +1,14 @@
 ---
 name: "Esperiencias socioeducativas de estudiantes universitarios de Tecnología Médica respecto del ingreso a la presencialidad post-covid"
 title: "Esperiencias socioeducativas de estudiantes universitarios de Tecnología Médica respecto del ingreso a la presencialidad post-covid"
-autores: ["Carlos Ávila", "Hernán de la Torre", "María Ruiz", "Katerin Arias"]
+autores: ["Carlos Ávila", "Hernán de la Torre", "María Ruiz", "Katerin Arias-Ortega"]
 venue: "Revista de Estudios y Experiencias en Educación"
 tipo: "Revista"
 categories: 2024
 keywords: ["2024", "Revista de Estudios y Experiencias en Educación", "Experiencias Socioeducativas", "COVID-19", "Educación Superior", "Tecnología Médica", "Educación a Distancia"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2024_KARIAS/ART_13_PORTUGUESA_EDUC_ARIAS ET AL_2024_SCOPUS.pdf"
 ---
-**Autores**: {{< meta autores.1 >}}, {{< meta autores.2 >}}, {{< meta autores.3 >}}, [{{< meta autores.4 >}}](../members/current/Katerin Arias.qmd)
+**Autores**: {{< meta autores.1 >}}, {{< meta autores.2 >}}, {{< meta autores.3 >}}, [{{< meta autores.4 >}}](../members/current/Katerin Arias-Ortega.qmd)
 **Lugar de publicación**: {{< meta venue >}}     
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}, {{< meta keywords.7 >}}    
 **Pre-print**: [PDF](../{{< meta preprint >}})    

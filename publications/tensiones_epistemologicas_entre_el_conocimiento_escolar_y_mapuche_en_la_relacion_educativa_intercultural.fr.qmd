@@ -1,14 +1,14 @@
 ---
 name: "Tensiones epistemológicas entre el conocimiento escolar y mapuche en la relación educativa intercultural"
 title: "Tensiones epistemológicas entre el conocimiento escolar y mapuche en la relación educativa intercultural"
-autores: ["Segundo Quintriqueo", "Katerin Arias", "Gerardo Muñoz", "Dykssa Saez", "Karla Morales"]
+autores: ["Segundo Quintriqueo Millán", "Katerin Arias-Ortega", "Gerardo Muñoz", "Dykssa Saez", "Karla Morales"]
 venue: "Praxis educativa"
 tipo: "Revista"
 categories: 2022
 keywords: ["2022", "Praxis Educativa", "Escolarización y Curriculum Escolar", "Conocimiento Escolar y Educativo Mapuche", "Tensiones Epistemológicas", "Pluralismo Epistemológico", "Educación Intercultural"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2022_KARIAS/ART_7_Tensiones entre Conoc_Escolar_Mapuc_REI_SCIELO.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Segundo Quintriqueo.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.3 >}}, {{< meta autores.4 >}}, {{< meta autores.5 >}}  
+**Autores**: [{{< meta autores.1 >}}](../members/current/Segundo Quintriqueo Millán.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias-Ortega.qmd), {{< meta autores.3 >}}, {{< meta autores.4 >}}, {{< meta autores.5 >}}  
 **Lugar de publicación**: {{< meta venue >}}     
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}, {{< meta keywords.7 >}}  
 **Pre-print**: [PDF](../{{< meta preprint >}})    

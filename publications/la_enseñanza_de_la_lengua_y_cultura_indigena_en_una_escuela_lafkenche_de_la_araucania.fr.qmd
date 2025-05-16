@@ -1,14 +1,14 @@
 ---
 name: "La enseñanza de la lengua y cultura indígena en una escuela lafkenche de La Araucanía"
 title: "La enseñanza de la lengua y cultura indígena en una escuela lafkenche de La Araucanía"
-autores: ["Katerin Arias", "Miguel del Pino", "Gerardo Muñoz"]
+autores: ["Katerin Arias-Ortega", "Miguel Del Pino Sepúlveda", "Gerardo Muñoz"]
 venue: "Revista Brasileira de Educação"
 tipo: "Revista"
 categories: 2023
 keywords: ["2023", "Revista Brasileira de Educação", "Lengua y Cultura Mapuche", "Prácticas Pedagógicas", "Educación Intercultural Bilingüe"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2023_KARIAS/ART_9_RBE_AriaS_SCOPUS_2023.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), [{{< meta autores.2 >}}](../members/current/Miguel del Pino.qmd), {{< meta autores.3 >}}   
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias-Ortega.qmd), [{{< meta autores.2 >}}](../members/current/Miguel Del Pino Sepúlveda.qmd), {{< meta autores.3 >}}   
 **Lugar de publicación**: {{< meta venue >}}    
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}    
 **Pre-print**: [PDF](../{{< meta preprint >}})    
@@ -18,7 +18,7 @@ preprint: "pdfs/productividad/PRODUCTIVIDAD_2023_KARIAS/ART_9_RBE_AriaS_SCOPUS_2
 **BibTeX**:
 ```bibtex
 @article{arias2023ensenanza,
-  author = {Arias, Katerin and del Pino, Miguel and Muñoz, Gerardo},
+  author = {Arias, Katerin and Del Pino, Miguel and Muñoz, Gerardo},
   title = {{< meta title >}},
   journal = {{< meta venue >}},
   year = {{< meta categories.1 >}},

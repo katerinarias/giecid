@@ -1,14 +1,14 @@
 ---
 name: "Monoculturalidad en las prácticas pedagógicas en la formación inicial docente en La Araucanía, Chile"
 title: "Monoculturalidad en las prácticas pedagógicas en la formación inicial docente en La Araucanía, Chile"
-autores: ["Katerin Arias", "Segundo Quintriqueo", "Vanessa Valdebenito"]
+autores: ["Katerin Arias-Ortega", "Segundo Quintriqueo Millán", "Vanessa Valdebenito"]
 venue: "FONDECYT"
 tipo: "Revista"
 categories: 2018
 keywords: ["2018", "FONDECYT", "Prácticas pedagógicas", "Monoculturalidad", "Formación inicial docente", "Enfoque educativo intercultural"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2018_KARIAS/ART_1_SCOPUS.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), [{{< meta autores.2 >}}](../members/current/Segundo Quintriqueo.qmd), {{< meta autores.3 >}}    
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias-Ortega.qmd), [{{< meta autores.2 >}}](../members/current/Segundo Quintriqueo Millán.qmd), {{< meta autores.3 >}}    
 **Lugar de publicación**: {{< meta venue >}}     
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}    
 **Pre-print**: [PDF](../{{< meta preprint >}})    

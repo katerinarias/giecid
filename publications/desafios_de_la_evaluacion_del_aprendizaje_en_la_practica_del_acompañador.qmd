@@ -1,14 +1,14 @@
 ---
 name: "Desafíos  de  la  evaluación  del  aprendizaje  en  la  práctica  del  acompañador-acompañado: el caso de educación intercultural bilingüe en Chile"
 title: "Desafíos  de  la  evaluación  del  aprendizaje  en  la  práctica  del  acompañador-acompañado: el caso de educación intercultural bilingüe en Chile"
-autores: ["Katerin Arias", "Carlo Prévil"]
+autores: ["Katerin Arias-Ortega", "Carlo Prévil"]
 venue: "Revista Lusófona de Educação"
 tipo: "Revista"
 categories: 2024
 keywords: ["2024", "Revista Lusófona de Educação", "Enseñanza del Tiempo Compartido", "Relación de Apoyo", "Educación Informal", "Aprendizaje Social", "Desarrollo Profesional"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2024_KARIAS/ART_2 RLE_ARIAS-ORTEGA ET AL_2024_SCOPUS.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.2 >}}    
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias-Ortega.qmd), {{< meta autores.2 >}}    
 **Lugar de publicación**: {{< meta venue >}}     
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}, {{< meta keywords.7 >}}    
 **Pre-print**: [PDF](../{{< meta preprint >}})    

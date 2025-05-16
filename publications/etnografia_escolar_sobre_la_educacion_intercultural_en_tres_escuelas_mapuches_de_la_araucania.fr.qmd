@@ -1,14 +1,14 @@
 ---
 name: "Etnografía escolar sobre la educación intercultural en tres escuelas mapuches de La Araucanía"
 title: "Etnografía escolar sobre la educación intercultural en tres escuelas mapuches de La Araucanía"
-autores: ["Katerin Arias-Ortega"]
+autores: ["Katerin Arias-Ortega-Ortega"]
 venue: "Educar em Revista"
 tipo: "Revista"
 categories: 2021
 keywords: ["2021", "Educar em Revista", "Educación Intercultural Bilingüe", "Relación educativa", "Interculturalidad"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2021_KARIAS/ART_N°5_ ARIAS-ORTEGA_educaremrevista_2021_WOS.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd)    
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias-Ortega.qmd)    
 **Lugar de publicación**: {{< meta venue >}}     
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}    
 **Pre-print**: [PDF](../{{< meta preprint >}})    

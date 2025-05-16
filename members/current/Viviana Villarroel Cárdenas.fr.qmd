@@ -1,7 +1,7 @@
 ---
-title: "Viviana Villarroel"
-rol: "Investigador Asociado"
-image: "Viviana Villarroel.jpg"
+title: "Viviana Villarroel Cárdenas"
+rol: "Investigadora Asociada"
+image: "Viviana Villarroel Cárdenas.jpg"
 title-block-banner: false
 format: html
 css: ../../styles.css
@@ -11,18 +11,18 @@ listing:
     template: ../../custom-listing.ejs
     fields: [title, autores, categories, venue]
     include:
-      autores: "{Viviana Villarroel}"
+      autores: "{Viviana Villarroel Cárdenas}"
 ---
 
 ::: {.profile-image}
-![Viviana Villarroel<br> Investigador Asociado](Viviana Villarroel.jpg "Viviana Villarroel")
+![Viviana Villarroel Cárdenas<br> Investigadora Asociada](Viviana Villarroel Cárdenas.jpg "Viviana Villarroel Cárdenas")
 :::
 <br>
 
 **Información de Contacto**:
 
 - Correo electrónico: vvillarroel@uct.cl
-- Afiliación: Facultad de Ciencias de la Salud
+- Afiliación: Profesora Part-time Departamento de Psicología, Facultad de Ciencias de la Salud, Universidad Católica de Temuco.
 - ORCID: 0000-0003-0408-8794
 - [Link de Scholar](https://scholar.google.com/citations?user=L3aTziYAAAAJ&hl=en&oi=ao)
 

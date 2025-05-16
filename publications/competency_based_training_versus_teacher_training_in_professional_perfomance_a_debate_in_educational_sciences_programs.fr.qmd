@@ -1,14 +1,14 @@
 ---
 name: "Competency-Based Training Versus Teacher Training in Professional Performance: A Debate in Educational Sciences Programs"
 title: "Competency-Based Training Versus Teacher Training in Professional Performance: A Debate in Educational Sciences Programs"
-autores: ["Lázaro Blanco", "Katerin Arias"]
+autores: ["Lázaro Blanco", "Katerin Arias-Ortega"]
 venue: "Journal of Ethnic and Cultural Studies"
 tipo: "Revista"
 categories: 2023
 keywords: ["2023", "Journal of Ethnic and Cultural Studies", "Competency-Based Model", "Intercultural Competencies", "Intercultural Education", "Interculturality", "Teacher Education"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2023_KARIAS/ART_8_JECS_ARIAS_SCOPUS_2023.pdf"
 ---
-**Autores**: {{< meta autores.1 >}}, [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd)   
+**Autores**: {{< meta autores.1 >}}, [{{< meta autores.2 >}}](../members/current/Katerin Arias-Ortega.qmd)   
 **Lugar de publicación**: {{< meta venue >}}    
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}, {{< meta keywords.7 >}}    
 **Pre-print**: [PDF](../{{< meta preprint >}})    

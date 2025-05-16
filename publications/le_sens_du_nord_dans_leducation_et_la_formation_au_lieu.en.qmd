@@ -1,14 +1,14 @@
 ---
 name: "Le sens du Nord dans l’éducation et la formation au lieu : Exploration d’enjeux"
 title: "Le sens du Nord dans l’éducation et la formation au lieu : Exploration d’enjeux"
-autores: ["Carlo Prévil", "Katerin Arias-Ortega"]
+autores: ["Carlo Prévil", "Katerin Arias-Ortega-Ortega"]
 venue: "Éducation relative à l'environnement"
 tipo: "Revista"
 categories: 2021
 keywords: ["2021", "Éducation relative à l'environnement", "Sense of Place", "Geographic Education", "Place Based Education", "Interculturalism", "Eco-Citizenship"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2021_KARIAS/ART_N°8_ OTRO_ARIAS-ORTEGA_ERE_2021_OTRAS INDEX.pdf"
 ---
-**Autores**: {{< meta autores.1 >}}, [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd)    
+**Autores**: {{< meta autores.1 >}}, [{{< meta autores.2 >}}](../members/current/Katerin Arias-Ortega.qmd)    
 **Lugar de publicación**: {{< meta venue >}}     
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}, {{< meta keywords.7 >}}    
 **Pre-print**: [PDF](../{{< meta preprint >}})    

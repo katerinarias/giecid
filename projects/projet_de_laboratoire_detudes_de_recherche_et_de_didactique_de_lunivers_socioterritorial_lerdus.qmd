@@ -1,15 +1,17 @@
 ---
-name: "Projet de Laboratoire d'études, de recherche et de didactique de l'univers socioterritorial. (LERDUS)"
-title: "Projet de Laboratoire d'études, de recherche et de didactique de l'univers socioterritorial. (LERDUS)"
-financiamiento: "Projet de Laboratoire d'études, de recherche et de didactique de l'univers socioterritorial. (LERDUS)"
+name: "Projet de Laboratoire d'études, de recherche et de didactique de l'univers socioterritorial (LERDUS)"
+title: "Projet de Laboratoire d'études, de recherche et de didactique de l'univers socioterritorial (LERDUS)"
+financiamiento: "Projet de Laboratoire d'études, de recherche et de didactique de l'univers socioterritorial (LERDUS)"
 start-year: "2022"
 end-year: "2025"
-autores: ["Katerin Arias"]
-role: "Co-Investigadora"
+autores: ["Carlo Prévil", "Katerin Arias-Ortega"]
+role: "Co-investigadora"
 code: ""
 ---
-**Investigador Responsable**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd)  
+**Investigador Responsable**: {{< meta autores.1 >}}  
+**Miembros**:  
+  - {{< meta autores.1 >}} (Investigador Responsable)  
+  - [{{< meta autores.2 >}}](../members/current/Katerin Arias-Ortega.qmd) ({{< meta role >}})  
 **Fuente de Financiamiento**: {{< meta financiamiento >}}  
 **Período de ejecución**: {{< meta start-year >}} - {{< meta end-year >}}  
-<!-- **Rol en el Proyecto**: {{< meta role >}}   -->
 **Código del Proyecto**: {{< meta code >}} 

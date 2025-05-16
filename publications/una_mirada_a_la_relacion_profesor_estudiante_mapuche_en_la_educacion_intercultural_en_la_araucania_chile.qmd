@@ -1,14 +1,14 @@
 ---
 name: "Una mirada a la relación profesor-estudiante mapuche en la educación intercultural en La Araucanía, Chile"
 title: "Una mirada a la relación profesor-estudiante mapuche en la educación intercultural en La Araucanía, Chile"
-autores: ["Katerin Arias", "Valentina Castro", "Angela Zuccone"]
+autores: ["Katerin Arias-Ortega", "Valentina Castro", "Angela Zuccone"]
 venue: "Práxis Educativa, Ponta Grossa"
 tipo: "Revista"
 categories: 2024
 keywords: ["2024", "Práxis Educativa, Ponta Grossa", "Relación Profesor-Estudiante Mapuche", "Educación Intercultural", "Niveles de Interacción en la Comunicación", "Lengua Indígena"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2024_KARIAS/ART_1_ARIAS-ORTEGA ET AL_2024_PRAXIS-SCOPUS.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.2 >}}, {{< meta autores.3 >}}    
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias-Ortega.qmd), {{< meta autores.2 >}}, {{< meta autores.3 >}}    
 **Lugar de publicación**: {{< meta venue >}}     
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}    
 **Pre-print**: [PDF](../{{< meta preprint >}})    

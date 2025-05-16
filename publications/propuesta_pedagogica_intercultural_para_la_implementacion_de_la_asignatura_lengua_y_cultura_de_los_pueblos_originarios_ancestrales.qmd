@@ -1,14 +1,14 @@
 ---
 name: "Propuesta Pedagógica Interculturalpara la Implementación de la Asignatura Lengua y Cultura de los Pueblos Originarios Ancestrales"
 title: "Propuesta Pedagógica Interculturalpara la Implementación de la Asignatura Lengua y Cultura de los Pueblos Originarios Ancestrales"
-autores: ["Segundo Quintriqueo", "Katerin Arias", "Soledad Morales", "Gerardo Muñoz", "Dykssa Saez", "Elias Andrade", "Viviana Zapata", "Viviana Villarroel"]
+autores: ["Segundo Quintriqueo Millán", "Katerin Arias-Ortega", "Soledad Morales", "Gerardo Muñoz", "Dykssa Saez", "Elias Andrade", "Viviana Zapata", "Viviana Villarroel Cárdenas"]
 libro: "Propuesta Pedagógica Interculturalpara la Implementación de la Asignatura Lengua y Cultura de los Pueblos Originarios Ancestrales"
 tipo: "Libro"
 categories: 2022
 keywords: ["2022", "Libro", "Educación Intercultural"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2022_KARIAS/propuesta pedagógica 2022 WEB (12-4-23).pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Segundo Quintriqueo.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.3 >}}, {{< meta autores.4 >}}, {{< meta autores.5 >}}, {{< meta autores.6 >}}, {{< meta autores.7 >}}, [{{< meta autores.8 >}}](../members/current/Viviana Villarroel.qmd)  
+**Autores**: [{{< meta autores.1 >}}](../members/current/Segundo Quintriqueo Millán.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias-Ortega.qmd), {{< meta autores.3 >}}, {{< meta autores.4 >}}, {{< meta autores.5 >}}, {{< meta autores.6 >}}, {{< meta autores.7 >}}, [{{< meta autores.8 >}}](../members/current/Viviana Villarroel Cárdenas.qmd)  
 **Libro**: {{< meta libro >}}   
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}   
 **Pre-print**: [PDF](../{{< meta preprint >}})    

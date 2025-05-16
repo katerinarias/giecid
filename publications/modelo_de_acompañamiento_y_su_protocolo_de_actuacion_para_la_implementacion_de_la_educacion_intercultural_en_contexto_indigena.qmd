@@ -1,14 +1,14 @@
 ---
 name: "Modelo de Acompañamiento y su Protocolo de Actuación para la Implementación de la Educación Intercultural en Contexto Indígena"
 title: "Modelo de Acompañamiento y su Protocolo de Actuación para la Implementación de la Educación Intercultural en Contexto Indígena"
-autores: ["Segundo Quintriqueo", "Katerin Arias"]
+autores: ["Segundo Quintriqueo Millán", "Katerin Arias-Ortega"]
 libro: "Modelo de Acompañamiento y su Protocolo de Actuación para la Implementación de la Educación Intercultural en Contexto Indígena"
 tipo: "Libro"
 categories: 2024
 keywords: ["2024", "Libro", "Educación Intercultural"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2024_KARIAS/Libro sin referato_1_Modelo acompañamiento 2024_Arias_2024.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Segundo Quintriqueo.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd)    
+**Autores**: [{{< meta autores.1 >}}](../members/current/Segundo Quintriqueo Millán.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias-Ortega.qmd)    
 **Libro**: {{< meta libro >}}   
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}   
 **Pre-print**: [PDF](../{{< meta preprint >}})    

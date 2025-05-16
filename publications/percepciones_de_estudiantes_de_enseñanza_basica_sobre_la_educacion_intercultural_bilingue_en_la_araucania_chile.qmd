@@ -1,14 +1,14 @@
 ---
 name: "Percepciones de estudiantes de enseñanza básica sobre la educación intercultural bilingüe en La Araucanía, Chile"
 title: "Percepciones de estudiantes de enseñanza básica sobre la educación intercultural bilingüe en La Araucanía, Chile"
-autores: ["Albert Wyss", "Jorge Pacheco", "Katerin Arias"]
+autores: ["Albert Wyss", "Jorge Pacheco", "Katerin Arias-Ortega"]
 venue: "REXE"
 tipo: "Revista"
 categories: 2021
 keywords: ["2021", "REXE", "Educación intercultural bilingüe", "lengua indígena", "cultura indígena", "percepción"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2021_KARIAS/ART_N°6_OTROS Y ARIAS-ORTEGA_REXE_2021_SCIELO.pdf"
 ---
-**Autores**: {{< meta autores.1 >}}, {{< meta autores.2 >}}, [{{< meta autores.3 >}}](../members/current/Katerin Arias.qmd)    
+**Autores**: {{< meta autores.1 >}}, {{< meta autores.2 >}}, [{{< meta autores.3 >}}](../members/current/Katerin Arias-Ortega.qmd)    
 **Lugar de publicación**: {{< meta venue >}}     
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}    
 **Pre-print**: [PDF](../{{< meta preprint >}})    

@@ -4,12 +4,18 @@ title: "Propuesta metodológica para la implementación de la educación intercu
 financiamiento: "MINEDUC"
 start-year: "2020"
 end-year: "2021"
-autores: ["Katerin Arias"]
-role: "Co-Investigadora"
+autores: ["Segundo Quintriqueo Millán", "Katerin Arias-Ortega", "Soledad Morales Saavedra", "Dykssa Sáez", "Gabriel Llanquinao", "Gerardo Muñoz"]
+role: "Co-investigadora"
 code: ""
 ---
-**Investigador Responsable**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd)  
+**Investigador Responsable**: [{{< meta autores.1 >}}](../members/current/Segundo Quintriqueo Millán.qmd)  
+**Miembros**:  
+  - [{{< meta autores.1 >}}](../members/current/Segundo Quintriqueo Millán.qmd) (Investigador Responsable)  
+  - [{{< meta autores.2 >}}](../members/current/Katerin Arias-Ortega.qmd) ({{< meta role >}})  
+  - {{< meta autores.3 >}} (Co-Investigadora)  
+  - {{< meta autores.4 >}} (Co-investigadora)  
+  - {{< meta autores.5 >}} (Co-Investigador)  
+  - {{< meta autores.6 >}} (Co-investigador)  
 **Fuente de Financiamiento**: {{< meta financiamiento >}}  
 **Período de ejecución**: {{< meta start-year >}} - {{< meta end-year >}}  
-<!-- **Rol en el Proyecto**: {{< meta role >}}   -->
 **Código del Proyecto**: {{< meta code >}} 

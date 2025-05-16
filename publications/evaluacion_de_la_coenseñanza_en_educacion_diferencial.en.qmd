@@ -1,14 +1,14 @@
 ---
 name: "Evaluación de la co-enseñanza en educación diferencial: principales fortalezas, limitaciones y desafíos"
 title: "Evaluación de la co-enseñanza en educación diferencial: principales fortalezas, limitaciones y desafíos"
-autores: ["Katerin Arias"]
+autores: ["Katerin Arias-Ortega"]
 venue: "Meta: Avaliação"
 tipo: "Revista"
 categories: 2024
 keywords: ["2024", "Meta: Avaliação", "Educación Especial", "Co-enseñanza", "Educación Inclusiva"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2024_KARIAS/ART_6_METAEVALUACION_ARIAS_2024_SCOPUS.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd)    
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias-Ortega.qmd)    
 **Lugar de publicación**: {{< meta venue >}}     
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}    
 **Pre-print**: [PDF](../{{< meta preprint >}})    

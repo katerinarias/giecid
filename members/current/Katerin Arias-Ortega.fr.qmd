@@ -1,7 +1,7 @@
 ---
-title: "Katerin Arias"
+title: "Katerin Arias-Ortega"
 rol: "Lider del grupo"
-image: "Katerin Arias.jpg"
+image: "Katerin Arias-Ortega.jpg"
 title-block-banner: false
 format: html
 css: ../../styles.css
@@ -11,22 +11,20 @@ listing:
     template: ../../custom-listing.ejs
     fields: [title, autores, categories, venue]
     include:
-      autores: "{Katerin Arias}"
+      autores: "{Katerin Arias-Ortega}"
 ---
 
 ::: {.profile-image}
-![Katerin Arias<br> Lider del grupo](Katerin Arias.jpg "Katerin Arias")
+![Katerin Arias-Ortega<br> Lider del grupo](Katerin Arias-Ortega.jpg "Katerin Arias-Ortega")
 :::
 <br>
 
 **Información de Contacto**:
 
-::: {.custom-bullets}
 - Correo electrónico: karias@uct.cl
-- Afiliación: Facultad de Ciencias de Salud
+- Afiliación: Departamento de Psicología, Facultad de Ciencias de la Salud, Universidad Católica de Temuco.
 - Intereses de Investigación: Educación e Interculturalidad
 - [Link de Scholar](https://scholar.google.com/citations?user=16Ms6dQAAAAJ&hl=en&oi=ao)
-:::
 
 **Sobre mí**:
 

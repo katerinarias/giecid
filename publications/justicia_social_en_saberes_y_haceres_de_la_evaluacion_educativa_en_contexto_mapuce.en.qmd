@@ -1,14 +1,14 @@
 ---
 name: "Justicia Social en Saberes y Haceres de la Evaluación Educativa en Contexto Mapuce"
 title: "Justicia Social en Saberes y Haceres de la Evaluación Educativa en Contexto Mapuce"
-autores: ["Miguel Del Pino", "Katerin Arias", "Gerardo Muñoz"]
+autores: ["Miguel Del Pino Sepúlveda", "Katerin Arias-Ortega", "Gerardo Muñoz"]
 venue: "Revista Internacional de Educación para la Justicia Social"
 tipo: "Revista"
 categories: 2022
 keywords: ["2022", "Revista Internacional de Educación para la Justicia Social", "Reconocimiento", "Participación", "Evaluación educativa", "Educación indígena", "Justicia social"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2022_KARIAS/ART_5_Justicia Social_Revista RJSC_DEL PINO_ARIAS_2022_ SCOPUS.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Miguel del Pino.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.3 >}}  
+**Autores**: [{{< meta autores.1 >}}](../members/current/Miguel Del Pino Sepúlveda.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias-Ortega.qmd), {{< meta autores.3 >}}  
 **Lugar de publicación**: {{< meta venue >}}     
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}, {{< meta keywords.7 >}}  
 **Pre-print**: [PDF](../{{< meta preprint >}})    

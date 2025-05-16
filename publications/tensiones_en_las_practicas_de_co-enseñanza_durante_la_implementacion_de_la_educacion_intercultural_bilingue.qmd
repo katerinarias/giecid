@@ -1,14 +1,14 @@
 ---
 name: "Tensiones en las prácticas de co-enseñanza durante la implementación de la educación intercultural bilingüe"
 title: "Tensiones en las prácticas de co-enseñanza durante la implementación de la educación intercultural bilingüe"
-autores: ["Katerin Arias", "Sergio Alarcón", "Javiera Barriga", "María Solís"]
+autores: ["Katerin Arias-Ortega", "Sergio Alarcón", "Javiera Barriga", "María Solís"]
 venue: "Revista Educación"
 tipo: "Revista"
 categories: 2022
 keywords: ["2022", "Revista Educación", "Co-enseñanza", "Prácticas Pedagógicas", "Educación Intercultural", "Lengua Indígena", "Cultura Indígena"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2022_KARIAS/ART_1_ Tensiones en la Co_enseñanza EIB_ARIAS ET AL_2022_WOS_SCIELO.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.2 >}}, {{< meta autores.3 >}}, {{< meta autores.4 >}}    
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias-Ortega.qmd), {{< meta autores.2 >}}, {{< meta autores.3 >}}, {{< meta autores.4 >}}    
 **Lugar de publicación**: {{< meta venue >}}     
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}, {{< meta keywords.7 >}}  
 **Pre-print**: [PDF](../{{< meta preprint >}})    

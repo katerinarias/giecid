@@ -1,0 +1,32 @@
+---
+title: "Segundo Quintriqueo Millán"
+rol: "Investigador Asociado"
+image: "Segundo Quintriqueo Millán.png"
+title-block-banner: false
+format: html
+css: ../../styles.css
+listing:
+    contents:
+        - "../../publications/*.qmd"
+    template: ../../custom-listing.ejs
+    fields: [title, autores, categories, venue]
+    include:
+      autores: "{Segundo Quintriqueo Millán}"
+---
+
+::: {.profile-image}
+![Segundo Quintriqueo Millán<br> Investigador Asociado](Segundo Quintriqueo Millán.png "Segundo Quintriqueo Millán")
+:::
+<br>
+
+**Información de Contacto**:
+
+- Correo electrónico: squintri@uct.cl
+- Afiliación: Facultad de Ciencias de la Educación Universidad Católica de Temuco
+- Intereses de Investigación: Educación e Interculturalidad
+- ORCID: 0000-0003-0408-8794
+- [Link de Scholar](https://scholar.google.com/citations?user=XZBjhB4AAAAJ&hl=en&oi=ao)
+
+**Sobre mí**:
+
+Dr. Segundo Quintriqueo Millán Millán. Profesor de Educación Básica Intercultural, por la Universidad Católica de Temuco (UCT), Chile. Magíster en Educación por l’Université du Québec en Abitibi-Témiscamingue (UQAT). Doctor en Educación por la Universidad de Extremadura, España. Profesor Titular e Investigador del Centro de Investigación en Educación en Contexto Indígena e Intercultural (CIECII) de la UCT. Investigador Asociado del Centre Interuniversitaire d’Études et de Recherches Autochtones (CIÉRA) de l’Université Laval et collaborateur-chercheur dans l’Équipe de développement et de recherche d’actions collaboratives en contexte éducatif autochtone (L’ÉDRACCÉA), de l’UQAT, Québec-Canada.

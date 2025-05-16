@@ -1,14 +1,14 @@
 ---
 name: "Desafíos de la educación intercultural bilingüe en la interrelación de lengua, cultura y cognición"
 title: "Desafíos de la educación intercultural bilingüe en la interrelación de lengua, cultura y cognición"
-autores: ["Katerin Arias", "Carlo Previl"]
+autores: ["Katerin Arias-Ortega", "Carlo Previl"]
 venue: "Cadernos de Linguagem e Sociedade"
 tipo: "Revista"
 categories: 2023
 keywords: ["2023", "Cadernos de Linguagem e Sociedade", "Educación Intercultural Bilingüe", "Lengua", "Cultura", "Cognición", "Lengua Indígena", "Bilingüismo"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2023_KARIAS/ART_7_LEN_CUL_COG_ARIAS_SCOPUS_2023.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.2 >}}   
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias-Ortega.qmd), {{< meta autores.2 >}}   
 **Lugar de publicación**: {{< meta venue >}}    
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}, {{< meta keywords.7 >}}, {{< meta keywords.8 >}}    
 **Pre-print**: [PDF](../{{< meta preprint >}})    

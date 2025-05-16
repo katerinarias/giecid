@@ -1,14 +1,14 @@
 ---
 name: "Discriminación percibida entre profesor y educador tradicional en la educación intercultural en La Araucanía, Chile"
 title: "Discriminación percibida entre profesor y educador tradicional en la educación intercultural en La Araucanía, Chile"
-autores: ["Katerin Arias", "Gerardo Muñoz", "Segundo Quintriqueo"]
+autores: ["Katerin Arias-Ortega", "Gerardo Muñoz", "Segundo Quintriqueo Millán"]
 venue: "Educ. Pesqui." 
 tipo: "Revista"
 categories: 2023
 keywords: ["2023", "Educ. Pesqui.", "Educación intercultural", "Relación educativa", "Discriminación"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2023_KARIAS/ART_ 1_ Discriminacion Percibida_Arias_2023_SCOPUS.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.2 >}}, [{{< meta autores.3 >}}](../members/current/Segundo Quintriqueo.qmd)  
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias-Ortega.qmd), {{< meta autores.2 >}}, [{{< meta autores.3 >}}](../members/current/Segundo Quintriqueo Millán.qmd)  
 **Lugar de publicación**: {{< meta venue >}}     
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}  
 **Pre-print**: [PDF](../{{< meta preprint >}})    

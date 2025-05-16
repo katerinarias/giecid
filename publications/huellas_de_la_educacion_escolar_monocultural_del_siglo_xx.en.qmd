@@ -1,14 +1,14 @@
 ---
 name: "Huellas de la Educación Escolar Monocultural del Siglo XX: Desde las Voces de Sabios y Sabias Mapuches en la Araucanía, Chile"
 title: "Huellas de la Educación Escolar Monocultural del Siglo XX: Desde las Voces de Sabios y Sabias Mapuches en la Araucanía, Chile"
-autores: ["Katerin Arias", "Andrea Valenzuela", "Carlo Prévil"]
+autores: ["Katerin Arias-Ortega", "Andrea Valenzuela", "Carlo Prévil"]
 venue: "Diálogo Andino"
 tipo: "Revista"
 categories: 2024
 keywords: ["2024", "Diálogo Andino", "Escuela", "Monoculturalidad", "Educación Escolar", "Estudiantes Indígenas"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2024_KARIAS/ART_10_DIALOGO ANDINO_ARIAS ET AL_2024_SCOPUS.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.2 >}}, {{< meta autores.3 >}}    
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias-Ortega.qmd), {{< meta autores.2 >}}, {{< meta autores.3 >}}    
 **Lugar de publicación**: {{< meta venue >}}     
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}    
 **Pre-print**: [PDF](../{{< meta preprint >}})    

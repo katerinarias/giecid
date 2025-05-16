@@ -1,14 +1,14 @@
 ---
 name: "Desafíos de la educación emocional en el sistema educativo escolar chileno"
 title: "Desafíos de la educación emocional en el sistema educativo escolar chileno" 
-autores: ["Camila Fernández", "Camila Tripailaf", "Katerin Arias"]
+autores: ["Camila Fernández", "Camila Tripailaf", "Katerin Arias-Ortega"]
 venue: "RMIE"
 tipo: "Revista"
 categories: 2022
 keywords: ["2022", "REXE", "Currículum Escolar", "Educación Emocional", "Enseñanza y Aprendizaje"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2022_KARIAS/ART_14_REXE_TRIPAILAF_ET AL_2022_SCIELO.pdf"
 ---
-**Autores**: {{< meta autores.1 >}}, {{< meta autores.2 >}}, [{{< meta autores.3 >}}](../members/current/Katerin Arias.qmd)  
+**Autores**: {{< meta autores.1 >}}, {{< meta autores.2 >}}, [{{< meta autores.3 >}}](../members/current/Katerin Arias-Ortega.qmd)  
 **Lugar de publicación**: {{< meta venue >}}     
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}  
 **Pre-print**: [PDF](../{{< meta preprint >}})    
@@ -18,7 +18,7 @@ preprint: "pdfs/productividad/PRODUCTIVIDAD_2022_KARIAS/ART_14_REXE_TRIPAILAF_ET
 **BibTeX**:
 ```bibtex
 @article{arias2022docencia,
-  author = {Arias, Katerin and del Pino, Miguel and Muñoz, Gerardo},
+  author = {Arias, Katerin and Del Pino, Miguel and Muñoz, Gerardo},
   title = {{< meta title >}},
   journal = {{< meta venue >}},
   year = {{< meta categories.1 >}},

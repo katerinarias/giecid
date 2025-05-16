@@ -1,14 +1,14 @@
 ---
 name: "Perspectiva decolonial de la evaluación escolar en contexto de diversidad social y cultural"
 title: "Perspectiva decolonial de la evaluación escolar en contexto de diversidad social y cultural"
-autores: ["Lázaro Blanco", "Katerin Arias"]
+autores: ["Lázaro Blanco", "Katerin Arias-Ortega"]
 venue: "Perfiles Educativos"
 tipo: "Revista"
 categories: 2022
 keywords: ["2022", "Perfiles Educativos", "Decolonialidad", "Evaluación escolar", "Diversidad social y cultural", "Evaluación dialógica", "Contexto indígena", "Comunicación oral"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2022_KARIAS/ART_6_ PERFILES EDUCATIVOS_BLANCO_ARIAS_2022_SCOPUS.pdf"
 ---
-**Autores**: {{< meta autores.1 >}}, [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd)  
+**Autores**: {{< meta autores.1 >}}, [{{< meta autores.2 >}}](../members/current/Katerin Arias-Ortega.qmd)  
 **Lugar de publicación**: {{< meta venue >}}     
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}, {{< meta keywords.7 >}}, {{< meta keywords.8 >}}  
 **Pre-print**: [PDF](../{{< meta preprint >}})    

@@ -4,12 +4,13 @@ title: "Sentido de la escuela y la educación escolar en contexto indígena: bas
 financiamiento: "ANID"
 start-year: "2020"
 end-year: "2023"
-autores: ["Katerin Arias"]
-role: "Investigador responsable"
+autores: ["Katerin Arias-Ortega"]
+role: "Investigadora Responsable"
 code: ""
 ---
-**Investigador Responsable**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd)  
-**Fuente de Financiamiento**: {{< meta financiamiento >}}  
-**Período de ejecución**: {{< meta start-year >}} - {{< meta end-year >}}  
-<!-- **Rol en el Proyecto**: {{< meta role >}}   -->
-**Código del Proyecto**: {{< meta code >}} 
+**Chercheur Principal**: [{{< meta autores.1 >}}](../members/current/Katerin Arias-Ortega.qmd)  
+**Membres**:  
+  - [{{< meta autores.1 >}}](../members/current/Katerin Arias-Ortega.qmd) (Chercheuse Principale)  
+**Source de Financement**: {{< meta financiamiento >}}  
+**Période d'exécution**: {{< meta start-year >}} - {{< meta end-year >}}  
+**Code du Projet**: {{< meta code >}} 

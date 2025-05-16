@@ -1,14 +1,14 @@
 ---
 name: "Voces de educadores tradicionales mapuches sobre la educación intercultural en La Araucanía, Chile"
 title: "Voces de educadores tradicionales mapuches sobre la educación intercultural en La Araucanía, Chile" 
-autores: ["Katerin Arias"]
+autores: ["Katerin Arias-Ortega"]
 venue: "Diálogo Andino"
 tipo: "Revista"
 categories: 2022
 keywords: ["2022", "Diálogo Andino", "Educación Intercultural", "Lengua y Cultura Mapuche", "Educación Escolar"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2022_KARIAS/ART_8_Arias-Ortega_Dialogo Andino_scopus_2022.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd)  
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias-Ortega.qmd)  
 **Lugar de publicación**: {{< meta venue >}}     
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}  
 **Pre-print**: [PDF](../{{< meta preprint >}})    

@@ -1,7 +1,7 @@
 ---
 name: "Saberes y Conocimientos Indígenas para Repensar la Educación Científica en la Escuela"
 title: "Saberes y Conocimientos Indígenas para Repensar la Educación Científica en la Escuela"
-autores: ["Viviana Villarroel", "Katerin Arias"]
+autores: ["Viviana Villarroel Cárdenas", "Katerin Arias-Ortega"]
 libro: "Educación Científica: Investigaciones e Innovaciones en las Aulas Chilenas"
 capitulo: "12"
 tipo: "Capítulo de Libro"
@@ -9,7 +9,7 @@ categories: 2023
 keywords: ["2023", "Capítulo de Libro", "Conocimiento Autóctono", "Conocimiento Científico", "Educación Intercultural"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2023_KARIAS/cap_Libro_Género y educación_Villarroel_Arias_2023.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Viviana Villarroel.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd)    
+**Autores**: [{{< meta autores.1 >}}](../members/current/Viviana Villarroel Cárdenas.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias-Ortega.qmd)    
 **Libro**: {{< meta libro >}}   
 **Capítulo**: {{< meta capitulo >}}   
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}    

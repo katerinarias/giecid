@@ -1,14 +1,14 @@
 ---
 name: "Deconstrucción de la concepción de ‘indio’: un desafío pendiente en La Araucanía, Chile"
 title: "Deconstrucción de la concepción de ‘indio’: un desafío pendiente en La Araucanía, Chile"
-autores: ["Viviana Villarroel", "Katerin Arias", "Segundo Quintriqueo"]
+autores: ["Viviana Villarroel Cárdenas", "Katerin Arias-Ortega", "Segundo Quintriqueo Millán"]
 venue: "Revista de Ciências Sociais"
 tipo: "Revista"
 categories: 2023
 keywords: ["2023", "Revista de Ciências Sociais", "Indio", "Pueblos Indígenas", "Discriminación", "Racismo"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2023_KARIAS/ART_11_CIVITAS_VILLARROEL_ARIAS_SCOPUS_2023.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Viviana Villarroel.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd), [{{< meta autores.3 >}}](../members/current/Segundo Quintriqueo.qmd)   
+**Autores**: [{{< meta autores.1 >}}](../members/current/Viviana Villarroel Cárdenas.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias-Ortega.qmd), [{{< meta autores.3 >}}](../members/current/Segundo Quintriqueo Millán.qmd)   
 **Lugar de publicación**: {{< meta venue >}}    
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}    
 **Pre-print**: [PDF](../{{< meta preprint >}})    

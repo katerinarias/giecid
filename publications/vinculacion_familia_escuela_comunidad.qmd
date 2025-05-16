@@ -1,14 +1,14 @@
 ---
 name: "Vinculación familia-escuela-comunidad: una necesidad para la educación intercultural en infancia"
 title: "Vinculación familia-escuela-comunidad: una necesidad para la educación intercultural en infancia" 
-autores: ["Soledad Morales", "Segundo Quintriqueo", "Katerin Arias", "Viviana Zapata"]
+autores: ["Soledad Morales", "Segundo Quintriqueo Millán", "Katerin Arias-Ortega", "Viviana Zapata"]
 venue: "CUHSO"
 tipo: "Revista"
 categories: 2022
 keywords: ["2022", "CUHSO", "Infancia", "Interculturalidad", "Vinculación Familia-Escuela-Comunidad"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2022_KARIAS/ART_10_Vinculacion familia_escuela_comunidad Morales_Arias_otros_ 2022SCIELO.pdf"
 ---
-**Autores**: {{< meta autores.1 >}}, [{{< meta autores.2 >}}](../members/current/Segundo Quintriqueo.qmd), [{{< meta autores.3 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.4 >}}  
+**Autores**: {{< meta autores.1 >}}, [{{< meta autores.2 >}}](../members/current/Segundo Quintriqueo Millán.qmd), [{{< meta autores.3 >}}](../members/current/Katerin Arias-Ortega.qmd), {{< meta autores.4 >}}  
 **Lugar de publicación**: {{< meta venue >}}     
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}  
 **Pre-print**: [PDF](../{{< meta preprint >}})    

@@ -4,11 +4,11 @@ title: "Projet de Laboratoire d'études, de recherche et de didactique de l'univ
 financiamiento: "Projet de Laboratoire d'études, de recherche et de didactique de l'univers socioterritorial. (LERDUS)"
 start-year: "2022"
 end-year: "2025"
-autores: ["Katerin Arias"]
+autores: ["Katerin Arias-Ortega"]
 role: "Co-Investigadora"
 code: ""
 ---
-**Investigador Responsable**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd)  
+**Investigador Responsable**: [{{< meta autores.1 >}}](../members/current/Katerin Arias-Ortega.qmd)  
 **Fuente de Financiamiento**: {{< meta financiamiento >}}  
 **Período de ejecución**: {{< meta start-year >}} - {{< meta end-year >}}  
 <!-- **Rol en el Proyecto**: {{< meta role >}}   -->

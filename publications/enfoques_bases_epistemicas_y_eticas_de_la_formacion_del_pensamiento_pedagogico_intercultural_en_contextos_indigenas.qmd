@@ -1,14 +1,14 @@
 ---
 name: "Enfoques, bases epistémicas y éticas de la formación del pensamiento pedagógico intercultural en contextos indígenas"
 title: "Enfoques, bases epistémicas y éticas de la formación del pensamiento pedagógico intercultural en contextos indígenas"
-autores: ["Lazaro Blanco", "Katerin Arias"]
+autores: ["Lazaro Blanco", "Katerin Arias-Ortega"]
 venue: "Formación Universitaria"
 tipo: "Revista"
 categories: 2022
 keywords: ["2022", "Formación Universitaria", "Pensamiento Pedagógico", "Educación Intercultural", "Formación Inicial Docente"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2022_KARIAS/ART_4_Enfoques_FORMACION UNIVERSITARIA_Lazaro_Arias_2022_SCOPUS.pdf"
 ---
-**Autores**: {{< meta autores.1 >}}, [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd)  
+**Autores**: {{< meta autores.1 >}}, [{{< meta autores.2 >}}](../members/current/Katerin Arias-Ortega.qmd)  
 **Lugar de publicación**: {{< meta venue >}}     
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}  
 **Pre-print**: [PDF](../{{< meta preprint >}})    

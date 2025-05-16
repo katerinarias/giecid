@@ -1,14 +1,14 @@
 ---
 name: "Desafíos de la co-construcción de un Modelo de Intervención Educativa Intercultural en Contexto Indígeno"
 title: "Desafíos de la co-construcción de un Modelo de Intervención Educativa Intercultural en Contexto Indígeno"
-autores: ["Segundo Quintriqueo", "Daniel Quilaqueo"]
+autores: ["Segundo Quintriqueo Millán", "Daniel Quilaqueo"]
 libro: "Desafíos de la co-construcción de un Modelo de Intervención Educativa Intercultural en Contexto Indígeno"
 tipo: "Libro"
 categories: 2019
 keywords: ["2019", "Libro", "Educación Intercultural"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2019_KARIAS/Libro-Desafíos-de-la-Co-contrucción...FONDEF-2019.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Segundo Quintriqueo.qmd), {{< meta autores.2 >}}    
+**Autores**: [{{< meta autores.1 >}}](../members/current/Segundo Quintriqueo Millán.qmd), {{< meta autores.2 >}}    
 **Libro**: {{< meta libro >}}     
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}   
 **Pre-print**: [PDF](../{{< meta preprint >}})    

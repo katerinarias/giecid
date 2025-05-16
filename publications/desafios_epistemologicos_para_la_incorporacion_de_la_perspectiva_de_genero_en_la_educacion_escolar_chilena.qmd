@@ -1,7 +1,7 @@
 ---
 name: "Desafíos epistemológicos para la incorporación de la perspectiva de género en la educación escolar chilena"
 title: "Desafíos epistemológicos para la incorporación de la perspectiva de género en la educación escolar chilena"
-autores: ["Viviana Villarroel", "Katerin Arias", "Cristhina González"]
+autores: ["Viviana Villarroel Cárdenas", "Katerin Arias-Ortega", "Cristhina González"]
 libro: "Género y educación: Reflexiones para la igualdad en tiempos de crisis"
 capitulo: "0"
 tipo: "Capítulo de Libro"
@@ -9,7 +9,7 @@ categories: 2023
 keywords: ["2023", "Capítulo de Libro"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2023_KARIAS/cap_Libro_Género y educación_Villarroel_Arias_2023.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Viviana Villarroel.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.3 >}}    
+**Autores**: [{{< meta autores.1 >}}](../members/current/Viviana Villarroel Cárdenas.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias-Ortega.qmd), {{< meta autores.3 >}}    
 **Libro**: {{< meta libro >}}   
 **Capítulo**: {{< meta capitulo >}}   
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}    

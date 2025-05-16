@@ -1,14 +1,14 @@
 ---
 name: "Principios de la Pedagogía y Educación Indígena como Base para Implementar la Educación Intercultural Bilingüe"
 title: "Principios de la Pedagogía y Educación Indígena como Base para Implementar la Educación Intercultural Bilingüe"
-autores: ["Segundo Quintriqueo", "Gerardo Muñoz", "Katerin Arias", "Soledad Morales", "Elías Andrade", "Viviana Zapata"]
+autores: ["Segundo Quintriqueo Millán", "Gerardo Muñoz", "Katerin Arias-Ortega", "Soledad Morales", "Elías Andrade", "Viviana Zapata"]
 venue: "Revista Internacional de Educación para la Justicia Social"
 tipo: "Revista"
 categories: 2023
 keywords: ["2023", "Revista Internacional de Educación para la Justicia Social", "Pedagogía", "Educación Indígena", "Bilingüismo", "Descolonización", "Justicia Social"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2023_KARIAS/ART_13_RIEJS_SCOPUS.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Segundo Quintriqueo.qmd), {{< meta autores.2 >}}, [{{< meta autores.3 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.4 >}}, {{< meta autores.5 >}}, {{< meta autores.6 >}}   
+**Autores**: [{{< meta autores.1 >}}](../members/current/Segundo Quintriqueo Millán.qmd), {{< meta autores.2 >}}, [{{< meta autores.3 >}}](../members/current/Katerin Arias-Ortega.qmd), {{< meta autores.4 >}}, {{< meta autores.5 >}}, {{< meta autores.6 >}}   
 **Lugar de publicación**: {{< meta venue >}}    
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}, {{< meta keywords.7 >}}    
 **Pre-print**: [PDF](../{{< meta preprint >}})    

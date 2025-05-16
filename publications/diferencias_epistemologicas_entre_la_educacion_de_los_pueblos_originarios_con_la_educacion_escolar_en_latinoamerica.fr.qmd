@@ -1,7 +1,7 @@
 ---
 name: "Diferencias Epistemológicas entre la Educación de los Pueblos Originarios con la Educación Escolar en Latinoamérica"
 title: "Diferencias Epistemológicas entre la Educación de los Pueblos Originarios con la Educación Escolar en Latinoamérica"
-autores: ["Gerardo Fuentes", "Segundo Quintriqueo"]
+autores: ["Gerardo Fuentes", "Segundo Quintriqueo Millán"]
 libro: "Prácticas pedagógicas y educación intercultural: desafíos epistemológicos para la escolaridad en contextos indígenas"
 capitulo: "1"
 tipo: "Capítulo de Libro"
@@ -9,7 +9,7 @@ categories: 2023
 keywords: ["2023", "Capítulo de Libro", "Epistemología", "Interculturalidad", "Educación Intercultural", "Educación Indígena", "Educación Intercultural Bilingüe"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2023_KARIAS/CAP_LIBRO_ARIAS_VILLARROEL_2023.pdf"
 ---
-**Autores**: {{< meta autores.1 >}}, [{{< meta autores.2 >}}](../members/current/Segundo Quintriqueo.qmd)    
+**Autores**: {{< meta autores.1 >}}, [{{< meta autores.2 >}}](../members/current/Segundo Quintriqueo Millán.qmd)    
 **Libro**: {{< meta libro >}}   
 **Capítulo**: {{< meta capitulo >}}   
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}, {{< meta keywords.7 >}}    

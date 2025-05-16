@@ -1,14 +1,14 @@
 ---
 name: "Evaluación continua del profesorado: ética intercultural para una educación con pertinencia sociocultural indígena"
 title: "Evaluación continua del profesorado: ética intercultural para una educación con pertinencia sociocultural indígena"
-autores: ["Susana Oñate", "Katerin Arias"]
+autores: ["Susana Oñate", "Katerin Arias-Ortega"]
 venue: "Meta: Avaliação"
 tipo: "Revista"
 categories: 2023
 keywords: ["2023", "Meta: Avaliação", "Evaluación", "Profesorado", "Educación Intercultural", "Ética Intercultural", "Discriminación"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2023_KARIAS/ART_10_REVMETA_OÑATE_ARIAS_SCOPUS_2023.pdf"
 ---
-**Autores**: {{< meta autores.1 >}}, [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd)   
+**Autores**: {{< meta autores.1 >}}, [{{< meta autores.2 >}}](../members/current/Katerin Arias-Ortega.qmd)   
 **Lugar de publicación**: {{< meta venue >}}    
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}, {{< meta keywords.7 >}}    
 **Pre-print**: [PDF](../{{< meta preprint >}})    

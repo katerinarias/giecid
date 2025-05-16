@@ -1,14 +1,14 @@
 ---
 name: "Relación educativa entre profesor y educador tradicional en la educación intercultural bilingüe"
 title: "Relación educativa entre profesor y educador tradicional en la educación intercultural bilingüe"
-autores: ["Katerin Arias", "Segundo Quintriqueo"]
+autores: ["Katerin Arias-Ortega", "Segundo Quintriqueo Millán"]
 venue: "redie"
 tipo: "Revista"
 categories: 2021
 keywords: ["2021", "redie", "Relaciones Interétnicas", "Conocimientos Tradicionales", "Métodos Educativos"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2021_KARIAS/ART_N°1_ARIAS-ORTEGA Y QUINTRIQUEO_REDIE_2021_SCOPUS.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), [{{< meta autores.2 >}}](../members/current/Segundo Quintriqueo.qmd)    
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias-Ortega.qmd), [{{< meta autores.2 >}}](../members/current/Segundo Quintriqueo Millán.qmd)    
 **Lugar de publicación**: {{< meta venue >}}     
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}    
 **Pre-print**: [PDF](../{{< meta preprint >}})    

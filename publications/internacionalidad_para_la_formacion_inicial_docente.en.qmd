@@ -1,14 +1,14 @@
 ---
 name: "Interculturalidad para la Formación Inicial Docente: Desafíos para construir un diálogo intercultural"
 title: "Interculturalidad para la Formación Inicial Docente: Desafíos para construir un diálogo intercultural"
-autores: ["Segundo Quintriqueo", "Soledad Morales", "Daniel Quilaqueo", "Katerin Arias"]
+autores: ["Segundo Quintriqueo Millán", "Soledad Morales", "Daniel Quilaqueo", "Katerin Arias-Ortega"]
 libro: "Interculturalidad para la Formación Inicial Docente: Desafíos para construir un diálogo intercultural"
 tipo: "Libro"
 categories: 2016
 keywords: ["2016", "Libro", "Formación Docente", "Interculturalidad"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2016_KARIAS/Libro-Interculturalidad-formacion-docente-UCT.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Segundo Quintriqueo.qmd), {{< meta autores.2 >}}, {{< meta autores.3 >}},[{{< meta autores.4 >}}](../members/current/Katerin Arias.qmd)  
+**Autores**: [{{< meta autores.1 >}}](../members/current/Segundo Quintriqueo Millán.qmd), {{< meta autores.2 >}}, {{< meta autores.3 >}},[{{< meta autores.4 >}}](../members/current/Katerin Arias-Ortega.qmd)  
 **Libro**: {{< meta libro >}}   
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}    
 **Pre-print**: [PDF](../{{< meta preprint >}})    

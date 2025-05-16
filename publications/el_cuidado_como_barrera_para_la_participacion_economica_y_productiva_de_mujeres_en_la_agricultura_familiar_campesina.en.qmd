@@ -1,14 +1,14 @@
 ---
 name: "El cuidado como barrera para la participación económica y productiva de mujeres en la agricultura familiar campesina. Estudio bibliográfico de las políticas de desarrollo rural en Chile"
 title: "El cuidado como barrera para la participación económica y productiva de mujeres en la agricultura familiar campesina. Estudio bibliográfico de las políticas de desarrollo rural en Chile"
-autores: ["Gloria Mora", "Jorge Constanzo", "Katerin Arias", "Alejandra Millahual", "Fernanda Herrera"]
+autores: ["Gloria Mora", "Jorge Constanzo", "Katerin Arias-Ortega", "Alejandra Millahual", "Fernanda Herrera"]
 venue: "Cuadernos de Desarrollo Rural"
 tipo: "Revista"
 categories: 2021
 keywords: ["2021", "Cuadernos de Desarrollo Rural", "Cuidado", "Agricultura Familiar Campesina", "Género", "Políticas Públicas", "Chile"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2021_KARIAS/ART_N9_OTRO_ARIAS_CADERNO DESARROLLO RURAL_WOS_2021.pdf"
 ---
-**Autores**: {{< meta autores.1 >}}, {{< meta autores.2 >}}, [{{< meta autores.3 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.4 >}}, {{< meta autores.5 >}}    
+**Autores**: {{< meta autores.1 >}}, {{< meta autores.2 >}}, [{{< meta autores.3 >}}](../members/current/Katerin Arias-Ortega.qmd), {{< meta autores.4 >}}, {{< meta autores.5 >}}    
 **Lugar de publicación**: {{< meta venue >}}     
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}, {{< meta keywords.7 >}}  
 **Pre-print**: [PDF](../{{< meta preprint >}})    

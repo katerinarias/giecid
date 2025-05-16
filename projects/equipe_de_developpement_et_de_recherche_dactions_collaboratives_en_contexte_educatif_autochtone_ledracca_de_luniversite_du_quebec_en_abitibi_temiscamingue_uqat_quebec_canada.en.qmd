@@ -4,11 +4,11 @@ title: "Équipe de développement et de recherche d'actions collaboratives en co
 financiamiento: "Subvention du Fonds de recherche du Québec – Société et culture (FRQSC)."
 start-year: "2021"
 end-year: "2025"
-autores: ["Katerin Arias"]
+autores: ["Katerin Arias-Ortega"]
 role: "Co-Investigadora"
 code: ""
 ---
-**Investigador Responsable**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd)  
+**Investigador Responsable**: [{{< meta autores.1 >}}](../members/current/Katerin Arias-Ortega.qmd)  
 **Fuente de Financiamiento**: {{< meta financiamiento >}}  
 **Período de ejecución**: {{< meta start-year >}} - {{< meta end-year >}}  
 <!-- **Rol en el Proyecto**: {{< meta role >}}   -->

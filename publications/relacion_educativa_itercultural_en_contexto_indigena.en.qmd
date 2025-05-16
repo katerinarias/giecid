@@ -1,14 +1,14 @@
 ---
 name: "Relación Educativa Intercultural en Contexto Indígena: Desafíos Epistemológicos en la Escuela Actual"
 title: "Relación Educativa Intercultural en Contexto Indígena: Desafíos Epistemológicos en la Escuela Actual"
-autores: ["Katerin Arias", "Lázaro Blanco"]
+autores: ["Katerin Arias-Ortega", "Lázaro Blanco"]
 venue: "Revista Portuguesa de Educação"
 tipo: "Revista"
 categories: 2024
 keywords: ["2024", "Revista Portuguesa de Educação", "Relación Educativa", "Enfoque Educativo Intercultural", "Interculturalidad"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2024_KARIAS/ART_13_PORTUGUESA_EDUC_ARIAS ET AL_2024_SCOPUS.pdf"
 ---
-**Autores**: {{< meta autores.1 >}}, [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd)
+**Autores**: {{< meta autores.1 >}}, [{{< meta autores.2 >}}](../members/current/Katerin Arias-Ortega.qmd)
 **Lugar de publicación**: {{< meta venue >}}     
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}    
 **Pre-print**: [PDF](../{{< meta preprint >}})    

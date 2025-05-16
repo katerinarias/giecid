@@ -1,14 +1,14 @@
 ---
 name: "Sobrecarga de trabajo en tiempos de pandemia: percepción de madres de La Araucanía, Chile"
 title: "Sobrecarga de trabajo en tiempos de pandemia: percepción de madres de La Araucanía, Chile"
-autores: ["Katerin Arias", "Bárbara Pinto", "Carol Martínez", "María Rodríguez", "Yanira Benítez"]
+autores: ["Katerin Arias-Ortega", "Bárbara Pinto", "Carol Martínez", "María Rodríguez", "Yanira Benítez"]
 venue: "Revista Colombiana de Sociología" 
 tipo: "Revista"
 categories: 2023
 keywords: ["2023", "Revista Colombiana de Sociología", "COVID-19", "Enfoque de Género", "Economía del Cuidado", "Mujeres", "Pandemia", "Sobrecarga Laboral"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2023_KARIAS/ART_2_Sobrecarga de trabajo en tiempos de pandemia_ARIAS_2023_SCOPUS.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.2 >}}, {{< meta autores.3 >}}, {{< meta autores.4 >}}, {{< meta autores.5 >}}  
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias-Ortega.qmd), {{< meta autores.2 >}}, {{< meta autores.3 >}}, {{< meta autores.4 >}}, {{< meta autores.5 >}}  
 **Lugar de publicación**: {{< meta venue >}}     
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}, {{< meta keywords.7 >}}, {{< meta keywords.8 >}}  
 **Pre-print**: [PDF](../{{< meta preprint >}})    

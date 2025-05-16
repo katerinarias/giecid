@@ -1,14 +1,14 @@
 ---
 name: "Transitar hacia prácticas educativas desde un enfoque educativo intercultural en La Araucanía, Chile"
 title: "Transitar hacia prácticas educativas desde un enfoque educativo intercultural en La Araucanía, Chile"
-autores: ["Segundo Quintriqueo", "Katerin Arias", "Vanessa Valdebenito", "Soledad Morales", "Carolina Villagra"]
+autores: ["Segundo Quintriqueo Millán", "Katerin Arias-Ortega", "Vanessa Valdebenito", "Soledad Morales", "Carolina Villagra"]
 venue: "Educ. Pesqui."
 tipo: "Revista"
 categories: 2024
 keywords: ["2024", "Educ. Pesqui.", "Escolarización", "Aprendizaje en Contexto Indígena", "Educación Intercultural", "Conocimientos Indígenas"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2024_KARIAS/ART_12_EDUCACO_PESQUISA_ARIAS_ORTEGA_2024_SCOPUS.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Segundo Quintriqueo.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.3 >}}, {{< meta autores.4 >}}, {{< meta autores.5 >}}
+**Autores**: [{{< meta autores.1 >}}](../members/current/Segundo Quintriqueo Millán.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias-Ortega.qmd), {{< meta autores.3 >}}, {{< meta autores.4 >}}, {{< meta autores.5 >}}
 **Lugar de publicación**: {{< meta venue >}}     
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}    
 **Pre-print**: [PDF](../{{< meta preprint >}})    

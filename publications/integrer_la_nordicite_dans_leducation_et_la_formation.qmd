@@ -1,14 +1,14 @@
 ---
 name: "Intégrer la nordicité dans l'éducation et la formation: exploration d'enjeux"
 title: "Intégrer la nordicité dans l'éducation et la formation: exploration d'enjeux"
-autores: ["Carlo Prévil", "Katerin Arias-Ortega"]
+autores: ["Carlo Prévil", "Katerin Arias-Ortega-Ortega"]
 venue: "Congrès d'Études Inuit 2019"
 tipo: "Revista"
 categories: 2021
 keywords: ["2021", "Congrès d'Études Inuit"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2021_KARIAS/ART_N°7_ OTRO Y ARIAS-ORTEGA_Cap_ libro_2021_REFERATO EXTERNO_CANADA.pdf"
 ---
-**Autores**: {{< meta autores.1 >}}, [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd)    
+**Autores**: {{< meta autores.1 >}}, [{{< meta autores.2 >}}](../members/current/Katerin Arias-Ortega.qmd)    
 **Lugar de publicación**: {{< meta venue >}}     
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}  
 **Pre-print**: [PDF](../{{< meta preprint >}})    

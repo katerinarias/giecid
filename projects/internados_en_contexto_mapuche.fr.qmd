@@ -4,12 +4,16 @@ title: "Internados en Contexto Mapuche: Aportes para el Bienestar y Desarrollo d
 financiamiento: "ANID"
 start-year: "2024"
 end-year: "2027"
-autores: ["Katerin Arias"]
-role: "Investigadora"
+autores: ["Katerin Arias-Ortega", "Viviana Villarroel Cárdenas", "Miguel Del Pino Sepúlveda", "Segundo Quintriqueo Millán"]
+role: "Investigadora Responsable"
 code: ""
 ---
-**Investigador Responsable**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd)  
-**Fuente de Financiamiento**: {{< meta financiamiento >}}  
-**Período de ejecución**: {{< meta start-year >}} - {{< meta end-year >}}  
-<!-- **Rol en el Proyecto**: {{< meta role >}}   -->
-**Código del Proyecto**: {{< meta code >}}  
+**Chercheur Principal**: [{{< meta autores.1 >}}](../members/current/Katerin Arias-Ortega.qmd)  
+**Membres**:  
+  - [{{< meta autores.1 >}}](../members/current/Katerin Arias-Ortega.qmd) (Chercheuse Principale)  
+  - [{{< meta autores.2 >}}](../members/current/Viviana Villarroel Cárdenas.qmd) (Co-chercheuse)  
+  - [{{< meta autores.3 >}}](../members/current/Miguel Del Pino Sepúlveda.qmd) (Co-chercheur)  
+  - [{{< meta autores.4 >}}](../members/current/Segundo Quintriqueo Millán.qmd) (Co-chercheur)  
+**Source de Financement**: {{< meta financiamiento >}}  
+**Période d'exécution**: {{< meta start-year >}} - {{< meta end-year >}}  
+**Code du Projet**: {{< meta code >}}  

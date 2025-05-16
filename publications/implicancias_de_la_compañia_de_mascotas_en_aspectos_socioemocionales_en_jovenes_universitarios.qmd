@@ -1,14 +1,14 @@
 ---
 name: "Implicancias de la Compañía de Mascotas en Aspectos Socioemocionales en Jóvenes Universitarios"
 title: "Implicancias de la Compañía de Mascotas en Aspectos Socioemocionales en Jóvenes Universitarios"
-autores: ["Claudia Andrades", "Enoc Calfulaf", "Sebastián Caniumil", "Edwards Toloza", "Katerin Arias"]
+autores: ["Claudia Andrades", "Enoc Calfulaf", "Sebastián Caniumil", "Edwards Toloza", "Katerin Arias-Ortega"]
 venue: "Revista Puertorriqueña de Psicología"
 tipo: "Revista"
 categories: 2024
 keywords: ["2024", "Revista Puertorriqueña de Psicología", "Bienestar Subjetivo", "Vínculo Afectivo", "Vínculo Humano-Mascota", "Estudiantes Universitarios", "Educación Superior"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2024_KARIAS/ART_5_REV_PUERTORIQUEÑA_PSIC_CALFULAF_ET AL_2024_ OTRAS REVISTAS.pdf"
 ---
-**Autores**: {{< meta autores.1 >}}, [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.3 >}}, {{< meta autores.4 >}}, {{< meta autores.5 >}}    
+**Autores**: {{< meta autores.1 >}}, [{{< meta autores.2 >}}](../members/current/Katerin Arias-Ortega.qmd), {{< meta autores.3 >}}, {{< meta autores.4 >}}, {{< meta autores.5 >}}    
 **Lugar de publicación**: {{< meta venue >}}     
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}, {{< meta keywords.7 >}}    
 **Pre-print**: [PDF](../{{< meta preprint >}})    

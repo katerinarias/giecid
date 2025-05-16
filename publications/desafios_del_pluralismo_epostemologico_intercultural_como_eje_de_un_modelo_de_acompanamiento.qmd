@@ -1,7 +1,7 @@
 ---
 name: "Desafíos del pluralismo epistemológico intercultural como eje de un modelo de acompañamiento"
 title: "Desafíos del pluralismo epistemológico intercultural como eje de un modelo de acompañamiento"
-autores: ["Segundo Quintriqueo", "Katerin Arias", "Sonia Salas-Salinas"]
+autores: ["Segundo Quintriqueo Millán", "Katerin Arias-Ortega", "Sonia Salas-Salinas"]
 libro: "Lineamientos estrategicos para la Implementación de la Educación Intercultural desde un Modelo de Acompañamiento"
 capitulo: "9"
 tipo: "Capítulo de Libro"
@@ -9,7 +9,7 @@ categories: 2024
 keywords: ["2024", "Libro", "Pluralismo Epistemológico", "Educación Intercultural", "Modelo de Acompañamiento", "Contexto de Colonización"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2024_KARIAS/Cap_libro_5Arias-Ortega_2024_Referato.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Segundo Quintriqueo.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.3 >}}    
+**Autores**: [{{< meta autores.1 >}}](../members/current/Segundo Quintriqueo Millán.qmd), [{{< meta autores.2 >}}](../members/current/Katerin Arias-Ortega.qmd), {{< meta autores.3 >}}    
 **Libro**: {{< meta libro >}}   
 **Capítulo**: {{< meta capitulo >}}   
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}    

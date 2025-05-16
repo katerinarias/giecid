@@ -1,14 +1,14 @@
 ---
 name: "Educación preescolar en contexto rural:una revisión documental de las políticaspúblicas en Chile"
 title: "Educación preescolar en contexto rural:una revisión documental de las políticaspúblicas en Chile"
-autores: ["Gloria Mora", "Jorge Constanzo", "Katerin Arias", "Alejandra Millahual"]
+autores: ["Gloria Mora", "Jorge Constanzo", "Katerin Arias-Ortega", "Alejandra Millahual"]
 venue: "Revista Educación"
 tipo: "Revista"
 categories: 2022
 keywords: ["2022", "Revista Educación", "Políticas públicas", "Jardín infantil", "Ruralidad", "Educación parvularia", "Chile"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2022_KARIAS/ART_2_EDUC_PREESCO_RURAL_MORA _ARIAS_2022_SCIELO.pdf"
 ---
-**Autores**: {{< meta autores.1 >}}, {{< meta autores.2 >}}, [{{< meta autores.3 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.4 >}}    
+**Autores**: {{< meta autores.1 >}}, {{< meta autores.2 >}}, [{{< meta autores.3 >}}](../members/current/Katerin Arias-Ortega.qmd), {{< meta autores.4 >}}    
 **Lugar de publicación**: {{< meta venue >}}     
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}, {{< meta keywords.6 >}}, {{< meta keywords.7 >}}     
 **Pre-print**: [PDF](../{{< meta preprint >}})    

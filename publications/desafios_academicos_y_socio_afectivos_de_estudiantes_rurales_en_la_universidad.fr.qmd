@@ -1,14 +1,14 @@
 ---
 name: "Desafíos Académicos y Socio-Afectivos de Estudiantes Rurales en la Universidad"
 title: "Desafíos Académicos y Socio-Afectivos de Estudiantes Rurales en la Universidad"
-autores: ["Katerin Arias", "Tamara Cifuentes", "Francisca Toro", "Leticia Huaiquipan"]
+autores: ["Katerin Arias-Ortega", "Tamara Cifuentes", "Francisca Toro", "Leticia Huaiquipan"]
 venue: "Caderno CrH"
 tipo: "Revista"
 categories: 2024
 keywords: ["2024", "Caderno CrH", "Ruralidad", "Desafíos Académicos", "Desafíos Socio-Afectivos"]
 preprint: "pdfs/productividad/PRODUCTIVIDAD_2024_KARIAS/ART_9 CRH_ARIAS ET AL_2024_SCOPUS.pdf"
 ---
-**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias.qmd), {{< meta autores.2 >}}, {{< meta autores.3 >}}, {{< meta autores.4 >}}    
+**Autores**: [{{< meta autores.1 >}}](../members/current/Katerin Arias-Ortega.qmd), {{< meta autores.2 >}}, {{< meta autores.3 >}}, {{< meta autores.4 >}}    
 **Lugar de publicación**: {{< meta venue >}}     
 **Palabras Claves**: {{< meta keywords.1 >}}, {{< meta keywords.2 >}}, {{< meta keywords.3 >}}, {{< meta keywords.4 >}}, {{< meta keywords.5 >}}    
 **Pre-print**: [PDF](../{{< meta preprint >}})    
