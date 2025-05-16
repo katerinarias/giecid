@@ -39,6 +39,20 @@ div.description {
 body {
   margin: 0;
   font-family: Arial, sans-serif;
+  min-height: 100vh;
+  background-color: #232946;
+  background-image: repeating-linear-gradient(135deg, rgba(255,255,255,0.08) 0px, rgba(255,255,255,0.08) 2px, transparent 2px, transparent 40px);
+  transition: background 0.3s ease;
+}
+
+body.quarto-light {
+  background-color: #e0ecff !important;
+  background-image: repeating-linear-gradient(135deg, rgba(255,255,255,0.3) 0px, rgba(255,255,255,0.3) 2px, transparent 2px, transparent 40px) !important;
+}
+
+body.quarto-dark {
+  background-color: #232946 !important;
+  background-image: repeating-linear-gradient(135deg, rgba(255,255,255,0.08) 0px, rgba(255,255,255,0.08) 2px, transparent 2px, transparent 40px) !important;
 }
 
 .navbar {
@@ -50,11 +64,11 @@ body {
 }
 
 /* Override Bootstrap navbar styles */
-body[data-bs-theme="light"] .navbar.navbar-expand-lg {
+body.quarto-light .navbar.navbar-expand-lg {
   background-color: #ffffff !important;
 }
 
-body[data-bs-theme="dark"] .navbar.navbar-expand-lg {
+body.quarto-dark .navbar.navbar-expand-lg {
   background-color: #333333 !important;
 }
 
